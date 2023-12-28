@@ -1,0 +1,482 @@
+{"id": 4261, "annotations": [{"result": [{"id": "3ffb082e7255453d828e444f071762e7", "value": {"start": 0, "end": 90, "text": "PETITIONER:
+GOPAL & ORS.
+
+Vs.
+
+RESPONDENT:
+STATE OF TAMIL NADU
+
+DATE OF JUDGMENT30/01/1986", "labels": ["PREAMBLE"]}}, {"id": "717bb77a7b4a40fa9f56bf3e93babe01", "value": {"start": 90, "end": 766, "text": "
+
+BENCH:
+RAY, B.C. (J)
+BENCH:
+RAY, B.C. (J)
+ERADI, V. BALAKRISHNA (J)
+
+CITATION:                  1986 SCR (1) 199
+ 1986 AIR 702              1986 SCALE (1)132
+ 1986 SCC (2) 93
+
+ACT:
+         Constitution of India, 1950, Article 136 - Criminal
+
+appeal - Conviction and sentence - Concurrently arrived at
+by trial and Appellate Courts - Interference by Supreme
+Court When arises.
+
+         Practice and Procedure - Sentence - Question of Supreme
+Court - When would interfere.
+
+HEADNOTE:
+         The Mirasdars used to bring labourers from outside for
+
+harvest of paddy from their fields as local labourers were
+reluctant to harvest paddy at the wage of 4 1/2 measures of
+paddy.", "labels": ["PREAMBLE"]}}, {"id": "f49c605092c64c3ba44943cc492a1a42", "value": {"start": 767, "end": 873, "text": "The local labourers were very much aggrieved by this
+bringing of men from outside for harvesting of paddy.", "labels": ["PREAMBLE"]}}, {"id": "057a40200a414dc4801ac433e6736e78", "value": {"start": 874, "end": 1076, "text": "On
+25th December, 1968 one Packiriswami Pillai, since deceased,
+alongwith 17 other labourers of Irakkai village was
+returning home at about 5.30 P.M. after harvesting of crops
+from the fields of P.W.15.", "labels": ["PREAMBLE"]}}, {"id": "a83409ab31a44f12b9e1b2af4fd4fd7f", "value": {"start": 1077, "end": 1177, "text": "They reached the east-west
+Harijan Street at about 7.30 P.M. mere was moon light and
+electric light.", "labels": ["PREAMBLE"]}}, {"id": "30d471cb9dbd44b6ac60ce1bb02f35e4", "value": {"start": 1178, "end": 1247, "text": "There, P.Ws. 31,32,34 to 44 saw a crowd of
+10 to 15 persons standing.", "labels": ["PREAMBLE"]}}, {"id": "be47a9915e694ac7811d55ab20ba5fdd", "value": {"start": 1248, "end": 1326, "text": "In that crowd P.Ws. 31,32,34 to
+37 saw accused Nos.l and 2 armed with aruvals.", "labels": ["PREAMBLE"]}}, {"id": "15a51587bed140daadf0517d55d09f68", "value": {"start": 1327, "end": 1440, "text": "The crowd
+questioned them as to which place they belonged to, whereon
+they replied that they belonged to Irakkai.", "labels": ["PREAMBLE"]}}, {"id": "8d97cf1793914c3a8608ba3f2a90fc21", "value": {"start": 1441, "end": 1527, "text": "Immediately, A-
+l, Gopal cried out "Do not leave Irakkai people, cut them,
+beat them."", "labels": ["PREAMBLE"]}}, {"id": "ed864ea7c11244b9a130c3fa04c15682", "value": {"start": 1528, "end": 1665, "text": "P.Ws. 31,32,34 to 37 while running found
+Packiriswami Pillai tripping and falling down near the
+electric lamp post on the Harijan Street.", "labels": ["PREAMBLE"]}}, {"id": "dd65f80f3c4443f3b8daa368c3d04e3e", "value": {"start": 1666, "end": 1778, "text": "They also saw
+accused Nos. 1 and 2 and some others in the crowd lifting
+the deceased by hands, legs and clothes.", "labels": ["PREAMBLE"]}}, {"id": "83479a2a33e9479891d235503c9fbf0c", "value": {"start": 1779, "end": 1833, "text": "Then he was carried
+to some distance towards the east.", "labels": ["PREAMBLE"]}}, {"id": "1810c6a890a0459a85c8216d8c060054", "value": {"start": 1834, "end": 1959, "text": "At that time Packiriswami
+Pillai cried out that he was being cut by Gopal (A-l) and
+they were leaving him behind ant running.", "labels": ["PREAMBLE"]}}, {"id": "99f4fd23b3d945498124f56d551f10f3", "value": {"start": 1960, "end": 2075, "text": "P.Ws. 31,32 and 34
+to 37 saw the first accused cutting Packiriswami Pillai with
+aruval on his neck and on his head.", "labels": ["PREAMBLE"]}}, {"id": "f85b0d709077412cbe530a46a57bd6c0", "value": {"start": 2076, "end": 2188, "text": "P.Ws. 31,32, 34,35,36
+and 37 ran towards the Caste Hindu Street and ultimately
+entered into the house of P.W.47.", "labels": ["PREAMBLE"]}}, {"id": "6a98d83397fe4f2d9187bc8fa246649e", "value": {"start": 2189, "end": 2356, "text": "Another crowd of 50-60
+persons armed with aruvals and sticks came from thesouth and they caused injuries on the persons of P.Ws. 54
+and 55 who came out of their house.", "labels": ["PREAMBLE"]}}, {"id": "85f20505def24f9980934541a0d7c3bb", "value": {"start": 2357, "end": 2380, "text": "On getting information
+", "labels": ["PREAMBLE"]}}, {"id": "836a722cf5dd4a868b9bde2fbf3b4e73", "value": {"start": 2380, "end": 2751, "text": "at about 8.00 P.M., P.W.72, the Head Constable, with some
+
+S.A.P. men went to Keezha Vanmani and after collecting the
+injured persons from the house of P.W.47 as well as
+collecting the injured P.W.54 and 55 in the van came to the
+Keevalur Police Station where P.W.79 (Inspector of Police)
+recorded the statement of P.W.54 and registered the same as
+Crime No. 326 of 1968.", "labels": ["PREAMBLE"]}}, {"id": "80e093652f84464d8154cccf02249ac4", "value": {"start": 2752, "end": 2841, "text": "He thereafter recorded the statements
+of P.W.55 and P.Ws. 34 to 37 in the Police Station.", "labels": ["PREAMBLE"]}}, {"id": "7f24ed94a9464b479520b0ef5bddf2a6", "value": {"start": 2842, "end": 2914, "text": "At about
+11.45 P.M. P.W.79 left for Keezha Vanmani and met P.W.31
+there.", "labels": ["PREAMBLE"]}}, {"id": "53f36788566e4b04940ff7c1c60005fb", "value": {"start": 2915, "end": 3023, "text": "Then both of them went to Nadu Street and found the
+dead body of Packiriswami Pillai with multiple injuries.", "labels": ["PREAMBLE"]}}, {"id": "08c7e95365b24d59a57b194579ad336a", "value": {"start": 3024, "end": 3330, "text": "P.W.79 recorded the statement of P.W.31 and registered the
+same as Crime No. 328 of 1968.
+
+         Out of 22 accused, the Sessions Judge acquitted 14 and
+convected 8, namely, accused Nos.1,2,12,13,17,18,19 and 20
+under various offences and sentenced them to suffer rigorous
+imprisonment for various terms.", "labels": ["PREAMBLE"]}}, {"id": "2d534eaed3f74c398382acd3a8bbc8bf", "value": {"start": 3331, "end": 4129, "text": "Te Sessions Judge found the
+aforesaid accused guilty of various offences on the grounds
+(1) that there was electric light and also moon light at the
+time of the occurrence and that P.Ws. 31,32 and 34 to 37
+witnessed the fatal injuries caused by aruvals on the head
+and neck of Packiriswami Pillai by Gopal (A-l); (2) that the
+crying out by the deceased Packiriswami Pillai that Gopal
+(A-l) was cutting him was in the nature of Dying Declaration
+and no motive could be ascribed for the deceased to falsely
+implicate the accused A-l, Gopal at that moment; (3) that
+the injuries sustained by P.Ws. 34 to 36 with all
+probabilities establish the presence of these P.Ws. at a
+close range and seeing the occurrence; and (4) that there
+was also overwhelming evidence as to the presence of A-l in
+the crowd.", "labels": ["PREAMBLE"]}}, {"id": "919d2e874de848de9b97a42d910781d1", "value": {"start": 4130, "end": 4212, "text": "The appeal of all the 8 accused persons filed
+before the High Court was dismissed.", "labels": ["PREAMBLE"]}}, {"id": "7173da050f5f4f88a17ca0bc4b430d6d", "value": {"start": 4212, "end": 4278, "text": "
+
+         Dismissing the appeal to this Court,
+^
+
+         HELD :", "labels": ["PREAMBLE"]}}, {"id": "88dde9f6c6e84890b10bae44035c1015", "value": {"start": 4279, "end": 4287, "text": "1. m ere", "labels": ["PREAMBLE"]}}, {"id": "fb085cb052264aad845013360a5873b3", "value": {"start": 4288, "end": 4491, "text": "is no infirmity far less any illegality
+or failure of justice which would impel the Supreme Court to
+interfere with the order of conviction and sentence con
+currently arrived at by both the courts below.", "labels": ["PREAMBLE"]}}, {"id": "47f66ddd587546648d59fb0f15fda67f", "value": {"start": 4492, "end": 4754, "text": "[210 D]
+
+         2(i) P.Ws. 34 to 37 have clearly stated in their
+depositions that they witnessed A-l inflict cutting injuries
+on the neck and heat of Packiriswami Pillai after lifting
+him along-with other accused and carrying him to the east of Harijan
+Street.", "labels": ["PREAMBLE"]}}, {"id": "5ca87b66c971454e86fa36162d0b3e0f", "value": {"start": 4755, "end": 4959, "text": "The court of appeal below has rightly held that
+P.W. 54 was only concerned with the incident that occurred
+before his house and, as such, in Exhibit P-11 there was
+only the reference to the said incident.", "labels": ["PREAMBLE"]}}, {"id": "46fa4ccba9da4182a20ba9d29fa781bf", "value": {"start": 4960, "end": 5096, "text": "It was also held
+that P.W. 79 in his deposition refuted the suggestion that
+he did not examine P.W. 34 to 37 at the time alleged by him.", "labels": ["PREAMBLE"]}}, {"id": "af08e009ad57482d8f104992fa436eed", "value": {"start": 5096, "end": 5228, "text": "
+Moreover, all these P.Ws. 34 to 37 suffered several injuries
+being chased by the crowd while running forwards the house
+of P.W. 47.", "labels": ["PREAMBLE"]}}, {"id": "74054c96454943f5be1ad498495c587e", "value": {"start": 5229, "end": 5419, "text": "Therefore, evidences of all these eye witnesses
+as well as of P.W. 31 were believed by both the courts below
+that A-l caused fatal cut injuries on the person of deceased
+Packiriswami Pillai.", "labels": ["PREAMBLE"]}}, {"id": "b8fb1e290413451ab7ffbf13cb02d55d", "value": {"start": 5420, "end": 5765, "text": "[207 A-C]
+
+         2(ii) P.W. 65, Assistant Surgeon, Government Hospital,
+who conducted postmortem also stated in his deposition that
+out of the 11 injuries caused on the person of deceased
+Packiriswami Pillai, the injuries Nos. 1 and 2 which could
+have been caused by single cut were sufficient in the
+ordinary course of nature to cause death.", "labels": ["PREAMBLE"]}}, {"id": "63d1f20897e44628aede42f2630ca026", "value": {"start": 5766, "end": 5886, "text": "The doctor has
+also stated in his evidence that after the infliction of
+injury No. 1 the injured could have shouted out.", "labels": ["PREAMBLE"]}}, {"id": "ff1a9ab36c274f5abfd54eed0fa43006", "value": {"start": 5887, "end": 5996, "text": "There is,
+therefore, ample evidence to negative the submission that
+the accused No. 1 was falsely implicated.", "labels": ["PREAMBLE"]}}, {"id": "8bf377b35a99415494f0ad8397d2d50c", "value": {"start": 5997, "end": 6186, "text": "Moreover, P.W. 72
+
+has stated in his deposition that he is deaf and as such he
+could not hear whether P.Ws. 34 to 37 stated about the
+injuries caused by A-1 on deceased Packiriswami Pillai.", "labels": ["PREAMBLE"]}}, {"id": "50d9e38207384f50b9ad459c8ae62515", "value": {"start": 6187, "end": 6267, "text": "He
+also stated that he heard P.Ws. 34 to 37 uttering
+Packiriswami, Packiriswami.", "labels": ["PREAMBLE"]}}, {"id": "4c139663836b4ce78a293a35be77c519", "value": {"start": 6268, "end": 6373, "text": "It was rightly held by both the
+courts below that P.W. 72 was deaf and could not hear what
+they told him.", "labels": ["PREAMBLE"]}}, {"id": "77b0a0d5c5094c4cb345ecbf65c3367c", "value": {"start": 6374, "end": 6592, "text": "The non-mentioning of attack on Packiriswami
+Pillai by P.W. 54 in his statement does not in any way lead
+to the inference that the statements of P.Ws. 34 to 37 were
+recorded after recording of the statement of P.W. 31.", "labels": ["PREAMBLE"]}}, {"id": "9a65d6c8ea65451f85e973a6f05bef96", "value": {"start": 6593, "end": 6742, "text": "[207
+D-F]
+
+         3(i) P.W. 79 recorded the statement of P.Ws. 34 to 37
+in the Police Station after recording of the statements of
+P.Ws. 54 and 55.", "labels": ["PREAMBLE"]}}, {"id": "71dd8c9699e34d37bc4ba65638f35f7d", "value": {"start": 6743, "end": 7077, "text": "The mere recording of Statements in plain-
+sheet instead of in diary form in these circumstances does
+not lead to any where in view of the clear evidence of P.W.
+79 which was believed by both the courts below that the
+statements of these P.Ws. were recorded by him immediately
+after recording the statement of P.W. 54 (Exhibit P-11).
+", "labels": ["PREAMBLE"]}}, {"id": "d3a2871be48c4ef3982d2263dd6ec71d", "value": {"start": 7077, "end": 7202, "text": "[207 H; 208 A]
+
+         3(ii) P.Ws. 31,32 and 34 to 37 clearly stated in their
+evidence that they did not see P.W. 1 at all.", "labels": ["PREAMBLE"]}}, {"id": "8606eee0540f415dba3558f53ae4e49e", "value": {"start": 7203, "end": 7283, "text": "The evidence
+of P.W. 1 was that he did not go to Caste Hindu Street at
+thattime.", "labels": ["PREAMBLE"]}}, {"id": "44398d3b9cc747158360e826411cb178", "value": {"start": 7284, "end": 7449, "text": "In view of these evidence, the Court of appeal below
+held that the evidence of P.W. 72 to the effect that P.W. 1
+came near the house of P.W. 47 could not be accepted", "labels": ["PREAMBLE"]}}, {"id": "6389da4dee644bab9b3ab4f480e376df", "value": {"start": 7449, "end": 7517, "text": ". It was
+also pointed out by the Court of appeal below that P.W. 72
+", "labels": ["PREAMBLE"]}}, {"id": "fd245b66006c491c8abb3d79d228f819", "value": {"start": 7517, "end": 7628, "text": "has not spoken about presence of P.W. 1 at about that time
+either in Crime No. 326 or in Crime No. 328 of 1968.", "labels": ["PREAMBLE"]}}, {"id": "ff0d49dfd55c4519b34035e86a335b06", "value": {"start": 7629, "end": 7757, "text": "It was
+only during the investigation in Crime No. 327 of 1968
+namely the connected arson case, P.W. 72 made the above
+statement.", "labels": ["PREAMBLE"]}}, {"id": "7b3bbe222bb04a3fb6f1c9199a4b89de", "value": {"start": 7758, "end": 7766, "text": "[208 C-D", "labels": ["PREAMBLE"]}}, {"id": "ac90cc62c7164b698a9bdc5438ab5af9", "value": {"start": 7766, "end": 7780, "text": "]
+
+         4.", "labels": ["PREAMBLE"]}}, {"id": "75607d9a5df541ceb5cbc6f7c1a5d5ed", "value": {"start": 7781, "end": 8031, "text": "It was not improbable that because at the time of
+the recording of statement of P.Ws. 34 to 37, P.W. 79 was
+not aware of the death of Packiriswami Pillai, so he did not
+consider it a grave crime and did not register it separately
+as spoken to by him.", "labels": ["PREAMBLE"]}}, {"id": "2530af236a8d48e29cc71e5384da9ec3", "value": {"start": 8032, "end": 8199, "text": "P.W. 79 further stated in his evidence
+that both the occurrences namely attack on P.Ws. 54 and 55
+and Packiriswami Pillai formed part of one and the same
+trans action.", "labels": ["PREAMBLE"]}}, {"id": "2f7911b8acce440faa6be091335a4bcd", "value": {"start": 8200, "end": 8331, "text": "P.W. 79 further admitted that he ought not to
+have registered a separate case in Crime No. 328 of 1968 on
+the statement of P.W. 31.", "labels": ["PREAMBLE"]}}, {"id": "00572800ed5d481e9f1d6bffaa8f6655", "value": {"start": 8332, "end": 8606, "text": "It was rightly held by the Court
+of appeal below that P.W. 79 adopted irregular procedure in
+registering separate Crime number on the basis of the
+statement of P.W. 31 and this cannot lead to the inference
+that P.Ws. 34 to 37 were examined only after examination of
+P.W. 31.", "labels": ["PREAMBLE"]}}, {"id": "5adf5802946042fdbad1de4e22afd64d", "value": {"start": 8607, "end": 8967, "text": "It was rightly held by the court of appeal below
+that these irregularities committed by P.W. 79 in not
+recording the statement of P.Ws. 34 to 37 in Case Diary Form
+and registering the separate crime number on the statement
+of P.W. 31 could not militate against the prosecution case.
+No motive has been suggested against P.W. 79. [208 G-H; 209
+A-B]
+
+         5.", "labels": ["PREAMBLE"]}}, {"id": "2db31af21fdf4704bb64e9e973aef73b", "value": {"start": 8968, "end": 9148, "text": "The accused 1 and 2 have been convicted by the
+Courts below on the finding that the offences charged
+against them have been proved by the eye witnesses beyond
+any reasonable doubt.", "labels": ["PREAMBLE"]}}, {"id": "2abae00ec8ec4a969fd304072381cd5f", "value": {"start": 9149, "end": 9330, "text": "There was no illegality nor any
+question of principle involved in the matter of making order
+sentencing them to imprisonment as provided in 88. 302 and
+364 of the Indian Penal Code.", "labels": ["PREAMBLE"]}}, {"id": "8d53320df9924213998383ec76359490", "value": {"start": 9331, "end": 9409, "text": "Therefore, the Court is not
+inclined to interfere with the sentences passed by", "labels": ["PREAMBLE"]}}, {"id": "20b84f341a88497b9cc1c46df44f9f1c", "value": {"start": 9410, "end": 9426, "text": "the
+Courts below", "labels": ["PREAMBLE"]}}, {"id": "9714a75c39204ef48d4537c191814773", "value": {"start": 9426, "end": 9435, "text": ". [209 E-", "labels": ["PREAMBLE"]}}, {"id": "d90d992f76a84a70b99be3f557c489a3", "value": {"start": 9435, "end": 9521, "text": "F]
+
+         State of Maharastra v. Mayer Hans George, A.I.R. 1965
+
+
+S.C. 722 applied.", "labels": ["PREAMBLE"]}}, {"id": "4074e7d602ec4e06877d6a3cec924b64", "value": {"start": 9521, "end": 9713, "text": "
+         Pritam Singh v. The State, A.I.R. 1950 S.C. 169 and
+
+Sadhu Singh Harnam Singh v. state of Pepsu) A.I.R. 1954 S.C.
+271 referred to.
+JUDGMENT:
+         CRIMINAL APPELLATE JURISDICTION:", "labels": ["PREAMBLE"]}}, {"id": "c40741d03a90468ab52679adc018ff71", "value": {"start": 9714, "end": 9733, "text": "Criminal Appeal No.", "labels": ["NONE"]}}, {"id": "2cbe0618a7834646b92688e5fa19a7b5", "value": {"start": 9733, "end": 9747, "text": "
+ 234 of 1973.", "labels": ["NONE"]}}, {"id": "f633fd8e25aa4e2f9b53120f9aa508ab", "value": {"start": 9757, "end": 9859, "text": "From the Judgment and Order dated 4.8.1972 of the Madras High Court in Criminal Appeal No. 23 of 1971.", "labels": ["NONE"]}}, {"id": "594ea87ef1374db6ab432a8a946cbeb7", "value": {"start": 9859, "end": 9926, "text": "
+         R.K. Garg, Gopal Singh and L.R. Singh for the Appellants.", "labels": ["NONE"]}}, {"id": "e6212f9298084d299bd135f5e719d134", "value": {"start": 9926, "end": 10024, "text": "
+         K.G. Bhagat, A.V. Rangam, Umanath Singh, V.C. Nagaraj and R.B. Misra for the Respondent.", "labels": ["NONE"]}}, {"id": "d38b524ecbfe45558a9cbb7d51fb0dc7", "value": {"start": 10034, "end": 10089, "text": "The Judgment of the Court was delivered by B.C. RAY, J.", "labels": ["NONE"]}}, {"id": "b9706d8c5a164c5db03c2359e215e2a6", "value": {"start": 10090, "end": 10464, "text": "This appeal on special leave is directed against the Judgment and Order of the High Court of Judicature at Madras dated 4.8.1972 in Criminal Appeal No.
+23 of 1971 whereby the appeal was dismissed and the conviction and sentences passed by the Court of Sessions, east Thanjavur Division at Nagapattinam against the accused nos. 1, 2, 12, 13, 17, 18, 19 and 20 were confirmed.", "labels": ["RLC"]}}, {"id": "264fc5aa8e534afd95c3dbec6616b0ff", "value": {"start": 10466, "end": 10594, "text": "The prosecution case is as follows: All the accused appellants are residents of various villages within Keevalur Police Station.", "labels": ["FAC"]}}, {"id": "3f748dc788344e35bdc2b5b952114347", "value": {"start": 10595, "end": 10716, "text": "The first accused is the leader of the Left Communist Party are also of the Harijan Kisans of five neighbouring villages.", "labels": ["FAC"]}}, {"id": "716a7bc405824c0e83687d57a07ba279", "value": {"start": 10717, "end": 10810, "text": "Accused nos.
+17 and 18 are the leaders of the Left Communist Party at Keezha Venmani village.", "labels": ["FAC"]}}, {"id": "de7cfd4b722440058dbe2e79108e44ac", "value": {"start": 10811, "end": 10934, "text": "There were serious differences between the Mirasdars and the Harijan labourers regarding the fixation of wages for harvest.", "labels": ["FAC"]}}, {"id": "93af666e71184307a5ecc54823119c18", "value": {"start": 10935, "end": 11063, "text": "These troubles started in 1967 and the Kisans have been agitating for higher wages by taking processions and convening meetings.", "labels": ["FAC"]}}, {"id": "4831c75f022445feac19490be46cc41c", "value": {"start": 11064, "end": 11229, "text": "There was a settlement in 1967 whereby the Mannargudi agreement was made between the parties providing for additional half measure of paddy to the Harijan labourers.", "labels": ["FAC"]}}, {"id": "99e7b5f486e84e0592f88c4fa6008273", "value": {"start": 11230, "end": 11527, "text": "This settlement was enforced from January 1968, but in November 1968 the Harijan labourers demanded uniform wages of six measures of paddy per kalam of paddy harvested and in case this six measures of paddy was not paid, the labourers trespassed into the lands and illegally harvested paddy crops.", "labels": ["FAC"]}}, {"id": "4382552d357d43879a8bb596c5e49258", "value": {"start": 11528, "end": 11640, "text": "This created the trouble as the local Harijan labourers refused to work at a low wage and demanded higher wages.", "labels": ["FAC"]}}, {"id": "e07882aef3a34fa6b73ae2aa0edafe44", "value": {"start": 11641, "end": 11722, "text": "There was the Paddy Producers Association having its offices in several villages.", "labels": ["FAC"]}}, {"id": "986d6514357d4a8c81142c881b92539d", "value": {"start": 11723, "end": 11953, "text": "P.W. 1 Gopal Krishna Naidu was the President ofPaddy Producers Association of Nagai Taluk and P.W. 19 Ramu Plllai was the President of the Association at Irukkai and he deceased Packiriswami Pillai was a member of the Association.", "labels": ["FAC"]}}, {"id": "d502cfb0ba63427992af93f5a7fdb56a", "value": {"start": 11954, "end": 12135, "text": "The Mirasdars used to bring labourers from outside for harvest of paddy from their fields as local labourers were reluctant to harvest paddy at the wage of 4- 1/2 measures of paddy.", "labels": ["FAC"]}}, {"id": "a539ac66c6194347a33c11490051f484", "value": {"start": 12136, "end": 12242, "text": "The local labourers were very much aggrieved by this bringing of men from outside for harvesting of paddy.", "labels": ["FAC"]}}, {"id": "8c0125a801d7429fb8ec4a5f9ab65393", "value": {"start": 12252, "end": 12437, "text": "On 25th December, 1968 Packiriswami Pillai, since deceased, alongwith other labourers of Irakkai came to harvest the paddy crops from the fields of the Mirasidar P.W. 15 at about 9 a.m.", "labels": ["FAC"]}}, {"id": "6f6033fd1a1f4e59a494ed2911ef32b3", "value": {"start": 12438, "end": 12689, "text": "It appears that on apprehending trouble P.W. 15 sent Exhibit P. 9 to the Inspector at Keevalur Police Station and Exhibit P. 8 to the Vallvalam Police Station requesting for sending some police men so that harvesting of crops might be done peacefully.", "labels": ["FAC"]}}, {"id": "b769dddb068e45c9bd449a8474a37d93", "value": {"start": 12690, "end": 12790, "text": "The harvesting of crops was over by 5.30 p.m. and each of the labourers were fed with Sambar Satham.", "labels": ["FAC"]}}, {"id": "113c37dc1c934e32a6f8e05bc5e9b1a9", "value": {"start": 12791, "end": 12848, "text": "Each of them were paid 4-1/2 measures of paddy per kalam.", "labels": ["FAC"]}}, {"id": "34ccbf91486e45439649618c57e03b30", "value": {"start": 12849, "end": 12949, "text": "P.Ws. 25, 26 and one Rangayyan left immediately as they wanted to go to Thevur for seeing a picture.", "labels": ["FAC"]}}, {"id": "c57847684d6b4f6395a1ca7f0524d3ba", "value": {"start": 12950, "end": 13016, "text": "The seventeen Irukkai people started for home sometime thereafter.", "labels": ["FAC"]}}, {"id": "96f228ea8f824786b0171ef95231bceb", "value": {"start": 13017, "end": 13094, "text": "The Irukkai labourers reached the east-west Harijan Street at about 7.30 p.m.", "labels": ["FAC"]}}, {"id": "5b5dfdb854af4c9fba43358abfe1a0cb", "value": {"start": 13095, "end": 13182, "text": "P.Ws. 42 and 43 purchased betels in the shop of P.W. 30, Subramaniam, of the main road.", "labels": ["FAC"]}}, {"id": "b92dc7e519d1422ca702bec87e3269e7", "value": {"start": 13183, "end": 13223, "text": "There was moon light and electric light.", "labels": ["FAC"]}}, {"id": "8b02a893431441619ac2f2423de6d4c2", "value": {"start": 13223, "end": 13369, "text": "
+There were bamboo clusters in the form of a hood on either side of the east-west Harijan Street near the second electric lamp post from the west.", "labels": ["FAC"]}}, {"id": "fdb0d006e9ff4e498346164b2b993459", "value": {"start": 13370, "end": 13467, "text": "At the east west Harijan Street, P.Ws. 31, 32, 34 to 44 saw a crowd of 10 to 15 persons standing.", "labels": ["FAC"]}}, {"id": "204f5b45f23344a7b24f59e3f3d1220b", "value": {"start": 13468, "end": 13548, "text": "In that crowd PWs. 31, 32, 34 to 37 saw accused Nos. 1 and 2 armed with aruvals.", "labels": ["FAC"]}}, {"id": "58b58734b5414d1793caee377291eaef", "value": {"start": 13549, "end": 13663, "text": "Tile crowd questioned them as to which place they belonged to, whereon they replied that they belonged to Irukkai.", "labels": ["FAC"]}}, {"id": "705f7495e6c54b33b7fa4a7be2d87c47", "value": {"start": 13664, "end": 13749, "text": "Immediately, A-l Gopal cried out, "Do not leave Irukkai people, cut them, beat them."", "labels": ["FAC"]}}, {"id": "7aec38e7bc3d49a0a5ed7ad5dff3f182", "value": {"start": 13750, "end": 13856, "text": "A crowd of about 50 persons being armed with aruvals, sticks etc. came running towards the Irukkai people.", "labels": ["FAC"]}}, {"id": "46b7852c55f64bc79219e6fef9097555", "value": {"start": 13857, "end": 13996, "text": "P.Ws. 31, 32, 34 to 37 while running found Packiriswami Pillai tripping and falling down near the electric lamp post on the Harijan Street.", "labels": ["FAC"]}}, {"id": "995606abc907473cbf9d26f2d2bb9d59", "value": {"start": 13997, "end": 14090, "text": "Accused Nos. 1 and 2 and some others in the crowd also lifted him by hands, legs and clothes.", "labels": ["FAC"]}}, {"id": "7363e7660c074dcd950db0a14d171449", "value": {"start": 14091, "end": 14145, "text": "Then he was carried to some distance towards the east.", "labels": ["FAC"]}}, {"id": "42270405739e45ebbd93670381057f5d", "value": {"start": 14146, "end": 14271, "text": "At that time Packiriswami Pillai cried out that he was being cut by Gopal (A-1) and they were leaving him behind and running.", "labels": ["FAC"]}}, {"id": "8aecec072c4749b091ab95bbe874d53d", "value": {"start": 14272, "end": 14388, "text": "P.Ws. 31, 32 and 34 to 37 saw the first accused cutting Packiriswamy Pillai with aruval on his neck and on his head.", "labels": ["FAC"]}}, {"id": "4e6aa9c092a548379b34a863a491b078", "value": {"start": 14389, "end": 14504, "text": "P.Ws. 31, 32, 347 35, 36 and 37ran towards the Caste Hindu Street and ultimately entered into the house of P.W. 47.", "labels": ["FAC"]}}, {"id": "9140aea69f974f3cbcbe1ae138a58c10", "value": {"start": 14505, "end": 14674, "text": "Another crowd of 50-60 persons armed with aruvals and sticks came from the south and they caused injuries on the persons of P.Ws. 54 and 55 who came out of their houses.", "labels": ["FAC"]}}, {"id": "b5da75dddd364043b2680d699d50ed17", "value": {"start": 14675, "end": 15060, "text": "On the same day at about 8.00 p.m. P.W.
+79, Inspector of Police, Keevalur Police Station on getting information that some persons armed with lethal weapons were parading on the main road beyond Thevur and towards south, after requisitioning a vehicle (van) from Nagapattinam Police Station sent P.W. 72, the Head Constable with the van for road patrolling between Thevur and Killukudi.", "labels": ["FAC"]}}, {"id": "0f83883c1b6b4e4c9ed96d1a94126f44", "value": {"start": 15061, "end": 15468, "text": "P.W. 72 with some S.A.P. men went to Keezha Vanmani and after collecting the injured persons from the house of P. W. 47 as well as collecting the injured P.Ws. 54 and 55 in the van came to the Keevalur Police Station, where P.W. 79 (Inspector of Police) recorded the statement of P.W. 54 who was lying seriously injured in the van and registered the same as Crime No. 326 of 1968 of Keevalur Police Station.", "labels": ["FAC"]}}, {"id": "5acddc3901e440e4a6ac49c11bd34ed0", "value": {"start": 15469, "end": 15603, "text": "He thereafter recorded the statements of P.W. 55 in the van and recorded the statements of other P.Ws. 34 to 37 in the Police Station.", "labels": ["FAC"]}}, {"id": "de65f6897b7f46fdb9d5737ede03686d", "value": {"start": 15604, "end": 15704, "text": "Thereafter P.W. 79 at about 11.45 p.m. left for Keezha Venmani and reached at about 12.00 mid night.", "labels": ["FAC"]}}, {"id": "f7a306c628e644549fe3053bafab2a6c", "value": {"start": 15705, "end": 15726, "text": "He met P.W. 31 there.", "labels": ["FAC"]}}, {"id": "3d7fead2d4c54b278198ce35b8f755cf", "value": {"start": 15727, "end": 15884, "text": "P.W. 79 then went to Nadu street alongwith P.W. 31 and found the dead body of Packiriswami Pillai kept leaning against a Coconut tree with multiple injuries.", "labels": ["FAC"]}}, {"id": "3a6c8b026cc04ca8b2f09e7539d8ca19", "value": {"start": 15885, "end": 15978, "text": "P. W. 79 recorded the statement of P. W. 31 and registered the same as Crime No. 328 of 1968.", "labels": ["FAC"]}}, {"id": "b735b802093f4823b60f172be84cbd26", "value": {"start": 15978, "end": 16147, "text": "
+ The learned Sessions Judge after duly weighing the evidences of P.Ws. found inter alia that there was electric light and also moon light at the time of the occurrence.", "labels": ["RLC"]}}, {"id": "5398cd9433f24959844e02f80893e3b9", "value": {"start": 16147, "end": 16280, "text": "
+P.Ws. 31, 32 and 34 to 37 witnessed the fatal injuries caused by aruvals on the head and neck of Packiriswami Plllai by Gopal (A-l).", "labels": ["RLC"]}}, {"id": "77d040cab1fb447e9560754530ac6328", "value": {"start": 16281, "end": 16533, "text": "It was also held that the crying out by the deceased Packiriswami Pillai that Gopal (A-1) was cutting him was in the nature of Dying Declaration and no motive could be ascribed for the deceased to falsely implicate the accused A-1 Gopal at that moment.", "labels": ["RLC"]}}, {"id": "07ed3464c05344ebb7f1dabe4cbe15cc", "value": {"start": 16534, "end": 16689, "text": "Moreover, the injuries sustained by P.Ws. 34 to 36 with all probabilities establish the presence of these P.Ws. at a close range and seeing the occurrence.", "labels": ["RLC"]}}, {"id": "615d06e156e44466a03ff0e1c44d625e", "value": {"start": 16690, "end": 16766, "text": "There was also overwhelming evidence as to the presence of A-1 in the crowd.", "labels": ["RLC"]}}, {"id": "cdb87ccab3c442fa8eeeeba338de828f", "value": {"start": 16767, "end": 16895, "text": "The learned Sessions Judge found accused No. 1 guilty of offence under s. 302 I.P.C. and sentenced him to imprisonment for life.", "labels": ["RLC"]}}, {"id": "d1a1494b68534bba8d1873d7292bddf2", "value": {"start": 16896, "end": 17077, "text": "He also found the accused No. 1 alongwith accused Nos. 2, 13, 17 and 18 guilty of murder under s.148 I.P.C. and sentenced each of them to undergo rigorousimprisonment for two years.", "labels": ["RLC"]}}, {"id": "a629a03f47f7492eae555fd756c198ef", "value": {"start": 17078, "end": 17228, "text": "Accused Nos. 1 and 2 were also held guilty of the offence under s. 364 I.P.C. and sentenced each of them to undergo rigorous imprisonment for 5 years.", "labels": ["RLC"]}}, {"id": "bb27851f162b4aaeb9fdfcc0e38f0881", "value": {"start": 17228, "end": 17271, "text": "
+All these sentences will run concurrently.", "labels": ["ANALYSIS"]}}, {"id": "316900826329452f83341350393593b7", "value": {"start": 17272, "end": 17500, "text": "Out of 22 accused, 14 of the accused were acquitted and 8 of them i.e.
+accused Nos. 1, 2, 12, 13, 17, 18, 19 and 20 were convicted under various offences and they were sentenced to suffer rigorous imprisonment for various terms.", "labels": ["ANALYSIS"]}}, {"id": "302455e534af4520b2b0f2466d946af5", "value": {"start": 17502, "end": 17622, "text": "Against the aforesaid judgment and order of conviction, all the 8 accused persons failed Criminal Appeal No. 23 of 1971.", "labels": ["RLC"]}}, {"id": "1389fb488ff34530850dcc529163f047", "value": {"start": 17623, "end": 17792, "text": "The appeal was dismissed and the conviction of all the accused appellants for various offences and sentences of imprisonment awarded against each of them were confirmed.", "labels": ["RLC"]}}, {"id": "34abd8fc6f514ea0bb112f5216b43bd5", "value": {"start": 17792, "end": 18277, "text": "
+ Mr. Garg, learned counsel, appearing only on behalf of the accused appellant No. 1 has submitted before this Court that he will argue in this appeal only on behalf of the accused appellant No. 1 Gopal and as regards accused appellant No. 2 he further submitted before us that the appellant No. 2 Ramayyan who was convicted under s. 364 I.
+P. C. and sentenced to undergo rigorous imprisonment for five years may be granted exemption from undergoing the remaining term of the sentence.", "labels": ["ARG_PETITIONER"]}}, {"id": "613680086fc8486f8b38e4ff812ac473", "value": {"start": 18277, "end": 18563, "text": "
+ It has been firstly contended by Mr. Garg, learned counsel, that the statement of P.W. 54 Packiriswamy Poraiyar (exhibit P-11) which was recorded by P.W. 79 and registered in Crime No. 326 of 1968 did not mention about the attack on deceased Packiriswami Pillai or any Irukkai people.", "labels": ["ARG_PETITIONER"]}}, {"id": "fa250600eb734aec9fa300e4c4fadc34", "value": {"start": 18564, "end": 18810, "text": "It has also been submitted that P.W. 72 (Head Constable) who collected the injured person P.Ws. 54, 55 and 34 to 37 in the van and took them to the Police Station at Keevalur also did not tell about the attack on the deceased Packiriswami Pillai.", "labels": ["ARG_PETITIONER"]}}, {"id": "c9ddc751d06d49679bf97c83717c5167", "value": {"start": 18811, "end": 18990, "text": "It has been, therefore, submitted that the statements of P.Ws. 34 to 37 were recorded not at the Police Station immediately after recording statement of P.W. 54 i.e. Exhibit P-11.", "labels": ["ARG_PETITIONER"]}}, {"id": "93009af9201b4e40bafecbfdb5e9c03b", "value": {"start": 18991, "end": 19309, "text": "It has also been submitted that the accused Gopal (A-1) who is well known to the Mirasdars has been falsely implicated at the instance of P.W. 1, who as stated by P.W. 72 came to the place where P.W. 72 was bringing in the injured persons in the van i.e. P.Ws. 54, 55 and 34 to 37 for bring them to the Police Station.", "labels": ["ARG_PETITIONER"]}}, {"id": "406d3d11e57b4978a58763ae2c88bf30", "value": {"start": 19310, "end": 19352, "text": "This submission has no legs to stand upon.", "labels": ["ANALYSIS"]}}, {"id": "b32503646e2643dca49875cdb71af2b4", "value": {"start": 19353, "end": 19567, "text": "It has been held by both the courts below that the evidences of P.Ws. 34 to 37 were recorded by the Inspector, Keevalur Police Station (P.W. 79) as soon as they were brought to the PoliceStation at about 10.30 a.m.", "labels": ["ANALYSIS"]}}, {"id": "fcb8837c5e674e02afff5d23720013cd", "value": {"start": 19568, "end": 19811, "text": "All these witnesses have clearly stated in their depositions that they witnessed A-1 Inflict cutting injuries on the neck and head of Packiriswami Pillai after lifting him alongwith other accused and carrying him to the east of Harijan Street.", "labels": ["ANALYSIS"]}}, {"id": "46b1a8f463674db7b6f4c01f57265388", "value": {"start": 19812, "end": 20013, "text": "The court of appeal below has rightly held that P.W. 54 was only concerned with the incident that occured before his house and as such in Exhibit P-11 there was only the reference to the said incident.", "labels": ["ANALYSIS"]}}, {"id": "fc7704f95bf8412a9a9fb91da1df1eee", "value": {"start": 20014, "end": 20150, "text": "It was also held that P.W. 79 in his deposition refuted the suggestion that he did not examine P.W. 34 to 37 at the time alleged by him.", "labels": ["ANALYSIS"]}}, {"id": "7836d2268bc34bf1b1e3780ca2b257e9", "value": {"start": 20151, "end": 20280, "text": "Moreover all these P.Ws. 34 to 37 suffered several injuries being chased by the crowd while running towards the house of P.W. 47.", "labels": ["ANALYSIS"]}}, {"id": "2f75829c2acd4bf18a000dbff72320a1", "value": {"start": 20281, "end": 20470, "text": "Therefore evidences of all these eye witnesses as well as of P.W. 31 were believed by both the courts below that A-1 caused fatal cut injuries on the person of deceased Packiriswami Pillai.", "labels": ["ANALYSIS"]}}, {"id": "6b15889985034f2db569ef13008a2505", "value": {"start": 20471, "end": 20478, "text": "P.W. 65", "labels": ["ANALYSIS"]}}, {"id": "bea49db9fa6d436e844a75af2ec6eb04", "value": {"start": 20479, "end": 20820, "text": "Dr.
+Madan Gopal, Assistant Surgeon, Government Hospital, Nagapattinam, who conducted post-mortem also stated in his deposition that out of the 11 injuries caused on the person of deceased Packiriswami Pillai, the injuries Nos. 1 and 2 which could have been caused by single cut was sufficient in the ordinary course of nature to cause death.", "labels": ["ANALYSIS"]}}, {"id": "8c7a0140bb0f4ad8abf049ff57eef697", "value": {"start": 20821, "end": 20942, "text": "The Doctor has also stated in his evidence that after the infliction of injury No. 1, the injured could have shouted out.", "labels": ["ANALYSIS"]}}, {"id": "65565777814f4828ba615f10d78189a5", "value": {"start": 20943, "end": 21052, "text": "There is, therefore, ample evidence to negative the submission that the accused No. 1 was falsely implicated.", "labels": ["ANALYSIS"]}}, {"id": "b889a8aa425343ccbb92af110537af32", "value": {"start": 21053, "end": 21241, "text": "Moreover, P.W. 72 has stated in his deposition that he is deaf and as such he could not hear whether P.Ws. 34 to 37 stated about the injureis caused by A-1 on deceased Packiriswami Pillai.", "labels": ["ANALYSIS"]}}, {"id": "031fc0352cee4a78b7df16f855e60511", "value": {"start": 21242, "end": 21322, "text": "He also stated that he heard P.Ws. 34 to 37 uttering Packiriswami, Packiriswami.", "labels": ["ANALYSIS"]}}, {"id": "fc0e9e25c80b429c819b47221f4507b3", "value": {"start": 21323, "end": 21428, "text": "It was rightly held by both the courts below that P.W. 72 was deaf and could not hear what they told him.", "labels": ["ANALYSIS"]}}, {"id": "39b7a198111543c08f1f8f290243c36b", "value": {"start": 21429, "end": 21648, "text": "The non- mentioning of attack on Packiriswami Pillai by P.W. 54 in his statement does not in any way lead to the inference that the statements of P.Ws. 34 to 37 were recorded after recording of the statement of P.W. 31.", "labels": ["ANALYSIS"]}}, {"id": "49e3b015340044059d83cd37189b318c", "value": {"start": 21649, "end": 21957, "text": "It has been tried to be submitted in this connection that the statements of these P.Ws. were recorded in plain-sheet of paper instead of recording in diary form, and this raises suspician that the statements of the P.Ws. 34 to 37 were not recorded immediately after the recording of the statement of P.W. 54.", "labels": ["ANALYSIS"]}}, {"id": "7ef94504330848fa8beadf2f4ad4e1c2", "value": {"start": 21958, "end": 22158, "text": "This submission was also set at naught by the courts below by holding that P.W. 79 recorded the statements of P.Ws. 34 to 37 in the Police Station after recording of the statements of P.Ws. 54 and 55.", "labels": ["ANALYSIS"]}}, {"id": "b424efe0191546a59bd7ecb42892c6fc", "value": {"start": 22159, "end": 22494, "text": "The mere recording ofstatements in plain-sheet instead of in diary form in these A circumstances does not lead to any where in view of the clear evidence of P.W. 79 which was believed by both the courts below that the statements of these P.Ws. were recorded by him immediately after recording the statement of P.W. 54 (Exhibit P-11).
+ ", "labels": ["ANALYSIS"]}}, {"id": "ede230528ef14bfc9d642ccffd39ba9a", "value": {"start": 22494, "end": 22817, "text": "It was submitted that had P.Ws. 31, 32 and 34 to 37 known about the attack on deceased Packiriswami Pillai and his being carried away, it was unlikely that they would not have informed P.W. 1, who came there as stated by P.W. 72 and P.W. 1 in that case would have taken further action in the matter with the help of P.W. 72", "labels": ["ANALYSIS"]}}, {"id": "4d4fe29e2d974672a0eebfc00da8c973", "value": {"start": 22817, "end": 22853, "text": ". This submission has also no merit.", "labels": ["ANALYSIS"]}}, {"id": "75635253563f4e8eb7b348c81aa4e912", "value": {"start": 22854, "end": 23000, "text": "It has been held by the court of appeal below that P.Ws. 31, 32 and 34 to 37 clearly stated in their evidence that they did not see P.W. 1 at all.", "labels": ["ANALYSIS"]}}, {"id": "e43e5392bd6446fbabff935c0c2a2ad5", "value": {"start": 23001, "end": 23082, "text": "The evidence of P.W. 1 was that he did not go to Caste Hindu Street at that time.", "labels": ["ANALYSIS"]}}, {"id": "c88976b0022141e6ae2e85d412e73f5b", "value": {"start": 23083, "end": 23250, "text": "In view of these evidences, the court of appeal below held that the evidence of P.W. 72 to the effect that P.W. 1 came near the house of P.W. 47 could not be accepted.", "labels": ["ANALYSIS"]}}, {"id": "247437e1a9774d46b50d5a5e34f3451a", "value": {"start": 23250, "end": 23422, "text": "
+it was also pointed out by the court of appeal below that P.W. 72 has not spoken about presence of P.W. 1 at that time either in Crime No. 326 or in Crime No. 328 of 1968.", "labels": ["ANALYSIS"]}}, {"id": "d2921ad3702f47bcaf3b85d47e315700", "value": {"start": 23423, "end": 23550, "text": "It was only during the investigation in Crime No. 327 of 1968 namely the connected arson case P.W. 72 made the above statement.", "labels": ["ANALYSIS"]}}, {"id": "c757c433b2b34729a769ffce10779bd8", "value": {"start": 23551, "end": 23597, "text": "Therefore, this submission is not sustainable.", "labels": ["ANALYSIS"]}}, {"id": "4ade1bcb970f439b91bd5d90bce440e1", "value": {"start": 23597, "end": 23987, "text": "
+         It was submitted by Mr. Garg that had P.Ws. 34 to 37 stated in their statements which were recorded by P.W. 72 at Keevalur Police Station about the attack on Packiriswami Pillai, then that statement would have been recorded separately and a separate crime number would have been given to it as was done in recording statement of P.W. 31 and registering it in Crime No. 32 of 1968.", "labels": ["ARG_PETITIONER"]}}, {"id": "bdd28c7855144fa091bb4fa1b5e5238c", "value": {"start": 23988, "end": 24104, "text": "It was, therefore, suggested that P.Ws. 34 to 37 were examined by P.W. 79 only after recording statement of P.W. 31.", "labels": ["ANALYSIS"]}}, {"id": "f56448d603874639bf6bedc43e5e23db", "value": {"start": 24105, "end": 24441, "text": "This submission was also urged before the Court of appeal below and it was held that it was not improbable that because at the time of the recording of statement of P.Ws. 34 to 37, P. W. 79 was not aware of the death of Packiriswamy Pillai, so he did not consider it a grave crime and did not register it separately as spoken to by him.", "labels": ["ANALYSIS"]}}, {"id": "2b2a5ed6f3d34e14b186277df03d0f9b", "value": {"start": 24442, "end": 24608, "text": "P.W. 79 further stated in his evidence that both the occurrences namely attack on P.Ws. 54 and 55 and Packiriswami Pillai formed part of one and the same transaction.", "labels": ["ANALYSIS"]}}, {"id": "d8ebd998db1b4ae9bc6197317cebc0c1", "value": {"start": 24609, "end": 24740, "text": "P.W. 79 further admitted that he ought not to have registered a separate case in Crime No. 328 of 1968 on the statement of P.W. 31.", "labels": ["ANALYSIS"]}}, {"id": "26d396df0dcc4d4c853361b6a89dacd3", "value": {"start": 24741, "end": 25014, "text": "It wasrightly held by the Court of appeal below that P.W. 79 adopted irregular procedure in registering separate crime number on the basis of the statement of P.W. 31 and this cannot lead to the inference that P.Ws. 34 to 37 were examined only after examination of P.W. 31.", "labels": ["ANALYSIS"]}}, {"id": "cc461e57dfbd4c5ebebd8d3cf840fd01", "value": {"start": 25015, "end": 25297, "text": "It was rightly held by the Court of appeal below that these irregularities committed by P.W. 79 in not recording the statement of P.Ws.
+34 to 37 in Case Diary Form and registering the separate crime number on the statement of P.W. 31 could not militate against the prosecution case.", "labels": ["ANALYSIS"]}}, {"id": "07f35dee75624e52a298b184421bf06a", "value": {"start": 25298, "end": 25345, "text": "No motive has been suggested against P.W. 79.
+ ", "labels": ["ANALYSIS"]}}, {"id": "6b5559219fe4432ca83b56ba8a54b806", "value": {"start": 25345, "end": 25515, "text": "It was lastly submitted before us by Mr. Garg that in view of the sentence already suffered by A-l and A-2 this Court should remit the remaining period of their sentence.", "labels": ["ANALYSIS"]}}, {"id": "f0d76be0e58b4f3f99f5e34df96b67a9", "value": {"start": 25515, "end": 25577, "text": "
+We are unable to accept this submission advanced by Mr.
+Garg.", "labels": ["ANALYSIS"]}}, {"id": "0e472bb4a76b4c85b44d38db98897aa2", "value": {"start": 25578, "end": 25955, "text": "Mention may be made in this connection to the observations of this Court in State of Maharastra v. Mayer Hans George, A.I.R. [1965] S.C. 722, which are as follows:- "It is the settled rule of the Supreme Court that it would not interfere with the sentence passed by the Courts below unless there is an illegality in it or the same involves any question of principle."
+         ", "labels": ["ANALYSIS"]}}, {"id": "19943e883e8041eb993cf0be34f8a2d9", "value": {"start": 25955, "end": 26180, "text": "As we have already stated herein before that the accused 1 and 2 have been convicted by the courts below on the finding that the offences charged against them have been proved by the eye witnesses beyond any reasonable doubt.", "labels": ["ANALYSIS"]}}, {"id": "fe7eb27d899443aab6c0904c3a1ca233", "value": {"start": 26180, "end": 26362, "text": "
+There was no illegality nor any question of principle involved in the matter of making order sentencing them to imprisonment as provided in ss. 302 and 364 of the Indian Penal Code.", "labels": ["ANALYSIS"]}}, {"id": "fbbbbdd731874ff8b70f17653d6d8c9f", "value": {"start": 26363, "end": 26453, "text": "Therefore, we are not inclined to interfere with the sentences passed by the Courts below.", "labels": ["ANALYSIS"]}}, {"id": "97858420273f4b4ab5d5248872815b2b", "value": {"start": 26453, "end": 27083, "text": "
+         It is pertinent to mention here the observations made by this Court in Pritam Singh v. The State, A.I.R. [1950] S.C. 169, which are as follows:- "It will not grant special leave to appeal under Article 136 (1) of the Constitution unless it is shown that exceptional and special circumstances exist, that substantial and grave injustice has been done and the case in question presents features of sufficient gravity to warrant a review of the decision appealed against and that only those points can be urged at the final hearing of A the appeal which are fit to be urged at the preliminary stage when leave is asked for.", "labels": ["PRE_RELIED"]}}, {"id": "c953d7446f1e4f00b3187e4a43ad8593", "value": {"start": 27084, "end": 27212, "text": "It is well established that this court does not by special leave convert itself into a court to review evidence of a third time.", "labels": ["PRE_RELIED"]}}, {"id": "e639b1f2b3414620806770993c957a9a", "value": {"start": 27213, "end": 27609, "text": "Where, however, the court below fails in apprehending the true effect of a material change in the versions given by the witnesses immediately after the occurrence and the narrative at the trial with respect to the nature and character of the offence, it seems to us that in such a situation it would not be right for this court to affirm such a decision when it occasions a failure of justice."
+ ", "labels": ["PRE_RELIED"]}}, {"id": "a60d84ee9db74c75a7f7bbceeecd1c9f", "value": {"start": 27609, "end": 27768, "text": "This decision has been relied upon and followed in a subsequent decision of this Court in Sadhu Singh Harnan Singh v. State of Pepsu, A.I.R. [1954] S.C. 271.
+ ", "labels": ["PRE_RELIED"]}}, {"id": "7d3537097a7e4a46a944df8b2315bfeb", "value": {"start": 27768, "end": 27994, "text": "In the premise aforesaid, we do not find any infirmity for less any illegality or failure of justice which would impel us to interfere with the order of conviction and sentence concurrently arrived at by both the courts below.", "labels": ["RATIO"]}}, {"id": "5273604dc2db4c40b46c0595ecb3e006", "value": {"start": 27994, "end": 28173, "text": "
+ We, therefore, dismiss the appeal and confirm the convicFPJ tion and sentences passed on accused Nos. A-l and A-2 as well as on other appellants.
+ M.L.A.                        ", "labels": ["RPC"]}}, {"id": "163f9eb2aba7437d91e72f9d7653c6e5", "value": {"start": 28173, "end": 28190, "text": "Appeal dismissed.", "labels": ["RPC"]}}]}], "data": {"text": "PETITIONER:
+GOPAL & ORS.
+
+Vs.
+
+RESPONDENT:
+STATE OF TAMIL NADU
+
+DATE OF JUDGMENT30/01/1986
+
+BENCH:
+RAY, B.C. (J)
+BENCH:
+RAY, B.C. (J)
+ERADI, V. BALAKRISHNA (J)
+
+CITATION:                  1986 SCR (1) 199
+ 1986 AIR 702              1986 SCALE (1)132
+ 1986 SCC (2) 93
+
+ACT:
+         Constitution of India, 1950, Article 136 - Criminal
+
+appeal - Conviction and sentence - Concurrently arrived at
+by trial and Appellate Courts - Interference by Supreme
+Court When arises.
+
+         Practice and Procedure - Sentence - Question of Supreme
+Court - When would interfere.
+
+HEADNOTE:
+         The Mirasdars used to bring labourers from outside for
+
+harvest of paddy from their fields as local labourers were
+reluctant to harvest paddy at the wage of 4 1/2 measures of
+paddy. The local labourers were very much aggrieved by this
+bringing of men from outside for harvesting of paddy. On
+25th December, 1968 one Packiriswami Pillai, since deceased,
+alongwith 17 other labourers of Irakkai village was
+returning home at about 5.30 P.M. after harvesting of crops
+from the fields of P.W.15. They reached the east-west
+Harijan Street at about 7.30 P.M. mere was moon light and
+electric light. There, P.Ws. 31,32,34 to 44 saw a crowd of
+10 to 15 persons standing. In that crowd P.Ws. 31,32,34 to
+37 saw accused Nos.l and 2 armed with aruvals. The crowd
+questioned them as to which place they belonged to, whereon
+they replied that they belonged to Irakkai. Immediately, A-
+l, Gopal cried out "Do not leave Irakkai people, cut them,
+beat them." P.Ws. 31,32,34 to 37 while running found
+Packiriswami Pillai tripping and falling down near the
+electric lamp post on the Harijan Street. They also saw
+accused Nos. 1 and 2 and some others in the crowd lifting
+the deceased by hands, legs and clothes. Then he was carried
+to some distance towards the east. At that time Packiriswami
+Pillai cried out that he was being cut by Gopal (A-l) and
+they were leaving him behind ant running. P.Ws. 31,32 and 34
+to 37 saw the first accused cutting Packiriswami Pillai with
+aruval on his neck and on his head. P.Ws. 31,32, 34,35,36
+and 37 ran towards the Caste Hindu Street and ultimately
+entered into the house of P.W.47. Another crowd of 50-60
+persons armed with aruvals and sticks came from thesouth and they caused injuries on the persons of P.Ws. 54
+and 55 who came out of their house. On getting information
+at about 8.00 P.M., P.W.72, the Head Constable, with some
+
+S.A.P. men went to Keezha Vanmani and after collecting the
+injured persons from the house of P.W.47 as well as
+collecting the injured P.W.54 and 55 in the van came to the
+Keevalur Police Station where P.W.79 (Inspector of Police)
+recorded the statement of P.W.54 and registered the same as
+Crime No. 326 of 1968. He thereafter recorded the statements
+of P.W.55 and P.Ws. 34 to 37 in the Police Station. At about
+11.45 P.M. P.W.79 left for Keezha Vanmani and met P.W.31
+there. Then both of them went to Nadu Street and found the
+dead body of Packiriswami Pillai with multiple injuries.
+P.W.79 recorded the statement of P.W.31 and registered the
+same as Crime No. 328 of 1968.
+
+         Out of 22 accused, the Sessions Judge acquitted 14 and
+convected 8, namely, accused Nos.1,2,12,13,17,18,19 and 20
+under various offences and sentenced them to suffer rigorous
+imprisonment for various terms. Te Sessions Judge found the
+aforesaid accused guilty of various offences on the grounds
+(1) that there was electric light and also moon light at the
+time of the occurrence and that P.Ws. 31,32 and 34 to 37
+witnessed the fatal injuries caused by aruvals on the head
+and neck of Packiriswami Pillai by Gopal (A-l); (2) that the
+crying out by the deceased Packiriswami Pillai that Gopal
+(A-l) was cutting him was in the nature of Dying Declaration
+and no motive could be ascribed for the deceased to falsely
+implicate the accused A-l, Gopal at that moment; (3) that
+the injuries sustained by P.Ws. 34 to 36 with all
+probabilities establish the presence of these P.Ws. at a
+close range and seeing the occurrence; and (4) that there
+was also overwhelming evidence as to the presence of A-l in
+the crowd. The appeal of all the 8 accused persons filed
+before the High Court was dismissed.
+
+         Dismissing the appeal to this Court,
+^
+
+         HELD : 1. m ere is no infirmity far less any illegality
+or failure of justice which would impel the Supreme Court to
+interfere with the order of conviction and sentence con
+currently arrived at by both the courts below. [210 D]
+
+         2(i) P.Ws. 34 to 37 have clearly stated in their
+depositions that they witnessed A-l inflict cutting injuries
+on the neck and heat of Packiriswami Pillai after lifting
+him along-with other accused and carrying him to the east of Harijan
+Street. The court of appeal below has rightly held that
+P.W. 54 was only concerned with the incident that occurred
+before his house and, as such, in Exhibit P-11 there was
+only the reference to the said incident. It was also held
+that P.W. 79 in his deposition refuted the suggestion that
+he did not examine P.W. 34 to 37 at the time alleged by him.
+Moreover, all these P.Ws. 34 to 37 suffered several injuries
+being chased by the crowd while running forwards the house
+of P.W. 47. Therefore, evidences of all these eye witnesses
+as well as of P.W. 31 were believed by both the courts below
+that A-l caused fatal cut injuries on the person of deceased
+Packiriswami Pillai. [207 A-C]
+
+         2(ii) P.W. 65, Assistant Surgeon, Government Hospital,
+who conducted postmortem also stated in his deposition that
+out of the 11 injuries caused on the person of deceased
+Packiriswami Pillai, the injuries Nos. 1 and 2 which could
+have been caused by single cut were sufficient in the
+ordinary course of nature to cause death. The doctor has
+also stated in his evidence that after the infliction of
+injury No. 1 the injured could have shouted out. There is,
+therefore, ample evidence to negative the submission that
+the accused No. 1 was falsely implicated. Moreover, P.W. 72
+
+has stated in his deposition that he is deaf and as such he
+could not hear whether P.Ws. 34 to 37 stated about the
+injuries caused by A-1 on deceased Packiriswami Pillai. He
+also stated that he heard P.Ws. 34 to 37 uttering
+Packiriswami, Packiriswami. It was rightly held by both the
+courts below that P.W. 72 was deaf and could not hear what
+they told him. The non-mentioning of attack on Packiriswami
+Pillai by P.W. 54 in his statement does not in any way lead
+to the inference that the statements of P.Ws. 34 to 37 were
+recorded after recording of the statement of P.W. 31. [207
+D-F]
+
+         3(i) P.W. 79 recorded the statement of P.Ws. 34 to 37
+in the Police Station after recording of the statements of
+P.Ws. 54 and 55. The mere recording of Statements in plain-
+sheet instead of in diary form in these circumstances does
+not lead to any where in view of the clear evidence of P.W.
+79 which was believed by both the courts below that the
+statements of these P.Ws. were recorded by him immediately
+after recording the statement of P.W. 54 (Exhibit P-11).
+[207 H; 208 A]
+
+         3(ii) P.Ws. 31,32 and 34 to 37 clearly stated in their
+evidence that they did not see P.W. 1 at all. The evidence
+of P.W. 1 was that he did not go to Caste Hindu Street at
+thattime. In view of these evidence, the Court of appeal below
+held that the evidence of P.W. 72 to the effect that P.W. 1
+came near the house of P.W. 47 could not be accepted. It was
+also pointed out by the Court of appeal below that P.W. 72
+has not spoken about presence of P.W. 1 at about that time
+either in Crime No. 326 or in Crime No. 328 of 1968. It was
+only during the investigation in Crime No. 327 of 1968
+namely the connected arson case, P.W. 72 made the above
+statement. [208 C-D]
+
+         4. It was not improbable that because at the time of
+the recording of statement of P.Ws. 34 to 37, P.W. 79 was
+not aware of the death of Packiriswami Pillai, so he did not
+consider it a grave crime and did not register it separately
+as spoken to by him. P.W. 79 further stated in his evidence
+that both the occurrences namely attack on P.Ws. 54 and 55
+and Packiriswami Pillai formed part of one and the same
+trans action. P.W. 79 further admitted that he ought not to
+have registered a separate case in Crime No. 328 of 1968 on
+the statement of P.W. 31. It was rightly held by the Court
+of appeal below that P.W. 79 adopted irregular procedure in
+registering separate Crime number on the basis of the
+statement of P.W. 31 and this cannot lead to the inference
+that P.Ws. 34 to 37 were examined only after examination of
+P.W. 31. It was rightly held by the court of appeal below
+that these irregularities committed by P.W. 79 in not
+recording the statement of P.Ws. 34 to 37 in Case Diary Form
+and registering the separate crime number on the statement
+of P.W. 31 could not militate against the prosecution case.
+No motive has been suggested against P.W. 79. [208 G-H; 209
+A-B]
+
+         5. The accused 1 and 2 have been convicted by the
+Courts below on the finding that the offences charged
+against them have been proved by the eye witnesses beyond
+any reasonable doubt. There was no illegality nor any
+question of principle involved in the matter of making order
+sentencing them to imprisonment as provided in 88. 302 and
+364 of the Indian Penal Code. Therefore, the Court is not
+inclined to interfere with the sentences passed by the
+Courts below. [209 E-F]
+
+         State of Maharastra v. Mayer Hans George, A.I.R. 1965
+
+
+S.C. 722 applied.
+         Pritam Singh v. The State, A.I.R. 1950 S.C. 169 and
+
+Sadhu Singh Harnam Singh v. state of Pepsu) A.I.R. 1954 S.C.
+271 referred to.
+JUDGMENT:
+         CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No.
+ 234 of 1973.
+         From the Judgment and Order dated 4.8.1972 of the Madras High Court in Criminal Appeal No. 23 of 1971.
+         R.K. Garg, Gopal Singh and L.R. Singh for the Appellants.
+         K.G. Bhagat, A.V. Rangam, Umanath Singh, V.C. Nagaraj and R.B. Misra for the Respondent.
+         The Judgment of the Court was delivered by B.C. RAY, J. This appeal on special leave is directed against the Judgment and Order of the High Court of Judicature at Madras dated 4.8.1972 in Criminal Appeal No.
+23 of 1971 whereby the appeal was dismissed and the conviction and sentences passed by the Court of Sessions, east Thanjavur Division at Nagapattinam against the accused nos. 1, 2, 12, 13, 17, 18, 19 and 20 were confirmed.
+ The prosecution case is as follows: All the accused appellants are residents of various villages within Keevalur Police Station. The first accused is the leader of the Left Communist Party are also of the Harijan Kisans of five neighbouring villages. Accused nos.
+17 and 18 are the leaders of the Left Communist Party at Keezha Venmani village. There were serious differences between the Mirasdars and the Harijan labourers regarding the fixation of wages for harvest. These troubles started in 1967 and the Kisans have been agitating for higher wages by taking processions and convening meetings. There was a settlement in 1967 whereby the Mannargudi agreement was made between the parties providing for additional half measure of paddy to the Harijan labourers. This settlement was enforced from January 1968, but in November 1968 the Harijan labourers demanded uniform wages of six measures of paddy per kalam of paddy harvested and in case this six measures of paddy was not paid, the labourers trespassed into the lands and illegally harvested paddy crops. This created the trouble as the local Harijan labourers refused to work at a low wage and demanded higher wages. There was the Paddy Producers Association having its offices in several villages. P.W. 1 Gopal Krishna Naidu was the President ofPaddy Producers Association of Nagai Taluk and P.W. 19 Ramu Plllai was the President of the Association at Irukkai and he deceased Packiriswami Pillai was a member of the Association. The Mirasdars used to bring labourers from outside for harvest of paddy from their fields as local labourers were reluctant to harvest paddy at the wage of 4- 1/2 measures of paddy. The local labourers were very much aggrieved by this bringing of men from outside for harvesting of paddy.
+         On 25th December, 1968 Packiriswami Pillai, since deceased, alongwith other labourers of Irakkai came to harvest the paddy crops from the fields of the Mirasidar P.W. 15 at about 9 a.m. It appears that on apprehending trouble P.W. 15 sent Exhibit P. 9 to the Inspector at Keevalur Police Station and Exhibit P. 8 to the Vallvalam Police Station requesting for sending some police men so that harvesting of crops might be done peacefully. The harvesting of crops was over by 5.30 p.m. and each of the labourers were fed with Sambar Satham. Each of them were paid 4-1/2 measures of paddy per kalam. P.Ws. 25, 26 and one Rangayyan left immediately as they wanted to go to Thevur for seeing a picture. The seventeen Irukkai people started for home sometime thereafter. The Irukkai labourers reached the east-west Harijan Street at about 7.30 p.m. P.Ws. 42 and 43 purchased betels in the shop of P.W. 30, Subramaniam, of the main road. There was moon light and electric light.
+There were bamboo clusters in the form of a hood on either side of the east-west Harijan Street near the second electric lamp post from the west. At the east west Harijan Street, P.Ws. 31, 32, 34 to 44 saw a crowd of 10 to 15 persons standing. In that crowd PWs. 31, 32, 34 to 37 saw accused Nos. 1 and 2 armed with aruvals. Tile crowd questioned them as to which place they belonged to, whereon they replied that they belonged to Irukkai. Immediately, A-l Gopal cried out, "Do not leave Irukkai people, cut them, beat them." A crowd of about 50 persons being armed with aruvals, sticks etc. came running towards the Irukkai people. P.Ws. 31, 32, 34 to 37 while running found Packiriswami Pillai tripping and falling down near the electric lamp post on the Harijan Street. Accused Nos. 1 and 2 and some others in the crowd also lifted him by hands, legs and clothes. Then he was carried to some distance towards the east. At that time Packiriswami Pillai cried out that he was being cut by Gopal (A-1) and they were leaving him behind and running. P.Ws. 31, 32 and 34 to 37 saw the first accused cutting Packiriswamy Pillai with aruval on his neck and on his head. P.Ws. 31, 32, 347 35, 36 and 37ran towards the Caste Hindu Street and ultimately entered into the house of P.W. 47. Another crowd of 50-60 persons armed with aruvals and sticks came from the south and they caused injuries on the persons of P.Ws. 54 and 55 who came out of their houses. On the same day at about 8.00 p.m. P.W.
+79, Inspector of Police, Keevalur Police Station on getting information that some persons armed with lethal weapons were parading on the main road beyond Thevur and towards south, after requisitioning a vehicle (van) from Nagapattinam Police Station sent P.W. 72, the Head Constable with the van for road patrolling between Thevur and Killukudi. P.W. 72 with some S.A.P. men went to Keezha Vanmani and after collecting the injured persons from the house of P. W. 47 as well as collecting the injured P.Ws. 54 and 55 in the van came to the Keevalur Police Station, where P.W. 79 (Inspector of Police) recorded the statement of P.W. 54 who was lying seriously injured in the van and registered the same as Crime No. 326 of 1968 of Keevalur Police Station. He thereafter recorded the statements of P.W. 55 in the van and recorded the statements of other P.Ws. 34 to 37 in the Police Station. Thereafter P.W. 79 at about 11.45 p.m. left for Keezha Venmani and reached at about 12.00 mid night. He met P.W. 31 there. P.W. 79 then went to Nadu street alongwith P.W. 31 and found the dead body of Packiriswami Pillai kept leaning against a Coconut tree with multiple injuries. P. W. 79 recorded the statement of P. W. 31 and registered the same as Crime No. 328 of 1968.
+ The learned Sessions Judge after duly weighing the evidences of P.Ws. found inter alia that there was electric light and also moon light at the time of the occurrence.
+P.Ws. 31, 32 and 34 to 37 witnessed the fatal injuries caused by aruvals on the head and neck of Packiriswami Plllai by Gopal (A-l). It was also held that the crying out by the deceased Packiriswami Pillai that Gopal (A-1) was cutting him was in the nature of Dying Declaration and no motive could be ascribed for the deceased to falsely implicate the accused A-1 Gopal at that moment. Moreover, the injuries sustained by P.Ws. 34 to 36 with all probabilities establish the presence of these P.Ws. at a close range and seeing the occurrence. There was also overwhelming evidence as to the presence of A-1 in the crowd. The learned Sessions Judge found accused No. 1 guilty of offence under s. 302 I.P.C. and sentenced him to imprisonment for life. He also found the accused No. 1 alongwith accused Nos. 2, 13, 17 and 18 guilty of murder under s.148 I.P.C. and sentenced each of them to undergo rigorousimprisonment for two years. Accused Nos. 1 and 2 were also held guilty of the offence under s. 364 I.P.C. and sentenced each of them to undergo rigorous imprisonment for 5 years.
+All these sentences will run concurrently. Out of 22 accused, 14 of the accused were acquitted and 8 of them i.e.
+accused Nos. 1, 2, 12, 13, 17, 18, 19 and 20 were convicted under various offences and they were sentenced to suffer rigorous imprisonment for various terms.
+ Against the aforesaid judgment and order of conviction, all the 8 accused persons failed Criminal Appeal No. 23 of 1971. The appeal was dismissed and the conviction of all the accused appellants for various offences and sentences of imprisonment awarded against each of them were confirmed.
+ Mr. Garg, learned counsel, appearing only on behalf of the accused appellant No. 1 has submitted before this Court that he will argue in this appeal only on behalf of the accused appellant No. 1 Gopal and as regards accused appellant No. 2 he further submitted before us that the appellant No. 2 Ramayyan who was convicted under s. 364 I.
+P. C. and sentenced to undergo rigorous imprisonment for five years may be granted exemption from undergoing the remaining term of the sentence.
+ It has been firstly contended by Mr. Garg, learned counsel, that the statement of P.W. 54 Packiriswamy Poraiyar (exhibit P-11) which was recorded by P.W. 79 and registered in Crime No. 326 of 1968 did not mention about the attack on deceased Packiriswami Pillai or any Irukkai people. It has also been submitted that P.W. 72 (Head Constable) who collected the injured person P.Ws. 54, 55 and 34 to 37 in the van and took them to the Police Station at Keevalur also did not tell about the attack on the deceased Packiriswami Pillai. It has been, therefore, submitted that the statements of P.Ws. 34 to 37 were recorded not at the Police Station immediately after recording statement of P.W. 54 i.e. Exhibit P-11. It has also been submitted that the accused Gopal (A-1) who is well known to the Mirasdars has been falsely implicated at the instance of P.W. 1, who as stated by P.W. 72 came to the place where P.W. 72 was bringing in the injured persons in the van i.e. P.Ws. 54, 55 and 34 to 37 for bring them to the Police Station. This submission has no legs to stand upon. It has been held by both the courts below that the evidences of P.Ws. 34 to 37 were recorded by the Inspector, Keevalur Police Station (P.W. 79) as soon as they were brought to the PoliceStation at about 10.30 a.m. All these witnesses have clearly stated in their depositions that they witnessed A-1 Inflict cutting injuries on the neck and head of Packiriswami Pillai after lifting him alongwith other accused and carrying him to the east of Harijan Street. The court of appeal below has rightly held that P.W. 54 was only concerned with the incident that occured before his house and as such in Exhibit P-11 there was only the reference to the said incident. It was also held that P.W. 79 in his deposition refuted the suggestion that he did not examine P.W. 34 to 37 at the time alleged by him. Moreover all these P.Ws. 34 to 37 suffered several injuries being chased by the crowd while running towards the house of P.W. 47. Therefore evidences of all these eye witnesses as well as of P.W. 31 were believed by both the courts below that A-1 caused fatal cut injuries on the person of deceased Packiriswami Pillai. P.W. 65 Dr.
+Madan Gopal, Assistant Surgeon, Government Hospital, Nagapattinam, who conducted post-mortem also stated in his deposition that out of the 11 injuries caused on the person of deceased Packiriswami Pillai, the injuries Nos. 1 and 2 which could have been caused by single cut was sufficient in the ordinary course of nature to cause death. The Doctor has also stated in his evidence that after the infliction of injury No. 1, the injured could have shouted out. There is, therefore, ample evidence to negative the submission that the accused No. 1 was falsely implicated. Moreover, P.W. 72 has stated in his deposition that he is deaf and as such he could not hear whether P.Ws. 34 to 37 stated about the injureis caused by A-1 on deceased Packiriswami Pillai. He also stated that he heard P.Ws. 34 to 37 uttering Packiriswami, Packiriswami. It was rightly held by both the courts below that P.W. 72 was deaf and could not hear what they told him. The non- mentioning of attack on Packiriswami Pillai by P.W. 54 in his statement does not in any way lead to the inference that the statements of P.Ws. 34 to 37 were recorded after recording of the statement of P.W. 31. It has been tried to be submitted in this connection that the statements of these P.Ws. were recorded in plain-sheet of paper instead of recording in diary form, and this raises suspician that the statements of the P.Ws. 34 to 37 were not recorded immediately after the recording of the statement of P.W. 54. This submission was also set at naught by the courts below by holding that P.W. 79 recorded the statements of P.Ws. 34 to 37 in the Police Station after recording of the statements of P.Ws. 54 and 55. The mere recording ofstatements in plain-sheet instead of in diary form in these A circumstances does not lead to any where in view of the clear evidence of P.W. 79 which was believed by both the courts below that the statements of these P.Ws. were recorded by him immediately after recording the statement of P.W. 54 (Exhibit P-11).
+ It was submitted that had P.Ws. 31, 32 and 34 to 37 known about the attack on deceased Packiriswami Pillai and his being carried away, it was unlikely that they would not have informed P.W. 1, who came there as stated by P.W. 72 and P.W. 1 in that case would have taken further action in the matter with the help of P.W. 72. This submission has also no merit. It has been held by the court of appeal below that P.Ws. 31, 32 and 34 to 37 clearly stated in their evidence that they did not see P.W. 1 at all. The evidence of P.W. 1 was that he did not go to Caste Hindu Street at that time. In view of these evidences, the court of appeal below held that the evidence of P.W. 72 to the effect that P.W. 1 came near the house of P.W. 47 could not be accepted.
+it was also pointed out by the court of appeal below that P.W. 72 has not spoken about presence of P.W. 1 at that time either in Crime No. 326 or in Crime No. 328 of 1968. It was only during the investigation in Crime No. 327 of 1968 namely the connected arson case P.W. 72 made the above statement. Therefore, this submission is not sustainable.
+         It was submitted by Mr. Garg that had P.Ws. 34 to 37 stated in their statements which were recorded by P.W. 72 at Keevalur Police Station about the attack on Packiriswami Pillai, then that statement would have been recorded separately and a separate crime number would have been given to it as was done in recording statement of P.W. 31 and registering it in Crime No. 32 of 1968. It was, therefore, suggested that P.Ws. 34 to 37 were examined by P.W. 79 only after recording statement of P.W. 31. This submission was also urged before the Court of appeal below and it was held that it was not improbable that because at the time of the recording of statement of P.Ws. 34 to 37, P. W. 79 was not aware of the death of Packiriswamy Pillai, so he did not consider it a grave crime and did not register it separately as spoken to by him. P.W. 79 further stated in his evidence that both the occurrences namely attack on P.Ws. 54 and 55 and Packiriswami Pillai formed part of one and the same transaction. P.W. 79 further admitted that he ought not to have registered a separate case in Crime No. 328 of 1968 on the statement of P.W. 31. It wasrightly held by the Court of appeal below that P.W. 79 adopted irregular procedure in registering separate crime number on the basis of the statement of P.W. 31 and this cannot lead to the inference that P.Ws. 34 to 37 were examined only after examination of P.W. 31. It was rightly held by the Court of appeal below that these irregularities committed by P.W. 79 in not recording the statement of P.Ws.
+34 to 37 in Case Diary Form and registering the separate crime number on the statement of P.W. 31 could not militate against the prosecution case. No motive has been suggested against P.W. 79.
+ It was lastly submitted before us by Mr. Garg that in view of the sentence already suffered by A-l and A-2 this Court should remit the remaining period of their sentence.
+We are unable to accept this submission advanced by Mr.
+Garg. Mention may be made in this connection to the observations of this Court in State of Maharastra v. Mayer Hans George, A.I.R. [1965] S.C. 722, which are as follows:- "It is the settled rule of the Supreme Court that it would not interfere with the sentence passed by the Courts below unless there is an illegality in it or the same involves any question of principle."
+         As we have already stated herein before that the accused 1 and 2 have been convicted by the courts below on the finding that the offences charged against them have been proved by the eye witnesses beyond any reasonable doubt.
+There was no illegality nor any question of principle involved in the matter of making order sentencing them to imprisonment as provided in ss. 302 and 364 of the Indian Penal Code. Therefore, we are not inclined to interfere with the sentences passed by the Courts below.
+         It is pertinent to mention here the observations made by this Court in Pritam Singh v. The State, A.I.R. [1950] S.C. 169, which are as follows:- "It will not grant special leave to appeal under Article 136 (1) of the Constitution unless it is shown that exceptional and special circumstances exist, that substantial and grave injustice has been done and the case in question presents features of sufficient gravity to warrant a review of the decision appealed against and that only those points can be urged at the final hearing of A the appeal which are fit to be urged at the preliminary stage when leave is asked for. It is well established that this court does not by special leave convert itself into a court to review evidence of a third time. Where, however, the court below fails in apprehending the true effect of a material change in the versions given by the witnesses immediately after the occurrence and the narrative at the trial with respect to the nature and character of the offence, it seems to us that in such a situation it would not be right for this court to affirm such a decision when it occasions a failure of justice."
+ This decision has been relied upon and followed in a subsequent decision of this Court in Sadhu Singh Harnan Singh v. State of Pepsu, A.I.R. [1954] S.C. 271.
+ In the premise aforesaid, we do not find any infirmity for less any illegality or failure of justice which would impel us to interfere with the order of conviction and sentence concurrently arrived at by both the courts below.
+ We, therefore, dismiss the appeal and confirm the convicFPJ tion and sentences passed on accused Nos. A-l and A-2 as well as on other appellants.
+ M.L.A.                        Appeal dismissed.
+ "}, "meta": {"group": "Criminal"}},

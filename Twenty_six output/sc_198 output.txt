@@ -1,0 +1,48 @@
+Precedent Referred :     vs.
+
+Precedent Referred : the new jehangir vakil mills ltd. v. the commissioner of
+
+Precedent Referred : jagdish mills ltd. v. commissioner of income-tax, [1960] 1
+
+Precedent Referred : s.c.r. 236, keshav mills co. ltd., v. commissioner of
+
+Precedent Referred : 82, commissioner of income-tax v. ogale glass works ltd.
+
+Precedent Referred : [1955] 1 s.c.r. 185, commissioner of income-tax v. kirloskar
+
+Precedent Referred : mahadevia, bombay v. commissioner of income-tax, bombay,
+
+Precedent Referred : before dealing with this question, it is necessary to go back a little, and refer briefly to some cases decided earlier than the new jehangir vakil mills case (1) and jagdish mills ltd. v. commissioner of income-tax (2), on which reliance has been placed in this case. id (1) [1960] 1 s.c.r. 249.
+
+Precedent Referred : (2) [1960] 1 s.c.r. 236.keshav mills co., ltd. v. commissioner of income-tax (1), the high court of bombay called for a supplemental statement of the case, but it expressed the view that if a cheque was received by a creditor on a british indian bank and he gave the cheque to his bank for collection, the bank must be treated as his agent and that, on the realisation of the amount of the cheque in the taxable territory, the creditor must be regarded as having received it in the taxable territory, even if he was outside it.", "labels": ["pre_not_relied"]}}, {"id": "ba9c17e268394b288b4481db428765f9", "value": {"start": 8472, "end": 8733, "text": "in sir sobha singh v.
+
+Precedent Referred : commissioner of income-tax (2), it was held by the punjab high court that where cheques were given to a bank for purposes of collection, the receipt of the money was at the place where the bank on which the cheques were drawn was situated.", "labels": ["pre_not_relied"]}}, {"id": "32d2fff794844c7da8afcdc6c5a6c695", "value": {"start": 8734, "end": 8839, "text": "these views found further amplification, and were applied in two other cases by the bombay if high court.", "labels": ["analysis"]}}, {"id": "c6f8deaffafb491fb6879c03f980d4f4", "value": {"start": 8840, "end": 8966, "text": "they are kirloskar bros. ltd. v. commissioner of income-tax (3 ) and ogale glass works ltd. v. commissioner of income-tax (4).", "labels": ["pre_not_relied"]}}, {"id": "0483998e6dfd4857be7dadb313e8ac41", "value": {"start": 8966, "end": 9259, "text": "
+
+Precedent Referred : in both these cases, it was held that unless the payee expressly constituted the post office as his agent, the mere posting of the cheque did not constitute the post office the agent of the payee, and that the amount of the cheque was also received at the place where the cheque was received.", "labels": ["pre_not_relied"]}}, {"id": "9cac2672e816480884cd85834b8efe09", "value": {"start": 9260, "end": 9511, "text": "in kirloskar bros. ltd. v. commissioner of income-tax(3), it was held that the mere posting of the cheque in delhi was not tantamount to the receipt of the cheque in delhi, because the payee had not requested the government to send the cheque by post.", "labels": ["pre_not_relied"]}}, {"id": "4eec56d767fc49b48c5a60e9c2b76d64", "value": {"start": 9512, "end": 9890, "text": "in ogale glass works case (4), the bombay high court asked for a supplementary statement of the case from the tribunal as to whether there was any express request by the assessee that the cheque should be sent by post, and held that as there was no such express request, the receipt of the money was not where the cheque was posted but at the place where the money was received.", "labels": ["pre_not_relied"]}}, {"id": "7a57964d8dda4d73a44ce1f58efef340", "value": {"start": 9890, "end": 9942, "text": "
+
+Precedent Referred : decided on september 17, 1951.the last two decisions of the bombay high court were reversed by this court, and it was held that an intimation to the payer " to remit " the amount by cheque was sufficient nomination of the post office as the agent of the payee: vide commissioner of income-tax v. ogale glass works ltd. (1) and commissioner of income-tax v. kirloskar bros.
+
+Precedent Referred :     vs.
+
+Precedent Referred : the new jehangir vakil mills ltd. v. the commissioner of
+
+Precedent Referred : jagdish mills ltd. v. commissioner of income-tax, [1960] 1
+
+Precedent Referred : s.c.r. 236, keshav mills co. ltd., v. commissioner of
+
+Precedent Referred : 82, commissioner of income-tax v. ogale glass works ltd.
+
+Precedent Referred : [1955] 1 s.c.r. 185, commissioner of income-tax v. kirloskar
+
+Precedent Referred : mahadevia, bombay v. commissioner of income-tax, bombay,
+
+Precedent Referred : before dealing with this question, it is necessary to go back a little, and refer briefly to some cases decided earlier than the new jehangir vakil mills case (1) and jagdish mills ltd. v. commissioner of income-tax (2), on which reliance has been placed in this case. id (1) [1960] 1 s.c.r. 249.
+
+Precedent Referred : (2) [1960] 1 s.c.r. 236.keshav mills co., ltd. v. commissioner of income-tax (1), the high court of bombay called for a supplemental statement of the case, but it expressed the view that if a cheque was received by a creditor on a british indian bank and he gave the cheque to his bank for collection, the bank must be treated as his agent and that, on the realisation of the amount of the cheque in the taxable territory, the creditor must be regarded as having received it in the taxable territory, even if he was outside it. in sir sobha singh v.
+
+Precedent Referred : these views found further amplification, and were applied in two other cases by the bombay if high court. they are kirloskar bros. ltd. v. commissioner of income-tax (3 ) and ogale glass works ltd. v. commissioner of income-tax (4).
+
+Precedent Referred : in kirloskar bros. ltd. v. commissioner of income-tax(3), it was held that the mere posting of the cheque in delhi was not tantamount to the receipt of the cheque in delhi, because the payee had not requested the government to send the cheque by post. in ogale glass works case (4), the bombay high court asked for a supplementary statement of the case from the tribunal as to whether there was any express request by the assessee that the cheque should be sent by post, and held that as there was no such express request, the receipt of the money was not where the cheque was posted but at the place where the money was received.
+
+Precedent Referred : decided on september 17, 1951.the last two decisions of the bombay high court were reversed by this court, and it was held that an intimation to the payer " to remit " the amount by cheque was sufficient nomination of the post office as the agent of the payee: vide commissioner of income-tax v. ogale glass works ltd. (1) and commissioner of income-tax v. kirloskar bros.
+

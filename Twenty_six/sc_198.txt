@@ -1,0 +1,321 @@
+{"id": 4241, "annotations": [{"result": [{"id": "293c6dc2f5a34575b1d8b9bc721b3599", "value": {"start": 0, "end": 55, "text": "PETITIONER:
+M/S. ZORASTER AND CO.
+
+    Vs.
+
+RESPONDENT:", "labels": ["PREAMBLE"]}}, {"id": "ecefb78b0c9a4d34895a01771258f965", "value": {"start": 55, "end": 134, "text": "
+THE COMMISSIONER OF INCOME TAX, DELHI, AJMER, RAJASTHAN AND
+
+DATE OF JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "23efb424fda44fbb82d4b1fae95a2b3b", "value": {"start": 134, "end": 145, "text": "
+17/04/1960", "labels": ["PREAMBLE"]}}, {"id": "8938e01b232f49118a3ddfb677745bab", "value": {"start": 145, "end": 906, "text": "
+
+BENCH:
+HIDAYATULLAH, M.
+BENCH:
+HIDAYATULLAH, M.
+DAS, S.K.
+SHAH, J.C.
+
+CITATION:
+
+1961 AIR 107             1961 SCR (1) 210
+
+CITATOR INFO :          (14,26,27,32)
+                        (121)
+RF         1961 SC1633  (8)
+                        (16)
+R          1963 SC1356  (7)
+                        (5)
+R          1963 SC1484  (5)
+
+R          1965 SC1636
+
+R          1966 SC1466
+
+RF         1972 SC2048
+
+R          1990 SC1451
+
+ACT:
+Income-tax Reference--Power of High Court to call for
+supplemental statement of case--Indian Income-tax Act, 1922
+(11 of 1922), s. 66(4).
+
+HEADNOTE:
+The appellant entered into contract with Government for the
+supply of goods, and in the assessment year 1942-43 Rs.
+10,80,653 and in the assessment year 1943-44, Rs. 7,45,336
+", "labels": ["PREAMBLE"]}}, {"id": "47040df0a8fd4615aee34abc04198619", "value": {"start": 906, "end": 960, "text": "were assessed as its income by the Income-tax Officer.", "labels": ["PREAMBLE"]}}, {"id": "075ffc1d28854aa9bd1173ba4c9d5924", "value": {"start": 961, "end": 1002, "text": "The
+supplies to Government were made for.", "labels": ["PREAMBLE"]}}, {"id": "d1a87f4b4bde45539e0dbd16f4b75752", "value": {"start": 1003, "end": 1012, "text": "Jaipur by", "labels": ["PREAMBLE"]}}, {"id": "f8bc371002df45c58e9c9da68c03d434", "value": {"start": 1013, "end": 1026, "text": "the
+appellant", "labels": ["PREAMBLE"]}}, {"id": "c4f282ab2ae44c05b6f096b9da0314a6", "value": {"start": 1026, "end": 1085, "text": ", and payment was by cheques which were received at
+Jaipur.", "labels": ["PREAMBLE"]}}, {"id": "a9be8d1fefc844349cd38f745e972982", "value": {"start": 1086, "end": 1199, "text": "The contention of the appellant was that this
+income was received at Jaipur outside the then taxable
+territories.", "labels": ["PREAMBLE"]}}, {"id": "70608297737c4e8db434e72bc9476228", "value": {"start": 1200, "end": 1240, "text": "This contention was not accepted by the
+", "labels": ["PREAMBLE"]}}, {"id": "69c5bdce0b8b4f50903de3697f64d670", "value": {"start": 1240, "end": 1277, "text": "Income-tax Appellate Tribunal, Delhi.", "labels": ["PREAMBLE"]}}, {"id": "12618d893daf4728b22c205e23e08744", "value": {"start": 1278, "end": 1997, "text": "The appellant then
+applied for a reference to the High Court under s. 66(1) of
+the Indian Income-tax Act, and by its order dated December
+10, 1952, the Tribunal referred the following question for
+the decision of the High Court.
+
+          " Whether on the facts and circumstances of the case
+the profits and gains in respect of the sales made to the
+Governmentof India were received by the assessee in the taxable terri-
+tories ?"
+The High Court remanded the case to the Tribunal for a
+supplemental statement of case calling for a finding on the
+question " whether the cheques were sent to the assessee
+firm by post or by hand and what directions, if any, had the
+assessee firm given to the department in the matter ".", "labels": ["PREAMBLE"]}}, {"id": "3c896d2d14d94460ae6ebcad01fe59fa", "value": {"start": 1998, "end": 2319, "text": "The
+appellant questioned the order of the High Court relying on
+the decision in New Jehangir Vakil Mill's case, [1960] 1
+
+S.C.R. 249.
+Held, that the enquiry in such cases must be to see whether
+the question decided by the Tribunal admits of the
+consideration of the new point as an integral or an
+incidental part thereof.", "labels": ["PREAMBLE"]}}, {"id": "efe85df58b8e4c6dbb402ca48d91e639", "value": {"start": 2320, "end": 2499, "text": "The supplemental statement which
+the Tribunal is directed to submit must arise from the facts
+admitted and/or found by the Tribunal and should not open
+the door to fresh evidence.", "labels": ["PREAMBLE"]}}, {"id": "96ed1e931690444d80552dbfee324e79", "value": {"start": 2499, "end": 3105, "text": "
+Held, further, that the question as framed in this case was
+wide enough to include an enquiry into whether there was any
+request, express or implied, that the amount of the bills be
+paid by cheques so as to bring the matter within the dicta
+of this Court in the Ogale Glass Works case, [1955] 1 S.C.R.
+185 or Jagdish Mills case, [1960] 1 S.C.R. 236.
+In the absence of anything expressly said in the Order of
+the High Court to the contrary, it cannot be held that the
+direction given would lead inevitably to the admitting of
+fresh evidence as that has been prohibited by the New
+Jehangir Vakil Mills case.", "labels": ["PREAMBLE"]}}, {"id": "9b4eb1205fd0464ea5348eaffe8beda7", "value": {"start": 3105, "end": 3210, "text": "
+The New Jehangir Vakil Mills Ltd. v. The Commissioner of
+Income-tax, [1960] 1 S.C.R. 249, distinguished.", "labels": ["PREAMBLE"]}}, {"id": "f9d8e5a82c4449c58fb06eddfa6a66e0", "value": {"start": 3210, "end": 3757, "text": "
+Jagdish Mills Ltd. v. Commissioner of Income-tax, [1960] 1
+S.C.R. 236, Keshav Mills Co. Ltd., v. Commissioner of
+Income-tax, [1950] 18 I.T.R. 407, Sir Sobha Singh v.
+Commissioner of Income-tax, [1950] 18 I.T.R. 998, Kirloskar
+Bros. Ltd.v. Commissioner of Income-tax, [1952] 21 I.T.R.
+82, Commissioner of Income-tax v. Ogale Glass Works Ltd.
+[1955] 1 S.C.R. 185, Commissioner of Income-tax v. Kirloskar
+Bros. Ltd., [1954] 25 I.T.R. 547 and Mrs. Kusumben D.
+Mahadevia, Bombay v. Commissioner of Income-tax, Bombay,
+[1960] 3 S.C.R. 417, referred to.", "labels": ["PREAMBLE"]}}, {"id": "21c60f120c1b4c0081b4ec7e21d4c58d", "value": {"start": 3757, "end": 3768, "text": "
+
+JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "8f2c1bde968d4fe79b1e3abcf314758c", "value": {"start": 3768, "end": 3827, "text": "
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 30 of 1958.", "labels": ["NONE"]}}, {"id": "2803324eb51b4f3a9c2fbefb5286cf81", "value": {"start": 3827, "end": 3960, "text": "
+Appeal by special leave from the judgment and order dated March 24, 1955, of the Punjab High Court in Civil Reference No. 3 of 1953.", "labels": ["NONE"]}}, {"id": "042b65285cd743f8907faca32df46df0", "value": {"start": 3960, "end": 3993, "text": "
+Gopal Singh, for the appellants.", "labels": ["NONE"]}}, {"id": "4de2643316704787894e72e4c71f7089", "value": {"start": 3993, "end": 4056, "text": "
+K. N. Rajagopala Sastri and D. Gupta, for the respondent.1960.", "labels": ["NONE"]}}, {"id": "61e8aa0831034c65a5e9e523eb5f16a2", "value": {"start": 4057, "end": 4067, "text": "August 17.", "labels": ["NONE"]}}, {"id": "a737f179d21446ed8692aca9a39a32ae", "value": {"start": 4068, "end": 4110, "text": "The Judgment of the Court was delivered by", "labels": ["NONE"]}}, {"id": "152d2759d9d249bebd05e173611c32fd", "value": {"start": 4111, "end": 4127, "text": "HIDAYATULLAH J.-", "labels": ["NONE"]}}, {"id": "dfd009d36aa446109428db6ec2d8dd86", "value": {"start": 4127, "end": 4429, "text": "This appeal, by special leave of this Court, is against the judgment 'and order dated March 24, 1955, of the Punjab High Court by which the High Court, purporting to act under s. 66(4) of the Indian Income-tax Act, called for a supplemental statement of the case from the Income-tax Appellate Tribunal.", "labels": ["FAC"]}}, {"id": "9ea7faf3a9e14260b333781e0241a713", "value": {"start": 4430, "end": 4589, "text": "The special leave granted by this Court is limited to the question whether the High Court had jurisdiction in this case to call for the supplemental statement.", "labels": ["ISSUE"]}}, {"id": "1ccc817c691c4510bdf3acdf833902aa", "value": {"start": 4589, "end": 4666, "text": "
+The assessee, Messrs. S. Zoraster & Co., Jaipur, consists of three partners.", "labels": ["FAC"]}}, {"id": "c7d5807c010040fb8122b073570aacc3", "value": {"start": 4667, "end": 4748, "text": "Two of them are coparceners of a joint Hindu family, and the third is a stranger.", "labels": ["FAC"]}}, {"id": "ac9bca35e6554e02a50a6756ff2ff699", "value": {"start": 4749, "end": 4872, "text": "They had formed this partnership in June, 1940, for the manufacture and sale of blankets, felts and other woollen articles.", "labels": ["FAC"]}}, {"id": "65aac783048c4acfaf7a6805d9ab9bbd", "value": {"start": 4873, "end": 4931, "text": "A deed of partnership was also executed on March 16, 1944.", "labels": ["FAC"]}}, {"id": "d5b168a2ca4641b9808e1813a87a577e", "value": {"start": 4932, "end": 5205, "text": "The assessee entered into contracts with Government for the sup- ply of goods, and in the assessment year 1942-43, Rs.
+10,80,658-0-0 and in the assessment year 1943-44, Rs.
+17,45,336-0-0 were assessed as its income by the Income-tax Officer, Contractor's Circle, New Delhi.", "labels": ["FAC"]}}, {"id": "db8cfd304f144edd992c50683b9f990d", "value": {"start": 5206, "end": 5247, "text": "The supplies to Government were made for.", "labels": ["FAC"]}}, {"id": "5af6ae4e89524d6e98dd45ea28f68eb8", "value": {"start": 5248, "end": 5422, "text": "Jaipur by the assessee, and payment was by cheques which were received at Jaipur and were endorsed in favour of the joint Hindu family, which acted as the assessee's bankers.", "labels": ["FAC"]}}, {"id": "3b51e4105a04459cb91a1e832ba053a3", "value": {"start": 5423, "end": 5535, "text": "The contention of the assessee was that this income was received at Jaipur outside the then taxable territories.", "labels": ["FAC"]}}, {"id": "5be9a164552a489593178f073782e4df", "value": {"start": 5536, "end": 5613, "text": "This contention was not accepted by the Income-tax Appellate Tribunal, Delhi.", "labels": ["FAC"]}}, {"id": "b0bbaf6e7d8341898d2fde056b9a1b83", "value": {"start": 5613, "end": 6229, "text": "
+The assessee then applied for a reference to the High Court under s. 66(1) of the Indian Income-tax Act, and by its order dated December 10, 1952, the Income-tax Appellate Tribunal referred the following question for the decision of the High Court: " Whether on the facts and circumstances of the case the profits and gains in respect of the sales made to the Government of India were received by the assessee in the taxable territories ? "The Tribunal had stated in the statement of the case as follows: "The payment was made by the Government of India by cheques drawn on the Reserve Bank of India, Bombay Branch.", "labels": ["FAC"]}}, {"id": "27046bc9c52148fbbda5a4af5726ee3d", "value": {"start": 6230, "end": 6269, "text": "These cheques were received in Jaipur."", "labels": ["FAC"]}}, {"id": "1c2f7da73f3e48e8a6059be8e59d593b", "value": {"start": 6269, "end": 7270, "text": "
+It may be pointed out that in the contract of sale between the assessee and the Government of India, the following clause was included to determine the system of payment: " 21. System of payment:-Unless otherwise agreed between the Purchaser and the Contractor payment for the delivery of the stores will be made by the Chief Auditor, Indian Stores Department, New Delhi, by cheque on a Government treasury in India or on a branch of the Imperial Bank of India or the Reserve Bank of India transacting Government business."
+In dealing with the Reference, the High Court passed an order under s. 66(4) of the Income-tax Act observing, "........ it would be necessary for the Appellate Tribunal to find, inter alia, whether the cheques were sent to the assessee firm by post or by hand and what directions, if any, had the assessee firm given to the Department in the matter ".
+The High Court thereafter remanded the case to the Tribunal for a supplemental statement of the case on the lines indicated.", "labels": ["RLC"]}}, {"id": "e89e0cced0ba4e9cb3cdcc5f77fb4840", "value": {"start": 7271, "end": 7467, "text": "This order is questioned on the authority of the decision of this Court in The New Jehangir Vakil Mills Ltd.
+v. The Commissioner of Income-tax(1) which, it is claimed, completely covers this case.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "5f221cfe831d4d17bddc373463180421", "value": {"start": 7468, "end": 7646, "text": "In that case also, the High Court of Bombay had called for a supplemental statement of the case, and it was ruled by this Court that the High Court had exceeded its jurisdiction.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "1843a74729274be8944ae9663b1a1914", "value": {"start": 7646, "end": 8471, "text": "
+Before dealing with this question, it is necessary to go back a little, and refer briefly to some cases decided earlier than The New Jehangir Vakil Mills case (1) and Jagdish Mills Ltd. v. Commissioner of Income-tax (2), on which reliance has been placed in this case. ID (1) [1960] 1 S.C.R. 249.
+(2) [1960] 1 S.C.R. 236.Keshav Mills Co., Ltd. v. Commissioner of Income-tax (1), the High Court of Bombay called for a supplemental statement of the case, but it expressed the view that if a cheque was received by a creditor on a British Indian Bank and he gave the cheque to his bank for collection, the bank must be treated as his agent and that, on the realisation of the amount of the cheque in the taxable territory, the creditor must be regarded as having received it in the taxable territory, even if he was outside it.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "ba9c17e268394b288b4481db428765f9", "value": {"start": 8472, "end": 8733, "text": "In Sir Sobha Singh v.
+Commissioner of Income-tax (2), it was held by the Punjab High Court that where cheques were given to a bank for purposes of collection, the receipt of the money was at the place where the bank on which the cheques were drawn was situated.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "32d2fff794844c7da8afcdc6c5a6c695", "value": {"start": 8734, "end": 8839, "text": "These views found further amplification, and were applied in two other cases by the Bombay If high Court.", "labels": ["ANALYSIS"]}}, {"id": "c6f8deaffafb491fb6879c03f980d4f4", "value": {"start": 8840, "end": 8966, "text": "They are Kirloskar Bros. Ltd. v. Commissioner of Income-tax (3 ) and Ogale Glass Works Ltd. v. Commissioner of Income-tax (4).", "labels": ["PRE_NOT_RELIED"]}}, {"id": "0483998e6dfd4857be7dadb313e8ac41", "value": {"start": 8966, "end": 9259, "text": "
+In both these cases, it was held that unless the payee expressly constituted the post office as his agent, the mere posting of the cheque did not constitute the post office the agent of the payee, and that the amount of the cheque was also received at the place where the cheque was received.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "9cac2672e816480884cd85834b8efe09", "value": {"start": 9260, "end": 9511, "text": "In Kirloskar Bros. Ltd. v. Commissioner of Income-tax(3), it was held that the mere posting of the cheque in Delhi was not tantamount to the receipt of the cheque in Delhi, because the payee had not requested the Government to send the cheque by post.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "4eec56d767fc49b48c5a60e9c2b76d64", "value": {"start": 9512, "end": 9890, "text": "In Ogale Glass Works case (4), the Bombay High Court asked for a supplementary statement of the case from the Tribunal as to whether there was any express request by the assessee that the cheque should be sent by post, and held that as there was no such express request, the receipt of the money was not where the cheque was posted but at the place where the money was received.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "7a57964d8dda4d73a44ce1f58efef340", "value": {"start": 9890, "end": 9942, "text": "
+(1) [1950] 18 I.T.R. 407.
+(2) [1950] 18 I.T.R. 998.", "labels": ["NONE"]}}, {"id": "a5657b70fa4e440f86a96b128abeae88", "value": {"start": 9943, "end": 9967, "text": "(3) [1952] 21 I.T.R. 82.", "labels": ["NONE"]}}, {"id": "701531c4757d4ae19a2dd8d2bb3ec6e6", "value": {"start": 9967, "end": 10406, "text": "
+(4) I. Tax Reference No. 10 of 1949 of the Bombay H. C.
+decided on September 17, 1951.The last two decisions of the Bombay High Court were reversed by this Court, and it was held that an intimation to the payer " to remit " the amount by cheque was sufficient nomination of the post office as the agent of the payee: vide Commissioner of Income-tax v. Ogale Glass Works Ltd. (1) and Commissioner of Income-tax v. Kirloskar Bros.
+Ltd. (2).", "labels": ["PRE_NOT_RELIED"]}}, {"id": "9d69ffe9b37443379dff6f43d91bdb6e", "value": {"start": 10407, "end": 10494, "text": "Later, the principle was extended still further by this Court in Jagdish Mills case(3).", "labels": ["ANALYSIS"]}}, {"id": "0fab8d8ddab745499b46a3df5d5cc573", "value": {"start": 10495, "end": 10795, "text": "It was held that where the bills had an endorsement Government should pay the amount due by cheque and the cheques were received in full satisfaction unconditionally, this constituted a sufficient implied request for the purpose of the application of the rule in Ogale Glass Works case of this Court.", "labels": ["ANALYSIS"]}}, {"id": "5657684b27f84dba86e2772fc5a04899", "value": {"start": 10795, "end": 10904, "text": "
+Jagdish Mills case (3) and the New Jehangir Vakil Mills case (4) were decided by this Court on the same day.", "labels": ["ANALYSIS"]}}, {"id": "118b28aaf32a429ea7d78991d8799088", "value": {"start": 10905, "end": 11061, "text": "In the latter case, the Department had to deal with a non-resident Company which, at all material times, was situate at Bhavnagar, one of the Indian States.", "labels": ["ANALYSIS"]}}, {"id": "bffd65b74bb0457fb0c8f463b900f59f", "value": {"start": 11062, "end": 11150, "text": "Cheques in payment for supplies to Government were sent from British India to Bhavnagar.", "labels": ["ANALYSIS"]}}, {"id": "028d51032c684f77abb884ebde715e88", "value": {"start": 11151, "end": 11447, "text": "The Department contended in the case that though the cheques were received at Bhavnagar, they were, in fact, cashed in British India and until such encashment, income could not be said to have been received but that on encashment in British India, the receipt of income was also in British India.", "labels": ["ANALYSIS"]}}, {"id": "8404f5c4ff4b4238896f3732e93cd207", "value": {"start": 11448, "end": 11552, "text": "The Tribunal held that the cheques having been received at Bhavnagar the income was also received there.", "labels": ["ANALYSIS"]}}, {"id": "85150f1beb604a9891bef01761e1c3c2", "value": {"start": 11553, "end": 11639, "text": "In doing so, the Tribunal followed the Bombay decision in Kirloskar Brothers case (5).", "labels": ["ANALYSIS"]}}, {"id": "4b1482bdc597459dbb510fdbdb9ca37c", "value": {"start": 11640, "end": 11911, "text": "The Tribunal, however, observed that if the Bombay view which was then under appeal to this Court were not upheld, then an enquiry would have to be made as to whether the Mills' bankers at Ahmedabad acted as the Mills' agents for collecting the amount due on the cheques.", "labels": ["ANALYSIS"]}}, {"id": "36676b829011466b816cb0aa7ad967f8", "value": {"start": 11912, "end": 12043, "text": "The question whether the posting of the cheques from British India to Bhavnagar at the request, express or (1) [1955] 1 S.C.R. 185.", "labels": ["ANALYSIS"]}}, {"id": "9192740633864e8483566f6899e09a60", "value": {"start": 12043, "end": 12144, "text": "
+(3) [1960] 1 S.C.R. 236.
+(2) [1954] 25 I.T.R. 547.
+(4) [1960] 1 S.C.R. 249.
+(5) [1952] 21 I.T.R. 82.", "labels": ["NONE"]}}, {"id": "18b3dca155114ebea8d0d98c9aeebc0b", "value": {"start": 12144, "end": 12281, "text": "implied, of the Mills or otherwise, made any difference was not considered at any stage before the case reached the High Court of Bombay.", "labels": ["ANALYSIS"]}}, {"id": "39209015cbe74afaa5249eeaad7aa60d", "value": {"start": 12282, "end": 12720, "text": "This was expressly found to be so by this Court in these words: " The only ground urged by the Revenue at all material stages was that because the amounts which were received, from the merchants or the Government were received by cheques drawn on banks in British India which were ultimately encashed in British India, the monies could not be said to have been received in Bhavnagar though the cheques were in fact received at Bhavnagar."", "labels": ["ANALYSIS"]}}, {"id": "507dc69bb4e546b480bee8bab1007ada", "value": {"start": 12720, "end": 12860, "text": "
+The reference was held back by the Tribunal till the decision of this Court in Ogale Glass Works case (1) and Kirloskar Brothers' case (2).", "labels": ["ANALYSIS"]}}, {"id": "2893e7e50ecf43fdb240b1278d805678", "value": {"start": 12861, "end": 13138, "text": "Even after seeing that in those two cases the request for payment by cheques to be sent by post made all the difference, the Tribunal did not frame its statement of the case or the question to include this aspect, because that aspect of the matter was never considered before.'", "labels": ["ANALYSIS"]}}, {"id": "6e8b41893f414b8592ffea9e0108970b", "value": {"start": 13139, "end": 13362, "text": "The question referred was thus limited to the legal effect of the receipt of the cheques at Bhavnagar without advertence to the fact whether the cheques were so sent by post at the request, express or implied, of the Mills.", "labels": ["ANALYSIS"]}}, {"id": "34b551c5c13c4e1e94b9f67c9b1545b6", "value": {"start": 13363, "end": 13495, "text": "The question framed was: " Whether the receipt of the cheques in Bhavnagar amounted to receipt of the sale proceeds in Bhavnagar ? "", "labels": ["ANALYSIS"]}}, {"id": "ba808da72d7e40f39252bf45b440c2a6", "value": {"start": 13495, "end": 13662, "text": "
+The question as framed and the statement which accompanied it brought into controversy the only point till then considered by the Tribunal and the taxing authorities.", "labels": ["ANALYSIS"]}}, {"id": "fae8c6970bd0401083b5ec0ca47abb6c", "value": {"start": 13663, "end": 13808, "text": "When the case *as heard by it, the High Court desired to consider it from the angle of the Kirloskar Brothers(2) and Ogale Glass Works (1) cases.", "labels": ["ANALYSIS"]}}, {"id": "4d8c12ec98d64560aa16c647a1f7b361", "value": {"start": 13809, "end": 13860, "text": "It called for a supplemental statement of the case.", "labels": ["ANALYSIS"]}}, {"id": "4a6ecefd83d4412788bb3b380d19e37b", "value": {"start": 13861, "end": 14010, "text": "In doing so, the High Court went beyond the ambit of the controversy as it had existed till then and also the statement of the case and the question.", "labels": ["ANALYSIS"]}}, {"id": "24e37307b05b42749fc3a6de4da0ff3c", "value": {"start": 14010, "end": 14162, "text": "
+The High Court directed the Tribunal as follows: "On the finding of the Tribunal that all the cheques were received in Bhavnagar, the Tribunal to find ", "labels": ["ANALYSIS"]}}, {"id": "89a05db594284ccfb225990a946dfac6", "value": {"start": 14162, "end": 14212, "text": "(1) [1955] 1 S.C.R. 185.
+(2) [1954] 25 I.T.R. 547.", "labels": ["NONE"]}}, {"id": "d1176103d342420e9e012830c30cd964", "value": {"start": 14212, "end": 14436, "text": "what portion of these cheques were received by post, whether there was any request by the assessee, express or implied, that the amounts which are the subject matter of these cheques should be remitted to Bhavnagar by post."", "labels": ["ANALYSIS"]}}, {"id": "e90ae62010684b8abc69ea5f98a35740", "value": {"start": 14437, "end": 14801, "text": "In repelling the objection that such an enquiry was alien to the point decided by the Tribunal and might require fresh evidence, the High Court justified itself by saying: " But we cannot shut out the necessary inquiry which even from our own point of view is necessary to be made in order that we should satisfactorily answer the question raised in the Reference.", "labels": ["ANALYSIS"]}}, {"id": "dcdaa60acb594c12a93ad7d5993ae0ac", "value": {"start": 14802, "end": 15044, "text": "It must not be forgotten that under section 66(4) of the Income-tax Act we have a right independently of the conduct of the parties to direct the Tribunal to state further facts so that we may properly exercise our own advisory jurisdiction."", "labels": ["ANALYSIS"]}}, {"id": "71fdd481f2d844f78cade29b298e42d0", "value": {"start": 15044, "end": 15158, "text": "
+This Court pointed out that the High Court exceeded its jurisdiction under s. 66(4) of the Indian Income-tax Act.", "labels": ["ANALYSIS"]}}, {"id": "a8b538e7594e4356a9f7a7d5d44df80e", "value": {"start": 15158, "end": 15408, "text": "
+It was observed: " If the question actually referred does not bring out clearly the real issue between the parties, the High Court may reframe the question so that the matter actually agitated before the Tribunal may be raised before the High Court.", "labels": ["ANALYSIS"]}}, {"id": "cf3cc86f01d5479b940aaebf96182cc6", "value": {"start": 15409, "end": 15768, "text": "But s. 66(4) does not enable the High Court to raise a new question of law which does not arise out of the Tribunal's order and direct the Tribunal to investigate new or further facts necessary to determine this new question which had not been referred to it under s. 66(1) or s. 66(2) and direct the Tribunal to submit a supplementary statement of the case."", "labels": ["ANALYSIS"]}}, {"id": "28945f6af56645b2b25afd68e265d33b", "value": {"start": 15768, "end": 15957, "text": "
+It was also pointed out that the facts admitted and/ or found by the Tribunal could alone be the foundation of the question of law which might be said to arise out of the Tribunal's order.", "labels": ["ANALYSIS"]}}, {"id": "8709e76b45954918ae9297fa3a644739", "value": {"start": 15958, "end": 16228, "text": "The case thus set two limits to the jurisdiction of the High Court under s. 66(4), and they were that the advisory jurisdiction was confined (a) to the facts on the record and/or found by the Tribunal and (b) the question which 218 would arise from the Tribunal's order.", "labels": ["ANALYSIS"]}}, {"id": "a65d7fcaad98484897f1fd347ba38c7f", "value": {"start": 16229, "end": 16514, "text": "It was pointed out by this Court that it was not open to the High Court to order a fresh enquiry into new facts with a view to amplifying the record and further that it was equally not open to the High Court to decide a question of law, which did not arise out of the Tribunal's order.", "labels": ["ANALYSIS"]}}, {"id": "19356fc2ebb54694a69a29aed1a41df9", "value": {"start": 16515, "end": 16645, "text": "This was illustrated by comparing the question as framed by the Tribunal with the question which the High Court desired to decide.", "labels": ["ANALYSIS"]}}, {"id": "d4aef39f9c804dd2a5edcd3c4d89c9cb", "value": {"start": 16646, "end": 17008, "text": "Whereas the Tribunal had only referred the question: " Whether the receipt of the cheques at Bhavnagar amounted to receipt of sale proceeds in Bhavnagar ?", what the High Court intended deciding was: " Whether the posting of the cheques in British India at the request express or implied of the appellant, amounted to receipt of sale proceeds in British India ?"", "labels": ["ANALYSIS"]}}, {"id": "3727813418174678a0c20e3f2f6bc5a9", "value": {"start": 17008, "end": 17234, "text": "
+These were two totally different questions, and it was held that the High-Court could not decide a matter which was different from that decided by the Tribunal, nor call for a statement of the case bearing on this new matter.", "labels": ["ANALYSIS"]}}, {"id": "c3364e3e2dc34cfc937b0b1db5124d1b", "value": {"start": 17234, "end": 17371, "text": "
+The proposition laid down in the Jehangir Vakil Mills case (1), finds support from yet another case of this Court decided very recently.", "labels": ["ANALYSIS"]}}, {"id": "44fc636a33e74f9fb3a98fa3da7979aa", "value": {"start": 17372, "end": 17520, "text": "In Kusumben D. Mahadevia v.
+Commissioner of Income-tax Bombay (2), it was observed: " In our opinion, the objection of the assessee is well-founded.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "b71e8bd2116048419531d2e27885fb68", "value": {"start": 17521, "end": 17627, "text": "The Tribunal did not address itself to the question whether the Concessions Order applied to the assessee.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "0a475ec0aa8d4fe49d52a299bebe4287", "value": {"start": 17628, "end": 17751, "text": "It decided the question of assessability on the short ground that the income had not arisen in Baroda but in British India.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "e1862d42892c4282a1c6c51cd15beab9", "value": {"start": 17752, "end": 17824, "text": "That aspect of the matter has not been touched by the Bombay High Court.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "d7766dca508441c99598b581f6f22ef5", "value": {"start": 17825, "end": 17963, "text": "The latter has, on the other hand, considered whether the Concessions Order applies to the assessee, a matter not touched by the Tribunal.", "labels": ["PRE_NOT_RELIED"]}}, {"id": "a11599153a0f4bd4adf155f89f1924ba", "value": {"start": 17963, "end": 18086, "text": "
+Thus, though the result is the same so far as the assessment is concerned, the grounds of decision are entirely different.", "labels": ["ANALYSIS"]}}, {"id": "887a367a489e439eacc8670541274dc8", "value": {"start": 18086, "end": 18140, "text": "
+(1) [1960] 1 S.C.R. 249.
+(2) [1960] 3 S.C.R. 417,421.", "labels": ["NONE"]}}, {"id": "29135e2d91854439b47ffa98aa207846", "value": {"start": 18140, "end": 18307, "text": "Section 66 of the Income-tax Act which confers jurisdiction upon the High Court only permits a reference of a question of law arising out of the order of the Tribunal.", "labels": ["STA"]}}, {"id": "bbcdfbb8b9dc4b79b565c34d80336b6b", "value": {"start": 18308, "end": 18426, "text": "It does not confer jurisdiction on the High Court to decide a different question of law not arising out of such order.", "labels": ["ANALYSIS"]}}, {"id": "b33540d501b04ed399cdbd01ac59c78f", "value": {"start": 18427, "end": 18597, "text": "It is possible that the same question of law may involve different approaches for its solution, and the High Court may amplify the question to take in all the approaches.", "labels": ["ANALYSIS"]}}, {"id": "b88e37349cab4929a0add14dc6f65a88", "value": {"start": 18598, "end": 18689, "text": "But the question must still be the one which was before the Tribunal and was decided by it.", "labels": ["ANALYSIS"]}}, {"id": "05ebb88908264b9dbf9517da27bf9a64", "value": {"start": 18690, "end": 18775, "text": "It must not be an entirely different question which the Tribunal never considered."
+ ", "labels": ["ANALYSIS"]}}, {"id": "f6136a9c8b2648dda8dcd59b99a07c9c", "value": {"start": 18775, "end": 18979, "text": "It follows from this that the enquiry in such cases must be to see whether the question decided by the Tribunal admits the consideration of the new point as an integral or even an incidental part thereof.", "labels": ["ANALYSIS"]}}, {"id": "4c3c761dfaa843a9ae728db606f9cf23", "value": {"start": 18980, "end": 19169, "text": "Even so, the supplemental statement which the Tribunal is directed to submit must arise from the facts admitted and/or found by the Tribunal, and should not open the door to fresh evidence.", "labels": ["ANALYSIS"]}}, {"id": "b8bb21de94c34ec48bef9d52b20850cc", "value": {"start": 19170, "end": 19812, "text": "The fact that in Ogale Glass Works case (1), the Bombay High Court had asked for a supplemental statement in the same way as in the Jehangir Vakil Mills case (2 ), and this Court did not rule out the new matter, cannot help the assessee in the present case, because the jurisdiction of the High Court was not questioned, as it had been done in the Jehangir Vakil Mills case, or has been done here. We have thus to see whether in this case the question which was decided and which has been referred to the High Court admits the return of the case for a supplemental statement on the lines indicated by the High Court in the order under appeal.", "labels": ["ANALYSIS"]}}, {"id": "ac3884a1e2b441e7851f428fb2317195", "value": {"start": 19812, "end": 20022, "text": "
+ At the very start, one notices a difference in the question of law in this case and the Ogale Glass Works case (3), on the one hand, and the question of law in the Jehangir Vakil Mills case (2), on the other.", "labels": ["ANALYSIS"]}}, {"id": "8cfe5d67173a4a4d8e24eca8788f51ce", "value": {"start": 20023, "end": 20118, "text": "In the former two cases, the question is very wide, while in the latter it is extremely narrow.", "labels": ["ANALYSIS"]}}, {"id": "3e3ea70a8be14f788f55ef27d2e18050", "value": {"start": 20119, "end": 20190, "text": "This can be Been by placing the three questions side by side as below :", "labels": ["ANALYSIS"]}}, {"id": "ba2bbd39af25415d9e14e096dcca4bdf", "value": {"start": 20190, "end": 20330, "text": " (1) I. Tax Reference No. 19 of 1949 of the Bombay H. C.
+ decided on September 17, 1951.
+ (2) [1960] 1 S.C.R. 249.
+ (3) [1955] 1 S.C.R. 185.", "labels": ["NONE"]}}, {"id": "bc11b08cdee645fe88685bb4211578ec", "value": {"start": 20330, "end": 20701, "text": "
+ Jehangir Vakil Mills case       " Whether the receipt of the cheques in Bhav- nagar amounted to receipt of the sale proceeds in Bhavnagar ?"
+ Ogale Glass Works case          " Whether on the facts of the case, income, profits and gains in respect of sales made to the Government of India was received in British India within the meaning of Section 4(1)(a) of the Act ?"", "labels": ["ANALYSIS"]}}, {"id": "75304b6d778f44b8a65728d2c52d43be", "value": {"start": 20701, "end": 20920, "text": "
+ This case                       "Whether on the facts and circumstances of the case the profits and gains in respect of the sales made to the Government of India were received by the assessee in taxable territories ?"", "labels": ["ANALYSIS"]}}, {"id": "afa9c7f0e52c4483a9dcdf92cfdd6039", "value": {"start": 20920, "end": 21230, "text": "
+ It is thus quite plain that the question as framed in this case can include an enquiry into whether there was any request, express or implied, that the amount of the bills be paid by cheques so as to bring the matter within the dicta of this Court in the Ogale Glass Works case (2) or Jagdish Mills case (3).", "labels": ["ANALYSIS"]}}, {"id": "7c108e09a0544d86a14c81ef624476f2", "value": {"start": 21231, "end": 21413, "text": "The first limit to the jurisdiction of the High Court as laid down by this Court is thus not exceeded by the High Court in exercising its powers under s. 66(4) of the Income-tax Act.", "labels": ["ANALYSIS"]}}, {"id": "5a1d0d871f944c8aac6c9211f21d25db", "value": {"start": 21414, "end": 21719, "text": "The question is wide enough to include the alternative line of approach that if there was a request, express or implied, to send the amount due under the bills by cheque, the post office would be the agent of the assessee, and the income was received in the taxable territory when the cheques were posted.", "labels": ["ANALYSIS"]}}, {"id": "c1a081ebc8a64186b678a42fc6db42d7", "value": {"start": 21719, "end": 21794, "text": "
+(1) [1960] 1 S.C.R. 249.
+(2) [1955] 1 S.C.R. 185.
+(3) [1960] 1 S.C.R. 236.", "labels": ["NONE"]}}, {"id": "754d1cefa2314557a9cd48e01390d898", "value": {"start": 21794, "end": 21999, "text": "The next question is whether the High Court has transgressed the second limitation implicit is s. 66(4), that is to say, that the question must arise out of the facts admitted and/or found by the Tribunal.", "labels": ["ANALYSIS"]}}, {"id": "8f2c490f7e4440fc9e5c96071037ccd6", "value": {"start": 22000, "end": 22274, "text": "The High Court has observed that, "......... it would be necessary for the Appellate Tribunal to find inter alia whether the cheques were sent to the assessee firm by post or by hand and what directions, if any, bad the assessee-firm given to the Department in that matter."", "labels": ["ANALYSIS"]}}, {"id": "f6e7b7e08c5f4227adc8ab423d575d65", "value": {"start": 22274, "end": 22475, "text": "
+If the Tribunal has to make a fresh enquiry leading to the admission of fresh evidence on the record, then this direction offends against the ruling of this Court in the Jehangir Vakil Mills case (1).", "labels": ["ANALYSIS"]}}, {"id": "3dd9e20eed76489b839fe38c5b8789f1", "value": {"start": 22476, "end": 22713, "text": "If, however, the direction be interpreted to mean that the Tribunal in giving the finding must confine itself to the facts admitted and/or found by it, the direction cannot be described as in excess of the jurisdiction of the High Court.", "labels": ["ANALYSIS"]}}, {"id": "10c62695183d41f6aac8dbba8ffbb353", "value": {"start": 22714, "end": 22987, "text": "It would have been better if the High Court had given directions confined to the record of the case before the Tribunal; but, in the absence of anything expressly to the contrary, we cannot bold that the direction would lead inevitably to the admit- ting of fresh evidence.", "labels": ["ANALYSIS"]}}, {"id": "38625e4714364745b183506a8fabb26a", "value": {"start": 22988, "end": 23112, "text": "This, at least, now cannot be done, since the Jehangir Vakil Mills case (1), has prohibited the admission of fresh evidence.", "labels": ["ANALYSIS"]}}, {"id": "4639769d41764ae2a2129c9e9787025a", "value": {"start": 23113, "end": 23237, "text": "In our opinion, the present case does not fall within the rule in the Jehangir Vakil Mills case (1), and is distinguishable.", "labels": ["RATIO"]}}, {"id": "d933f2cd157043c1911c8ff23e825c5c", "value": {"start": 23237, "end": 23299, "text": "
+In the result, the appeal fails, and is dismissed with costs.", "labels": ["RPC"]}}, {"id": "2887e08e46564381bff44bc68a15d676", "value": {"start": 23299, "end": 23318, "text": "
+ Appeal dismissed.", "labels": ["RPC"]}}, {"id": "69362ee4f2e14663af4cea88b8a71f11", "value": {"start": 23318, "end": 23343, "text": "
+(1) [1960] 1 S.C.R. 249.", "labels": ["NONE"]}}]}], "data": {"text": "PETITIONER:
+M/S. ZORASTER AND CO.
+
+    Vs.
+
+RESPONDENT:
+THE COMMISSIONER OF INCOME TAX, DELHI, AJMER, RAJASTHAN AND
+
+DATE OF JUDGMENT:
+17/04/1960
+
+BENCH:
+HIDAYATULLAH, M.
+BENCH:
+HIDAYATULLAH, M.
+DAS, S.K.
+SHAH, J.C.
+
+CITATION:
+
+1961 AIR 107             1961 SCR (1) 210
+
+CITATOR INFO :          (14,26,27,32)
+                        (121)
+RF         1961 SC1633  (8)
+                        (16)
+R          1963 SC1356  (7)
+                        (5)
+R          1963 SC1484  (5)
+
+R          1965 SC1636
+
+R          1966 SC1466
+
+RF         1972 SC2048
+
+R          1990 SC1451
+
+ACT:
+Income-tax Reference--Power of High Court to call for
+supplemental statement of case--Indian Income-tax Act, 1922
+(11 of 1922), s. 66(4).
+
+HEADNOTE:
+The appellant entered into contract with Government for the
+supply of goods, and in the assessment year 1942-43 Rs.
+10,80,653 and in the assessment year 1943-44, Rs. 7,45,336
+were assessed as its income by the Income-tax Officer. The
+supplies to Government were made for. Jaipur by the
+appellant, and payment was by cheques which were received at
+Jaipur. The contention of the appellant was that this
+income was received at Jaipur outside the then taxable
+territories. This contention was not accepted by the
+Income-tax Appellate Tribunal, Delhi. The appellant then
+applied for a reference to the High Court under s. 66(1) of
+the Indian Income-tax Act, and by its order dated December
+10, 1952, the Tribunal referred the following question for
+the decision of the High Court.
+
+          " Whether on the facts and circumstances of the case
+the profits and gains in respect of the sales made to the
+Governmentof India were received by the assessee in the taxable terri-
+tories ?"
+The High Court remanded the case to the Tribunal for a
+supplemental statement of case calling for a finding on the
+question " whether the cheques were sent to the assessee
+firm by post or by hand and what directions, if any, had the
+assessee firm given to the department in the matter ". The
+appellant questioned the order of the High Court relying on
+the decision in New Jehangir Vakil Mill's case, [1960] 1
+
+S.C.R. 249.
+Held, that the enquiry in such cases must be to see whether
+the question decided by the Tribunal admits of the
+consideration of the new point as an integral or an
+incidental part thereof. The supplemental statement which
+the Tribunal is directed to submit must arise from the facts
+admitted and/or found by the Tribunal and should not open
+the door to fresh evidence.
+Held, further, that the question as framed in this case was
+wide enough to include an enquiry into whether there was any
+request, express or implied, that the amount of the bills be
+paid by cheques so as to bring the matter within the dicta
+of this Court in the Ogale Glass Works case, [1955] 1 S.C.R.
+185 or Jagdish Mills case, [1960] 1 S.C.R. 236.
+In the absence of anything expressly said in the Order of
+the High Court to the contrary, it cannot be held that the
+direction given would lead inevitably to the admitting of
+fresh evidence as that has been prohibited by the New
+Jehangir Vakil Mills case.
+The New Jehangir Vakil Mills Ltd. v. The Commissioner of
+Income-tax, [1960] 1 S.C.R. 249, distinguished.
+Jagdish Mills Ltd. v. Commissioner of Income-tax, [1960] 1
+S.C.R. 236, Keshav Mills Co. Ltd., v. Commissioner of
+Income-tax, [1950] 18 I.T.R. 407, Sir Sobha Singh v.
+Commissioner of Income-tax, [1950] 18 I.T.R. 998, Kirloskar
+Bros. Ltd.v. Commissioner of Income-tax, [1952] 21 I.T.R.
+82, Commissioner of Income-tax v. Ogale Glass Works Ltd.
+[1955] 1 S.C.R. 185, Commissioner of Income-tax v. Kirloskar
+Bros. Ltd., [1954] 25 I.T.R. 547 and Mrs. Kusumben D.
+Mahadevia, Bombay v. Commissioner of Income-tax, Bombay,
+[1960] 3 S.C.R. 417, referred to.
+
+JUDGMENT:
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 30 of 1958.
+Appeal by special leave from the judgment and order dated March 24, 1955, of the Punjab High Court in Civil Reference No. 3 of 1953.
+Gopal Singh, for the appellants.
+K. N. Rajagopala Sastri and D. Gupta, for the respondent.1960. August 17. The Judgment of the Court was delivered by HIDAYATULLAH J.-This appeal, by special leave of this Court, is against the judgment 'and order dated March 24, 1955, of the Punjab High Court by which the High Court, purporting to act under s. 66(4) of the Indian Income-tax Act, called for a supplemental statement of the case from the Income-tax Appellate Tribunal. The special leave granted by this Court is limited to the question whether the High Court had jurisdiction in this case to call for the supplemental statement.
+The assessee, Messrs. S. Zoraster & Co., Jaipur, consists of three partners. Two of them are coparceners of a joint Hindu family, and the third is a stranger. They had formed this partnership in June, 1940, for the manufacture and sale of blankets, felts and other woollen articles. A deed of partnership was also executed on March 16, 1944. The assessee entered into contracts with Government for the sup- ply of goods, and in the assessment year 1942-43, Rs.
+10,80,658-0-0 and in the assessment year 1943-44, Rs.
+17,45,336-0-0 were assessed as its income by the Income-tax Officer, Contractor's Circle, New Delhi. The supplies to Government were made for. Jaipur by the assessee, and payment was by cheques which were received at Jaipur and were endorsed in favour of the joint Hindu family, which acted as the assessee's bankers. The contention of the assessee was that this income was received at Jaipur outside the then taxable territories. This contention was not accepted by the Income-tax Appellate Tribunal, Delhi.
+The assessee then applied for a reference to the High Court under s. 66(1) of the Indian Income-tax Act, and by its order dated December 10, 1952, the Income-tax Appellate Tribunal referred the following question for the decision of the High Court: " Whether on the facts and circumstances of the case the profits and gains in respect of the sales made to the Government of India were received by the assessee in the taxable territories ? "The Tribunal had stated in the statement of the case as follows: "The payment was made by the Government of India by cheques drawn on the Reserve Bank of India, Bombay Branch. These cheques were received in Jaipur."
+It may be pointed out that in the contract of sale between the assessee and the Government of India, the following clause was included to determine the system of payment: " 21. System of payment:-Unless otherwise agreed between the Purchaser and the Contractor payment for the delivery of the stores will be made by the Chief Auditor, Indian Stores Department, New Delhi, by cheque on a Government treasury in India or on a branch of the Imperial Bank of India or the Reserve Bank of India transacting Government business."
+In dealing with the Reference, the High Court passed an order under s. 66(4) of the Income-tax Act observing, "........ it would be necessary for the Appellate Tribunal to find, inter alia, whether the cheques were sent to the assessee firm by post or by hand and what directions, if any, had the assessee firm given to the Department in the matter ".
+The High Court thereafter remanded the case to the Tribunal for a supplemental statement of the case on the lines indicated. This order is questioned on the authority of the decision of this Court in The New Jehangir Vakil Mills Ltd.
+v. The Commissioner of Income-tax(1) which, it is claimed, completely covers this case. In that case also, the High Court of Bombay had called for a supplemental statement of the case, and it was ruled by this Court that the High Court had exceeded its jurisdiction.
+Before dealing with this question, it is necessary to go back a little, and refer briefly to some cases decided earlier than The New Jehangir Vakil Mills case (1) and Jagdish Mills Ltd. v. Commissioner of Income-tax (2), on which reliance has been placed in this case. ID (1) [1960] 1 S.C.R. 249.
+(2) [1960] 1 S.C.R. 236.Keshav Mills Co., Ltd. v. Commissioner of Income-tax (1), the High Court of Bombay called for a supplemental statement of the case, but it expressed the view that if a cheque was received by a creditor on a British Indian Bank and he gave the cheque to his bank for collection, the bank must be treated as his agent and that, on the realisation of the amount of the cheque in the taxable territory, the creditor must be regarded as having received it in the taxable territory, even if he was outside it. In Sir Sobha Singh v.
+Commissioner of Income-tax (2), it was held by the Punjab High Court that where cheques were given to a bank for purposes of collection, the receipt of the money was at the place where the bank on which the cheques were drawn was situated.
+These views found further amplification, and were applied in two other cases by the Bombay If high Court. They are Kirloskar Bros. Ltd. v. Commissioner of Income-tax (3 ) and Ogale Glass Works Ltd. v. Commissioner of Income-tax (4).
+In both these cases, it was held that unless the payee expressly constituted the post office as his agent, the mere posting of the cheque did not constitute the post office the agent of the payee, and that the amount of the cheque was also received at the place where the cheque was received.
+In Kirloskar Bros. Ltd. v. Commissioner of Income-tax(3), it was held that the mere posting of the cheque in Delhi was not tantamount to the receipt of the cheque in Delhi, because the payee had not requested the Government to send the cheque by post. In Ogale Glass Works case (4), the Bombay High Court asked for a supplementary statement of the case from the Tribunal as to whether there was any express request by the assessee that the cheque should be sent by post, and held that as there was no such express request, the receipt of the money was not where the cheque was posted but at the place where the money was received.
+(1) [1950] 18 I.T.R. 407.
+(2) [1950] 18 I.T.R. 998.
+(3) [1952] 21 I.T.R. 82.
+(4) I. Tax Reference No. 10 of 1949 of the Bombay H. C.
+decided on September 17, 1951.The last two decisions of the Bombay High Court were reversed by this Court, and it was held that an intimation to the payer " to remit " the amount by cheque was sufficient nomination of the post office as the agent of the payee: vide Commissioner of Income-tax v. Ogale Glass Works Ltd. (1) and Commissioner of Income-tax v. Kirloskar Bros.
+Ltd. (2). Later, the principle was extended still further by this Court in Jagdish Mills case(3). It was held that where the bills had an endorsement Government should pay the amount due by cheque and the cheques were received in full satisfaction unconditionally, this constituted a sufficient implied request for the purpose of the application of the rule in Ogale Glass Works case of this Court.
+Jagdish Mills case (3) and the New Jehangir Vakil Mills case (4) were decided by this Court on the same day. In the latter case, the Department had to deal with a non-resident Company which, at all material times, was situate at Bhavnagar, one of the Indian States. Cheques in payment for supplies to Government were sent from British India to Bhavnagar. The Department contended in the case that though the cheques were received at Bhavnagar, they were, in fact, cashed in British India and until such encashment, income could not be said to have been received but that on encashment in British India, the receipt of income was also in British India. The Tribunal held that the cheques having been received at Bhavnagar the income was also received there. In doing so, the Tribunal followed the Bombay decision in Kirloskar Brothers case (5). The Tribunal, however, observed that if the Bombay view which was then under appeal to this Court were not upheld, then an enquiry would have to be made as to whether the Mills' bankers at Ahmedabad acted as the Mills' agents for collecting the amount due on the cheques. The question whether the posting of the cheques from British India to Bhavnagar at the request, express or (1) [1955] 1 S.C.R. 185.
+(3) [1960] 1 S.C.R. 236.
+(2) [1954] 25 I.T.R. 547.
+(4) [1960] 1 S.C.R. 249.
+(5) [1952] 21 I.T.R. 82.implied, of the Mills or otherwise, made any difference was not considered at any stage before the case reached the High Court of Bombay. This was expressly found to be so by this Court in these words: " The only ground urged by the Revenue at all material stages was that because the amounts which were received, from the merchants or the Government were received by cheques drawn on banks in British India which were ultimately encashed in British India, the monies could not be said to have been received in Bhavnagar though the cheques were in fact received at Bhavnagar."
+The reference was held back by the Tribunal till the decision of this Court in Ogale Glass Works case (1) and Kirloskar Brothers' case (2). Even after seeing that in those two cases the request for payment by cheques to be sent by post made all the difference, the Tribunal did not frame its statement of the case or the question to include this aspect, because that aspect of the matter was never considered before.' The question referred was thus limited to the legal effect of the receipt of the cheques at Bhavnagar without advertence to the fact whether the cheques were so sent by post at the request, express or implied, of the Mills. The question framed was: " Whether the receipt of the cheques in Bhavnagar amounted to receipt of the sale proceeds in Bhavnagar ? "
+The question as framed and the statement which accompanied it brought into controversy the only point till then considered by the Tribunal and the taxing authorities. When the case *as heard by it, the High Court desired to consider it from the angle of the Kirloskar Brothers(2) and Ogale Glass Works (1) cases. It called for a supplemental statement of the case. In doing so, the High Court went beyond the ambit of the controversy as it had existed till then and also the statement of the case and the question.
+The High Court directed the Tribunal as follows: "On the finding of the Tribunal that all the cheques were received in Bhavnagar, the Tribunal to find (1) [1955] 1 S.C.R. 185.
+(2) [1954] 25 I.T.R. 547.what portion of these cheques were received by post, whether there was any request by the assessee, express or implied, that the amounts which are the subject matter of these cheques should be remitted to Bhavnagar by post."
+In repelling the objection that such an enquiry was alien to the point decided by the Tribunal and might require fresh evidence, the High Court justified itself by saying: " But we cannot shut out the necessary inquiry which even from our own point of view is necessary to be made in order that we should satisfactorily answer the question raised in the Reference. It must not be forgotten that under section 66(4) of the Income-tax Act we have a right independently of the conduct of the parties to direct the Tribunal to state further facts so that we may properly exercise our own advisory jurisdiction."
+This Court pointed out that the High Court exceeded its jurisdiction under s. 66(4) of the Indian Income-tax Act.
+It was observed: " If the question actually referred does not bring out clearly the real issue between the parties, the High Court may reframe the question so that the matter actually agitated before the Tribunal may be raised before the High Court. But s. 66(4) does not enable the High Court to raise a new question of law which does not arise out of the Tribunal's order and direct the Tribunal to investigate new or further facts necessary to determine this new question which had not been referred to it under s. 66(1) or s. 66(2) and direct the Tribunal to submit a supplementary statement of the case."
+It was also pointed out that the facts admitted and/ or found by the Tribunal could alone be the foundation of the question of law which might be said to arise out of the Tribunal's order. The case thus set two limits to the jurisdiction of the High Court under s. 66(4), and they were that the advisory jurisdiction was confined (a) to the facts on the record and/or found by the Tribunal and (b) the question which 218 would arise from the Tribunal's order. It was pointed out by this Court that it was not open to the High Court to order a fresh enquiry into new facts with a view to amplifying the record and further that it was equally not open to the High Court to decide a question of law, which did not arise out of the Tribunal's order. This was illustrated by comparing the question as framed by the Tribunal with the question which the High Court desired to decide. Whereas the Tribunal had only referred the question: " Whether the receipt of the cheques at Bhavnagar amounted to receipt of sale proceeds in Bhavnagar ?", what the High Court intended deciding was: " Whether the posting of the cheques in British India at the request express or implied of the appellant, amounted to receipt of sale proceeds in British India ?"
+These were two totally different questions, and it was held that the High-Court could not decide a matter which was different from that decided by the Tribunal, nor call for a statement of the case bearing on this new matter.
+The proposition laid down in the Jehangir Vakil Mills case (1), finds support from yet another case of this Court decided very recently. In Kusumben D. Mahadevia v.
+Commissioner of Income-tax Bombay (2), it was observed: " In our opinion, the objection of the assessee is well-founded. The Tribunal did not address itself to the question whether the Concessions Order applied to the assessee. It decided the question of assessability on the short ground that the income had not arisen in Baroda but in British India. That aspect of the matter has not been touched by the Bombay High Court. The latter has, on the other hand, considered whether the Concessions Order applies to the assessee, a matter not touched by the Tribunal.
+Thus, though the result is the same so far as the assessment is concerned, the grounds of decision are entirely different.
+(1) [1960] 1 S.C.R. 249.
+(2) [1960] 3 S.C.R. 417,421.Section 66 of the Income-tax Act which confers jurisdiction upon the High Court only permits a reference of a question of law arising out of the order of the Tribunal. It does not confer jurisdiction on the High Court to decide a different question of law not arising out of such order. It is possible that the same question of law may involve different approaches for its solution, and the High Court may amplify the question to take in all the approaches. But the question must still be the one which was before the Tribunal and was decided by it. It must not be an entirely different question which the Tribunal never considered."
+ It follows from this that the enquiry in such cases must be to see whether the question decided by the Tribunal admits the consideration of the new point as an integral or even an incidental part thereof. Even so, the supplemental statement which the Tribunal is directed to submit must arise from the facts admitted and/or found by the Tribunal, and should not open the door to fresh evidence. The fact that in Ogale Glass Works case (1), the Bombay High Court had asked for a supplemental statement in the same way as in the Jehangir Vakil Mills case (2 ), and this Court did not rule out the new matter, cannot help the assessee in the present case, because the jurisdiction of the High Court was not questioned, as it had been done in the Jehangir Vakil Mills case, or has been done here. We have thus to see whether in this case the question which was decided and which has been referred to the High Court admits the return of the case for a supplemental statement on the lines indicated by the High Court in the order under appeal.
+ At the very start, one notices a difference in the question of law in this case and the Ogale Glass Works case (3), on the one hand, and the question of law in the Jehangir Vakil Mills case (2), on the other. In the former two cases, the question is very wide, while in the latter it is extremely narrow. This can be Been by placing the three questions side by side as below : (1) I. Tax Reference No. 19 of 1949 of the Bombay H. C.
+ decided on September 17, 1951.
+ (2) [1960] 1 S.C.R. 249.
+ (3) [1955] 1 S.C.R. 185.
+ Jehangir Vakil Mills case       " Whether the receipt of the cheques in Bhav- nagar amounted to receipt of the sale proceeds in Bhavnagar ?"
+ Ogale Glass Works case          " Whether on the facts of the case, income, profits and gains in respect of sales made to the Government of India was received in British India within the meaning of Section 4(1)(a) of the Act ?"
+ This case                       "Whether on the facts and circumstances of the case the profits and gains in respect of the sales made to the Government of India were received by the assessee in taxable territories ?"
+ It is thus quite plain that the question as framed in this case can include an enquiry into whether there was any request, express or implied, that the amount of the bills be paid by cheques so as to bring the matter within the dicta of this Court in the Ogale Glass Works case (2) or Jagdish Mills case (3). The first limit to the jurisdiction of the High Court as laid down by this Court is thus not exceeded by the High Court in exercising its powers under s. 66(4) of the Income-tax Act. The question is wide enough to include the alternative line of approach that if there was a request, express or implied, to send the amount due under the bills by cheque, the post office would be the agent of the assessee, and the income was received in the taxable territory when the cheques were posted.
+(1) [1960] 1 S.C.R. 249.
+(2) [1955] 1 S.C.R. 185.
+(3) [1960] 1 S.C.R. 236.The next question is whether the High Court has transgressed the second limitation implicit is s. 66(4), that is to say, that the question must arise out of the facts admitted and/or found by the Tribunal. The High Court has observed that, "......... it would be necessary for the Appellate Tribunal to find inter alia whether the cheques were sent to the assessee firm by post or by hand and what directions, if any, bad the assessee-firm given to the Department in that matter."
+If the Tribunal has to make a fresh enquiry leading to the admission of fresh evidence on the record, then this direction offends against the ruling of this Court in the Jehangir Vakil Mills case (1). If, however, the direction be interpreted to mean that the Tribunal in giving the finding must confine itself to the facts admitted and/or found by it, the direction cannot be described as in excess of the jurisdiction of the High Court. It would have been better if the High Court had given directions confined to the record of the case before the Tribunal; but, in the absence of anything expressly to the contrary, we cannot bold that the direction would lead inevitably to the admit- ting of fresh evidence. This, at least, now cannot be done, since the Jehangir Vakil Mills case (1), has prohibited the admission of fresh evidence. In our opinion, the present case does not fall within the rule in the Jehangir Vakil Mills case (1), and is distinguishable.
+In the result, the appeal fails, and is dismissed with costs.
+ Appeal dismissed.
+(1) [1960] 1 S.C.R. 249."}, "meta": {"group": "Tax"}},

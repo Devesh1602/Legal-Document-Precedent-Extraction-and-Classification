@@ -1,0 +1,1108 @@
+                                                                                        REPORTABLE
+                               IN THE SUPREME COURT OF INDIA
+                                 CIVIL APPELLATE JURISDICTION
+                                  CIVIL APPEAL NO. 791 OF 2021
+                                (Arising out of SLP (C) No. 10372 / 2020)
+
+    DAKSHIN HARYANA BIJLI VITRAN NIGAM LTD. ... APPELLANT
+
+                                                   Versus
+
+    M/S NAVIGANT TECHNOLOGIES PVT. LTD. ... RESPONDENT
+
+                                          J U D G M E N T
+
+    INDU MALHOTRA, J.
+
+    Leave granted.
+
+. The present Civil Appeal arises from a Petition filed under Section 34 of the
+
+        Arbitration and Conciliation Act, 1996 by the Appellant-Bijli Vitrain Nigam to
+
+        challenge the arbitral award dated 27.04.2018 passed by a three-member
+
+        tribunal (2:1) in favour of the respondent company.
+. The issue which has arisen for our consideration is as to whether the period
+
+        of limitation for filing the Petition under Section 34 would commence from the
+
+        date on which the draft award dated 27.04.2018 was circulated to the parties, or
+
+        the date on which the signed copy of the award was provided.
+
+Signature Not Verified
+
+Digitally signed by
+Nidhi Ahuja
+Date: 2021.03.02
+17:14:24 IST
+Reason:
+
+                                                         1(i) The background facts emanate from a Service Level Agreement
+
+          dated 02.05.2011 executed by the appellant-corporation in favour of
+
+          the Respondent-company providing call centre services.
+
+                    Clause 13 of the Agreement provided for resolution of disputes
+
+          through arbitration by a three-member tribunal, under the Arbitration
+
+          and Conciliation Act, 1996.
+
+          Clause 13 reads as :
+
+                    "13. Arbitration
+                    All matter question, disputes, differences and/or claims arising out of and/or
+                    concerning and/or in connection and/or in consequences or relating to the
+                    Contract whether or not obligations of either or both parties under the
+                    Contract be subsisting at the time of such dispute and whether or not the
+                    contract has been terminated or purported to be terminated or completed,
+                    shall be referred to the arbitration which shall be conducted by three
+                    arbitrators, one each to be nominated by the Service Provider and the Nigam
+                    (Arbitrator to be approved by the MD DHBVNL or authority of the Nigam) and
+                    the third to be named by the president of the institution of Engineers, India. If
+                    either of the parties fails to appoint its arbitrator within thirty (30) days after
+                    receipt of a notice from the other party invoking the arbitration clause, the
+                    president of the institution of Engineers, India, shall have the power at the
+                    request of either of the parties, to appoint the arbitrator. A certified copy of the
+                    order of the institution of engineers (India) making such an appointment will
+                    be furnished to each of the parties.
+
+                    The decision of the majority of the arbitrators shall be final and binding upon
+                    the parties. The parties to the contract agree that the cost of arbitration shall
+                    be as per instructions to the Nigam issued/prevalent on the date of
+                    appointment of arbitral tribunal. The arbitrators may, from time to time, with
+                    the consent of the parties enlarge the time for making the award. In the event
+                    of any of the aforesaid arbitrators dying, neglecting, resigning or being usable
+                    to act for any reason, it will be lawful for the party concerned to nominate
+                    another arbitrator in place of the outgoing arbitrator.
+
+                    The arbitrator shall have full powers to review and/or revise any decision,
+                    opinion, direction, certification or valuation of the Engineer in consonance
+                    with the Contract, and neither party shall be limited in the proceedings before
+                    such arbitrators to the evidence or arguments put before the engineer for the
+                    purpose of obtaining the said decision.
+
+                    ...
+
+                                                      2 Subject to aforementioned provisions, the provisions of the Arbitration and
+                       Conciliation Act, 1996 and the Rules there under any statutory modifications
+                       thereof for the time being enforce, shall be deemed to apply to the Arbitration
+                       proceedings under the clause."
+
+(ii) On 16.10.2014, the appellant corporation terminated the Service
+
+            Level Agreement, which led to disputes between the parties. The
+
+            disputes were referred to arbitration by a three-member tribunal.
+
+(iii) The arbitral tribunal orally pronounced the award [2:1] on
+
+            27.04.2018, whereby the claims of the respondent company were
+
+            allowed. The parties were informed that the third arbitrator had
+
+            disagreed with the view taken by the majority of arbitrators, and would
+
+            be rendering his separate opinion. A copy of the draft award was
+
+            provided to the parties to point out any computation, clerical or
+
+            typographical errors in the award on the next date of hearing.
+
+            The proceedings of the tribunal dated 27.04.2018 read as under :
+
+                       "27.04.2018
+
+                       Present:-
+                       Sh. Nishant Shrivastava, Advocate for the claimant with Sh. Ankur Bhatia,
+                       M.D. of the Claimant.
+                       Sh. Ashish Goyal, Advocate and Sh. Sanjeev Sharma, JE for the respondent.
+
+                       Vide separately recorded award dated today, claims of the claimant have
+                       been allowed with cost. Dr. Shiva Sharma has agreed with same, whereas
+                       Sh. D.S. Yadav has disagreed. He shall file his separate award. Copies free
+                       of costs, of the award have been supplied to both the Ld. Counsels for the
+
+                 parties. To come up on 12.05.2017, at 4:30 p.m. for award of Sh. D.S. Yadav,
+                 Arbitrator. On that date, parties are also required to show any computation
+                 error, any clerical or typographical error or any other error of similar nature
+                 occurred in the award if any.
+
+                                                Vinod Jain, D&S Judge(retd.) Presiding Arbitrator
+                                                            Sh. Shiva Sharma, D&S Judge (retd.)
+                                                         Sh.D.S. Yadav, Director, DHBVN (retd.)"
+
+                                                                             (emphasis supplied)
+
+         The matter was next posted to 12.05.2018.
+
+(iv) On 12.05.2018, a copy of the dissenting opinion was provided by
+
+         the third arbitrator to the parties (even though the opinion was dated
+
+         27.04.2018). The matter was then posted to 19.05.2018, for the parties
+
+         to point out any typographical or clerical mistakes in the dissenting
+
+         opinion delivered by the third arbitrator.
+
+                 The order dated 12.05.2018 reads as :
+
+                 "12.05.2018
+                 Present:-
+                 Sh. Nishant Shrivastava, Advocate for the claimant
+                 Sh. Sanjeev Sharma, JE for the respondent.
+
+                 Arbitrator Sh. D.S. Yadav has filed his own dissenting Award.
+
+                 Copies free of cost have been supplied to both the parties to these
+                  rbitration proceedings . a Both the parties have not pointed out any
+                 computation or clerical error etc. in the award dated 27.04.2018.
+
+                 Now to come up on 19.05.2018 at the same venue to point out any
+                 typographical or clerical mistakes if any in the award of today given by Sh.
+                 D.S. Yadav, Arbitrator. Venue the same. Also on that date original record
+                 should be handed over to the Ld. Counsel for the claimant for safe custody
+                 with pen drives of the record to the other party as well as to the Arbitrators."
+
+                                                                             (emphasis supplied)
+
+(v) On 19.05.2018, the tribunal recorded that both the parties had
+
+         not filed any application to point out any clerical or typographical
+
+         mistakes in the award, or dissenting opinion. On this date, the signed
+
+         copy of the arbitral award was provided to both the parties, and the
+
+         proceedings were terminated. The proceedings of 19.05.2018 read as :
+
+                 "19.05.2018
+
+                 Present:-
+                 Sh. Nishant Shrivastava, Advocate for the claimant
+                 Sh. Ashish Goyal, Advocate with Sh. Sanjeev Sharma, JE for the respondent.
+
+                 Original record has been handed over to Sh. Nishant Shrivastava, Advocate
+                 for its safe custody with him and for its production before the appropriate
+                 authority in case of need. Pen drives of the record have been provided to
+                 both the counsels as well as to the arbitrators. Record is comprised of two
+                 files. First file of pleadings is comprised of 270 pages and second file of
+                 awards, evidence, zimini orders and misc. papers is comprised of 596 pages.
+                 Awards (signed copies) have also been provided to Ld. Counsel for
+                 both the parties free of cost. Both the parties also not filed any applications
+                 to point out any clerical or typographical mistakes in the awards.
+
+                 Proceedings now come to an end, so are hereby terminated ."
+
+                                                                            (emphasis supplied)
+
+(vi) The Appellant-corporation filed its Objections under Section 34
+
+         on 10.09.2018 before the Ld. Civil Court, Hisar, Haryana vide
+
+          Arbitration Petition No. 316/2018 to challenge the award dated
+
+          27.04.2018, along with an Application for condonation of delay.
+
+                   It was submitted by the appellant corporation that the objections
+
+          were filed within the period prescribed by Section 34(3) i.e. within 3
+
+          months and 30 days from the date of receipt of the signed award on
+
+          12.05.2018.
+
+(vii) The Civil Court dismissed the Application for condonation of
+
+          delay vide Order dated 14.02.2019. It was held that the Appellant had
+
+          received the majority award on 27.04.2018. Thus, the period of
+
+          limitation starts running from the same date. Accordingly, the period of
+
+          limitation of three months starts from 27.04.2018 i.e. the date on which
+
+          the Appellant received the arbitral award. The proviso to Section 34(3)
+
+          provides that if the Court is satisfied that the applicant was prevented
+
+          from sufficient cause from making the application within 3 months, it
+
+          may entertain the application within a further period of 30 days. In the
+
+          present case, the application u/S. 34 was filed even after the expiry of
+
+          the further period of 30 days. Merely because the dissenting opinion
+
+          was erroneously styled as an award by the minority arbitrator, it cannot
+
+          be said that the dissenting opinion attains the status of an award.
+
+          Consequently, the objections were dismissed solely on the ground of
+
+          delay.
+
+        (viii) The appellant corporation filed Appeal No. 1954/2019 (O&M)
+
+                  under Section 37 of the Arbitration Act before the High Court.
+
+                            The High Court vide the impugned Order dated 11.12.2019
+
+                  affirmed the Order passed by the Civil Court. It was held that a reading
+
+                  of Section 31 clearly reflects that once an award is signed and
+
+                  communicated by the majority of arbitrators, the same would constitute
+
+                  an "award". The signed copy of the majority award i.e. signed by two of
+
+                  the three arbitrators was received on 27.04.2018, and u/S. 34(3), the
+
+                  objections had to be filed within 3 months, which would expire on
+
+                  27.07.2018. Even if the benefit of 30 days had been granted to the
+
+                  Appellants, the objections ought to have been filed by 26.08.2018,
+
+                  whereas the objections had been filed on 10.09.2018. There was no
+
+                  infirmity in the judgment of the Civil Court, and accordingly, the Appeal
+
+                  was dismissed.
+
+        (ix) Aggrieved by the rejection of the objections under Section 34 on
+
+                  the ground of delay, the appellant corporation has filed the present
+
+                  Appeal.
+
+
+3. Submissions of the parties
+
+(i) The appellant corporation inter alia contended that its objections
+
+            had been erroneously dismissed by the Additional Civil Judge, as well
+
+            as the High Court on the sole ground of limitation, and not on merits. It
+
+            was submitted that reference to the 'arbitral award' in the Arbitration Act
+
+            includes both the majority award as well as the minority opinion.
+
+                     Section 31(1) of the Act provides that all the members of the
+
+            tribunal shall sign the award. Section 31(2) which permits an award to
+
+            be rendered so long as it is signed by the majority of the members, and
+
+            reasons for omission of the signature of the third arbitrator is
+
+            mentioned, applies only in the case of a unanimous award. Section
+
+            31(2) has no application when there is dissenting view rendered by one
+
+            of the arbitrators.
+
+                     Section 34 of the Act provides for objections to be filed against
+
+            the arbitral award, and not the majority award alone. Consequently, the
+
+            time limit to file objections against an award under Section 34(3) of the
+
+            Act, does not relate to only the majority award, but to the arbitral award,
+
+            which includes the opinion of the dissenting member of the tribunal.
+
+                     It was contended that if the majority award was taken to mean
+
+            the arbitral award, the dissenting opinion of the minority would have no
+
+            relevance. Such a view would cause grave prejudice to the award
+
+            debtor.
+
+                               It was further submitted that even though the award of the
+
+                    majority was pronounced on 27.04.2018, the tribunal posted the matter
+
+                    on 12.05.2018 to enable the parties to point out any correction, or any
+
+                    typographical or clerical error in the award. On 12.05.2018, the
+
+                    dissenting opinion was pronounced, and a copy was provided to the
+
+                    parties. The matter was next posted on 19.05.2018, to consider any
+
+                    application for correction in the opinion of the minority. Since no
+
+                    application for correction of the award, or the minority opinion, was filed
+
+                    by the parties, the tribunal terminated the proceedings.
+
+                               It was further submitted that the dissenting opinion has been
+
+                    held to be the correct view by the Courts in various cases. Reliance
+
+                    was placed on the judgment of this Court in Ssangyong Engineering
+                    and Construction Co. ltd. v. NHAI.,1 wherein the dissenting opinion
+
+                    was upheld as being the correct view, and was affirmed. Reference
+
+                    was made to the judgment of the Bombay High Court in Axios
+                    Navigation v. Indian Oil Corporation,2 wherein it was held that the
+
+                    view of the minority was relevant for the adjudication of objections
+
+                    under Section 34 of the Act.
+
+       (ii) On the other hand, the Respondents contended that the
+
+                    objections filed by the appellant corporation under Section 34 of the
+
+                    Arbitration Act are barred by limitation, and ought to be dismissed as
+
+1 2019 (15) SCC 131.
+2 2012 SCC Online Bom 4.
+such. The contention of the Respondent is that since the majority
+
+award was pronounced on 27.04.2018, the limitation period applicable
+
+under Section 34(3) would commence from this date.
+
+        The Respondent placed reliance on Section 34(3) of the Act to
+
+submit that a party may file objections to the award within a period of
+
+three months from the date of receipt of the award. On sufficient cause
+
+being shown to the satisfaction of the Court, the three months period
+
+could be extended by an additional period of thirty days. The
+
+Respondent submitted that the time for filing objections was available
+
+till 26.07.2018, or if sufficient cause was made out, an additional period
+
+of 30 days' which expired on 26.08.2018.
+
+        The dissenting opinion of the minority member was not an award
+
+for the purposes of computing the limitation period prescribed under
+
+sub-section (3) of Section 34.
+
+        Section 29(1) of the Act contemplates that the decision of the
+
+majority of members of the tribunal, is the arbitral award. Reliance was
+
+placed on Section 31(2) of the Act which provides that the signature of
+
+all the members of the tribunal was not required, so long as the award
+
+was signed by a majority of the members, and reasons for omission of
+
+the signature of the third arbitrator were recorded in the award.
+
+                           The opinion of the minority was only a view, and could not be
+
+                  enforced as an award. It could not be considered to be the arbitral
+
+                  award for the purpose of computing limitation under Section 34(3) of
+
+                  the Act.
+
+                           Reliance was placed on the judgments of the Delhi and Bombay
+
+                  High Court in Bharat Sanchar Nigam Ltd. v. Acome and Ors.3, Axion
+                  Navigation v. Indian Oil Corporation Ltd.,4 and Oriental insurance
+                  Co. v. Air India Ltd.,5 wherein it was held that the limitation period
+
+                  under Section 34(3) of the Act shall commence from the date when the
+
+                  award is passed.
+
+4. Discussion & Analysis
+         We have heard the Ld. counsel for the parties. In order to appreciate the rival
+
+    contentions of the parties, we will first examine the scheme of the Arbitration and
+
+    Conciliation Act, 1996.
+
+      (i) Section 2 (1)(c) of the 1996 Act defines "arbitral award" to
+
+                  include an interim award. The phrase "arbitral award" has been used in
+
+                  several provisions of the 1996 Act.
+
+                           The statute recognises only one arbitral award being passed by
+
+                  an arbitral tribunal, which may either be a unanimous award, or an
+
+3 AIR 2009 Delhi 102.
+4 (2012) 114 (1) Bom LR 392.
+5 (2019) SCC Online Del 11634.
+            award passed by a majority in the case of a panel of members. An
+
+            award is a binding decision made by the arbitrator/s on all the issues
+
+            referred for adjudication. The award contains the reasons assigned by
+
+            the tribunal on the adjudication of the rights and obligations of the
+
+            parties arising from the underlying commercial contract. The award
+
+            must be one which decides all the issues referred for arbitration. The
+
+            view of a dissenting arbitrator is not an award, but his opinion.
+
+            However, a party aggrieved by the award, may draw support from the
+
+            reasoning and findings assigned in the dissenting opinion.
+
+(ii) The phrase 'arbitral tribunal' has been defined by Section 2(1)(d)
+
+            to mean a sole arbitrator, or a panel of arbitrators.
+
+(iii) Chapter VI of the Arbitration and Conciliation Act provides the
+
+            procedure for making of an arbitral award, and termination of arbitral
+
+            proceedings.
+
+                     Sections 28 to 31 relate to the procedure for making the award.
+
+            Section 28 provides the rules applicable for the determination of a
+
+            dispute by arbitration.
+
+(iv) Section 29 of the 1996 Act deals with decision making by a panel
+
+            of arbitrators. Section 29 reads as :
+
+            "29. Decision making by a panel of arbitrators.- (1) Unless otherwise agreed by
+            the parties, in arbitral proceedings with more than one arbitrator, any decision of the
+            arbitral tribunal shall be made by a majority of all its members.
+
+          (2) Notwithstanding sub-section (1), if authorised by the parties or all the members of
+          the arbitral tribunal, questions of procedure may be decided by the presiding
+          arbitrator."
+                                                                               (emphasis supplied)
+
+                  Sub-section (1) provides that unless the parties agree otherwise,
+
+          in arbitral proceedings with more than one arbitrator, "any decision of
+
+          the arbitral tribunal shall be made by a majority of all its members".
+
+                  An "arbitral award" is the decision made by the majority
+
+          members of an arbitral tribunal, which is final and binding on the
+
+          parties.
+
+                  Section 35 provides that an arbitral award shall be "final and
+
+          binding" on the parties and persons claiming under them. A dissenting
+
+          opinion does not determine the rights or liabilities of the parties which
+
+          are enforceable under Section 36 of the Act.
+
+(v) The reference to the phrase "arbitral award" in Sections 34 and
+
+          36 refers to the decision of the majority of the members of the arbitral
+
+          tribunal. A party cannot file a petition u/S. 34 for setting aside, or u/S.
+
+          36 for enforcement of a dissenting opinion. What is capable of being
+
+          set aside u/S. 34 is the "arbitral award" i.e. the decision reached by the
+
+          majority of members of the tribunal. Similarly, u/S. 36 what can be
+
+          enforced is the "arbitral award" passed by the majority of the members.
+
+(vi) Section 29A was inserted by the 2015 Amendment Act. Under
+
+          sub-section (1), the arbitral tribunal [other than in an international
+
+          commercial arbitration] is mandated by statute to make the arbitral
+
+          award within a period of 12 months' from the date of completion of
+
+          pleadings, as provided by sub-section (4) of Section 23. Section 29A(4)
+
+          provides that the "mandate" of the arbitrator/s shall terminate if the
+
+          award is not made "within" the period specified in sub-section (1), or
+
+          the extended period under sub-section (3). Therefore, by prescription of
+
+          law, the mandate of the arbitrator/s would terminate if the time limits are
+
+          not followed.
+
+(vii) Legal requirement of signing the award
+
+                  The legal requirement of signing the arbitral award by a sole
+
+          arbitrator, or the members of a tribunal is found in Section 31 of the
+
+          1996 Act, which provides the form and content of an arbitral award.
+
+          Section 31 provides that :
+
+              "31. Form and contents of arbitral award.- (1) An arbitral award shall be made in
+              writing and shall be signed by the members of the arbitral tribunal.
+              (2) For the purposes of sub-section (1), in arbitral proceedings with more than
+              one arbitrator, the signatures of the majority of all the members of the arbitral
+              tribunal shall be sufficient so long as the reason for any omitted signature is
+              stated .
+              ....
+              (4) The arbitral award shall state its date and the place of arbitration as
+              determined in accordance with section 20 and the award shall be deemed to
+              have been made at that place.
+              (5) After the arbitral award is made, a signed copy shall be delivered to each
+              party.
+              ..... "
+                                                                               (emphasis supplied)
+
+      (viii) Section 31 (1) is couched in mandatory terms, and provides that
+
+                an arbitral award shall be made in writing and signed by all the
+
+                members of the arbitral tribunal. If the arbitral tribunal comprises of
+
+                more than one arbitrator, the award is made when the arbitrators acting
+
+                together finally express their decision in writing, and is authenticated by
+
+                their signatures6 An award takes legal effect only after it is signed by
+
+                the arbitrators, which gives it authentication. There can be no finality of
+
+                the award, except after it is signed, since signing of the award gives
+
+                legal effect and validity to it. The making and delivery of the award are
+
+                different stages of an arbitration proceeding. An award is made when it
+
+                is authenticated by the person who makes it.
+
+                         The statute makes it obligatory for each of the members of the
+
+                tribunal to sign the award, to make it a valid award. The usage of the
+
+                term "shall" makes it a mandatory requirement. It is not merely a
+
+                ministerial act, or an empty formality which can be dispensed with.
+
+      (ix) Sub-section (1) of Section 31 read with sub-section (4) makes it
+
+                clear that the Act contemplates a single date on which the arbitral
+
+                award is passed i.e. the date on which the signed copy of the award is
+
+                delivered to the parties. Section 31 (5) enjoins upon the arbitrator /
+
+                tribunal to provide the signed copy of the arbitral award to the parties.
+
+                The receipt of a signed copy of the award is the date from which the
+
+6 Malhotra's Commentary on the Law of Arbitration, Wolters Kluwer, 4th Ed., Vol.1, p.794.
+                period of limitation for filing objections u/S. 34 would commence. This
+
+                would be evident from the language of sub-section (3) of Section 34(3)
+
+                which reads :
+
+                    "34. Application for setting aside arbitral award.
+                    ...
+                    ...
+                    (3) An application for setting aside may not be made after three months have
+                    elapsed from the date on which the party making that application had received
+                    the arbitral award or, if a request had been made under Section 33, from the
+                    date on which that request had been disposed of by the arbitral tribunal:
+                        Provided that if the Court is satisfied that the applicant was prevented by
+                    sufficient cause from making the application within the said period of three
+                    months it may entertain the application within a further period of thirty days, but
+                    not thereafter."
+
+      (x) In Union of India v. Tecco Trichy Engineers & Contractors7, a
+
+                three-judge bench of this Court held that the period of limitation for
+
+                filing an application u/S. 34 would commence only after a valid delivery
+
+                of the award takes place u/S. 31(5) of the Act. In para 8, it was held as
+
+                under :
+
+                    "8. The delivery of an arbitral award under sub-section (5) of Section 31 is not a
+                    matter of mere formality. It is a matter of substance. It is only after the stage
+                    under Section 31 has passed that the stage of termination of arbitral proceedings
+                    within the meaning of Section 32 of the Act arises. The delivery of arbitral award
+                    to the party, to be effective, has to be 'received' by the party. This delivery by the
+                    Arbitral Tribunal and receipt by the party of the award sets in motion several
+                    periods of limitation such as an application for correction and interpretation of an
+                    award within 30 days under Section 33(1), an application for making an
+                    additional award under Section 33(4) and an application for setting aside an
+                    award under Section 34(3) and so on. As this delivery of the copy of award has
+                    the effect of conferring certain rights on the party as also bringing to an end the
+                    right to exercise those rights on expiry of the prescribed period of limitation which
+                    would be calculated from that date, the delivery of the copy of award by the
+                    Tribunal and the receipt thereof by each party constitutes an important stage in
+                    the arbitral proceedings."
+                                                                                    (emphasis supplied)
+
+7 (2005) 4 SCC 239.
+      (xi) The judgment in Tecco Trichy Engineers (supra) was followed
+                in State of Maharashtra v. Ark Builders,8 wherein this Court held that
+
+                Section 31(1) obliges the members of the arbitral tribunal to make the
+
+                award in writing and sign it. The legal requirement under sub-section
+
+                (5) of Section 31 is the delivery of a copy of the award signed by the
+
+                members of the arbitral tribunal / arbitrator, and not any copy of the
+
+                award. On a harmonious construction of Section 31(5) read with
+
+                Section 34(3), the period of limitation prescribed for filing objections
+
+                would commence only from the date when the signed copy of the
+
+                award is delivered to the party making the application for setting aside
+
+                the award. If the law prescribes that a copy of the award is to be
+
+                communicated, delivered, despatched, forwarded, rendered, or sent to
+
+                the parties concerned in a particular way, and since the law sets a
+
+                period of limitation for challenging the award in question by the
+
+                aggrieved party, then the period of limitation can only commence from
+
+                the date on which the award was received by the concerned party in
+
+                the manner prescribed by law.
+
+                        The judgment in Tecco Trichy has been recently followed in
+                Anilkumar Jinabhai Patel v. Pravinchandra Jinabhai Patel.9
+
+8 (2011) 4 SCC 616
+9 (2018) 15 SCC 178
+      (xii) In State of Himachal Pradesh v Himachal Techno
+                Engineers,10 this Court held that if one of the parties to the arbitration
+
+                is Government, or a statutory body, which has notified holidays, and if
+
+                the award was delivered to a beldar or a watchman on a holiday or
+
+                non-working day, it cannot be considered to be "receipt of the award"
+
+                by the party concerned for the purposes of Section 31(5) of the Act.
+
+                When the award is delivered, or deposited, or left in the office of a party
+
+                on a non-working day, the date of physical delivery is not the date of
+
+                "receipt" of the award by that party. For the purposes of Section 31(5),
+
+                the date of receipt will have to be the next working day.
+
+      (xiii) Section 32 provides that the arbitral proceedings shall be
+
+                terminated after the final award is passed. With the termination of the
+
+                arbitral proceedings, the mandate of the arbitral tribunal terminates,
+
+                and the tribunal becomes functus officio.
+
+      (xiv) In an arbitral tribunal comprising of a panel of three members, if
+
+                one of the members gives a dissenting opinion, it must be delivered
+
+                contemporaneously on the same date as the final award, and not on a
+
+                subsequent date, as the tribunal becomes functus officio upon the
+
+                passing of the final award. The period for rendering the award and
+
+                dissenting opinion must be within the period prescribed by Section 29A
+
+                of the Act.
+
+10 (2010) 12 SCC 210
+      (xv) In the treatise on 'International Commercial Arbitration' authored by
+
+                Fouchard, Gaillard, Goldman, it has been opined that :
+
+                    "1403.- A dissenting opinion can only be issued when the majority has already
+                    made the decision which constitutes the award. Until then, any document issued
+                    by the minority arbitrator can only be treated as part of the deliberations.
+                    However, once the majority decision has been reached, it is preferable for the
+                    author of the dissenting opinion to communicate a draft to the other arbitrators so
+                    as to enable them to discuss the arguments put forward in it. The award made by
+                    the majority could then be issued after the dissenting opinion, or at least, after
+                    the draft of the dissenting opinion..." 11
+
+      (xvi) There is only one date recognised by law i.e. the date on which a
+
+                signed copy of the final award is received by the parties, from which the
+
+                period of limitation for filing objections would start ticking. There can be
+
+                no finality in the award, except after it is signed, because signing of the
+
+                award gives legal effect and finality to the award.
+
+      (xvii) The date on which the signed award is provided to the parties is
+
+                a crucial date in arbitration proceedings under the Indian Arbitration
+
+                and Conciliation Act, 1996. It is from this date that: (a) the period of 30
+
+                days' for filing an application under Section 33 for correction and
+
+                interpretation of the award, or additional award may be filed; (b) the
+
+                arbitral proceedings would terminate as provided by Section 32(1) of
+
+                the Act; (c) the period of limitation for filing objections to the award
+
+                under Section 34 commences.
+
+11 Fouchard, Gaillard, Goldman, International Commercial Arbitration, Ed. Emmannuel Gaillard, John Savage,,
+p.786 (Kluwer Law International).
+      (xviii) Section 34 provides recourse for judicial scrutiny of the award by
+
+                a Court, upon making an application under sub-sections (2) and (3) for
+
+                setting aside the award.
+
+                        The period of limitation for filing the objections to the award u/S.
+
+                34 commences from the date on which the party making the application
+
+                has "received" a signed copy of the arbitral award, as required by
+
+                Section 31(5) of the 1996 Act.
+
+                        Section 34(3) provides a specific time limit of three months from
+
+                the date of "receipt" of the award, and a further period of thirty days, if
+
+                the Court is satisfied that the party was prevented by sufficient cause
+
+                from making the application within the said period, but not thereafter.
+
+                        In Union of India v. Popular Construction,12 this Court held
+
+                that Section 5 of the Limitation Act, 1963 would not apply to
+
+                applications filed under Section 34 of the Arbitration Act. It was held
+
+                that :
+
+                    "12. As far as the language of Section 34 of the 1996 Act is concerned, the
+                    crucial words are "but not thereafter" used in the proviso to sub-section (3). In our
+                    opinion, this phrase would amount to an express exclusion within the meaning of
+                    Section 29(2) of the Limitation Act, and would therefore bar the application of
+                    Section 5 of that Act. Parliament did not need to go further. To hold that the court
+                    could entertain an application to set aside the award beyond the extended period
+                    under the proviso, would render the phrase "but not thereafter" wholly otiose. No
+                    principle of interpretation would justify such a result."
+
+12 (2001) 8 SCC 470.
+                        In Simplex Infrastructure v. Union of India,13 this Court held
+
+                that the phrase "but not thereafter" provided under Section 34(3) of the
+
+                Act makes it evident that the statutory period of limitation for filing an
+
+                application for setting aside is three months, which is extendable by
+
+                thirty days, if sufficient cause is made out. No further period of time can
+
+                be granted for the filing of an application under Section 34.
+
+      (xix) If the objections are not filed within the period prescribed by
+
+                Section 34, the award holder is entitled to move for enforcement of the
+
+                arbitral award as a deemed decree of the Court u/S. 36 of the Act.
+
+                This Court in P. Radha Bai v. P. Ashok Kumar,14 held that :
+
+                      "32.5. Once the time-limit or extended time-limit for challenging the arbitral
+                      award expires, the period for enforcing the award under Section 36 of the
+                      Arbitration Act commences. This is evident from the phrase "where the time for
+                      making an application to set aside the arbitral award under Section 34 has
+                      expired". ["36. Enforcement.-Where the time for making an application to set
+                      aside the arbitral award under Section 34 has expired, or such application
+                      having been made, it has been refused, the award shall be enforced under the
+                      Code of Civil Procedure, 1908 (5 of 1908) in the same manner as if it were a
+                      decree of the Court."(emphasis supplied)] There is an integral nexus between
+                      the period prescribed under Section 34(3) to challenge the award and the
+                      commencement of the enforcement period under Section 36 to execute the
+                      award.
+                      36.2. Second, extending Section 17 of the Limitation Act to Section 34 would
+                      do violence to the scheme of the Arbitration Act. As discussed above, Section
+                      36 enables a party to apply for enforcement of award when the period for
+                      challenging an award under Section 34 has expired. However, if Section 17
+                      were to be extended to Section 34, the determination of "time for making an
+                      application to set aside the arbitral award" in Section 36 will become uncertain
+                      and create confusion in the enforcement of award. This runs counter to the
+                      scheme and object of the Arbitration Act."
+
+      (xx) Relevance of a dissenting opinion
+
+13 (2019) 12 SCC 455
+14 (2019) 13 SCC 445.
+        (a) The dissenting opinion of a minority arbitrator can be relied upon
+
+                 by the party seeking to set aside the award to buttress its submissions
+
+                 in the proceedings under Section 34.
+
+        (b) At the stage of judicial scrutiny by the Court under Section 34,
+
+                 the Court is not precluded from considering the findings and
+
+                 conclusions of the dissenting opinion of the minority member of the
+
+                 tribunal.
+
+        (c) In the commentary of 'Russel on Arbitration', the relevance of a
+
+                 dissenting opinion was explained as follows :
+
+                     "6-058. Dissenting opinions. Any member of the tribunal who does not assent
+                     to an award need not sign it but may set out his own views of the case, either
+                     within the award document or in a separate "dissenting opinion". The arbitrator
+                     should consider carefully whether there is good reason for expressing his
+                     dissent, because a dissenting opinion may encourage a challenge to the award.
+                     This is for the parties' information only and does not form part of the award, but it
+                     may be admissible as evidence in relation to the procedural matters in the event
+                     of a challenge or may add weight to the arguments of a party wishing to appeal
+                     against the award."15
+                                                                                           (emphasis supplied)
+
+        (d) Gary B. Born in his commentary on International Commercial
+
+                 Arbitration opines that :
+
+                     "Even absent express authorization in national law or applicable institutional rules
+                     (or otherwise), the right to provide a dissenting or separate opinion is an
+                     appropriate concomitant of the arbitrator's adjudicative function and the tribunal's
+                     related obligation to make a reasoned award. Although there are legal systems
+                     where dissenting or separate opinions are either not permitted, or not customary,
+                     these domestic rules have little application in the context of party-nominated co-
+                     arbitrators, and diverse tribunals. Indeed, the right of an arbitrator to deliver a
+                     dissenting opinion is properly considered as an element of his / her adjudicative
+15 David St. John Sutton, Judith Gill and Matthew Gearing QC, Russel on Arbitration, 24 th ed. (Sweet & Maxwell), p.
+313.
+                    mandate, particularly in circumstances where a reasoned award is required. Only
+                    clear an explicit prohibition should preclude the making and publication to the
+                    parties of a dissenting opinion, which serves an important role in the deliberative
+                    process, and can provide a valuable check on arbitrary or indefensible decision
+                    making."16
+
+                It is further commented that :
+
+                    "There is nothing objectionable at all about an arbitrator "systematically drawing
+                    up a dissenting opinion, and insisting that it be communicated to the parties". If
+                    an arbitrator believes that the tribunal is making a seriously wrong decision,
+                    which cannot fairly be reconciled with the law and the evidentiary record, then
+                    he / she may express that view. There is nothing wrong - and on the contrary,
+                    much that is right - with such a course as part of the adjudicatory process in
+                    which the tribunal's conclusion is expressed in a reasoned manner. And, if the
+                    arbitrator considers that the award's conclusions require a "systematic"
+                    discussion, that is also entirely appropriate; indeed, it is implied in the
+                    adjudicative process, and the requirement of a reasoned award."17
+
+                It is further observed that :
+
+                    "...the very concept of a reasoned award by a multi-member tribunal permits a
+                    statement of different reasons - if different members of the tribunal in fact hold
+                    different views. This is an essential aspect of the process by which the parties
+                    have an opportunity to both, present their case, and hear the reasons for the
+                    tribunal's decision; not hearing the dissent deprives the parties of an important
+                    aspect of this process."
+
+        (e) In Ssangyong Engineering & Construction Co. Ltd v. NHAI,18
+
+                this Court upheld the view taken in the dissenting opinion to be the correct
+
+                position in law. In this case, the Court was hearing a special leave
+
+                petition from an order passed by a division bench of the Delhi High
+
+                Court. This Court noted that:
+
+16 Gary Born, International Commercial Arbitration, Wolters Kluwer, Ed. 2009, Volume II, p. 2466.
+17 Gary Born, International Commercial Arbitration, Wolters Kluwer, Ed. 2009, Volume II, p. 2469.
+18 (2019) 15 SCC 131.
+    "12. A Section 34 petition which was filed by the appellant was rejected by the
+    learned Single Judge of the Delhi High Court, by a judgment and order dated 9-
+    8-2016 [Ssangyong Engg. and Construction Co. Ltd. v. NHAI , 2016 SCC OnLine
+    Del 4536] , in which it was held that a possible view was taken by the majority
+    arbitrators which, therefore, could not be interfered with, given the parameters of
+    challenge to arbitral awards. The learned Single Judge also went on to hold that
+    the New Series published by the Ministry could be applied in the case of the
+    appellant as the base indices for 2004-2005 under the New Series were
+    available. Having so held, the learned Single Judge stated that even though the
+    view expressed in the dissenting award is more appealing, and that he preferred
+    that view, yet he found that since the majority award is a possible view, the scope
+    of interference being limited, the Section 34 petition was dismissed. A Section 37
+    appeal to the Division Bench of the Delhi High Court yielded the same result, by
+    the impugned judgment dated 3-4-2017 [Ssangyong Engg. and Construction Co.
+    Ltd. v. NHAI, 2017 SCC OnLine Del 7864 : (2017) 240 DLT 711]."
+
+        This Court set aside the award. However, in paragraph 77 of the
+
+Judgment, the Court held as under :
+
+    "77. The judgments of the Single Judge [Ssangyong Engg. and Construction Co.
+    Ltd. v. NHAI, 2016 SCC OnLine Del 4536] and of the Division Bench [Ssangyong
+    Engg. and Construction Co. Ltd. v. NHAI, 2017 SCC OnLine Del 7864 : (2017)
+0 DLT 711] of the Delhi High Court are set aside. Consequently, the majority
+    award is also set aside. Under the scheme of Section 34 of the 1996 Act, the
+    disputes that were decided by the majority award would have to be referred
+    afresh to another arbitration. This would cause considerable delay and be
+    contrary to one of the important objectives of the 1996 Act, namely, speedy
+    resolution of disputes by the arbitral process under the Act. Therefore, in order to
+    do complete justice between the parties, invoking our power under Article 142 of
+    the Constitution of India, and given the fact that there is a minority award which
+    awards the appellant its claim based upon the formula mentioned in the
+    agreement between the parties, we uphold the minority award, and state that it is
+    this award, together with interest, that will now be executed between the parties.
+    The minority award, in paras 11 and 12, states as follows:
+    "11. I therefore award the claim of the claimant in full.
+    12. Costs - no amount is awarded to the parties. Each party shall bear its own
+    cost."
+
+        In Ssangyong, this Court upheld the view taken by the
+
+dissenting arbitrator in exercise of its powers under Article 142 of the
+
+Constitution, in order to do complete justice between the parties. The
+
+reason for doing so is mentioned in paragraph 77 i.e. the considerable
+
+delay which would be caused if another arbitration was to be held. This
+
+                                   24 Court exercised its extraordinary power in Ssangyong keeping in mind
+
+                  the facts of the case, and the object of expeditious resolution of
+
+                  disputes under the Arbitration Act.
+
+         (f) In law, where the Court sets aside the award passed by the
+
+                  majority members of the tribunal, the underlying disputes would require
+
+                  to be decided afresh in an appropriate proceeding.
+
+                           Under Section 34 of the Arbitration Act, the Court may either
+
+                  dismiss the objections filed, and uphold the award, or set aside the
+
+                  award if the grounds contained in sub-sections (2) and (2A) are made
+
+                  out. There is no power to modify an arbitral award.
+
+                           In McDermott International Inc. v. Burn Standard Co. Ltd.,
+
+                  this Court held as under :
+
+                      "52. The 1996 Act makes provision for the supervisory role of courts, for the
+                      review of the arbitral award only to ensure fairness. Intervention of the court is
+                      envisaged in few circumstances only, like, in case of fraud or bias by the
+                      arbitrators, violation of natural justice, etc. The court cannot correct errors of the
+                      arbitrators. It can only quash the award leaving the parties free to begin the
+                      arbitration again if it is desired. So, the scheme of the provision aims at keeping
+                      the supervisory role of the court at minimum level and this can be justified as
+                      parties to the agreement make a conscious decision to exclude the court's
+                      jurisdiction by opting for arbitration as they prefer the expediency and finality
+                      offered by it."
+
+5. Applying the law to the facts of the present case, we find from a perusal of the
+
+    arbitral proceedings that even though the award was pronounced on 27.04.2018,
+
+    the signed copy of the award was provided to the parties only on 19.05.2018.
+
+    The procedural orders of the tribunal reveal that on 27.04.2018, only a copy of
+
+    the award was provided to the parties to point out any computation error, any
+
+    clerical or typographical error, or any other error of similar nature which may have
+
+    occurred in the award on the next date. It was also recorded that the third
+
+    arbitrator had dissented, and would be delivering his separate opinion. The
+
+    proceedings were then posted for 12.05.2018.
+        On 12.05.2018, the third arbitrator pronounced his dissenting opinion. On that
+
+    date, the tribunal posted the matter to 19.05.2018, to enable the parties to point
+
+    out any typographical or clerical mistakes in the dissenting opinion, and for
+
+    handing over the original record of the proceedings to the parties.
+        On 19.05.2018, the signed copy of the award and the dissenting opinion,
+
+    alongwith the original record, were handed over to the parties, as also to each of
+
+    the arbitrators. The tribunal ordered the termination of the proceedings.
+6. We are of the considered opinion that the period of limitation for filing
+
+    objections would have to be reckoned from the date on which the signed copy of
+
+    the award was made available to the parties i.e. on 19.05.2018 in the instant
+
+    case.
+7. It is the admitted position that the objections were filed within the period of
+
+    limitation prescribed by Section 34(3) of the Act, if reckoned from 19.05.2018.
+
+    Undisputedly, in the instant case, the objections have been filed within the period
+
+    of limitation prescribed under Section 34(3) from the date of receipt of the signed
+
+    award.
+8. In the aforesaid facts and circumstances, the Appeal deserves to succeed.
+
+    The judgment of the Court of the District and Sessions Judge, Hissar, Haryana
+
+    dated 14.02.2019, and the impugned order passed by the High Court of Punjab &
+
+    Haryana dated 11.12.2019 are accordingly set aside.
+
+9. The Petition filed under Section 34 of the Arbitration and Conciliation Act,
+
+    1996 being Arb. Pet. No. 316 of 2018 is restored to the file of the Court of District
+
+    and Sessions Judge, Hissar, Haryana to be decided on merits in accordance with
+
+    law.
+
+                All pending applications are disposed of. Ordered accordingly.
+
+                                                              ....................................................J.
+                                                               (Indu Malhotra)
+
+                                                              ....................................................J.
+                                                                 (Ajay Rastogi)
+New Delhi;
+March 2, 2021
+
+

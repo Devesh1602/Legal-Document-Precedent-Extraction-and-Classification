@@ -1,0 +1,40 @@
+{
+    "ILOCaseNo": "2021 ILO KAR 606805",
+    "Court": "KARNATAKA HIGH COURT",
+    "CaseDetails": [
+        {
+            "CaseNo": "CRIMINAL PETITION - 200895 of 2018",
+            "Petitioner": "Ningappa Dundappa Teli",
+            "Respondent": "HDFC Bank, Kadechur Utility, Kalaburagi"
+        }
+    ],
+    "JudgmentDate": "26/08/2021",
+    "BenchCoram": "Mohammad Nawaz",
+    "Lawyers": {
+        "LawyerForPetitioner": [
+            "S. V. Deshmukh"
+        ],
+        "LawyerForRespondent": [
+            "Sangoli Naganna",
+            "Uday P. Honguntikar"
+        ],
+        "Lawyer": []
+    },
+    "JudgmentText": [
+        "1. The accused in C.C.No.1780/2018 on the file of the Court of IV Addl. Judicial Magistrate at Kalaburagi has preferred this petition under Section 482 of Cr.P.C. to quash the proceedings initiated against him for offence punishable under Section 138 of Negotiable Instruments Act, 1881 (for short 'N.I. Act').",
+        "2. Heard both side.",
+        "3. The contention of the learned counsel for petitioner is that, the cheque alleged to have been issued by the petitioner is of HDFC Bank, Jamakhandi, wherein he maintains the account and therefore, the learned JMFC, Kalaburagi has no jurisdiction to try the offence. He contends that the impugned order passed by the learned Magistrate taking cognizance is clearly without due application of mind and therefore seeks to quash the proceedings.",
+        "4. Respondent herein filed a private complaint against the accused/petitioner alleging that he stood as a guarantor to the loan taken by the borrower by name Sri Bhimappa in a sum of `18.00 lakhs towards Cash Credit Loan and `3,50,000/-, `4,43,137/- and `3,01,832/- towards Term Loan amount from the complainant's Bank agreeing to pay the loan as per the terms and conditions. The accused failed to repay the amount as per the banking terms in-spite of repeated demands. Thereafter, on persistent demand, he issued a cheque drawn on HDFC Bank Ltd. Jamakhandi, in favour of the complainant. When the said cheque was presented in clearing for collection by the complainant at HDFC Bank, Kalaburagi, the same was returned unpaid for the reasons",
+        {
+            "I": "Account is Dormant"
+        },
+        ", vide memo dated 31.10.2017 and thereafter, in-spite of issuing a notice and calling upon the accused for payment of the amount, the accused failed to make payment within the stipulated time and therefore he committed an offence under Section 138 of N.I. Act.",
+        "5. The contention raised by the learned counsel for petitioner that the learned Magistrate has no jurisdiction to entertain the complaint is not well founded for the simple reason that the cheque was presented at HDFC Bank, Kalaburagi, where it was dishonored and therefore, the learned Magistrate has jurisdiction to entertain the complaint in view of Section 142(2) of the N.I. Act, which reads as under:",
+        {
+            "I": "142(2) The offence under Section 138 shall be inquired into and tried only by a court within whose local jurisdiction,- (a) if the cheque is delivered for collection through an account, the branch of the bank where the payee or holder in due course, as the case may be, maintains the account, is situated; or (b) if the cheque is presented for payment by the payee or holder in due course, otherwise through an account, the branch of the drawee bank where the drawer maintains the account, is situated."
+        },
+        "There is no merit in this petition. Hence, petition is dismissed. I.A.1/2018 is dismissed accordingly."
+    ],
+    "HeadNote": "Negotiable Instruments Act (26 of 1881), S.138, S.142(2) - Cognizance of offence - Territorial jurisdiction of Magistrate - Cheque dishonour - Plea of accused that cheque alleged to have been issued by him is of HDFC Bank at Jamakhandi, wherein he maintains bank account and hence Magistrate at Kalaburagi has no jurisdiction to try offence alleged -Cheque was presented at HDFC Bank, Kalaburagi, where it was dishonored - Magistrate at Kalaburagi has jurisdiction to entertain the complaint in view of S. 142(2) - Order taking cognizance, proper. (Para5)",
+    "Result": "Petition dismissed"
+}

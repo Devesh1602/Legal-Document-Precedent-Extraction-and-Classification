@@ -1,0 +1,259 @@
+{"id": 4125, "annotations": [{"result": [{"id": "08238e8322c94e40bae7dceba502b26f", "value": {"start": 0, "end": 103, "text": "PETITIONER:
+THE COMMSSIONER OF INCOME TAX, MADRAS AND ANOTHER
+
+   Vs.
+
+RESPONDENT:
+S.V. ANGIDI CHETTIAR", "labels": ["PREAMBLE"]}}, {"id": "e5d65d635b2c428fbb3988103f0a1400", "value": {"start": 103, "end": 122, "text": "
+
+DATE OF JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "f9e77b86694249aab459b342245e4584", "value": {"start": 122, "end": 133, "text": "
+09/01/1962", "labels": ["PREAMBLE"]}}, {"id": "82d50b1a9bcf43d1b25a5d0f5747fc81", "value": {"start": 135, "end": 868, "text": "BENCH:
+SHAH, J.C.
+BENCH:
+SHAH, J.C.
+SINHA, BHUVNESHWAR P.(CJ)
+KAPUR, J.L.
+HIDAYATULLAH, M.
+MUDHOLKAR, J.R.
+
+CITATION:
+
+1962 AIR 970             1962 SCR  Supl. (2) 640
+
+CITATOR INFO :          (15)
+                        (7,8)
+D          1966 SC1295  (7)
+                        (8)
+E          1968 SC 46
+
+R          1969 SC1352
+
+R          1973 SC 22
+
+ACT:
+         Income Tax-Penalty on concealed income-Power
+
+to impose penalty on a registered firm after
+dissolution-Condition for the exercise of
+jurisdiction by Income-tax Officer-Indian Income
+tax Act, 1922 (11 of 1922), ss. 28, 44.
+
+HEADNOTE:
+         A registered firm concealed particulars of
+
+income while submitting its returns for the years
+1947-48, 1949-50 and 1950-51.", "labels": ["PREAMBLE"]}}, {"id": "5c3d4dbf0b9448fdb1550bb65d1b0670", "value": {"start": 869, "end": 958, "text": "The Income-tax
+Officer imposed penalty under s.28 (1) of the
+Indian Income-tax Act, 1922.", "labels": ["PREAMBLE"]}}, {"id": "68c79e34034e4eb8962ad5588af29718", "value": {"start": 959, "end": 1260, "text": "The High Court was
+moved for a writ of certiorari, submitting that
+the Income-tax Officer could not impose penalty
+under the said section as he had information that
+the registered firm was dissolved on April 13,
+1951, by agreement, and in any event on May 5,
+1953, by the death of one of the partners.", "labels": ["PREAMBLE"]}}, {"id": "77f1c79594414e0486e35be65f9f6f0a", "value": {"start": 1261, "end": 1331, "text": "The
+High Court issued the writ and quashed the order
+imposing penalty.", "labels": ["PREAMBLE"]}}, {"id": "247570c5b6134c1daad6216f242c9e6d", "value": {"start": 1331, "end": 1344, "text": "
+^
+
+         ", "labels": ["PREAMBLE"]}}, {"id": "59ef827937b04e419055a2d908d5065a", "value": {"start": 1344, "end": 1493, "text": "Held, that the principle laid down in C. A.
+Abrahams case [1961] 2 S.C.R. 765, is as much
+applicable to a registered firm as to an
+unregistered firm.", "labels": ["PREAMBLE"]}}, {"id": "cd81574f8987422486b094fdfef7d770", "value": {"start": 1494, "end": 1618, "text": "There is nothing in s.44 of the
+Act or the context in which it occurs to indicate
+that it does not apply to registered firm.", "labels": ["PREAMBLE"]}}, {"id": "42b8be9d91234e0abb8b934886c3a1e3", "value": {"start": 1629, "end": 1817, "text": "Held, further, that the penalty provisions
+under s. 28 would in the event of the default
+contemplated by cls. (a) (b) or (c) be applicable
+in the course of assessment of a registered firm.", "labels": ["PREAMBLE"]}}, {"id": "65a4a758840f4a0c99b15c0e69568194", "value": {"start": 1817, "end": 2121, "text": "
+If the registered firm is exposed to liability of
+paying penalty because it has committed any of the
+
+defaults contemplated by cls. (a), (b) or (c) by
+virtue of s.44 the assessment proceedings are
+liable to be continued against the registered firm
+even after dissolution as if it has not been
+dissolved.", "labels": ["PREAMBLE"]}}, {"id": "c81b5e4231e44cda9290eb1775376cbc", "value": {"start": 2121, "end": 2271, "text": "
+
+         The power to impose penalty under s. 28
+depends upon the satisfaction of the Income-tax
+Officer in the course of proceedings under the
+Act.", "labels": ["PREAMBLE"]}}, {"id": "5c702d2e56ca47ebb43d7eee3794b97e", "value": {"start": 2272, "end": 2422, "text": "It cannot be exercised if he is not satisfied
+about the existence of conditions specified in cl.
+(a), (b) or (c) before the proceedings are
+concluded.", "labels": ["PREAMBLE"]}}, {"id": "9c2fba686c95447f88da5e7fe73f46a6", "value": {"start": 2423, "end": 2576, "text": "The proceedings for levy of penalty
+has, however, not to be commenced by the Income-
+tax Officer, before completion of the assessment
+proceedings by him.", "labels": ["PREAMBLE"]}}, {"id": "3f06f6884d6845daa77d96e0bd4b045e", "value": {"start": 2577, "end": 2772, "text": "Satisfaction before the con-clusion of the proceeding under the Act and not
+the issue of notice of intimation of any step for
+imposing penalty is a condition for the exercise
+of the jurisdiction.", "labels": ["PREAMBLE"]}}, {"id": "867e95f3aee9486a9275b2f891a93aa5", "value": {"start": 2772, "end": 3060, "text": "
+
+         C. A. Abrham v. Income Officer, Kottayam,
+[1961] 2 S. C. R. 765 applied.
+
+         Mareddev Krishna Reddy v. Income-tax Officer,
+Tenali [1957] 31 I. T. R. 678 and Khushiram
+Murarilal v. Commissioner of Income-tax, Central,
+Calcutta, [1954] 25 I. T. R. 572, approved.
+
+JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "fb404efd712e4ef6b313c41d953778c3", "value": {"start": 3060, "end": 3135, "text": "
+         CIVIL APPELLATE JURISDICTION : Civil Appeals Nos. 6 to 8 of 1961.", "labels": ["NONE"]}}, {"id": "3658a29c253941d093dbd290048a3d6f", "value": {"start": 3135, "end": 3265, "text": "
+         Appeals from the judgment and order dated May 3, 1957 of the Madras High Court in Writ Petition Nos. 943 to 945 of 1955.", "labels": ["NONE"]}}, {"id": "a9550a8bf66a422e8850d31025bf73e9", "value": {"start": 3265, "end": 3378, "text": "
+ K. N. Rajagopala Sastri and P. D. Menon, for the appellants.
+ V. S. Venkataram and K. P. Bhat, for respondents.", "labels": ["NONE"]}}, {"id": "86a60e06a3a84b3dbe3254a0c3f0e32f", "value": {"start": 3378, "end": 3385, "text": "
+ 1962.", "labels": ["NONE"]}}, {"id": "1e2cafc5b72f44a698c3fe877b45fa5d", "value": {"start": 3386, "end": 3450, "text": "January 18.-The Judgment of the Court was delivered by SHAH, J.-", "labels": ["NONE"]}}, {"id": "6507f139c3b54102a5ad33163ba4a3e7", "value": {"start": 3450, "end": 3785, "text": "These are three appeals with certificates of fitness granted by the High Court of Madras against orders passed in Petitions for the issue of writs of certiorari setting aside orders imposing penalty upon the firm of Messrs.
+S. V. Veerappan Chettiar & Co. passed by the Income-tax Officer under s. 28(1)(c) of the Indian Income-tax Act.", "labels": ["RLC"]}}, {"id": "882f4b4598e44b29a1cd2f18501f4246", "value": {"start": 3787, "end": 3930, "text": "Four persons carried on business in cloth at Virudhunagar in the name and style of S. V.
+Veerappan Chettiar & Co. -hereinafter called the firm.", "labels": ["FAC"]}}, {"id": "c9f50639910141bcb62b90b27de87685", "value": {"start": 3931, "end": 4060, "text": "The firm was registered under Art. 26A of the Indian Income-tax Act, 1922, for the assessment years 1947-48, 1949-50 and 1950-51.", "labels": ["FAC"]}}, {"id": "55e8a03c16554f37a9597d1320eb9532", "value": {"start": 4061, "end": 4378, "text": "The firm concealed particulars of its income in submitting its returns, and the Income-tax Officer, Virudhunagar in the course of assessment proceedings directed, by order dated May 20, 1954, payment of penalty of Rs. 20,000/- for the year 1947-48, Rs. 10,000/-for theyear 1949-50 and Rs. 5,000/-for the year 1950-51.", "labels": ["FAC"]}}, {"id": "1954c85b478244b9b409f8ce1a231273", "value": {"start": 4378, "end": 4525, "text": "
+Against the orders imposing penalty, one of the partners of the firm moved the Commissioner of Income-tax, Madras in revision but without success.", "labels": ["FAC"]}}, {"id": "db702607ec6648cfa94bf63cb6c3d371", "value": {"start": 4526, "end": 4956, "text": "Thereafter, petitions under Art. 226 of the Constitution for issue of writs of certiorari or other appropriate writs calling for records relating to the orders dated May 20, 1954, passed by the Income-tax Officer, Virudhunagar, in respect of the three assessment orders and the record relating to the order of the Commissioner and for quashing the penalty orders were filed by two partners of the firm in the High Court at Madras.", "labels": ["FAC"]}}, {"id": "e51716df959749dab69e833ab138942d", "value": {"start": 4957, "end": 5375, "text": "It was submitted by the petitioners that by agreement between the partners the firm stood dissolved on April 13, 1951, and intimation in that behalf was given to the Income-tax Officer, and that in any event the firm stood dissolved on May 5, 1953, when one of the partners died and the Income-tax Officer could not, in exercise of the power under s. 28(1) make an order imposing penalty after dissolution of the firm.", "labels": ["FAC"]}}, {"id": "92c80770f4ec4a5facb8247f71876297", "value": {"start": 5376, "end": 5648, "text": "The High Court accepted the plea of the petitioners and directed that the orders of the Income-tax Officer dated May 20, 1954, and the further action of the Commissioner thereon declining to revise the order of the Income-tax Officer in each of the petitions be set aside.", "labels": ["RLC"]}}, {"id": "3b063048216b40ac9476dba966517067", "value": {"start": 5649, "end": 5732, "text": "Against the orders passed by the High Court the Commissioner appeals to this Court.", "labels": ["FAC"]}}, {"id": "667defc4656e4f27aeaa6abe4a515c38", "value": {"start": 5734, "end": 6043, "text": "This Court in a recent judgment-C. A. Abraham v. Income-tax Officer, Kottayam (1)-held that the Income-tax Officer had power under s. 28 of the Income-tax Act to impose penalty in the course of assessment of a firm even if the firm stood at the date of the order dissolved by the death of one of its partners.", "labels": ["PRE_RELIED"]}}, {"id": "6f188a1b140743bf84a5e9ea1a35a354", "value": {"start": 6044, "end": 6678, "text": "In so holding, this Court observed that s. 44 of the Income-tax Act sets up machinery for assessing tax liability of a firm which has discontinued its business and that the expression "assessment" in the different sections ofChapter IV of the Income-tax Act was not used merely in the sense of computation of income, and when s. 44 declared that the partners or members of the firm shall be jointly and severally liable to assessment, it referred to the liability to computation of income under s.23 as well as the application of the procedure for declaration and imposition of tax liability and the machinery for enforcement thereof.", "labels": ["PRE_RELIED"]}}, {"id": "4b5afb44885341b19341084da23e8c4f", "value": {"start": 6678, "end": 6871, "text": "
+ Counsel for the appellants, however, contended that C. A. Abraham's case was one of an unregistered firm and the principle of that case has no application where the firm is a registered firm.", "labels": ["ANALYSIS"]}}, {"id": "dd9f61b10cc640f5bc5153a9b98117b7", "value": {"start": 6872, "end": 7142, "text": "But s. 44 makes the provisions of Chapter IV, so far as may be, applicable to assessment when any business, profession or vocation carried on by a firm has been discontinued : the section declares liability of all discontinued firms and not merely of unregistered firms.", "labels": ["ANALYSIS"]}}, {"id": "1238e810196c417c97e56de553c8529b", "value": {"start": 7143, "end": 7257, "text": "There is nothing in s. 44 or the context in which it occur to indicate that it does not apply to registered firms.", "labels": ["ANALYSIS"]}}, {"id": "06ae1323144c4a41b62d992086da9696", "value": {"start": 7258, "end": 7496, "text": "This Court in C. A. Abraham's case approved the decision of the Andhra Pradesh High Court in Mareddy Krishna Reddy v. Income-tax Officer, Tenali, (1) which was a case of a registered firm, which was dissolved before imposition of penalty.", "labels": ["PRE_RELIED"]}}, {"id": "2ddd4031e262417c94684a9413c7c225", "value": {"start": 7496, "end": 7702, "text": "
+ Counsel then argued that in any event, no penalty under s. 28 can be imposed against a registered firm either before or after dissolution, even if the defaults set out in cls.
+ (a), (b) or (c) are proved.", "labels": ["ANALYSIS"]}}, {"id": "85d3ab316de746569fb64b903c49db21", "value": {"start": 7702, "end": 7834, "text": "
+ This, counsel submits, is the result of the scheme of the Act under s. 23(5) for assessment of tax liability of a registered firm.", "labels": ["ANALYSIS"]}}, {"id": "5305a1ffc9b54f77b0416dc715c8f87c", "value": {"start": 7835, "end": 8025, "text": "This plea was not set up in the petition, and there is no reference to it in the judgment of the High Court and even in the statement of the case filed in this Court there is no trace of it.", "labels": ["ANALYSIS"]}}, {"id": "a03d93feabf04276b3b46e3c3337a6fa", "value": {"start": 8026, "end": 8105, "text": "On that ground alone the plea raised by the appellant is liable to be rejected.", "labels": ["ANALYSIS"]}}, {"id": "95a9724f22524da695ade53eacfb4137", "value": {"start": 8106, "end": 8207, "text": "Even if the appellant is permitted to raise the contention there is, in our judgment, no force in it.", "labels": ["ANALYSIS"]}}, {"id": "715c0f0defb044569039ed0600772cbb", "value": {"start": 8208, "end": 9548, "text": "Section 28(1) of the Act (in so far as it is material to these appeals) provides : "If the Income-tax Officer x            x x  x            x       x in the course of any proceedings under this Act is satisfied that any person- (a) has without reasonable cause failed to furnish the return of his total income which he was required to furnish by notice given under sub- section (1) or sub-section (2) of section 22 or section 34 or has without reasonable cause failed to furnish it within the time allowed and in the manner required by such notice, or (b) has without reasonable cause failed to comply with a notice under subsection (4) of section 22 or sub- section (2) of section 23, or (c) has concealed the particulars of his income or deliberately furnished inaccurate particulars of such income, he or it may direct that such persons shall by way of penalty, in the case referred to in clause (a), in addition to the amount of the income-tax and super-tax, if any, payable by him, a sum not exceeding one and a half times that amount, and in the cases referred to in clauses (b) and (c), in addition to any tax- payable by him, a sum not exceeding one and a half times the amount of the income-tax and super-tax, if any, which would have been avoided if the income as returned by such person had been accepted as the correct income".", "labels": ["STA"]}}, {"id": "500a7e2d9fe545a5aca44f9e3655062c", "value": {"start": 9550, "end": 9669, "text": "The expression "person" is defined in s. 2(a) of the Act as including "a Hindu undivided family and a local authority".", "labels": ["STA"]}}, {"id": "fe079af239b04ee68cfabb72cc10d10f", "value": {"start": 9670, "end": 9900, "text": "That evidently is not an exhaustive definition and recourse is permissible to the General Clauses Act which says in s. 3(42) that a "person" includes "any company or association or body of individuals whether incorporated or not."", "labels": ["STA"]}}, {"id": "4c0c05e4b9d3492bb06b5bbf77667d29", "value": {"start": 9901, "end": 10143, "text": "A firm is manifestly a body of individuals and would therefore fall within the definition of "person", and may be exposed to an order for payment of penalty in the circumstances set out in cls. (a), (b) and (c) of s. 28 of the Income-tax Act.", "labels": ["STA"]}}, {"id": "af03b6eb059b49f4b3458facf97af95c", "value": {"start": 10144, "end": 10347, "text": "That a firm, registered or unregistered, may be liable to pay penalty has been further clarified by proviso (d) which declares the quantum of penalty payable by firms, registered as well as unregistered.", "labels": ["STA"]}}, {"id": "bb6a8182e3e742bb9be0476d04f86684", "value": {"start": 10348, "end": 10794, "text": "Counsel for the appellant however contends that even if a firm be regarded as a person within the meaning of the operative part of s. 28 and the proviso thereof, because of an obvious defect in drafting no liability for payment of penalty can be imposed upon a registered firm and in support of that contention he relies upon the last clause of the 1st sub-section which provides for imposition of penalty "in addition to any tax payable by him".", "labels": ["ANALYSIS"]}}, {"id": "c3beef46d7a046bdaac507b86e8ba7d9", "value": {"start": 10794, "end": 11104, "text": "
+Counsel submits that only the person liable to pay tax, may if found guilty of wrongful conduct specified in cls. (a), (b) and (c) be ordered to pay penalty, and by the scheme adopted by the Legislature for imposing tax liability upon registered firms under s. 23(5) tax is never payable by a registered firm.", "labels": ["ANALYSIS"]}}, {"id": "cc50a2bc417d4470b58254143c61679d", "value": {"start": 11105, "end": 11587, "text": "Counsel says that when the Legislature by Act 40 of 1940 enacted cl.
+(d) of the proviso, only the quantum of penal liability of a registered firm was declared but the liability could not still be enforced because by the substantive provision, it depended solely upon the existence of an enforceable obligation of the firm, and so long as an obligation was not imposed upon the firm to pay tax by an adequate amendment of s. 23 (5), the liability though quantified was unenforceable.", "labels": ["ANALYSIS"]}}, {"id": "ee4f45469b5e4358a0c9abd28f9bcfea", "value": {"start": 11588, "end": 12081, "text": "It is urged that there were two defects in s.28(1), as originally drafted : (1) that the penalty could beimposed only upon a person who was liable to pay income-tax or super-tax, and (2) that the penalty which may be imposed was a multiple of the income- tax and super-tax if any, which would have been avoided if the income as returned by such person would have been accepted as the correct income, and by the enactment of cl. (d) to the proviso, the second defect was removed, but not first.", "labels": ["ANALYSIS"]}}, {"id": "426e122e1a494485a61f85711838c987", "value": {"start": 12082, "end": 12212, "text": "In support of this argument, counsel relied upon s.
+23(5) as it stood, before it was amended by s. 14 of the Finance, Act of 1956.", "labels": ["ANALYSIS"]}}, {"id": "1f6c5f7598a54f60b893651955a9272b", "value": {"start": 12213, "end": 12661, "text": "The clause provided that where an assessee is a firm and the total income of the firm has been assessed under sub-s.
+(1), sub-s. (3) or sub-s. (4), as the case may be, the sum payable by the firm shall not be determined but the total income of each partner of the firm, including therein his share of its income, profits or gains of the previous year shall be assessed and the sum payable by him on the basis of such assessment shall be determined.", "labels": ["ANALYSIS"]}}, {"id": "da8e2c318f6f41c3b29e03712f1c6437", "value": {"start": 12662, "end": 13012, "text": "Under this scheme the income of the registered firm was to be computed but tax was not assessed on the total income of the registered firm : the income was distributed according to the terms of the agreement amongst the partners of the registered firm, and added to the separate income of the partners and tax was levied on the partners individually.", "labels": ["ANALYSIS"]}}, {"id": "d6b0b47d825d4bd4810bc5104ab7fdaa", "value": {"start": 13013, "end": 13283, "text": "Relying upon this scheme of levying tax, it was urged by counsel for the respondent that as the registered firm was not liable to pay tax it could not be rendered liable to pay penalty under s. 28 (1) (c).
+ Section 28, as it was originally enacted, was somewhat obscure.", "labels": ["ANALYSIS"]}}, {"id": "2a78665f913b4572be3c7c902c1f5800", "value": {"start": 13284, "end": 13544, "text": "The penalty which could be imposed in cases referred to in cls. (b) and (c) was to be a sum not exceeding one and a half times the amount of the tax which would have been avoided if the income as returned by such person had been accepted as the correct income.", "labels": ["ANALYSIS"]}}, {"id": "5e43b6302fc94d25935c1b0d04391fbc", "value": {"start": 13545, "end": 13753, "text": "But the Legislature did not give any indication whether thepenalty was related to the tax avoided by the partners of the firm, or by the firm on the footing that it was to be regarded as an unregistered firm.", "labels": ["ANALYSIS"]}}, {"id": "a85212c4a82b44b8b62cf5099c3a6d42", "value": {"start": 13754, "end": 13917, "text": "By s. 23(5), income-tax not being made payable by the firm but by the individual partners of a registered firm the legislative intention was not clearly expressed.", "labels": ["STA"]}}, {"id": "4a84e3dbf6744d5e842177394e94daed", "value": {"start": 13918, "end": 14409, "text": "The Legislature to rectify the defect fixed an artificial basis for computing the penalty payable by a registered firm : it provided that in the cases referred to in cls. (b) and (c), the amount of the income-tax and super-tax which would have been avoided if the income as returned had been accepted as the correct income, shall be taken to be the difference between the amount of the tax which would have been payable by an unregistered firm, on an income equal to the firm's total income.", "labels": ["ANALYSIS"]}}, {"id": "845d7d5c8c2e4ebfaebb6e017315d514", "value": {"start": 14410, "end": 14521, "text": "But the provision relating to imposition of liability to pay penalty by registered firms was clearly expressed.", "labels": ["ANALYSIS"]}}, {"id": "440f3defea47465c9b2f1c84b68487b1", "value": {"start": 14522, "end": 14715, "text": "The assumption that the expression "any tax" used in s. 28 (1) is intended to indicate that there must be come tax payable by the assessee before penalty could be imposed is wholly unwarranted.", "labels": ["ANALYSIS"]}}, {"id": "ba01c7017ea34c84a3b4cd81237545cd", "value": {"start": 14716, "end": 14784, "text": "The futility of the assumption is exhibited by the terms of cl. (b).", "labels": ["ANALYSIS"]}}, {"id": "23fe31d8e9a34aa7b4b937865de7ab83", "value": {"start": 14785, "end": 14941, "text": "Penalty may be imposed for failure to comply with the notice under sub-s. (4) of s. 22 or sub-s. (2) of s. 23 even if the assessee has no assessable income.", "labels": ["ANALYSIS"]}}, {"id": "2409dcaeed01497f9d9b0e604c952748", "value": {"start": 14942, "end": 15099, "text": "To the imposition on of a penalty liability to pay tax by the person against whom the penalty is sought to be imposed is therefore not a condition precedent.", "labels": ["ANALYSIS"]}}, {"id": "f0b8eedd27de4b0eaf1c72f7c5c6016b", "value": {"start": 15099, "end": 15272, "text": "
+ The Calcutta High Court in Khushiram Murarilal v. Commissioner of Income-tax, Central Calcutta (1) was called upon to deal with the submission made before us in this case.", "labels": ["PRE_RELIED"]}}, {"id": "2464dae5037e4937a0759f9e435bd306", "value": {"start": 15273, "end": 15447, "text": "In that case the question which fell to be determined was whether imposition of a penalty on a registered firm under s. 28 (1) (b) of the Income Tax Act was justified in law.", "labels": ["PRE_RELIED"]}}, {"id": "3871ae5188c4412c95b7e4423fefb8c3", "value": {"start": 15448, "end": 15852, "text": "It was urged in that case on behalf of theassessee-a registered firm-that inasmuch as under, s. 28 (1) (b) a person can be made liable to pay penalty, in addition to the amount of income-tax and super-tax, if any, payable by him in cases falling under cls. (b) and (c), no order for payment of penalty can be against a registered firm, because under the Income Tax Act no tax is made payable by the firm.", "labels": ["PRE_RELIED"]}}, {"id": "32c308d271ef4c89be1e873c67c3a769", "value": {"start": 15853, "end": 16192, "text": "Chief Justice Chakravartti, speaking for the Court, observed, "....................... even when construed by its own language the concluding paragraph of section 28 (1) cannot be said to make it a condition precedent that a person must be liable to pay some income-tax or it may be also super-tax if he is to be made liable for a penalty.", "labels": ["PRE_RELIED"]}}, {"id": "43efc2753a9c432985768ea4c6368b71", "value": {"start": 16193, "end": 16433, "text": "Clause (b) of the proviso to my mind emphasizes that meaning of the concluding paragraph of Section 28 (1) and rests on an assumption that under that provision a person may be chargeable to penalty although he may not be chargeable to tax."", "labels": ["PRE_RELIED"]}}, {"id": "ac16ed08190a4c409512b07e17aca1f9", "value": {"start": 16434, "end": 16721, "text": "The learned Chief Justice also observed, "......it was not really necessary for clause (d) of the proviso to enact specifically that a registered firm would be liable to pay a penalty despite the fact that it could not be charged and was not, in fact, charged to income-tax or super-tax.", "labels": ["ANALYSIS"]}}, {"id": "0dc2db03c3704a41b0bdb8862a4057e3", "value": {"start": 16722, "end": 16936, "text": "The whole argument of Dr. Sen Gupta was that the concluding paragraph of Section 28 (1) had left a gap which had been attempted to be filled up by clause (d) of the proviso, but the attempt had not been successful.", "labels": ["ANALYSIS"]}}, {"id": "9133db7623504149be0619c8bf6f0abb", "value": {"start": 16937, "end": 17213, "text": "In my view the gap which undoubtedly existed in the concluding paragraph of section 28 (1) was only an absence of a provision regarding the quantum of the penalty that could be levied from a registered firm because the quantum depends upon the amount of income-tax payable".
+ ", "labels": ["ANALYSIS"]}}, {"id": "d4232d912fbb475bb3a218b863dd8d3a", "value": {"start": 17213, "end": 17287, "text": "In our view the learned Chief Justice was right is so enunciating the law.", "labels": ["ANALYSIS"]}}, {"id": "64982caa26cc4c4da5c282bff5bbb2d0", "value": {"start": 17288, "end": 17705, "text": "Under s. 23 (5) of the Indian Income-tax Act, before it was amended in 1956, in the case of a registered firm the tax payable by the firm itself was not required to bedetermined but the total income of each partner of the firm including therein the share of its income, profits and gains of the previous year was required to be assessed and the sum payable by him on the basis of such assessment was to be determined.", "labels": ["ANALYSIS"]}}, {"id": "1f2585ed88864ad28342794d12ccbacb", "value": {"start": 17706, "end": 17774, "text": "But this was merely a method of collection of tax due from the firm.", "labels": ["ANALYSIS"]}}, {"id": "7af23e3b1b844dad88aabf28fb29b62a", "value": {"start": 17774, "end": 17955, "text": "
+ The penalty provisions under s. 28 would therefore in the event of the default contemplated by cls. (a), (b) or (c) be applicable in the course of assessment of a registered firm.", "labels": ["ANALYSIS"]}}, {"id": "0ad5c385712144c8959eb7d5390335d2", "value": {"start": 17956, "end": 18270, "text": "If a registered firm is exposed to liability of paying penalty, by committing any of the defaults contemplated by cls. (a), (b) or (c) by virtue of s. 44, notwithstanding the dissolution of the firm the assessment proceedings are liable to be continued against the registered firm, as if it has not been dissolved.", "labels": ["ANALYSIS"]}}, {"id": "1f1aca9962684d91a6df40530b337141", "value": {"start": 18272, "end": 18659, "text": "Counsel contended that in any event, penalty for the assessment year 1949-50 could not be imposed upon the assessee firm because there was no evidence that the Income-tax Officer was satisfied in the course of any assessment proceedings under the Income-tax Act that the firm had concealed the particulars of its income or had deliberately furnished inaccurate particulars of the income.", "labels": ["ANALYSIS"]}}, {"id": "389aeff0bfb640e9a75e6155a361b807", "value": {"start": 18660, "end": 18950, "text": "The power to impose penalty under s.28 depends upon the satisfaction of the Income-tax Officer in the course of proceedings under the Act: it cannot be exercised if he is not satisfied about the existence of conditions specified in cls. (a), (b) or (c) before the proceedings are concluded.", "labels": ["ANALYSIS"]}}, {"id": "e79660c56c1b40989ff2b3e3a2d55ecb", "value": {"start": 18951, "end": 19120, "text": "The proceeding to levy penalty has, however, not to be commenced by the Income Tax Officer before the completion of the assessment proceedings by the Income-tax Officer.", "labels": ["ANALYSIS"]}}, {"id": "f5b8cf00c0b44a7fabe637079592209d", "value": {"start": 19120, "end": 19314, "text": "
+Satisfaction before conclusion of the proceeding under the Act, and not the issue of a notice of initiation of any step for imposing penalty is a condition for the exercise of the jurisdiction.", "labels": ["ANALYSIS"]}}, {"id": "6e42b4d6dcf24dde932cbc4e8660a3cb", "value": {"start": 19314, "end": 19477, "text": "
+There is no evidence on the record that the Income-tax Officerwas not satisfied in the course of the assessment proceeding that the firm had concealed its income.", "labels": ["RATIO"]}}, {"id": "736ad4456b8b446a93f8a8f6dc071eb1", "value": {"start": 19477, "end": 19825, "text": "
+The assessment order is dated November 10, 1951, and there is an endorsement at the foot of the assessment order by the Income-tax Officer that action under s. 28 had been taken for concealment of income indicating clearly that the Income-tax Officer was satisfied in the course of the assessment proceeding that the firm had concealed its income.", "labels": ["RATIO"]}}, {"id": "8697cd5a8f3b43fa9b13d78699b006ca", "value": {"start": 19825, "end": 20009, "text": "
+ In our view, the High Court was in error in holding that penalty could not be imposed under s.
+28 (1) (c) upon the firm Messrs. S. V. Veerappan Chettiar & Co., after its dissolution.", "labels": ["RATIO"]}}, {"id": "027505b0fede49c5942a33eaa362bd0d", "value": {"start": 20011, "end": 20204, "text": "The appeals will therefore be allowed and the orders passed by the High Court will be set aside and the petitions filed by the respondents dismissed with costs in this Court and the High Court.", "labels": ["RPC"]}}, {"id": "62f512e432e748f6971764be24112a5c", "value": {"start": 20205, "end": 20221, "text": "One hearing fee.", "labels": ["RPC"]}}, {"id": "fcbab171d7b54b18bf579ca64dfa9b84", "value": {"start": 20221, "end": 20239, "text": "
+ Appeals allowed.", "labels": ["RPC"]}}]}], "data": {"text": "PETITIONER:
+THE COMMSSIONER OF INCOME TAX, MADRAS AND ANOTHER
+
+   Vs.
+
+RESPONDENT:
+S.V. ANGIDI CHETTIAR
+
+DATE OF JUDGMENT:
+09/01/1962
+
+BENCH:
+SHAH, J.C.
+BENCH:
+SHAH, J.C.
+SINHA, BHUVNESHWAR P.(CJ)
+KAPUR, J.L.
+HIDAYATULLAH, M.
+MUDHOLKAR, J.R.
+
+CITATION:
+
+1962 AIR 970             1962 SCR  Supl. (2) 640
+
+CITATOR INFO :          (15)
+                        (7,8)
+D          1966 SC1295  (7)
+                        (8)
+E          1968 SC 46
+
+R          1969 SC1352
+
+R          1973 SC 22
+
+ACT:
+         Income Tax-Penalty on concealed income-Power
+
+to impose penalty on a registered firm after
+dissolution-Condition for the exercise of
+jurisdiction by Income-tax Officer-Indian Income
+tax Act, 1922 (11 of 1922), ss. 28, 44.
+
+HEADNOTE:
+         A registered firm concealed particulars of
+
+income while submitting its returns for the years
+1947-48, 1949-50 and 1950-51. The Income-tax
+Officer imposed penalty under s.28 (1) of the
+Indian Income-tax Act, 1922. The High Court was
+moved for a writ of certiorari, submitting that
+the Income-tax Officer could not impose penalty
+under the said section as he had information that
+the registered firm was dissolved on April 13,
+1951, by agreement, and in any event on May 5,
+1953, by the death of one of the partners. The
+High Court issued the writ and quashed the order
+imposing penalty.
+^
+
+         Held, that the principle laid down in C. A.
+Abrahams case [1961] 2 S.C.R. 765, is as much
+applicable to a registered firm as to an
+unregistered firm. There is nothing in s.44 of the
+Act or the context in which it occurs to indicate
+that it does not apply to registered firm.
+
+         Held, further, that the penalty provisions
+under s. 28 would in the event of the default
+contemplated by cls. (a) (b) or (c) be applicable
+in the course of assessment of a registered firm.
+If the registered firm is exposed to liability of
+paying penalty because it has committed any of the
+
+defaults contemplated by cls. (a), (b) or (c) by
+virtue of s.44 the assessment proceedings are
+liable to be continued against the registered firm
+even after dissolution as if it has not been
+dissolved.
+
+         The power to impose penalty under s. 28
+depends upon the satisfaction of the Income-tax
+Officer in the course of proceedings under the
+Act. It cannot be exercised if he is not satisfied
+about the existence of conditions specified in cl.
+(a), (b) or (c) before the proceedings are
+concluded. The proceedings for levy of penalty
+has, however, not to be commenced by the Income-
+tax Officer, before completion of the assessment
+proceedings by him. Satisfaction before the con-clusion of the proceeding under the Act and not
+the issue of notice of intimation of any step for
+imposing penalty is a condition for the exercise
+of the jurisdiction.
+
+         C. A. Abrham v. Income Officer, Kottayam,
+[1961] 2 S. C. R. 765 applied.
+
+         Mareddev Krishna Reddy v. Income-tax Officer,
+Tenali [1957] 31 I. T. R. 678 and Khushiram
+Murarilal v. Commissioner of Income-tax, Central,
+Calcutta, [1954] 25 I. T. R. 572, approved.
+
+JUDGMENT:
+         CIVIL APPELLATE JURISDICTION : Civil Appeals Nos. 6 to 8 of 1961.
+         Appeals from the judgment and order dated May 3, 1957 of the Madras High Court in Writ Petition Nos. 943 to 945 of 1955.
+ K. N. Rajagopala Sastri and P. D. Menon, for the appellants.
+ V. S. Venkataram and K. P. Bhat, for respondents.
+ 1962. January 18.-The Judgment of the Court was delivered by SHAH, J.-These are three appeals with certificates of fitness granted by the High Court of Madras against orders passed in Petitions for the issue of writs of certiorari setting aside orders imposing penalty upon the firm of Messrs.
+S. V. Veerappan Chettiar & Co. passed by the Income-tax Officer under s. 28(1)(c) of the Indian Income-tax Act.
+ Four persons carried on business in cloth at Virudhunagar in the name and style of S. V.
+Veerappan Chettiar & Co. -hereinafter called the firm. The firm was registered under Art. 26A of the Indian Income-tax Act, 1922, for the assessment years 1947-48, 1949-50 and 1950-51. The firm concealed particulars of its income in submitting its returns, and the Income-tax Officer, Virudhunagar in the course of assessment proceedings directed, by order dated May 20, 1954, payment of penalty of Rs. 20,000/- for the year 1947-48, Rs. 10,000/-for theyear 1949-50 and Rs. 5,000/-for the year 1950-51.
+Against the orders imposing penalty, one of the partners of the firm moved the Commissioner of Income-tax, Madras in revision but without success. Thereafter, petitions under Art. 226 of the Constitution for issue of writs of certiorari or other appropriate writs calling for records relating to the orders dated May 20, 1954, passed by the Income-tax Officer, Virudhunagar, in respect of the three assessment orders and the record relating to the order of the Commissioner and for quashing the penalty orders were filed by two partners of the firm in the High Court at Madras. It was submitted by the petitioners that by agreement between the partners the firm stood dissolved on April 13, 1951, and intimation in that behalf was given to the Income-tax Officer, and that in any event the firm stood dissolved on May 5, 1953, when one of the partners died and the Income-tax Officer could not, in exercise of the power under s. 28(1) make an order imposing penalty after dissolution of the firm. The High Court accepted the plea of the petitioners and directed that the orders of the Income-tax Officer dated May 20, 1954, and the further action of the Commissioner thereon declining to revise the order of the Income-tax Officer in each of the petitions be set aside. Against the orders passed by the High Court the Commissioner appeals to this Court.
+ This Court in a recent judgment-C. A. Abraham v. Income-tax Officer, Kottayam (1)-held that the Income-tax Officer had power under s. 28 of the Income-tax Act to impose penalty in the course of assessment of a firm even if the firm stood at the date of the order dissolved by the death of one of its partners. In so holding, this Court observed that s. 44 of the Income-tax Act sets up machinery for assessing tax liability of a firm which has discontinued its business and that the expression "assessment" in the different sections ofChapter IV of the Income-tax Act was not used merely in the sense of computation of income, and when s. 44 declared that the partners or members of the firm shall be jointly and severally liable to assessment, it referred to the liability to computation of income under s.23 as well as the application of the procedure for declaration and imposition of tax liability and the machinery for enforcement thereof.
+ Counsel for the appellants, however, contended that C. A. Abraham's case was one of an unregistered firm and the principle of that case has no application where the firm is a registered firm. But s. 44 makes the provisions of Chapter IV, so far as may be, applicable to assessment when any business, profession or vocation carried on by a firm has been discontinued : the section declares liability of all discontinued firms and not merely of unregistered firms. There is nothing in s. 44 or the context in which it occur to indicate that it does not apply to registered firms. This Court in C. A. Abraham's case approved the decision of the Andhra Pradesh High Court in Mareddy Krishna Reddy v. Income-tax Officer, Tenali, (1) which was a case of a registered firm, which was dissolved before imposition of penalty.
+ Counsel then argued that in any event, no penalty under s. 28 can be imposed against a registered firm either before or after dissolution, even if the defaults set out in cls.
+ (a), (b) or (c) are proved.
+ This, counsel submits, is the result of the scheme of the Act under s. 23(5) for assessment of tax liability of a registered firm. This plea was not set up in the petition, and there is no reference to it in the judgment of the High Court and even in the statement of the case filed in this Court there is no trace of it. On that ground alone the plea raised by the appellant is liable to be rejected. Even if the appellant is permitted to raise the contention there is, in our judgment, no force in it. Section 28(1) of the Act (in so far as it is material to these appeals) provides : "If the Income-tax Officer x            x x  x            x       x in the course of any proceedings under this Act is satisfied that any person- (a) has without reasonable cause failed to furnish the return of his total income which he was required to furnish by notice given under sub- section (1) or sub-section (2) of section 22 or section 34 or has without reasonable cause failed to furnish it within the time allowed and in the manner required by such notice, or (b) has without reasonable cause failed to comply with a notice under subsection (4) of section 22 or sub- section (2) of section 23, or (c) has concealed the particulars of his income or deliberately furnished inaccurate particulars of such income, he or it may direct that such persons shall by way of penalty, in the case referred to in clause (a), in addition to the amount of the income-tax and super-tax, if any, payable by him, a sum not exceeding one and a half times that amount, and in the cases referred to in clauses (b) and (c), in addition to any tax- payable by him, a sum not exceeding one and a half times the amount of the income-tax and super-tax, if any, which would have been avoided if the income as returned by such person had been accepted as the correct income".
+ The expression "person" is defined in s. 2(a) of the Act as including "a Hindu undivided family and a local authority". That evidently is not an exhaustive definition and recourse is permissible to the General Clauses Act which says in s. 3(42) that a "person" includes "any company or association or body of individuals whether incorporated or not." A firm is manifestly a body of individuals and would therefore fall within the definition of "person", and may be exposed to an order for payment of penalty in the circumstances set out in cls. (a), (b) and (c) of s. 28 of the Income-tax Act. That a firm, registered or unregistered, may be liable to pay penalty has been further clarified by proviso (d) which declares the quantum of penalty payable by firms, registered as well as unregistered. Counsel for the appellant however contends that even if a firm be regarded as a person within the meaning of the operative part of s. 28 and the proviso thereof, because of an obvious defect in drafting no liability for payment of penalty can be imposed upon a registered firm and in support of that contention he relies upon the last clause of the 1st sub-section which provides for imposition of penalty "in addition to any tax payable by him".
+Counsel submits that only the person liable to pay tax, may if found guilty of wrongful conduct specified in cls. (a), (b) and (c) be ordered to pay penalty, and by the scheme adopted by the Legislature for imposing tax liability upon registered firms under s. 23(5) tax is never payable by a registered firm. Counsel says that when the Legislature by Act 40 of 1940 enacted cl.
+(d) of the proviso, only the quantum of penal liability of a registered firm was declared but the liability could not still be enforced because by the substantive provision, it depended solely upon the existence of an enforceable obligation of the firm, and so long as an obligation was not imposed upon the firm to pay tax by an adequate amendment of s. 23 (5), the liability though quantified was unenforceable. It is urged that there were two defects in s.28(1), as originally drafted : (1) that the penalty could beimposed only upon a person who was liable to pay income-tax or super-tax, and (2) that the penalty which may be imposed was a multiple of the income- tax and super-tax if any, which would have been avoided if the income as returned by such person would have been accepted as the correct income, and by the enactment of cl. (d) to the proviso, the second defect was removed, but not first. In support of this argument, counsel relied upon s.
+23(5) as it stood, before it was amended by s. 14 of the Finance, Act of 1956. The clause provided that where an assessee is a firm and the total income of the firm has been assessed under sub-s.
+(1), sub-s. (3) or sub-s. (4), as the case may be, the sum payable by the firm shall not be determined but the total income of each partner of the firm, including therein his share of its income, profits or gains of the previous year shall be assessed and the sum payable by him on the basis of such assessment shall be determined.
+Under this scheme the income of the registered firm was to be computed but tax was not assessed on the total income of the registered firm : the income was distributed according to the terms of the agreement amongst the partners of the registered firm, and added to the separate income of the partners and tax was levied on the partners individually. Relying upon this scheme of levying tax, it was urged by counsel for the respondent that as the registered firm was not liable to pay tax it could not be rendered liable to pay penalty under s. 28 (1) (c).
+ Section 28, as it was originally enacted, was somewhat obscure. The penalty which could be imposed in cases referred to in cls. (b) and (c) was to be a sum not exceeding one and a half times the amount of the tax which would have been avoided if the income as returned by such person had been accepted as the correct income. But the Legislature did not give any indication whether thepenalty was related to the tax avoided by the partners of the firm, or by the firm on the footing that it was to be regarded as an unregistered firm. By s. 23(5), income-tax not being made payable by the firm but by the individual partners of a registered firm the legislative intention was not clearly expressed.
+The Legislature to rectify the defect fixed an artificial basis for computing the penalty payable by a registered firm : it provided that in the cases referred to in cls. (b) and (c), the amount of the income-tax and super-tax which would have been avoided if the income as returned had been accepted as the correct income, shall be taken to be the difference between the amount of the tax which would have been payable by an unregistered firm, on an income equal to the firm's total income. But the provision relating to imposition of liability to pay penalty by registered firms was clearly expressed. The assumption that the expression "any tax" used in s. 28 (1) is intended to indicate that there must be come tax payable by the assessee before penalty could be imposed is wholly unwarranted. The futility of the assumption is exhibited by the terms of cl. (b). Penalty may be imposed for failure to comply with the notice under sub-s. (4) of s. 22 or sub-s. (2) of s. 23 even if the assessee has no assessable income. To the imposition on of a penalty liability to pay tax by the person against whom the penalty is sought to be imposed is therefore not a condition precedent.
+ The Calcutta High Court in Khushiram Murarilal v. Commissioner of Income-tax, Central Calcutta (1) was called upon to deal with the submission made before us in this case. In that case the question which fell to be determined was whether imposition of a penalty on a registered firm under s. 28 (1) (b) of the Income Tax Act was justified in law. It was urged in that case on behalf of theassessee-a registered firm-that inasmuch as under, s. 28 (1) (b) a person can be made liable to pay penalty, in addition to the amount of income-tax and super-tax, if any, payable by him in cases falling under cls. (b) and (c), no order for payment of penalty can be against a registered firm, because under the Income Tax Act no tax is made payable by the firm. Chief Justice Chakravartti, speaking for the Court, observed, "....................... even when construed by its own language the concluding paragraph of section 28 (1) cannot be said to make it a condition precedent that a person must be liable to pay some income-tax or it may be also super-tax if he is to be made liable for a penalty. Clause (b) of the proviso to my mind emphasizes that meaning of the concluding paragraph of Section 28 (1) and rests on an assumption that under that provision a person may be chargeable to penalty although he may not be chargeable to tax." The learned Chief Justice also observed, "......it was not really necessary for clause (d) of the proviso to enact specifically that a registered firm would be liable to pay a penalty despite the fact that it could not be charged and was not, in fact, charged to income-tax or super-tax. The whole argument of Dr. Sen Gupta was that the concluding paragraph of Section 28 (1) had left a gap which had been attempted to be filled up by clause (d) of the proviso, but the attempt had not been successful. In my view the gap which undoubtedly existed in the concluding paragraph of section 28 (1) was only an absence of a provision regarding the quantum of the penalty that could be levied from a registered firm because the quantum depends upon the amount of income-tax payable".
+ In our view the learned Chief Justice was right is so enunciating the law. Under s. 23 (5) of the Indian Income-tax Act, before it was amended in 1956, in the case of a registered firm the tax payable by the firm itself was not required to bedetermined but the total income of each partner of the firm including therein the share of its income, profits and gains of the previous year was required to be assessed and the sum payable by him on the basis of such assessment was to be determined. But this was merely a method of collection of tax due from the firm.
+ The penalty provisions under s. 28 would therefore in the event of the default contemplated by cls. (a), (b) or (c) be applicable in the course of assessment of a registered firm. If a registered firm is exposed to liability of paying penalty, by committing any of the defaults contemplated by cls. (a), (b) or (c) by virtue of s. 44, notwithstanding the dissolution of the firm the assessment proceedings are liable to be continued against the registered firm, as if it has not been dissolved.
+ Counsel contended that in any event, penalty for the assessment year 1949-50 could not be imposed upon the assessee firm because there was no evidence that the Income-tax Officer was satisfied in the course of any assessment proceedings under the Income-tax Act that the firm had concealed the particulars of its income or had deliberately furnished inaccurate particulars of the income. The power to impose penalty under s.28 depends upon the satisfaction of the Income-tax Officer in the course of proceedings under the Act: it cannot be exercised if he is not satisfied about the existence of conditions specified in cls. (a), (b) or (c) before the proceedings are concluded. The proceeding to levy penalty has, however, not to be commenced by the Income Tax Officer before the completion of the assessment proceedings by the Income-tax Officer.
+Satisfaction before conclusion of the proceeding under the Act, and not the issue of a notice of initiation of any step for imposing penalty is a condition for the exercise of the jurisdiction.
+There is no evidence on the record that the Income-tax Officerwas not satisfied in the course of the assessment proceeding that the firm had concealed its income.
+The assessment order is dated November 10, 1951, and there is an endorsement at the foot of the assessment order by the Income-tax Officer that action under s. 28 had been taken for concealment of income indicating clearly that the Income-tax Officer was satisfied in the course of the assessment proceeding that the firm had concealed its income.
+ In our view, the High Court was in error in holding that penalty could not be imposed under s.
+28 (1) (c) upon the firm Messrs. S. V. Veerappan Chettiar & Co., after its dissolution.
+ The appeals will therefore be allowed and the orders passed by the High Court will be set aside and the petitions filed by the respondents dismissed with costs in this Court and the High Court. One hearing fee.
+ Appeals allowed.
+ "}, "meta": {"group": "Tax"}},

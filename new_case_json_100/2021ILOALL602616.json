@@ -1,0 +1,55 @@
+{
+    "ILOCaseNo": "2021 ILO ALL 602616",
+    "Court": "ALLAHABAD HIGH COURT",
+    "CaseDetails": [
+        {
+            "CaseNo": "APPLICATION U/S 482 - 5421 of 2021",
+            "Petitioner": "Dharmendra Nishad",
+            "Respondent": "State of U.P and Anr."
+        }
+    ],
+    "JudgmentDate": "02/08/2021",
+    "JudgmentBy": "Vivek Agarwal",
+    "BenchCoram": "Vivek Agarwal",
+    "Lawyers": {
+        "LawyerForPetitioner": [
+            "Aqeel Ahmad"
+        ],
+        "LawyerForRespondent": [
+            "G. A"
+        ],
+        "Lawyer": []
+    },
+    "JudgmentText": [
+        "1. Heard Sri Sanjeev Kumar Shukla, learned counsel for the applicant and Sri Janardan Prakash, learned AGA for the State.",
+        "2. This application under Section 482 Cr.P.C. has been filed on behalf of the accused seeking quashing of the entire proceedings of Complaint Case No. 417 of 2019 (Nasreen vs. Dharmendra) under Section 138 of the Negotiable Instruments Act, 1881, Police Station- Kotwali, District-Jaunpur as well as summoning order dated 07.08.2019, pending in the Court of Judicial Magistrate-Ist, Jaunpur and non-bailable warrants issued on 08.01.2021, on a singular ground that the impugned order dated 07.08.2019 does not disclose that complainant had appeared before the court concerned and had given his evidence under Sections 200-202 Cr.P.C.",
+        "3. Sri Janardan Prakash opposes the prayer made by learned counsel for applicant.",
+        "4. After hearing learned counsel for the parties and going through the record, it will be just and proper to refer to the provisions contained in Section 145 of the Negotiable Instruments Act, 1881, which reads as under:-",
+        {
+            "I": "Evidence on affidavit.- (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the evidence of the complainant may be given by him on affidavit and may, subject to all just exceptions be read in evidence in any enquiry, trial or other proceeding under the said Code. (2) The Court may, if it thinks fit, and shall, on the application of the prosecution or the accused, summon and examine any person giving evidence on affidavit as to the facts contained therein."
+        },
+        "5. In case of Radhey Shyam Garg vs. Naresh Kumar Gupta; (2009) 13 SCC 201 : (AIR 2010 SC 3210), it is held that",
+        {
+            "I": "if affidavit in terms of the provisions of Section 145 of the Act is to be considered to be an evidence, it is difficult to comprehend as to why the court will ask the deponent of the said affidavit to examine himself with regard to the contents thereof once over again. He may be cross-examined and upon completion of his evidence, he may be re- examined."
+        },
+        "6. Similarly, in case of Mandvi Co-operative Bank Ltd. vs. Nimesh B. Thakore; (2010) 3 SCC 83 : (AIR 2010 SC 1402), the Supreme Court has held that",
+        {
+            "I": "once it is realized that Sections 143 to 147 were designed especially to lay down a much simplified procedure for the trial of dishonoured cheque cases with the sole object that the trial of those cases should follow a course even swifter than a summary trial and once it is seen that even the special procedure failed to effectively and expeditiously handle the vast multitude of cases coming to the court, the claim of the accused that on being summoned under Section 145(2), the complainant or any of his witnesses whose evidence is given on affidavit must be made to depose in examination-in- chief all over again plainly appears to be a demand for meaningless duplication, apparently aimed at delaying the trial. Section 145 of the Act has excluded the provisions of Code of Criminal Procedure with regard to the manner in which evidence of the complainant is to be taken. Section 145(1) of the Act provides that notwithstanding any contained in the Code of Criminal Procedure, 1973, the evidence of the complainant may be given by him on affidavit and may, subject to all just exceptions be read in evidence in any inquiry, trial or other proceedings under the said Act. However, the court has power in certain circumstances to examine the person giving evidence on affidavit either on the application of the prosecution or the accused and this provision is contained in sub-section (2) of section 145 of the Act, the Magistrate was not legally required to examine the complainant and his witnesses as provided in Section 200 of the Criminal of PC. The expression "
+        },
+        "inquiry",
+        {
+            "I": " and "
+        },
+        "other proceeding",
+        {
+            "I": " used in section 145(1) of the Act very well includes the proceedings of the complaint held at the pre-summoning stage, therefore, the affidavit could be filed and relied upon by the Magistrate in passing the summoning order."
+        },
+        "7. In case of Sachin Agarwal vs. State of U.P.; (2011) 75 ACC : (2011 (6) ALJ 648) 482, it has been held that",
+        {
+            "I": "the Magistrate was required to observe the provisions contained in sections 200 and 202 Cr.P.C. does not appear to have any substance especially when section 145(1) of the Negotiable Instruments Act contemplates taking of the complainant evidence on affidavit not only in the trial but also in any inquiry or other proceeding. The term inquiry and also the term other proceedings very well includes the proceedings held by the Magistrate before summoning the accused."
+        },
+        "8. In view of aforesaid legal position, it is evident that the plea taken by the applicant's counsel that since Magistrate has not observed that provisions contained in Sections 200 and 202 Cr.P.C., have not been followed, then applicant is entitled to quashing, is not made out, therefore, petition fails and is dismissed."
+    ],
+    "HeadNote": "Criminal P.C. (2 of 1974), S.482, S.200, S.202 - Quashing of criminal proceedings - Dishonor of cheque - Accused seeking quashing of proceedings on a singular ground that order does not disclose that complainant had appeared before court concerned and had given his evidence under Ss.200-202 Cr.P.C - No case made out for quashing - Proceedings not quashed. (Para8)",
+    "Result": "Petition dismissed"
+}

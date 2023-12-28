@@ -1,0 +1,599 @@
+                                                                                     REPORTABLE
+                                IN THE SUPREME COURT OF INDIA
+                                   CIVIL APPELLATE JURISDICTION
+                                CIVIL APPEAL NO.1827 OF 2018
+
+             M/S CANON INDIA PRIVATE LIMITED .... APPELLANT(S)
+                                                           VERSUS
+             COMMISSIONER OF CUSTOMS .... RESPONDENT(S)
+
+                                                         WITH
+                                CIVIL APPEAL NO. 1875 OF 2018
+                                                         WITH
+                                CIVIL APPEAL NO.1832 OF 2018
+                                                         WITH
+                                CIVIL APPEAL NO.3213 OF 2018
+                                            J U D G M E N T
+           S.A. BOBDE, CJI.
+. This batch of statutory appeals (being Civil Appeal
+           Nos. 1827/2018, 1875/2018, 1832/2018 and 3213/2018)
+           under Section 130E of the Customs Act, 1962 arises from a
+           common final order of the Central Excise and Service Tax
+           Appellate Tribunal ('CESTAT') dated 19th December 2017
+           ('impugned order').
+
+Signature Not Verified 2. Vide the impugned order an exemption of basic
+Digitally signed by
+Sanjay Kumar
+Date: 2021.03.09
+16:50:07 IST
+Reason: customs duty accorded to the Digital Still Image Video
+
+                                                         1Cameras ('DSIC') imported by the Nikon India Pvt. Ltd,
+Canon India Pvt. Ltd., Sony India Pvt. Ltd. and Samsung
+India Electronics Pvt. Ltd (hereinafter referred to as
+'appellants' or 'importers'), in terms of exemption
+Notification No. 20/2005 dated 01.03.2005 (as amended by
+Notification No. 15/2012 dated 17.03.2012) came to be
+denied and the consequential confiscation of goods,
+demand of interest and imposition of penalty as provided
+for under various sections of the Customs Act, 1962, was
+upheld by the CESTAT.
+
+3. Since the appeals involve common questions, these
+are being decided together and for sake of convenience we
+shall be referring to the events which took place in the case
+of Nikon.
+
+4. The main issue is whether after clearance of the
+cameras on the basis that they were exempted from levy of
+basic Customs duty under Notification No.15/2012, the
+proceedings initiated by the Directorate of Revenue
+Intelligence for recovery of duty not paid under Section
+28(4) of the Customs Act, 1962 are valid in law.
+
+Exemption Notification
+
+5. Exemption to Digital Still Image Video Cameras was
+issued on 1.3.2005 vide Notification No.25/2005 (and
+amended vide Notification No.15/2012 on 17.3.2012).
+
+Arrival and decision to clear the goods on payment
+of nil duty
+
+6. The consignment of cameras arrived at Delhi on
+15.3.2012. The importer submitted a Bill of Entry to the
+Customs Authorities on 20.3.2012. Along with the Bill of
+Entry, the importer submitted a covering letter and
+literature containing specifications of the cameras. After
+verification of the Bill of Entry by the Inspector and the
+Superintendent, the importer requested the Deputy
+Commissioner of Customs for a first check on 21.3.2012.
+The Customs Authorities checked the goods on 24.3.2012.
+They compared the goods with the description given in the
+literature and took a decision to clear the goods on
+24.3.2012, as being exempt from duty in terms of the
+Notification No.15/2012 which was issued on 17.3.2012.
+
+      Recovery of Duties
+
+      7. On 19.8.2014, a show cause notice was
+      issued under Section 28 (4) of the Customs Act, 1962 1
+      alleging that the Customs Authorities had been induced to
+      clear the cameras by wilful mis-statement and suppression
+      of facts about the cameras. In particular; that the cameras
+      were capable of recording more than a single video
+      sequence of less than 30 minutes. In other words, after
+      one sequence of less than 30 minutes was recorded, the
+      camera had sufficient memory (extendable) to record more
+      such sequences.
+
+      8. It is significant to note that while the decision to clear
+      the goods for import because they were exempted from
+      customs duties under Notification No.15/2012, was taken
+      by Deputy Commissioner, Appraisal Group, Delhi Air Cargo,
+
+1 Section 28 (4) Where any duty has not been [levied or not paid or has been short-
+levied or short-paid] or erroneously refunded, or interest payable has not been paid, part-
+paid or erroneously refunded, by reason of, -
+               (a) collusion; or
+               (b) any wilful mis-statement; or
+               (c) suppression of facts,
+        by the importer or the exporter or the agent or employee of the importer or
+exporter, the proper officer shall, within five years from the relevant date, serve notice on
+the person chargeable with duty or interest which has not been [so levied or not paid] or
+which has been so short-levied or short-paid or to whom the refund has erroneously been
+made, requiring him to show cause why he should not pay the amount specified in the
+notice.
+      the show cause notice was issued by the Additional Director
+      General, Directorate of Revenue Intelligence.
+
+      9. The question that arises is whether the Directorate of
+      Revenue Intelligence had authority in law to issue a show
+      cause notice under Section 28(4) of the Act for recovery of
+      duties allegedly not levied or paid when the goods have
+      been cleared for import by a Deputy Commissioner of
+      Customs who decided that the goods are exempted. It is
+      necessary that the answer must flow from the power
+      conferred by the statute i.e. under Section 28(4) of the Act.
+      This Section empowers the recovery of duty not paid, part
+      paid or erroneously refunded by reason of collusion or any
+      wilful mis-statement or suppression of facts and confers the
+      power of recovery on "the proper officer". The obvious
+      intention is to confer the power to recover such duties not
+      on any proper officer but only on "the proper officer". This
+      Court in Consolidated Coffee Ltd. and Another vs.
+      Coffee Board, Bangalore2 has held:-
+
+                        "14. ...Secondly, and more importantly, the user
+                        of the definite article 'the' before the word
+                        'agreement' is, in our view, very significant.
+                        Parliament has not said 'an agreement' or 'any
+
+2 (1980) 3 SCC 358
+                        agreement' for or in relation to such export and
+                        in the context the expression 'the agreement'
+                        would refer to that agreement which is implicit
+                        in the sale occasioning the export."
+
+                In Shri Ishar Alloy Steels Ltd. vs. Jayaswals
+        Neco Ltd.3 has held:-
+                        "9. ...'The' is the word used before nouns,
+                        with a specifying or particularising effect as
+                        opposed to the indefinite or generalizing force of
+                        'a' or 'an'. It determines what particular thing is
+                        meant; that is, what particular thing we are to
+                        assume to be meant. 'The' is always mentioned
+                        to denote a particular thing or a person."
+
+
+      10. There are only two articles ' a ( an) the'
+                                                                      or ' and ' . `A
+      (or an)' is known as the Indefinite Article because it does
+      not specifically refer to a particular person or thing. On the
+      other hand, 'the' is called the Definite Article because it
+      points out and refers to a particular person or thing. There
+      is no doubt that, if Parliament intended that any proper
+      officer could have exercised power under Section 28 (4), it
+      could have used the word 'any'.
+
+      11. Parliament has employed the article "the" not
+      accidently but with the intention to designate the proper
+      officer who had assessed the goods at the time of
+
+3 (2001) 3 SCC 609
+      clearance. It must be clarified that the proper officer need
+      not be the very officer who cleared the goods but may be
+      his successor in office or any other officer authorised to
+      exercise the powers within the same office. In this case,
+      anyone authorised from the Appraisal Group. Assessment
+      is a term which includes determination of the dutiability of
+      any goods and the amount of duty payable with reference
+      to, inter alia, exemption or concession of customs duty vide
+      Section 2 (2) (c) of the Customs Act, 19624.
+
+      12. The nature of the power to recover the duty, not paid
+      or short paid after the goods have been assessed and
+      cleared for import, is broadly a power to review the earlier
+      decision of assessment. Such a power is not inherent in
+      any authority. Indeed, it has been conferred by Section 28
+      and other related provisions. The power has been so
+      conferred specifically on "the proper officer" which must
+      necessarily mean the proper officer who, in the first
+
+4 Section 2. Definitions - In this Act, unless the context otherwise requires, -
+        ...
+        (2) "assessment" means determination of the dutiability of any goods and the
+amount of duty, tax, cess or any other sum so payable, if any, under this Act or under the
+Customs Tariff Act, 1975 (51 of 1975) (hereinafter referred to as the Customs Tariff Act) or
+under any other law for the time being in force, with reference to -
+        (a) ...
+        (b) ...
+        (c) exemption or concession of duty, tax, cess or any other sum, consequent
+upon any notification issued therefor under this Act or under the Customs Tariff Act or
+under any other law for the time being in force;
+instance, assessed and cleared the goods i.e. the Deputy
+Commissioner Appraisal Group. Indeed, this must be so
+because no fiscal statute has been shown to us where the
+power to re-open assessment or recover duties which have
+escaped assessment has been conferred on an officer other
+than the officer of the rank of the officer who initially took
+the decision to assess the goods.
+
+13. Where the statute confers the same power to
+perform an act on different officers, as in this case, the two
+officers, especially when they belong to different
+departments, cannot exercise their powers in the same
+case. Where one officer has exercised his powers of
+assessment, the power to order re-assessment must also
+be exercised by the same officer or his successor and not
+by another officer of another department though he is
+designated to be an officer of the same rank. In our view,
+this would result into an anarchical and unruly operation of
+a statute which is not contemplated by any canon of
+construction of statute.
+
+14. It is well known that when a statute directs that the
+things be done in a certain way, it must be done in that
+way alone. As in this case, when the statute directs that
+"the proper officer" can determine duty not levied/not paid,
+it does not mean any proper officer but that proper officer
+alone. We find it completely impermissible to allow an
+officer, who has not passed the original order of
+assessment, to re-open the assessment on the grounds
+that the duty was not paid/not levied, by the original officer
+who had decided to clear the goods and who was
+competent and authorised to make the assessment. The
+nature of the power conferred by Section 28 (4) to recover
+duties which have escaped assessment is in the nature of
+an administrative review of an act. The section must
+therefore be construed as conferring the power of such
+review on the same officer or his successor or any other
+officer who has been assigned the function of assessment.
+In other words, an officer who did the assessment, could
+only undertake re-assessment [which is involved in Section
+28 (4)].
+
+15. It is obvious that the re-assessment and recovery of
+duties i.e. contemplated by Section 28(4) is by the same
+authority and not by any superior authority such as
+
+Appellate or Revisional Authority. It is, therefore, clear to us
+that the Additional Director General of DRI was not "the"
+proper officer to exercise the power under Section 28(4)
+and the initiation of the recovery proceedings in the
+present case is without any jurisdiction and liable to be
+set aside.
+
+16. At this stage, we must also examine whether the
+Additional Director General of the DRI who issued the
+recovery notice under Section 28(4) was even a proper
+officer. The Additional Director General can be considered
+to be a proper officer only if it is shown that he was a
+Customs officer under the Customs Act. In addition, that he
+was entrusted with the functions of the proper officer under
+Section 6 of the Customs Act. The Additional Director
+General of the DRI can be considered to be a Customs
+officer only if he is shown to have been appointed as
+Customs officer under the Customs Act.
+
+17. Shri Sanjay Jain, learned Additional Solicitor General,
+relied on a Notification No.17/2002 - Customs (NT) dated
+7.3.2002 to show all Additional Directors General of the DRI
+have been appointed as Commissioners of Customs. At the
+relevant time, the Central Government was the appropriate
+authority to issue such a notification. This notification
+shows that all Additional Directors General, mentioned in
+Column (2), are appointed as Commissioners of Customs.
+
+18. The next step is to see whether an Additional Director
+General of the DRI who has been appointed as an officer of
+Customs, under the notification dated 7.3.2002, has been
+entrusted with the functions under Section 28 as a proper
+officer under the Customs Act. In support of the contention
+that he has been so entrusted with the functions of a
+proper officer under Section 28 of the Customs Act, Shri
+Sanjay Jain, learned Additional Solicitor General relied on a
+Notification No.40/2012 dated 2.5.2012 issued by the
+Central Board of Excise and Customs. The notification
+confers various functions referred to in Column (3) of the
+notification under the Customs Act on officers referred to in
+Column (2). The relevant part of the notification reads as
+follows:-
+
+                 "[To be published in the Gazette of India,
+                 Extraordinary, Part II, Section 3, Sub-section (ii)]
+                                       Government of India
+                                        Ministry of Finance
+                                    (Department of Revenue)
+
+                            Notification No.40/2012-Customs (N.T.)
+                                          New Delhi, dated the 2nd May, 2012
+                     S.O. (E). - In exercise of the powers conferred by
+                   sub-section (34) of section 2 of the Customs Act,
+                   1962 (52 of 1962), the Central Board of Excise and
+                   Customs, hereby assigns the officers and above
+                   the rank of officers mentioned in Column (2) of the
+                   Table below, the functions as the proper officers in
+                   relation to the various sections of the Customs Act,
+                   1962, given in the corresponding entry in Column
+                   (3) of the said Table: -
+                   Sl. Designation of Functions
+                   No. the officers under Section
+                                                          of the Customs
+                                                          Act, 1962
+                   (1) (2) (3)
+                   1. Commissioner of (i) Section 33
+                           Customs
+                   2. Additional (i) Sub-section (5)
+                           Commissioner or of section 46;
+                           Joint Commissioner and
+                           of Customs (ii) Section 149
+                   3. Deputy (i) .....
+                           Commissioner or (ii) .....
+                           Assistant (iii) .....
+                           Commissioner of (iv) .....
+                           Customs and (v) .....
+                           Central Excise (vi) Section 28;
+                                                                   .........
+
+19. It appears that a Deputy Commissioner or Assistant
+Commissioner of Customs has been entrusted with the
+functions under Section 28, vide Sl. No.3 above. By reason
+of the fact that the functions are assigned to officers
+referred to in Column (3) and those officers above the rank
+of officers mentioned in Column (2), the Commissioner of
+Customs would be included as an officer entitled to perform
+
+the function under Section 28 of the Act conferred on a
+Deputy Commissioner or Assistant Commissioner but the
+notification appears to be ill-founded. The notification is
+purported to have been issued in exercise of powers under
+sub-Section (34) of Section 2 of the Customs Act. This
+section does not confer any powers on any authority to
+entrust any functions to officers. The sub-Section is part of
+the definitions clause of the Act, it merely defines a proper
+officer, it reads as follows:-
+
+                   "2. Definitions - In this Act, unless the context
+                   otherwise requires, -
+                        ...
+                     (34) 'proper officer', in relation to any functions
+                   to be performed under this Act, means the
+                   officer of customs who is assigned those
+                   functions by the Board or the [Principal
+                   Commissioner of Customs or Commissioner of
+                   Customs]. "
+ 20. Section 6 is the only Section which provides for
+ entrustment of functions of Customs officer on other
+ officers of the Central or the State Government or local
+ authority, it reads as follows:-
+
+                   "6. Entrustment of functions of Board and
+                   customs officers on certain other officers -
+                   The Central Government may, by notification in
+                   the Official Gazette, entrust either conditionally
+                   or unconditionally to any officer of the Central or
+                   the State Government or a local authority any
+
+                 functions of the Board or any officer of customs
+                 under this Act."
+
+21. If it was intended that officers of the Directorate of
+Revenue Intelligence who are officers of Central
+Government should be entrusted with functions of the
+Customs officers, it was imperative that the Central
+Government should have done so in exercise of its power
+under Section 6 of the Act. The reason why such a power is
+conferred on the Central Government is obvious and that is
+because the Central Government is the authority which
+appoints both the officers of the Directorate of Revenue
+Intelligence which is set up under the Notification dated
+04.12.1957 issued by the Ministry of Finance and Customs
+officers who, till 11.5.2002, were appointed by the Central
+Government. The notification which purports to entrust
+functions as proper officer under the Customs Act has been
+issued by the Central Board of Excise and Customs in
+exercise of non-existing power under Section 2 (34) of the
+Customs Act. The notification is obviously invalid having
+been issued by an authority which had no power to do so in
+purported exercise of powers under a section which does
+not confer any such power.
+
+      22. In the above context, it would be useful to refer to
+      the decision of this Court in the case of Commissioner of
+      Customs vs. Sayed Ali and Another5 wherein the proper
+      officer in respect of the jurisdictional area was considered.
+      The consideration made is as hereunder:-
+
+                        "16. It was submitted that in the instant case,
+                        the import manifest and the bill of entry were
+                        filed before the Additional Collector of Customs
+                        (Imports), Mumbai; the bill of entry was duly
+                        assessed, and the benefit of the exemption was
+                        extended, subject to execution of a bond by the
+                        importer which was duly executed undertaking
+                        the obligation of export. The learned counsel
+                        argued that the function of the preventive staff
+                        is confined to goods which are not manifested as
+                        in respect of manifested goods, where the bills
+                        of entry are to be filed, the entire function of
+                        assessment, clearance, etc. is carried out by the
+                        appraising officers functioning under the
+                        Commissioner of Customs (Imports).
+                        17. Before adverting to the rival submissions, it
+                        would be expedient to survey the relevant
+                        provisions of the Act. Section 28 of the Act,
+                        which is relevant for our purpose, provides for
+                        issue of notice for payment of duty that has not
+                        been paid, or has been short-levied or
+                        erroneously refunded, and provides that:
+                                  "28. Notice for payment of duties,
+                              interest, etc. - (1) When any duty has
+                              not been levied or has been short-levied
+                              or erroneously refunded, or when any
+                              interest payable has not been paid, part
+                              paid or erroneously refunded, the proper
+                              officer may,-
+                                     (a) in the case of any import
+                                     made by any individual for his
+                                     personal use or by Government
+                                     or by any educational, research
+5 (2011) 3 SCC 537
+             or charitable institution or
+             hospital, within one year;
+             (b) in any other case, within six
+             months,
+      from the relevant date, serve notice on
+      the person chargeable with the duty or
+      interest which has not been levied or
+      charged or which has been so short-
+      levied or part paid or to whom the refund
+      has erroneously been made, requiring
+      him to show cause why he should not pay
+      the amount specified in the notice:
+          Provided that where any duty has not
+      been levied or has been short-levied or
+      the interest has not been charged or has
+      been part paid or the duty or interest has
+      been erroneously refunded by reason of
+      collusion or any wilful mis-statement or
+      suppression of facts by the importer or
+      the exporter or the agent or employee of
+      the importer or exporter, the provisions
+      of this sub-section shall have effect as if
+      for the words 'one year' and 'six months',
+      the words 'five years' were substituted."
+18. It is plain from the provision that the 'proper
+officer' being subjectively satisfied on the basis
+of the material that may be with him that
+customs duty has not been levied or short levied
+or erroneously refunded on an import made by
+any individual for his personal use or by the
+Government or by any educational, research or
+charitable institution or hospital, within one year
+and in all other cases within six months from the
+relevant date, may cause service of notice on
+the person chargeable, requiring him to show
+cause why he should not pay the amount
+specified in the notice. It is evident that the
+notice under the said provision has to be issued
+by the 'proper officer'.
+
+19. Section 2(34) of the Act defines a 'proper
+officer', thus:
+
+                        '2. Definitions.-
+                         (34) 'proper officer', in relation to any
+                        functions to be performed under this Act,
+                        means the officer of customs who is
+                        assigned those functions by the Board or
+                        the Commissioner of Customs;'
+                 It is clear from a mere look at the provision that
+                 only such officers of customs who have been
+                 assigned specific functions would be 'proper
+                 officers' in terms of Section 2(34) the Act.
+                 Specific entrustment of function by either the
+                 Board or the Commissioner of Customs is
+                 therefore, the governing test to determine
+                 whether an 'officer of customs' is the 'proper
+                 officer'.
+                 20. From a conjoint reading of Sections 2(34)
+                 and 28 of the Act, it is manifest that only such a
+                 Customs Officer who has been assigned the
+                 specific functions of assessment and re-
+                 assessment of duty in the jurisdictional area
+                 where the import concerned has been affected,
+                 by either the Board or the Commissioner of
+                 Customs, in terms of Section 2(34) of the Act is
+                 competent to issue notice undersection 28 of
+                 the Act. Any other reading of Section 28 would
+                 render the provisions of Section 2(34) of the Act
+                 otiose inasmuch as the test contemplated under
+                 Section 2(34) of the Act is that of specific
+                 conferment of such functions."
+
+23. We, therefore, hold that the entire proceeding in the
+present case initiated by the Additional Director General of
+the DRI by issuing show cause notices in all the matters
+before us are invalid without any authority of law and liable
+to be set-aside and the ensuing demands are also set-
+aside.
+
+Limitation
+
+24. It is strictly not necessary to decide the question on
+limitation but we intend to do so since parties have
+elaborately relied on disclosures made before the Customs
+officer on that issue. The show cause notice was issued on
+19.8.2014. Under Section 28(4), such a show cause notice
+must be issued within five years from the relevant date
+which means the date on which the goods were assessed
+and cleared, in case the duty was not paid or short paid or
+erroneously refunded by reason of collusion or any wilful
+mis-statement or suppression of facts. It is, therefore,
+necessary for us to examine whether there is suppression
+of facts.
+
+25. The case was presented for scrutiny of the Customs
+officers on 20.3.2012 along with the Bill of Entry and
+literature consisting of specifications of the cameras.
+
+26. The Bill of Entry made a statement that these are
+Digital Still Image Video Camera packed for retail sale
+(COOLPIX S4300, S2600 etc.). This was supported by
+literature which clearly stated that "... the single maximum
+
+recording time for a single movie is 29 minutes, even when
+there is sufficient free space on the memory card for longer
+recording". This meant that even if the camera could
+record more than 29 minutes when it had sufficient free
+space (which depends on the capacity of the card providing
+extended memory) the maximum time for which it could
+record a single sequence was 29 minutes.
+
+27. In other words, the camera could record more than
+one single sequence but not 30 minutes and more in a
+single sequence. It is obvious that the Deputy
+Commissioner took the view that the camera complied with
+the requirement of exemption i.e. it could only record up to
+less than 30 minutes in a single sequence. At this juncture,
+it is not relevant to see whether the Deputy Commissioner
+was right or not in taking this decision to clear the goods as
+exempted goods. What is important is to see whether the
+importers made any wilful mis-statement or suppression of
+facts and induced the delivery of goods.
+
+28. It is pertinent to note that the importer had asked for
+a first check and had shown the cameras and the cameras
+were offered on 20.3.2012 along with Bill of Entry and
+literature detailing specifications of models. The camera
+could have been operated to see the length of time of the
+single sequence and whether recording of the single
+sequence exhausts the total memory of the camera
+(including extended memory) and whether the cameras
+were eligible for exemption. It is difficult in such
+circumstances to infer that there was any wilful mis-
+statement of facts. In these circumstances, it must,
+therefore, follow that the extended period of limitation of
+five years was not available to any authority to re-open
+under Section 28(4).
+
+29. In this view of the matter, we consider it unnecessary
+to answer the issue whether the cameras that were cleared
+on the basis that they were exempted from customs duty
+under Exemption Notification No.15/2012 were in fact
+eligible for the exemption or not. The goods must be taken
+to have been validly cleared by the Customs officer.
+
+30. We might note that cameras with similar
+specifications have been treated as exempted under the
+Explanatory Note to the Combined Nomenclature of the
+European communities. It is important to add that the
+same cameras have been considered to be eligible for
+exemption before 17.03.2012 and after 30.04.2015 under
+the exemption Notifications issued under the Customs Act
+read with Chapter 84 & 85 (First Schedule) of Customs Tariff
+Act, 1975.
+
+31. In the result, these appeals are allowed. The
+common order dated 19.12.2017 passed by the CESTAT,
+New Delhi in Customs Appeal Nos. 50098, 50099, 50100
+and 50280/2017 is set aside. Consequently, the impugned
+demand notices issued against all the three appellants
+herein are also set aside.
+
+32. Parties to bear their own costs.
+
+                                                    ..................................CJI.
+                                                                        [S. A. BOBDE]
+
+                                                     .....................................J.
+                                                                   [A. S. BOPANNA]
+
+                                                   ......................................J.
+                                                    [V. RAMASUBRAMANIAN]
+ MARCH 9, 2021
+ NEW DELHI
+
+

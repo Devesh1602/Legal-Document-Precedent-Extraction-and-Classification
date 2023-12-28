@@ -1,0 +1,314 @@
+{"id": 4090, "annotations": [{"result": [{"id": "ed3bbbfe5f54453399d92a99cd4fdf34", "value": {"start": 0, "end": 112, "text": "PETITIONER:
+STATE (DELHI ADMN.)
+
+Vs.
+
+RESPONDENT:
+JAGJIT SINGH
+
+DATE OF JUDGMENT15/12/1988
+
+BENCH:
+RAY, B.C. (J)", "labels": ["PREAMBLE"]}}, {"id": "8d1f8ff80b3844389cf15fb599bdecec", "value": {"start": 112, "end": 535, "text": "
+BENCH:
+RAY, B.C. (J)
+OJHA, N.D. (J)
+
+CITATION:
+
+1989 AIR 598         1988 SCR Supl. (3)1093
+
+1989 SCC Supl. (2) 770 JT 1988 (4) 715
+
+1988 SCALE (2)1578
+
+ACT:
+     Criminal Procedure Code, 1973: Section 306 Person
+
+accepting tender of pardon- To be examined as witness in
+Court of Magistrate taking cognizance of offence as well as
+trial Court- Person resiling from earlier statement-
+Liability to be examined not absolved.", "labels": ["PREAMBLE"]}}, {"id": "1f8e01e371214bd3bb87a73977c93be5", "value": {"start": 535, "end": 642, "text": "
+
+HEADNOTE:
+       Many explosions took place in May 1985 in Delhi and
+
+Uttar Pradesh killing many persons.", "labels": ["PREAMBLE"]}}, {"id": "49e51f0dec354ae28b5f516aa5282cb3", "value": {"start": 643, "end": 691, "text": "Consequently, a number
+of cases were registered.", "labels": ["PREAMBLE"]}}, {"id": "e6837ba2ff3f4ac8acd3808460000097", "value": {"start": 692, "end": 879, "text": "In Delhi, FIR No. 238 of 1985 was
+registered wherein the respondent and another accused turned
+approvers and were granted pardon under section 306 of the
+Code of Criminal Procedure, 1973.", "labels": ["PREAMBLE"]}}, {"id": "509bff1eb58040cbbc825c694dc91e57", "value": {"start": 880, "end": 959, "text": "Both these approvers
+however resiled from their statements in the Court of the
+", "labels": ["PREAMBLE"]}}, {"id": "e0abf1ce795a4ff2a850dd317a8ba6d2", "value": {"start": 959, "end": 980, "text": "Committing Magistrate", "labels": ["PREAMBLE"]}}, {"id": "9eb6762d0a404a18b701ce06f684da32", "value": {"start": 980, "end": 1197, "text": ".
+
+       Four Criminal cases pending in Meerut were later
+transferred by the Supreme Court to the Court of the Chief
+Metropolitan Magistrate, Delhi, to be tried along with the
+case arising out of FIR No. 238 of 1985.", "labels": ["PREAMBLE"]}}, {"id": "7298a30c91f24992b3f3ffc62b700da6", "value": {"start": 1197, "end": 1315, "text": "
+
+       In the supplementary committal proceedings in case FIR
+No. 238 of 1985, the respondent objected to his being
+", "labels": ["PREAMBLE"]}}, {"id": "4aa6c7dba28242d5bed23e4346596ae8", "value": {"start": 1315, "end": 1556, "text": "summoned as an approver on the ground inter alia that he
+could not be examined as a witness in the case because he
+was figuring as an accused person in the other four cases on
+the same facts and circumstances, which were being jointly
+tried.", "labels": ["PREAMBLE"]}}, {"id": "5f2f9c8033804730ba0037d95c646d4e", "value": {"start": 1557, "end": 1617, "text": "The Chief Metropolitan Magistrate dismissed the
+application.", "labels": ["PREAMBLE"]}}, {"id": "4262a52499a54c9a81dd37634bc485f6", "value": {"start": 1618, "end": 1784, "text": "The High Court allowed the respondent's
+revision petition and directed the State not to examine the
+respondent as an approver in case F.I.R. No. 238 of 1985.
+
+       ", "labels": ["PREAMBLE"]}}, {"id": "ca856de0c9ff4ff1bd8b3f474feb4c70", "value": {"start": 1784, "end": 1963, "text": "In the appeal before this Court, it was inter alia
+contended that the prosecution could not examine the
+respondent as a witness because he had cast away the pardon
+granted to him.", "labels": ["PREAMBLE"]}}, {"id": "1d01b7c151294ff3bff51793968e13ce", "value": {"start": 1963, "end": 2008, "text": "
+
+       Allowing the appeal,
+       HELD: 1.", "labels": ["PREAMBLE"]}}, {"id": "adb8f78200be4265a109382adafbe77b", "value": {"start": 2009, "end": 2197, "text": "The pardon granted to the respondent was
+accepted by him and he was examined as a prosecution witness
+in the Court of the Committing Magistrate, though he resiled
+from his statement there.", "labels": ["PREAMBLE"]}}, {"id": "ba0ed0b6727d4c738dc4caa7fe662032", "value": {"start": 2198, "end": 2407, "text": "[1097C]
+
+                                                                                         PG NO 1093
+                                                                                         PG NO. 1094", "labels": ["PREAMBLE"]}}, {"id": "fc156bb283da49fd8ec3e120903df77e", "value": {"start": 2416, "end": 2631, "text": "2. It is a mandate of the provisions of the Criminal
+Procedure Code to the prosecution to examine the approver to
+whom pardon had been granted as a witness both in the
+Committing Court as well as in the trial court.", "labels": ["PREAMBLE"]}}, {"id": "cc060d7599414a3a8926aa8b3502edef", "value": {"start": 2632, "end": 2957, "text": "[1097E]
+
+       3. Section 306 clearly enjoins that the approver who was
+granted pardon had to comply with the condition of making a
+full and true disclosure of the whole of the circumstances
+within his knowledge relative to the offencc and to every
+other concerned whether as principal or abettor, in the
+commission thereof.", "labels": ["PREAMBLE"]}}, {"id": "272f804f0f4540b5b93b883b66dca900", "value": {"start": 2958, "end": 3217, "text": "It is because of this mandate that the
+State cannot withdraw the pardon from the approver nor the
+approver can cast away the pardon granted to him, till he is
+examined as a witness by the prosecution both in the
+Committing Court as well as in the trial court.", "labels": ["PREAMBLE"]}}, {"id": "e2f0460afa2f416b81d6ad84d07fab7b", "value": {"start": 3218, "end": 3245, "text": "[1097H;
+1098A-B]
+
+       4.", "labels": ["PREAMBLE"]}}, {"id": "8a4d06be5614485aa76513b6eea1a9f9", "value": {"start": 3246, "end": 3524, "text": "The respondent who has been granted pardon in case
+F.I.R. No. 238 of 1985 has to be examined by the prosecution
+in the trial court no matter that he has resiled from his
+earlier statement and tried to conceal what was within his
+knowledge with regard to the offence in question.", "labels": ["PREAMBLE"]}}, {"id": "25a15ad1a44146bc88f15f8ecf5fd431", "value": {"start": 3525, "end": 3651, "text": "[1100D]
+
+       In re: Arusami Goundan, AIR 1959 Mad. 274 and Emperor v.
+Shandino Bhaniperto, AIR 1940 (Sind) 114 referred to.", "labels": ["PREAMBLE"]}}, {"id": "c1e3e5245ed940e8808d8235bf1779da", "value": {"start": 3651, "end": 3662, "text": "
+
+       5.", "labels": ["PREAMBLE"]}}, {"id": "ed76dd02de0e43daa7d72d70ed0f474a", "value": {"start": 3663, "end": 3785, "text": "Once an accused is granted pardon under section 306,
+he ceases to be an accused and becomes a witness for the
+prosecution.", "labels": ["PREAMBLE"]}}, {"id": "db7721bebdf344debdf6b31d39f79f1b", "value": {"start": 3786, "end": 4119, "text": "So long as the prosecution does not certify
+that he has failed to make a full and true disclosure of the
+whole of the circumstance within his knowledge relating to
+the offence, he continues to be a witness and the
+prosecution is under obligation to examine him as a witness
+both in the Committing Court as well as in the trial court.", "labels": ["PREAMBLE"]}}, {"id": "bb8b91bbc0ff4ac68bf60079f8fb9953", "value": {"start": 4119, "end": 4207, "text": "
+[1099H; 1100A-B]
+
+       A.J. Peiris v. State of Madras, AIR 1954 (SC) 616
+referred to.", "labels": ["PREAMBLE"]}}, {"id": "d567d9da935444e5bfd046445fa204e6", "value": {"start": 4216, "end": 4398, "text": "6. A witness is legally bound to answer any question
+which is relevant to the matter in issue even if the answer
+to such question is likely to incriminate him directly or
+indirectly.", "labels": ["PREAMBLE"]}}, {"id": "ef3ccfd76e924267ab2609319d24a343", "value": {"start": 4399, "end": 4417, "text": "[1100G]
+
+       7.", "labels": ["PREAMBLE"]}}, {"id": "05566a41d9de48fe9d06b7e082823669", "value": {"start": 4418, "end": 4640, "text": "The proviso to section 132 of the Indian Evidence Act
+clearly protects a witness from being prosecuted on the
+basis of the answers given by him in a criminal proceeding
+which tend to incriminate him directly or indirectly.", "labels": ["PREAMBLE"]}}, {"id": "3b33cbb9ae3f45e48686d5a1d7359cb1", "value": {"start": 4641, "end": 4758, "text": "[1101A]
+
+                                                                                       PG NO. 1095
+       8.", "labels": ["PREAMBLE"]}}, {"id": "ec4ec9c4088046699458a98fbf140a9c", "value": {"start": 4759, "end": 4935, "text": "The apprehension of the respondent that his evidence
+as approver will be used against him in the other four
+criminal cases where he figures as an accused was without
+any basis.", "labels": ["PREAMBLE"]}}, {"id": "b733a4ddf8464a8c97ebdf0f6f17f96d", "value": {"start": 4936, "end": 5105, "text": "On the other hand, he was absolutely protected
+from criminal prosecution on the basis of the evidence to be
+given by him when examined by the prosecution as an
+approver.", "labels": ["PREAMBLE"]}}, {"id": "c6c0290f58f843ed9fd51526beb4cc78", "value": {"start": 5106, "end": 5126, "text": "[1101B-C]
+
+JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "b7b4dd23671b404cb4b9baecf6db9f54", "value": {"start": 5126, "end": 5199, "text": "
+       CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 640 of 1988.", "labels": ["NONE"]}}, {"id": "b5c68804f5514fc89806fb38df3456a8", "value": {"start": 5207, "end": 5304, "text": "From the Judgment and Order dated 27.4.1987 of the Delhi High Court in Crl. Rev. No. 221 of 1986.", "labels": ["NONE"]}}, {"id": "69031545ac9f40318762947c7d4b4614", "value": {"start": 5304, "end": 5414, "text": "
+       B. Datta, Additional Solicitor General, Kitty Kumar Mangalam and Miss A. Subhashini for the Appellant.", "labels": ["NONE"]}}, {"id": "e43386cc8eb546eabe5427e447ca113d", "value": {"start": 5414, "end": 5473, "text": "
+       Hardev Singh and R.K. Agnihotri for the Respondent.", "labels": ["NONE"]}}, {"id": "ffbe2e725d0e48bb91aaa91e23de0c22", "value": {"start": 5481, "end": 5531, "text": "The Judgment of the Court was delivered by RAY, J.", "labels": ["NONE"]}}, {"id": "d4e0eea1ca2042a2a707ad0278756c04", "value": {"start": 5532, "end": 5554, "text": "Special leave granted.", "labels": ["NONE"]}}, {"id": "ecdb2065aaac4e71a5eb4dcb0087345e", "value": {"start": 5555, "end": 5593, "text": "Heard learned counsel for the parties.", "labels": ["NONE"]}}, {"id": "d88b930f98d34f1385fb7472475dffa6", "value": {"start": 5601, "end": 5894, "text": "The prosecution case, in short, is that to create fear and terror to commit murder and to aggravate tense situation some persons hatched a conspiracy to massacre the general public by placing transistor bombs at public places and also by placing them in public transports as trains, buses etc.", "labels": ["FAC"]}}, {"id": "44ea01bd97f04cbf98c8fe24a37a5963", "value": {"start": 5894, "end": 6060, "text": "
+Many explosions took place in May 1985 in Delhi and parts of Uttar Pradesh in consequence whereof many persons were killed in Delhi and some places in Uttar Pradesh.", "labels": ["FAC"]}}, {"id": "cd673a5ab45f475b9c67ca28dc190753", "value": {"start": 6061, "end": 6165, "text": "Several cases were registered in different police stations of Aligarh, Ghaziabad, Meerut and Khekra etc.", "labels": ["FAC"]}}, {"id": "d8d56c9871144c3da2d488aaa0460b59", "value": {"start": 6166, "end": 6386, "text": "In Delhi F.I.R.
+No. 238 of 1985 was registered i.e. State v. Kartar Singh Narang etc. wherein all the accused persons named therein were arrested except one Gurdeep Singh Sehgal who was declared as a proclaimed offender.", "labels": ["FAC"]}}, {"id": "2fe8223d725f41709b6dc916df1c080c", "value": {"start": 6387, "end": 6536, "text": "The accused Jagjit Singh and Gurvinder Singh turned approvers and they were granted pardon under Section 308 of the Code of Criminal Procedure, 1973.", "labels": ["FAC"]}}, {"id": "7be8dc2025e54f2084c962c2dbc101df", "value": {"start": 6537, "end": 6677, "text": "They were examined as P.W. 1 and P.W. 2 in the committal case proceeding in the court of Chief Metropolitan Magistrate on December 24, 1985.", "labels": ["FAC"]}}, {"id": "e6d2421e99c3461f9fb98f996512d7f7", "value": {"start": 6678, "end": 6771, "text": "Both these approvers resiled from their statements in the court of the Committing Magistrate.", "labels": ["FAC"]}}, {"id": "f1fe01e56818433fa985c7902ec8a34d", "value": {"start": 6772, "end": 6975, "text": "The accused persons were committed to the Court of Sessions to stand their trial for offences under Sections 121, 121A, 153, 153A, 302 and 307 I.P.C. and sections 3, 5 and 6 of Explosives Substances Act.", "labels": ["FAC"]}}, {"id": "dd00e52932514e9a9a524eb2a64dde11", "value": {"start": 6975, "end": 6988, "text": "
+ PG NO. 1096", "labels": ["FAC"]}}, {"id": "40167bb81b384e82a01f27df49c69975", "value": {"start": 6989, "end": 7329, "text": "On February 27, 1986, Surjit Kaur, another accused in the Transistor Bomb Case, against whom cases were pending in the Meerut, Ghaziabad and Aligarh Districts of U.P., moved an application under Section 406 of the Code of Criminal Procedure before this Court for transfer of criminal case pending in the court of Meerut to a court in Delhi.", "labels": ["FAC"]}}, {"id": "f2f1dcde5197432c918d77c961f16c5e", "value": {"start": 7330, "end": 7770, "text": "This Court after hearing Counsel for the State of Uttar Pradesh has directed that criminal cases referred to at Serial Nos.
+1, 2, 3 and 5 in paragraph 2 of the transfer petition stand transferred to the Court of the Chief Metropolitan Magistrate, Delhi and shall be tried along with the case instituted in the Court of the Chief Metropolitan Magistrate, Delhi arising out of F.I.R. No. 238 of 1985 of Police Station, Patel Nagar, New Delhi.", "labels": ["FAC"]}}, {"id": "c48fbb9074d04a0d831937035d437316", "value": {"start": 7771, "end": 8101, "text": "When the matter was taken up in the Court of Sessions, the respondent, Jagjit Singh, the approver moved an application that he cannot be examined as a witness as he had not accepted the pardon and did not support the prosecution version and he was forced to make a wrong statement by the police before the Metropolitan Magistrate.", "labels": ["FAC"]}}, {"id": "24e23a1170ed45cc80cd4424cfc94cf7", "value": {"start": 8102, "end": 8210, "text": "The application was rejected by the Trial Judge after hearing the arguments of the parties on March 1, 1986.", "labels": ["RLC"]}}, {"id": "ee047dbbd3d546b080bc2daac278f9e6", "value": {"start": 8210, "end": 8351, "text": "
+       Against this order, a Criminal Revision Petition No. 92 of 1986 was filed by the respondent, Jagjit Singh in the High Court at Delhi.", "labels": ["FAC"]}}, {"id": "30552ed75ae943ea813f4389f1538e20", "value": {"start": 8352, "end": 8697, "text": "This application was heard by Jagdish Chandra, J who dismissed the petition on August 12, 1986 holding that the mandate of the law requiring that the approver shall be examined both before the Committing Magistrate as well as during trial as a witness, is binding not only on the trial court and the prosecution but also on the approver as well.", "labels": ["FAC"]}}, {"id": "ccd7313a83214693be3aaebef2c7fd40", "value": {"start": 8697, "end": 8871, "text": "
+       Thereafter, one of the accused person who was a proclaimed offender was arrested and a supplementary challan was filed in the Court of Metropolitan Magistrate, Delhi.", "labels": ["FAC"]}}, {"id": "400c21a1f0484556b885607ee42fa04d", "value": {"start": 8872, "end": 9035, "text": "The respondent, Jagjit Singh was sought to be examined as an approver by the prosecution, in the said supplementary committal proceeding in F.I.R. No. 238 of 1985.", "labels": ["FAC"]}}, {"id": "3bf9e733adfd40d0bf37355010baaec4", "value": {"start": 9036, "end": 9301, "text": "The respondent objected to his being summoned as an approver on the ground inter alia that he cannot be examined as a witness in a case though he is figuring as an accused person in other five cases on the same facts and circumstances which are being jointly tried.", "labels": ["FAC"]}}, {"id": "046f69dfce784627bc5dbab3c10f13f3", "value": {"start": 9302, "end": 9404, "text": "The Chief Metropolitan Magistrate, Delhi dismissed the application by his order dated October 6, 1986.", "labels": ["RLC"]}}, {"id": "410b168637344ddb893060f8ca6e1bf3", "value": {"start": 9405, "end": 9501, "text": "Against this order the respondent Jagjit Singh filed Criminal Revision Petition No. 221 of 1986.", "labels": ["FAC"]}}, {"id": "da0b05b6760345c18d5eccec3557aae8", "value": {"start": 9502, "end": 9681, "text": "M.K. Chawla, J after hearing the parties allowed the Revision Petition and directed the State not to examine the respondent-approver as an approver in case F.I.R. No. 238 of 1985.", "labels": ["RLC"]}}, {"id": "486877f61fa04b5d886283db6d39e53f", "value": {"start": 9681, "end": 9694, "text": "
+ PG NO. 1097", "labels": ["FAC"]}}, {"id": "37c495f472f44612801ca1f24069dee9", "value": {"start": 9695, "end": 9772, "text": "Aggrieved by this order this appeal by special leave has been filed by State.", "labels": ["FAC"]}}, {"id": "3186ff6ff12546b9be83b2a9b7eec558", "value": {"start": 9772, "end": 9984, "text": "
+       It has been urged that the statement recorded under Section 164 of the Code of Criminal Procedure was not made by the respondent, Jagjit Singh voluntarily but it was obtained under coercion by the police.", "labels": ["ARG_RESPONDENT"]}}, {"id": "a5701dd05cc9463193f600aadad46b79", "value": {"start": 9985, "end": 10158, "text": "It has also been contended that he resiled from his statements in the court of the Committing Magistrate and he has not accepted the pardon granted to him by the Magistrate.", "labels": ["ARG_RESPONDENT"]}}, {"id": "3af280eb115445e49598a39cff7e6a13", "value": {"start": 10159, "end": 10300, "text": "He should be arrayed as an accused in the case F.I.R. No. 238/85 and should be tried as an accused along with other accused in the said case.", "labels": ["ARG_RESPONDENT"]}}, {"id": "394be162213c47de98dbb6f876b073ba", "value": {"start": 10301, "end": 10534, "text": "This contention is not tenable in as much as the pardon granted to the respondent, Jagjit Singh was accepted by him and other approver, Gurvinder Singh who were examined as P.W. 1 and P.W. 2 in the court of the Committing Magistrate.", "labels": ["ANALYSIS"]}}, {"id": "a5779f1744464957892576f4cf42156f", "value": {"start": 10535, "end": 10634, "text": "These approvers, of course, resiled from their statement in the court of the Committing Magistrate.", "labels": ["ANALYSIS"]}}, {"id": "a72d575bb38a4244a500cd1d0e1aaa31", "value": {"start": 10635, "end": 10784, "text": "It has therefore, been submitted that the prosecution cannot examine him as a witness in the said case as he has cast away the pardon granted to him.", "labels": ["ARG_RESPONDENT"]}}, {"id": "20845e675c41424c801be90703b306af", "value": {"start": 10785, "end": 11110, "text": "This submission, in our considered opinion, is not tenable in as much as sub-section (4) of Section 306 of Code of Criminal Procedure clearly enjoins that a person accepting a tender of pardon has to be examined as a witness in the court of the Magistrate taking cognizance of the offence and in the subsequent trial, if any.", "labels": ["ANALYSIS"]}}, {"id": "7f6094c9305941a1a1daecdf345e7fc5", "value": {"start": 11111, "end": 11318, "text": "It is therefore, a mandate of the provisions of the said Act to the prosecution to examine the approver to whom pardon has been granted as a witness both in the Committing Court as well as in the trial court", "labels": ["ANALYSIS"]}}, {"id": "7d012989a2e34da2a910ccd3479acffc", "value": {"start": 11319, "end": 11337, "text": "It does not matter", "labels": ["ANALYSIS"]}}, {"id": "0f3e3e20cc8f46cd9c91516c80ece8f4", "value": {"start": 11338, "end": 11345, "text": "whether", "labels": ["ANALYSIS"]}}, {"id": "b2732d05bc74485f923a84d17e82140f", "value": {"start": 11346, "end": 11734, "text": "the approver has resiled from his statement and has not made a full and true disclosure of whole of the circumstances within his knowledge relating to the offence so long as the Public Prosecutor does not certify that in his opinion the approver has either wilfully concealed anything essential or has given false evidence contrary to the condition on which the tender of pardon was made.", "labels": ["ANALYSIS"]}}, {"id": "f30cb3f39db14853bfed201691778ae3", "value": {"start": 11734, "end": 11933, "text": "
+       It has been next contended that the grant of pardon is in the nature of a contract between the State granting the pardon on the one hand and the person accepting the pardon on the other hand.", "labels": ["ARG_RESPONDENT"]}}, {"id": "e505b0cca3824f7eb267d6087dc8a928", "value": {"start": 11934, "end": 12080, "text": "As the State has the power to revoke the pardon at any time the approver has also got the reciprocal right to cast away the pardon granted to him.", "labels": ["ARG_RESPONDENT"]}}, {"id": "96a7b9f3a6f64fd38e296560ac07c9f5", "value": {"start": 12081, "end": 12117, "text": "This submission is also not tenable.", "labels": ["ANALYSIS"]}}, {"id": "c8e33fe5d9624d08a559b8b7bc04ae96", "value": {"start": 12118, "end": 12232, "text": "The power to grant pardon carries with it the right to impose a condition limiting the operation of such a pardon.", "labels": ["ANALYSIS"]}}, {"id": "493e5e877c274223a699268ef15b9029", "value": {"start": 12233, "end": 12374, "text": "Hence a pardoning power can attach any condition, precedent or subsequent so long as it is not illegal, immoral or impossible of performance.", "labels": ["ANALYSIS"]}}, {"id": "92514c8c35544c37991c5b5cda04fcca", "value": {"start": 12374, "end": 12692, "text": "
+Section 306 clearly enjoins that the approver who was PG NO 1098 granted pardon had to comply with the condition of making a full and true disclosure of the whole of the circumstances within his knowledge relative to the offence and to every other concerned whether as principal or abettor, in the commission thereof.", "labels": ["ANALYSIS"]}}, {"id": "2aab9d435dad4b4f9ac40c4890069656", "value": {"start": 12693, "end": 12948, "text": "It is because of this mandate, the State can not withdraw the pardon from the approver nor the approver can cast away the pardon granted to him till he is examined as a witness by the prosecution both in the Committing Court as well as in the trial court.", "labels": ["ANALYSIS"]}}, {"id": "3d4dea42a3c34b639afdbf4b29b51758", "value": {"start": 12949, "end": 13203, "text": "The approver may have resiled from the statement made before the Magistrate in the Committing Court and may not have complied with the condition on which pardon was granted to him, still the prosecution has to examine him as a witness in the trial court.", "labels": ["ANALYSIS"]}}, {"id": "39d92d593e554203bcbb01a845863637", "value": {"start": 13204, "end": 13577, "text": "It is only when the Public Prosecutor certifies that the approver has not complied with the conditions on which the tender was made by wilfully concealing anything essential or by giving false evidence, he may be tried under section 308 of the Code of Criminal Procedure not only for the offence in respect of which pardon was granted but also in respect of other offences.", "labels": ["ANALYSIS"]}}, {"id": "2cb5ddfd30104bf0b13d55d39802bd42", "value": {"start": 13578, "end": 13778, "text": "In these circumstances, the question of casting away the pardon granted to an approver and his claim not to be examined by the prosecution as a witness before the trial court is without any substance.", "labels": ["ANALYSIS"]}}, {"id": "7beed1196f834512aad83ce7748d19c0", "value": {"start": 13779, "end": 14238, "text": "It has been submitted in this connection by citing a decision In re Arusami Goundan, AIR 1959 (Madras) 274 that the accomplice who has been tendered a pardon if at any stage either wilfully conceals material particulars or gives false evidence and thereby fails to comply with the conditions on which pardon was tendered to him and thereby incurs its forfeiture he should not be compelled by the prosecution to be examined as a witness before the trial court.", "labels": ["ARG_RESPONDENT"]}}, {"id": "e9797df82d0d4f9e8ef830adf5b1ec86", "value": {"start": 14239, "end": 14743, "text": "It has been observed even in the said case that the provisions of Section 337(2) of the old Code of Criminal Procedure, 1898 (5 of 1898) provide that the approver who has been tendered pardon must be examined both in the Committing Court and the Court of Sessions it has been held that: "The obligation to make a full and true disclosure would arise whenever the approver is lawfully called upon to give evidence touching the matter; it may be in the Committing court, or, it may be in he Sessions Court.", "labels": ["PRE_RELIED"]}}, {"id": "a978f3b46fa746f0b0410c0c4101e3c5", "value": {"start": 14744, "end": 14890, "text": "But, the obligation to make a full and true disclosure rests on the approver at every stage at which he can be lawfully required to give evidence.", "labels": ["PRE_RELIED"]}}, {"id": "6cddbe4dabf64db09ad05bab98eb3f04", "value": {"start": 14891, "end": 15102, "text": "If at any stage he either wilfully conceals material particulars or gives false evidence he would failed to comply with the conditions on which the pardon was tendered to him and thereby incurred its forfeiture.", "labels": ["PRE_RELIED"]}}, {"id": "e42f1ce45ac44c25a5439a9f1b99158b", "value": {"start": 15104, "end": 15428, "text": "Neither as a matter of reason or logic, nor as a matter PG NO 1099 of statutory interpretation can it be said that S. 339(1) is dependent on or connected with S. 337(2) in the sense that the approver must be examined both in the Committing Court and the Sessions Court before it can be held that he has forfeited his pardon.", "labels": ["PRE_RELIED"]}}, {"id": "dbad812048bf4aaa93a93c2aa9ec1969", "value": {"start": 15429, "end": 15548, "text": "It is sufficient if he fails to conform to the conditions on which the pardon has been granted to him at either stage."", "labels": ["PRE_RELIED"]}}, {"id": "8cd59619bbda4721a4cd2d342db7d15c", "value": {"start": 15550, "end": 15901, "text": "This decision has been considered in Emperor v. Shandino Dhaniparto, AIR 1940 (Sind) 114 wherein it has been held that: "When an accused after accepting pardon denies all knowledge of facts before the Committing Magistrate and the case is committed to Sessions Court the pardon cannot be forfeited before the accused is examined in the Sessions Court.", "labels": ["PRE_RELIED"]}}, {"id": "65df00e136c149b7878d48cacc4f301a", "value": {"start": 15902, "end": 16115, "text": "Once a pardon is tendered and accepted, S. 337(2) renders it obligatory for the prosecution to examine the approver both in the Committing Magistrate s Court and in the Sessions Court should the case be committed.", "labels": ["PRE_RELIED"]}}, {"id": "0584aaf135334d7d83e24ecb5b543aa2", "value": {"start": 16116, "end": 16209, "text": "Failure of the prosecution to examine the approver in the Sessions Court vitiates the trial."", "labels": ["PRE_RELIED"]}}, {"id": "4cd449a8d4fa4e8b8928f3671087b643", "value": {"start": 16209, "end": 16402, "text": "
+ The provisions of Sections 337 and 339 of the old Code of Criminal Procedure are almost in identical terms with the provisions of Sections 306 and 308 of the Code of Criminal Procedure, 1973.", "labels": ["ANALYSIS"]}}, {"id": "60492b5c54b7406fa538d53350afd5e5", "value": {"start": 16403, "end": 16477, "text": "This submission on a plain reading of these sections, cannot be sustained.", "labels": ["ANALYSIS"]}}, {"id": "3ca0f863659e4dc6954c6d146641085c", "value": {"start": 16477, "end": 16778, "text": "
+       It has been urged with great vehemence that the appellant, Jagjit Singh was granted pardon with regard to case F.I.R. No. 238 of 1985 whereas his name appears as an accused in the other four cases which have been directed to be tried along with above case wherein the facts are almost similar.", "labels": ["ARG_RESPONDENT"]}}, {"id": "d8f11e4a5fe8421f93c05d80c620acd0", "value": {"start": 16779, "end": 16979, "text": "The appellant-approver in such circumstances should not be examined by the prosecution as a witness in as much as his evidence may be used in the other criminal cases wherein he figures as an accused.", "labels": ["ARG_RESPONDENT"]}}, {"id": "4b946e95f2f144e49dfc181c2ffdfb2b", "value": {"start": 16980, "end": 17062, "text": "This is against the protection given by Article 2(3) of the Constitution of India.", "labels": ["ARG_RESPONDENT"]}}, {"id": "9f18f19b03f34a7fa0273cd15c7db55a", "value": {"start": 17063, "end": 17262, "text": "It has, therefore, been submitted that the order dated April 27, 1987 passed in Revision Petition No. 221 of 1986 directing the State not to examine the approver as a witness should not be set aside.", "labels": ["ARG_RESPONDENT"]}}, {"id": "ab753d834f0847f8a0dbbb25d29f93ae", "value": {"start": 17263, "end": 17469, "text": "This contention is also not tenable in as much as once an accused is granted pardon under section 306 of the Code of Criminal Procedure, he ceases to be an accused and becomes a witness for the prosecution.", "labels": ["ANALYSIS"]}}, {"id": "9eb0d34a7c7e46519fff3a94c5e10fbb", "value": {"start": 17470, "end": 17763, "text": "The only condition imposed by the provisions of the Act is that the approver must make a full and true disclosure of the whole of the circumstances within his PG NO 1100 knowledge relating to the offence and to every other concerned, whether as principal or abettor, in the commission thereof.", "labels": ["ANALYSIS"]}}, {"id": "a72f67fa405442ad8aa33452a24db3ec", "value": {"start": 17764, "end": 17992, "text": "So long as the Prosecution does not certify that he has failed to do so he continues to be a witness and the prosecution is under obligation to examine him as a witness both in the Committing Court as well as in the trial court.", "labels": ["ANALYSIS"]}}, {"id": "00845df7bddf4f06839ea2cc29d3921b", "value": {"start": 17993, "end": 18309, "text": "This has been made very clear by this Court in the case of A.J. Peiris v. State of Madras, AIR 1954(SC) 616 wherein it has been observed that: ".....We think that the moment the pardon was tendered to the accused he must be presumed to have been discharged whereupon he ceased to be an accused and became a witness."", "labels": ["PRE_RELIED"]}}, {"id": "d3cf1e78670b4c5aa75487b37a26461d", "value": {"start": 18309, "end": 18501, "text": "
+ We have already held hereinbefore that sub-section 4 of Section 306 casts an obligation on the prosecution to examine the approver both in the Committing Court as well as in the trial court.", "labels": ["ANALYSIS"]}}, {"id": "aa87537e0f874c698e52eb10f858af8d", "value": {"start": 18502, "end": 18777, "text": "So the appellant who has been granted pardon in case F.I.R. No. 238/85 has to be examined by the prosecution in the trial court no matter that he has resiled from his earlier statement and tried to conceal what was within his knowledge with regard to the offence in question.", "labels": ["ANALYSIS"]}}, {"id": "37bc7d59dc724000b30f5e181f1c991b", "value": {"start": 18777, "end": 19290, "text": "
+It will be pertinent to mention here Section 132 of the Indian Evidence Act, 1872 which lays down that: "A witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any suit or in any civil or criminal proceedings, upon the ground that the answer to such question will criminate, or may tend directly or indirectly to criminate, such witness, or that it will expose, or tend directly or indirectly to expose, such witness to a penalty or forfeiture of any kind.", "labels": ["STA"]}}, {"id": "50351949ed654475a5be5b2fe5a77178", "value": {"start": 19292, "end": 19300, "text": "Proviso-", "labels": ["STA"]}}, {"id": "c01e67e90cda4945b69d9b0b1d0ce19c", "value": {"start": 19301, "end": 19531, "text": "Provided that no such answer, which a witness shall be compelled to give, shall subject him to any arrest or prosecution, or be against him in any criminal proceeding, except a prosecution for giving false evidence by such answer.", "labels": ["STA"]}}, {"id": "b0fe317c23244b4184c85f2e19502ba8", "value": {"start": 19531, "end": 19721, "text": "
+ Therefore, a witness is legally bound to answer any question which is relevant to the matter in issue even if the answer to such question is likely to criminate him directly or indirectly.", "labels": ["ANALYSIS"]}}, {"id": "0a84d844883c440480de80c64186766e", "value": {"start": 19722, "end": 20008, "text": "Proviso to Section 132 expressly provides that such answer which a witness is compelled to give shall not subject him to any arrest or prosecution PG NO 1101 nor the same can be proved against him in any criminal proceeding except a prosecution for giving false evidence by such answer.", "labels": ["ANALYSIS"]}}, {"id": "36d76de96abe48a88ffe16b4574a4e9c", "value": {"start": 20009, "end": 20242, "text": "The provisions of proviso to Section 132 of the Indian Evidence Act clearly protect a witness from being prosecuted on the basis of the answers given by him in a criminal proceeding which tend to criminate him directly or indirectly.", "labels": ["ANALYSIS"]}}, {"id": "cef594425be64558a5e1f7b872d874e8", "value": {"start": 20243, "end": 20445, "text": "In view of this provision, the apprehension of the respondent that his evidence as approver will be used against him in the other four criminal cases where he figures as an accused is without any basis.", "labels": ["ANALYSIS"]}}, {"id": "16a8a4e2246e4c218e704a3221521f2a", "value": {"start": 20446, "end": 20631, "text": "On the other hand, he is absolutely protected from criminal prosecution on the basis of the evidence to be given by him when examined by the prosecution as an approver in the said case.", "labels": ["ANALYSIS"]}}, {"id": "12033ea1926b48dabc7690c1d31f78b4", "value": {"start": 20631, "end": 20694, "text": "
+ This submission of the respondent is, therefore, not tenable.", "labels": ["ANALYSIS"]}}, {"id": "8e0ee27803f14765963bcb6ca3a443fe", "value": {"start": 20695, "end": 20821, "text": "It is pertinent to refer in this connection the decision of this Court in Laxmipat Choraria and Ors. v.
+ State of Maharashtra.", "labels": ["PRE_RELIED"]}}, {"id": "830893dbb59d4003b6012a2c835373ce", "value": {"start": 20822, "end": 21234, "text": "[1968] 2 SCR 626 wherein it has been observed by Hidayatullah, J as he then was that: "....... Under s. 132 a witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any criminal proceeding (among others) upon the ground that the answer to such question will incriminate or may tend directly or indirectly to expose him to a penalty or forfeiture of any kind.", "labels": ["PRE_RELIED"]}}, {"id": "de192d8411f040afa99368226ce11d6f", "value": {"start": 21235, "end": 21494, "text": "The safeguard to this compulsion is that no such answer which the witness is compelled to give exposes him to any arrest or prosecution or can ii be prove i against him in any criminal proceeding except a prosecution for giving false evidence by such answer."", "labels": ["PRE_RELIED"]}}, {"id": "d20ea0cee1e1491498f05197f9ef19e0", "value": {"start": 21494, "end": 21601, "text": "
+ So Section 132 of the Evidence Act sufficiently protects him since his testimony does not go against him.", "labels": ["RATIO"]}}, {"id": "1ec9d9a5c1a64a8bb423c5c8d6497892", "value": {"start": 21601, "end": 21652, "text": "
+ For the reasons aforesaid, the appeal is allowed.", "labels": ["RPC"]}}, {"id": "d1f14db1ebff454ba2f13fdc90dc875f", "value": {"start": 21653, "end": 21761, "text": "The judgment and order dated April 27, 1987 passed in Revision Petition No. 221 of 1986 is hereby set aside.", "labels": ["RPC"]}}, {"id": "8adf1005d8c7458093a3f5599df282ca", "value": {"start": 21761, "end": 21769, "text": "
+ R.S.S.", "labels": ["NONE"]}}, {"id": "7b623cc12023466fb53214acd31dc1cb", "value": {"start": 21769, "end": 21799, "text": "               Appeal allowed.", "labels": ["RPC"]}}]}], "data": {"text": "PETITIONER:
+STATE (DELHI ADMN.)
+
+Vs.
+
+RESPONDENT:
+JAGJIT SINGH
+
+DATE OF JUDGMENT15/12/1988
+
+BENCH:
+RAY, B.C. (J)
+BENCH:
+RAY, B.C. (J)
+OJHA, N.D. (J)
+
+CITATION:
+
+1989 AIR 598         1988 SCR Supl. (3)1093
+
+1989 SCC Supl. (2) 770 JT 1988 (4) 715
+
+1988 SCALE (2)1578
+
+ACT:
+     Criminal Procedure Code, 1973: Section 306 Person
+
+accepting tender of pardon- To be examined as witness in
+Court of Magistrate taking cognizance of offence as well as
+trial Court- Person resiling from earlier statement-
+Liability to be examined not absolved.
+
+HEADNOTE:
+       Many explosions took place in May 1985 in Delhi and
+
+Uttar Pradesh killing many persons. Consequently, a number
+of cases were registered. In Delhi, FIR No. 238 of 1985 was
+registered wherein the respondent and another accused turned
+approvers and were granted pardon under section 306 of the
+Code of Criminal Procedure, 1973. Both these approvers
+however resiled from their statements in the Court of the
+Committing Magistrate.
+
+       Four Criminal cases pending in Meerut were later
+transferred by the Supreme Court to the Court of the Chief
+Metropolitan Magistrate, Delhi, to be tried along with the
+case arising out of FIR No. 238 of 1985.
+
+       In the supplementary committal proceedings in case FIR
+No. 238 of 1985, the respondent objected to his being
+summoned as an approver on the ground inter alia that he
+could not be examined as a witness in the case because he
+was figuring as an accused person in the other four cases on
+the same facts and circumstances, which were being jointly
+tried. The Chief Metropolitan Magistrate dismissed the
+application. The High Court allowed the respondent's
+revision petition and directed the State not to examine the
+respondent as an approver in case F.I.R. No. 238 of 1985.
+
+       In the appeal before this Court, it was inter alia
+contended that the prosecution could not examine the
+respondent as a witness because he had cast away the pardon
+granted to him.
+
+       Allowing the appeal,
+       HELD: 1. The pardon granted to the respondent was
+accepted by him and he was examined as a prosecution witness
+in the Court of the Committing Magistrate, though he resiled
+from his statement there. [1097C]
+
+                                                                                         PG NO 1093
+                                                                                         PG NO. 1094
+
+       2. It is a mandate of the provisions of the Criminal
+Procedure Code to the prosecution to examine the approver to
+whom pardon had been granted as a witness both in the
+Committing Court as well as in the trial court. [1097E]
+
+       3. Section 306 clearly enjoins that the approver who was
+granted pardon had to comply with the condition of making a
+full and true disclosure of the whole of the circumstances
+within his knowledge relative to the offencc and to every
+other concerned whether as principal or abettor, in the
+commission thereof. It is because of this mandate that the
+State cannot withdraw the pardon from the approver nor the
+approver can cast away the pardon granted to him, till he is
+examined as a witness by the prosecution both in the
+Committing Court as well as in the trial court. [1097H;
+1098A-B]
+
+       4. The respondent who has been granted pardon in case
+F.I.R. No. 238 of 1985 has to be examined by the prosecution
+in the trial court no matter that he has resiled from his
+earlier statement and tried to conceal what was within his
+knowledge with regard to the offence in question. [1100D]
+
+       In re: Arusami Goundan, AIR 1959 Mad. 274 and Emperor v.
+Shandino Bhaniperto, AIR 1940 (Sind) 114 referred to.
+
+       5. Once an accused is granted pardon under section 306,
+he ceases to be an accused and becomes a witness for the
+prosecution. So long as the prosecution does not certify
+that he has failed to make a full and true disclosure of the
+whole of the circumstance within his knowledge relating to
+the offence, he continues to be a witness and the
+prosecution is under obligation to examine him as a witness
+both in the Committing Court as well as in the trial court.
+[1099H; 1100A-B]
+
+       A.J. Peiris v. State of Madras, AIR 1954 (SC) 616
+referred to.
+
+       6. A witness is legally bound to answer any question
+which is relevant to the matter in issue even if the answer
+to such question is likely to incriminate him directly or
+indirectly. [1100G]
+
+       7. The proviso to section 132 of the Indian Evidence Act
+clearly protects a witness from being prosecuted on the
+basis of the answers given by him in a criminal proceeding
+which tend to incriminate him directly or indirectly.
+[1101A]
+
+                                                                                       PG NO. 1095
+       8. The apprehension of the respondent that his evidence
+as approver will be used against him in the other four
+criminal cases where he figures as an accused was without
+any basis. On the other hand, he was absolutely protected
+from criminal prosecution on the basis of the evidence to be
+given by him when examined by the prosecution as an
+approver. [1101B-C]
+
+JUDGMENT:
+       CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 640 of 1988.
+       From the Judgment and Order dated 27.4.1987 of the Delhi High Court in Crl. Rev. No. 221 of 1986.
+       B. Datta, Additional Solicitor General, Kitty Kumar Mangalam and Miss A. Subhashini for the Appellant.
+       Hardev Singh and R.K. Agnihotri for the Respondent.
+       The Judgment of the Court was delivered by RAY, J. Special leave granted. Heard learned counsel for the parties.
+       The prosecution case, in short, is that to create fear and terror to commit murder and to aggravate tense situation some persons hatched a conspiracy to massacre the general public by placing transistor bombs at public places and also by placing them in public transports as trains, buses etc.
+Many explosions took place in May 1985 in Delhi and parts of Uttar Pradesh in consequence whereof many persons were killed in Delhi and some places in Uttar Pradesh. Several cases were registered in different police stations of Aligarh, Ghaziabad, Meerut and Khekra etc. In Delhi F.I.R.
+No. 238 of 1985 was registered i.e. State v. Kartar Singh Narang etc. wherein all the accused persons named therein were arrested except one Gurdeep Singh Sehgal who was declared as a proclaimed offender. The accused Jagjit Singh and Gurvinder Singh turned approvers and they were granted pardon under Section 308 of the Code of Criminal Procedure, 1973. They were examined as P.W. 1 and P.W. 2 in the committal case proceeding in the court of Chief Metropolitan Magistrate on December 24, 1985. Both these approvers resiled from their statements in the court of the Committing Magistrate. The accused persons were committed to the Court of Sessions to stand their trial for offences under Sections 121, 121A, 153, 153A, 302 and 307 I.P.C. and sections 3, 5 and 6 of Explosives Substances Act.
+ PG NO. 1096 On February 27, 1986, Surjit Kaur, another accused in the Transistor Bomb Case, against whom cases were pending in the Meerut, Ghaziabad and Aligarh Districts of U.P., moved an application under Section 406 of the Code of Criminal Procedure before this Court for transfer of criminal case pending in the court of Meerut to a court in Delhi. This Court after hearing Counsel for the State of Uttar Pradesh has directed that criminal cases referred to at Serial Nos.
+1, 2, 3 and 5 in paragraph 2 of the transfer petition stand transferred to the Court of the Chief Metropolitan Magistrate, Delhi and shall be tried along with the case instituted in the Court of the Chief Metropolitan Magistrate, Delhi arising out of F.I.R. No. 238 of 1985 of Police Station, Patel Nagar, New Delhi. When the matter was taken up in the Court of Sessions, the respondent, Jagjit Singh, the approver moved an application that he cannot be examined as a witness as he had not accepted the pardon and did not support the prosecution version and he was forced to make a wrong statement by the police before the Metropolitan Magistrate. The application was rejected by the Trial Judge after hearing the arguments of the parties on March 1, 1986.
+       Against this order, a Criminal Revision Petition No. 92 of 1986 was filed by the respondent, Jagjit Singh in the High Court at Delhi. This application was heard by Jagdish Chandra, J who dismissed the petition on August 12, 1986 holding that the mandate of the law requiring that the approver shall be examined both before the Committing Magistrate as well as during trial as a witness, is binding not only on the trial court and the prosecution but also on the approver as well.
+       Thereafter, one of the accused person who was a proclaimed offender was arrested and a supplementary challan was filed in the Court of Metropolitan Magistrate, Delhi.
+The respondent, Jagjit Singh was sought to be examined as an approver by the prosecution, in the said supplementary committal proceeding in F.I.R. No. 238 of 1985. The respondent objected to his being summoned as an approver on the ground inter alia that he cannot be examined as a witness in a case though he is figuring as an accused person in other five cases on the same facts and circumstances which are being jointly tried. The Chief Metropolitan Magistrate, Delhi dismissed the application by his order dated October 6, 1986. Against this order the respondent Jagjit Singh filed Criminal Revision Petition No. 221 of 1986. M.K. Chawla, J after hearing the parties allowed the Revision Petition and directed the State not to examine the respondent-approver as an approver in case F.I.R. No. 238 of 1985.
+ PG NO. 1097 Aggrieved by this order this appeal by special leave has been filed by State.
+       It has been urged that the statement recorded under Section 164 of the Code of Criminal Procedure was not made by the respondent, Jagjit Singh voluntarily but it was obtained under coercion by the police. It has also been contended that he resiled from his statements in the court of the Committing Magistrate and he has not accepted the pardon granted to him by the Magistrate. He should be arrayed as an accused in the case F.I.R. No. 238/85 and should be tried as an accused along with other accused in the said case. This contention is not tenable in as much as the pardon granted to the respondent, Jagjit Singh was accepted by him and other approver, Gurvinder Singh who were examined as P.W. 1 and P.W. 2 in the court of the Committing Magistrate. These approvers, of course, resiled from their statement in the court of the Committing Magistrate. It has therefore, been submitted that the prosecution cannot examine him as a witness in the said case as he has cast away the pardon granted to him. This submission, in our considered opinion, is not tenable in as much as sub-section (4) of Section 306 of Code of Criminal Procedure clearly enjoins that a person accepting a tender of pardon has to be examined as a witness in the court of the Magistrate taking cognizance of the offence and in the subsequent trial, if any. It is therefore, a mandate of the provisions of the said Act to the prosecution to examine the approver to whom pardon has been granted as a witness both in the Committing Court as well as in the trial court It does not matter whether the approver has resiled from his statement and has not made a full and true disclosure of whole of the circumstances within his knowledge relating to the offence so long as the Public Prosecutor does not certify that in his opinion the approver has either wilfully concealed anything essential or has given false evidence contrary to the condition on which the tender of pardon was made.
+       It has been next contended that the grant of pardon is in the nature of a contract between the State granting the pardon on the one hand and the person accepting the pardon on the other hand. As the State has the power to revoke the pardon at any time the approver has also got the reciprocal right to cast away the pardon granted to him. This submission is also not tenable. The power to grant pardon carries with it the right to impose a condition limiting the operation of such a pardon. Hence a pardoning power can attach any condition, precedent or subsequent so long as it is not illegal, immoral or impossible of performance.
+Section 306 clearly enjoins that the approver who was PG NO 1098 granted pardon had to comply with the condition of making a full and true disclosure of the whole of the circumstances within his knowledge relative to the offence and to every other concerned whether as principal or abettor, in the commission thereof. It is because of this mandate, the State can not withdraw the pardon from the approver nor the approver can cast away the pardon granted to him till he is examined as a witness by the prosecution both in the Committing Court as well as in the trial court. The approver may have resiled from the statement made before the Magistrate in the Committing Court and may not have complied with the condition on which pardon was granted to him, still the prosecution has to examine him as a witness in the trial court. It is only when the Public Prosecutor certifies that the approver has not complied with the conditions on which the tender was made by wilfully concealing anything essential or by giving false evidence, he may be tried under section 308 of the Code of Criminal Procedure not only for the offence in respect of which pardon was granted but also in respect of other offences. In these circumstances, the question of casting away the pardon granted to an approver and his claim not to be examined by the prosecution as a witness before the trial court is without any substance. It has been submitted in this connection by citing a decision In re Arusami Goundan, AIR 1959 (Madras) 274 that the accomplice who has been tendered a pardon if at any stage either wilfully conceals material particulars or gives false evidence and thereby fails to comply with the conditions on which pardon was tendered to him and thereby incurs its forfeiture he should not be compelled by the prosecution to be examined as a witness before the trial court. It has been observed even in the said case that the provisions of Section 337(2) of the old Code of Criminal Procedure, 1898 (5 of 1898) provide that the approver who has been tendered pardon must be examined both in the Committing Court and the Court of Sessions it has been held that: "The obligation to make a full and true disclosure would arise whenever the approver is lawfully called upon to give evidence touching the matter; it may be in the Committing court, or, it may be in he Sessions Court. But, the obligation to make a full and true disclosure rests on the approver at every stage at which he can be lawfully required to give evidence. If at any stage he either wilfully conceals material particulars or gives false evidence he would failed to comply with the conditions on which the pardon was tendered to him and thereby incurred its forfeiture.
+ Neither as a matter of reason or logic, nor as a matter PG NO 1099 of statutory interpretation can it be said that S. 339(1) is dependent on or connected with S. 337(2) in the sense that the approver must be examined both in the Committing Court and the Sessions Court before it can be held that he has forfeited his pardon. It is sufficient if he fails to conform to the conditions on which the pardon has been granted to him at either stage."
+ This decision has been considered in Emperor v. Shandino Dhaniparto, AIR 1940 (Sind) 114 wherein it has been held that: "When an accused after accepting pardon denies all knowledge of facts before the Committing Magistrate and the case is committed to Sessions Court the pardon cannot be forfeited before the accused is examined in the Sessions Court. Once a pardon is tendered and accepted, S. 337(2) renders it obligatory for the prosecution to examine the approver both in the Committing Magistrate s Court and in the Sessions Court should the case be committed. Failure of the prosecution to examine the approver in the Sessions Court vitiates the trial."
+ The provisions of Sections 337 and 339 of the old Code of Criminal Procedure are almost in identical terms with the provisions of Sections 306 and 308 of the Code of Criminal Procedure, 1973. This submission on a plain reading of these sections, cannot be sustained.
+       It has been urged with great vehemence that the appellant, Jagjit Singh was granted pardon with regard to case F.I.R. No. 238 of 1985 whereas his name appears as an accused in the other four cases which have been directed to be tried along with above case wherein the facts are almost similar. The appellant-approver in such circumstances should not be examined by the prosecution as a witness in as much as his evidence may be used in the other criminal cases wherein he figures as an accused. This is against the protection given by Article 2(3) of the Constitution of India. It has, therefore, been submitted that the order dated April 27, 1987 passed in Revision Petition No. 221 of 1986 directing the State not to examine the approver as a witness should not be set aside. This contention is also not tenable in as much as once an accused is granted pardon under section 306 of the Code of Criminal Procedure, he ceases to be an accused and becomes a witness for the prosecution. The only condition imposed by the provisions of the Act is that the approver must make a full and true disclosure of the whole of the circumstances within his PG NO 1100 knowledge relating to the offence and to every other concerned, whether as principal or abettor, in the commission thereof. So long as the Prosecution does not certify that he has failed to do so he continues to be a witness and the prosecution is under obligation to examine him as a witness both in the Committing Court as well as in the trial court. This has been made very clear by this Court in the case of A.J. Peiris v. State of Madras, AIR 1954(SC) 616 wherein it has been observed that: ".....We think that the moment the pardon was tendered to the accused he must be presumed to have been discharged whereupon he ceased to be an accused and became a witness."
+ We have already held hereinbefore that sub-section 4 of Section 306 casts an obligation on the prosecution to examine the approver both in the Committing Court as well as in the trial court. So the appellant who has been granted pardon in case F.I.R. No. 238/85 has to be examined by the prosecution in the trial court no matter that he has resiled from his earlier statement and tried to conceal what was within his knowledge with regard to the offence in question.
+It will be pertinent to mention here Section 132 of the Indian Evidence Act, 1872 which lays down that: "A witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any suit or in any civil or criminal proceedings, upon the ground that the answer to such question will criminate, or may tend directly or indirectly to criminate, such witness, or that it will expose, or tend directly or indirectly to expose, such witness to a penalty or forfeiture of any kind.
+ Proviso- Provided that no such answer, which a witness shall be compelled to give, shall subject him to any arrest or prosecution, or be against him in any criminal proceeding, except a prosecution for giving false evidence by such answer.
+ Therefore, a witness is legally bound to answer any question which is relevant to the matter in issue even if the answer to such question is likely to criminate him directly or indirectly. Proviso to Section 132 expressly provides that such answer which a witness is compelled to give shall not subject him to any arrest or prosecution PG NO 1101 nor the same can be proved against him in any criminal proceeding except a prosecution for giving false evidence by such answer. The provisions of proviso to Section 132 of the Indian Evidence Act clearly protect a witness from being prosecuted on the basis of the answers given by him in a criminal proceeding which tend to criminate him directly or indirectly. In view of this provision, the apprehension of the respondent that his evidence as approver will be used against him in the other four criminal cases where he figures as an accused is without any basis. On the other hand, he is absolutely protected from criminal prosecution on the basis of the evidence to be given by him when examined by the prosecution as an approver in the said case.
+ This submission of the respondent is, therefore, not tenable. It is pertinent to refer in this connection the decision of this Court in Laxmipat Choraria and Ors. v.
+ State of Maharashtra. [1968] 2 SCR 626 wherein it has been observed by Hidayatullah, J as he then was that: "....... Under s. 132 a witness shall not be excused from answering any question as to any matter relevant to the matter in issue in any criminal proceeding (among others) upon the ground that the answer to such question will incriminate or may tend directly or indirectly to expose him to a penalty or forfeiture of any kind. The safeguard to this compulsion is that no such answer which the witness is compelled to give exposes him to any arrest or prosecution or can ii be prove i against him in any criminal proceeding except a prosecution for giving false evidence by such answer."
+ So Section 132 of the Evidence Act sufficiently protects him since his testimony does not go against him.
+ For the reasons aforesaid, the appeal is allowed. The judgment and order dated April 27, 1987 passed in Revision Petition No. 221 of 1986 is hereby set aside.
+ R.S.S.               Appeal allowed.
+ "}, "meta": {"group": "Criminal"}},

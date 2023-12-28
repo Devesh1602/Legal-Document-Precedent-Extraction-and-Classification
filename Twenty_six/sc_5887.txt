@@ -1,0 +1,156 @@
+{"id": 4075, "annotations": [{"result": [{"id": "0aa977ccb2a24191bb76a22eab3a08c8", "value": {"start": 0, "end": 1074, "text": "PETITIONER:
+MOHAMAD AZlZ MOHAMED NASIR
+
+Vs.
+
+RESPONDENT:
+STATE OF MAHARASHTRA
+
+DATE OF JUDGMENT04/09/1975
+
+BENCH:
+BHAGWATI, P.N.
+BENCH:
+BHAGWATI, P.N.
+BEG, M. HAMEEDULLAH
+SARKARIA, RANJIT SINGH
+
+CITATION:               1976 SCR (3) 663
+ 1976 AIR 730
+ 1976 SCC (1) 657
+
+ACT:
+         Probation of offenders Act, 1958-S. 6-Scope of.
+
+HEADNOTE:
+         On the question whether the provisions of the Probation
+
+of offenders Act 1958 should have been applied in this case,
+         Allowing the appeal,
+
+^
+         HELD: (1) Even though the point relating to the
+
+applicability of s.6 was not raised before the Presidency
+Magistrate or the High Court, this Court is bound to take
+notice of the provisions of that section and give its
+benefit to the appellant, particularly since it is a section
+which is intended for the benefit of juvenile delinquents
+reflecting the anxiety of the Legislature to protect them
+from contact or association with hardened criminals in jails
+and retrieve them from a life of crime and rehabilitate them
+is responsible and useful members of society.", "labels": ["PREAMBLE"]}}, {"id": "6476beef4acd45668033f513466ffc11", "value": {"start": 1075, "end": 1408, "text": "[665 B-C]
+
+         (2) Section 6 lays down an injunction not to impose a
+sentence of imprisonment on a reason who is under 21 years
+of' age and is found guilty of having committed an offence
+punishable with imprisonment other the that for if unless it
+is satisfied that it would not be desirable to deal with him
+under s. 3 or s. 4.", "labels": ["PREAMBLE"]}}, {"id": "11af3791f77a4d3b810f6daf1462bf69", "value": {"start": 1409, "end": 1666, "text": "'This inhibition on the power of the
+court to impose a sentence of imprisonment applies not only
+at the state of trial but also at the stage of "High, Court
+or any other court when the case comes before it in appeal
+or revision" s. 11 (i) [664-H]
+
+         ", "labels": ["PREAMBLE"]}}, {"id": "8d8ddce8281b48b2b768fa3e085dabcb", "value": {"start": 1666, "end": 1726, "text": "In the instant case the appellant was below 21 years of
+age.", "labels": ["PREAMBLE"]}}, {"id": "d32e741bfe25455dad6c2c25022f4048", "value": {"start": 1727, "end": 1830, "text": "The appellant was at one time a well known child film
+actor and won several awards for acting in films.", "labels": ["PREAMBLE"]}}, {"id": "1d244aa11dc54cf990722b45423b0cd8", "value": {"start": 1830, "end": 1889, "text": "
+Subsequently he fell in bad company and took to evil ways.", "labels": ["PREAMBLE"]}}, {"id": "9afa4b427b204d98b12959f7fa38150e", "value": {"start": 1890, "end": 2007, "text": "The offence of theft of two Sarees, though it could not be
+lightly ignored. was of minor. character and this was the
+", "labels": ["PREAMBLE"]}}, {"id": "eb43f4e2ee4d4e0a94f8a3dc641d3757", "value": {"start": 2007, "end": 2037, "text": "first offence of the appellant", "labels": ["PREAMBLE"]}}, {"id": "361c378d6b0949eebe0c6e8b1bc9f1b7", "value": {"start": 2037, "end": 2144, "text": ". It Count be said that it
+would not be desirable to deal with the appellant under s. 3
+or s. 4 of the Act.", "labels": ["PREAMBLE"]}}, {"id": "777d967c021d481ca5dcc41d4203caa5", "value": {"start": 2145, "end": 2153, "text": "[665 G-H", "labels": ["PREAMBLE"]}}, {"id": "09e8f9cfa12c406c8b7adfaabea73d66", "value": {"start": 2153, "end": 2165, "text": "]
+
+JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "22b4a286f6a84353b7a16b51d6d3791c", "value": {"start": 2165, "end": 2199, "text": "
+ CRIMINAL APPELLATE JURISDICTION:", "labels": ["NONE"]}}, {"id": "3ccbda0f2e524f2aabc819361a7adad4", "value": {"start": 2200, "end": 2233, "text": "Criminal Appeal No.
+129 of 1971 .", "labels": ["NONE"]}}, {"id": "5f6eafbab0f847f381f49f4e6a7eedaf", "value": {"start": 2233, "end": 2384, "text": "
+ Appeal by Special Leave from the Judgment and order dated the 4th March, 1971 of the Bombay High Court at Bombay in Criminal Appeal No. 1502 of 1969.", "labels": ["NONE"]}}, {"id": "953a040b81224df38ca6eb5d5ddde9b1", "value": {"start": 2384, "end": 2436, "text": "
+ R B. Datar and Rajen Yash Paul, for the Appellant.", "labels": ["NONE"]}}, {"id": "664742c006694470895d64f50d2ef139", "value": {"start": 2436, "end": 2478, "text": "
+         M. N Shroff, for the Respondent.", "labels": ["NONE"]}}, {"id": "e2486a75696d4f74840aaea2275eb714", "value": {"start": 2478, "end": 2544, "text": "
+         The Judgment of the Court was delivered by- BHAGWATI, J.", "labels": ["NONE"]}}, {"id": "45b58e24b563408991a7cedad849e155", "value": {"start": 2545, "end": 2798, "text": "The appellant and one Mohd. Yusuf Gulam Mohd. were charged for an offence under s. 379 read with s 34 of the Indian Penal Code for snatching two sarees from one Govind whilst he was carrying them from the show of his master to that of a washer and dyer.", "labels": ["FAC"]}}, {"id": "534d474acc3f48ee99256097dc336398", "value": {"start": 2799, "end": 3065, "text": "The learned Presidency Magistrate, who tried the case, accepted the prosecution evidence and found the appellant and Mohd. Yusuf Gulam Mohd.
+guilty of the offence under s. 379 read with s. 34 andSentenced each of their to suffer rigorous imprisonment for six months.", "labels": ["RLC"]}}, {"id": "bf592d6d8a614241a0e3fc45bc78c235", "value": {"start": 3066, "end": 3301, "text": "It does not appear from the judgment of the learned Presidency Magistrate that, though the appellant was only seventeen years and three months old at the date of the offence and the offence was not punishable with imprisonment for life", "labels": ["FAC"]}}, {"id": "a9cae76f9c21453d9b8b09b8b644d4cc", "value": {"start": 3301, "end": 3432, "text": ", the attention of the learned presidency Magistrate was invited to the provisions of s. 6 of the Probation of offenders Act, 1958.", "labels": ["FAC"]}}, {"id": "0e475f6ad6444407ad44d7820edaafc6", "value": {"start": 3433, "end": 3574, "text": "The appellant preferred an appeal against the order of conviction and sentence to the High Court of p Bombay but the appeal was unsuccessful.", "labels": ["FAC"]}}, {"id": "974952a5a4ea4ddbbe2f375e192d0ef2", "value": {"start": 3575, "end": 3737, "text": "The High Court took the same view of the evidence as the learned Presidency Magistrate and confirmed the conviction of the appellant under s. 379 read with s. 34.", "labels": ["RLC"]}}, {"id": "fb7e4dd116d744d2a8dc09d70ad56baf", "value": {"start": 3738, "end": 3974, "text": "So far as the question of sentence was concerned, a submission was made on behalf of the appellant that since he was a young boy of about seventeen years and three months and this was his first offence, leniency should be shown tow him.", "labels": ["FAC"]}}, {"id": "263992b726b542438bbf3e0475fef6e1", "value": {"start": 3975, "end": 4294, "text": "But the High Court r observed that age alone was not sufficient to invoke the mercy of the Court and the appellant had not done anything since the date of the offence to deserve the mercy of the Court and it did not, therefore, see any reason to interfere with the sentence of imprisonment passed against the appellant.", "labels": ["RLC"]}}, {"id": "1b95e4d8e6284e8ba71e248f63692335", "value": {"start": 4295, "end": 4559, "text": "It appears that once again the provisions of s. 6 of the Probation of offenders Act, 1958 were not specifically brought to the notice of the High Court and the sentence of imprisonment was maintained by the High Court without applying its mind to those provisions.", "labels": ["FAC"]}}, {"id": "5e7c5015905e4935bbaa55aca5d66a27", "value": {"start": 4560, "end": 4808, "text": "Hence the appellant preferred a petition for special leave to this Court and on that petition, this Court granted special leave limited to the question "whether the provisions of the Probation of offenders Act should have been applied in the case".", "labels": ["FAC"]}}, {"id": "4c02847d94c94fa8b3b6f08cd4a6889e", "value": {"start": 4818, "end": 5012, "text": "We are concerned in this appeal with s. 6 of the Probation of offenders Act, 1958, for it is only under that section that the appellant claims the benefit of the provisions contained in the Act.", "labels": ["ANALYSIS"]}}, {"id": "84373953c69f46908e5a9074ec6b7056", "value": {"start": 5013, "end": 5562, "text": "Subsection (1) of s. 6, on a plain grammatical reading of its language, provides that when any person under twenty-one years age is found guilty of having committed an offence punishable with imprisonment, but not with imprisonment for life, the Court, by which the person is found guilty, shall not impose any sentence of imprisonment, unless it is satisfied that, having regard to the circumstances of the case, including the nature of the offence and the character of the offender it would not be desirable to deal with himhim under s. 3 or s. 4.", "labels": ["STA"]}}, {"id": "15c045ecf096484597655fc95c8eb369", "value": {"start": 5563, "end": 5797, "text": "This inhibition on the power of the Court to impose a sentence of imprisonment applies not only at the state of trial court but also at the stage "High court or any other Court when the case comes before it on appeal or in revision.'.", "labels": ["ANALYSIS"]}}, {"id": "5f69b7e3e09a4256a2465781380d6243", "value": {"start": 5798, "end": 5832, "text": "Vide s. 11, sub-s. (1) of the Act.", "labels": ["ANALYSIS"]}}, {"id": "25d0cfc94b734d52b9b1d5ae3656762f", "value": {"start": 5832, "end": 6426, "text": "
+It is, therefore, obvious that even though the point relating to the applicability of s. 6 was not raised before the learned Presidency Magistrate or the High Court, this Court is bound to take notice of the provisions of that section and give its benefit to the appellant, particularly since it is a section which is intended for the benefit of juvenile delinquents, reflecting the anxiety of the Legislature to protect them from contact or association with hardened criminals in jails and retrieve them from a life of crime and rehabilitate them as responsible and useful members of society.", "labels": ["ANALYSIS"]}}, {"id": "d7e29160ce834d08b3b62deb64394958", "value": {"start": 6426, "end": 6722, "text": "
+ Here, we find that whatever date be taken as the relevant date for determining the applicability of s. 6- whether the date of the offence or the date of the judgment of the learned Presidency Magistrate or the date of the judgment of the High Court-the appellant was below twenty one years age.", "labels": ["ANALYSIS"]}}, {"id": "f05cf17ba95244e3895005739c8007dc", "value": {"start": 6723, "end": 6899, "text": "The offence of which he is found guilty is an offence under s. 379 read with s. 34 and it is clearly an offence punishable with imprisonment but not with imprisonment for life.", "labels": ["ANALYSIS"]}}, {"id": "4364741fce534ee79f4394e0b12ca53a", "value": {"start": 6900, "end": 7324, "text": "The conditions requisite for the applicability of s. 6 are, therefore, plainly satisfied and under s. 6, Sub-s. (1) it is not competent to the Court to impose ant sentence of imprisonment on the appellant, unless the Court is satisfied that, having regard to the circumstances of the case, including the nature of the offence and the character of the appellant, it would not be desirable to deal with him under s. 3 or s. 4.", "labels": ["ANALYSIS"]}}, {"id": "50589931d9f5407d950c62ae7b7e10d1", "value": {"start": 7325, "end": 7864, "text": "It is true that sub-s. (2) of s. 6 requires that for the purpose of satisfying itself whether it would not be desirable to deal with the appellant under s. 3 or s. 4, the Court is required to call for a report from the Probation officer and consider the report, if any, but we do not think it necessary in the present case to call for any report from the Probation officer nor to remand the case to the learned Presidency Magistrate for passing an appropriate order after calling for a report from the Probation officer and considering it.", "labels": ["ANALYSIS"]}}, {"id": "a69be736d701498891b4341393aa3e6d", "value": {"start": 7864, "end": 7945, "text": "
+We have on record the antecedent history giving the background of the appellant.", "labels": ["ANALYSIS"]}}, {"id": "16073aafd15c494397ee13d5aa954b55", "value": {"start": 7946, "end": 8061, "text": "The appellant was at one time a well known child film actor and he actually won several awards for acting in films.", "labels": ["ANALYSIS"]}}, {"id": "ec44cb2b680146b58ddc5b057b2fd668", "value": {"start": 8062, "end": 8147, "text": "It appears that at some subsequent stage he fell in bad company and took to evil ways", "labels": ["ANALYSIS"]}}, {"id": "ef4ed4396ab94fb782d0a2079893079b", "value": {"start": 8148, "end": 8411, "text": "The offence which he is convicted is, no doubt, an offence as theft which cannot be lightly ignored, but it is comparatively of a minor characters in that only two sarees were snatched away from the hands of Govind, perhaps under the stress of economic necessity.", "labels": ["RATIO"]}}, {"id": "ca3682e2e4a6463285e43898c34e76f6", "value": {"start": 8412, "end": 8463, "text": "Moreover, this is a false offence of the appellant.", "labels": ["RATIO"]}}, {"id": "1db2d3cead184c6bb3063de172a646d1", "value": {"start": 8464, "end": 8685, "text": "We are, therefore, not at all satisfied 12-L925SupCI/75that it would not be desirable to deal with the appellant under s. 3 or s. 4 and consequently, the sentence of imprisonment passed on the appellant must be set aside.", "labels": ["RATIO"]}}, {"id": "8e3db96e1308428e92cab0ee724ca74c", "value": {"start": 8685, "end": 9061, "text": "
+ We accordingly set aside the sentence of imprisonment passed on the appellant and direct that he be released on his entering into a bond wit one surety in the sum of Rs.
+500/ to appear in the Court of the Presidency Magistrate to receive sentence, whenever called upon to do so within a period of six months and during that period to keep the peace and be of good behaviour.", "labels": ["RPC"]}}, {"id": "c9ebb9fe0c6d44199322a147fbd02bf2", "value": {"start": 9062, "end": 9218, "text": "The learned Presidency Magistrate is directed to take the necessary bond from the appellant and the necessary surety bond from a surety to his satisfaction.", "labels": ["RPC"]}}, {"id": "3864aae5896d4ccba11ec13154d15b09", "value": {"start": 9219, "end": 9353, "text": "The appellant will continue on bail till such time as these directions are carried out, after which the bail bond will stand canceled.", "labels": ["RPC"]}}, {"id": "ef8f98ad40c242dda248cbf974b442b6", "value": {"start": 9353, "end": 9361, "text": "
+ P.B.R.", "labels": ["RPC"]}}, {"id": "305339bd04ac4043a9a8ee606b15cfde", "value": {"start": 9362, "end": 9402, "text": "                         Appeal allowed.", "labels": ["RPC"]}}]}], "data": {"text": "PETITIONER:
+MOHAMAD AZlZ MOHAMED NASIR
+
+Vs.
+
+RESPONDENT:
+STATE OF MAHARASHTRA
+
+DATE OF JUDGMENT04/09/1975
+
+BENCH:
+BHAGWATI, P.N.
+BENCH:
+BHAGWATI, P.N.
+BEG, M. HAMEEDULLAH
+SARKARIA, RANJIT SINGH
+
+CITATION:               1976 SCR (3) 663
+ 1976 AIR 730
+ 1976 SCC (1) 657
+
+ACT:
+         Probation of offenders Act, 1958-S. 6-Scope of.
+
+HEADNOTE:
+         On the question whether the provisions of the Probation
+
+of offenders Act 1958 should have been applied in this case,
+         Allowing the appeal,
+
+^
+         HELD: (1) Even though the point relating to the
+
+applicability of s.6 was not raised before the Presidency
+Magistrate or the High Court, this Court is bound to take
+notice of the provisions of that section and give its
+benefit to the appellant, particularly since it is a section
+which is intended for the benefit of juvenile delinquents
+reflecting the anxiety of the Legislature to protect them
+from contact or association with hardened criminals in jails
+and retrieve them from a life of crime and rehabilitate them
+is responsible and useful members of society. [665 B-C]
+
+         (2) Section 6 lays down an injunction not to impose a
+sentence of imprisonment on a reason who is under 21 years
+of' age and is found guilty of having committed an offence
+punishable with imprisonment other the that for if unless it
+is satisfied that it would not be desirable to deal with him
+under s. 3 or s. 4. 'This inhibition on the power of the
+court to impose a sentence of imprisonment applies not only
+at the state of trial but also at the stage of "High, Court
+or any other court when the case comes before it in appeal
+or revision" s. 11 (i) [664-H]
+
+         In the instant case the appellant was below 21 years of
+age. The appellant was at one time a well known child film
+actor and won several awards for acting in films.
+Subsequently he fell in bad company and took to evil ways.
+The offence of theft of two Sarees, though it could not be
+lightly ignored. was of minor. character and this was the
+first offence of the appellant. It Count be said that it
+would not be desirable to deal with the appellant under s. 3
+or s. 4 of the Act. [665 G-H]
+
+JUDGMENT:
+ CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No.
+129 of 1971 .
+ Appeal by Special Leave from the Judgment and order dated the 4th March, 1971 of the Bombay High Court at Bombay in Criminal Appeal No. 1502 of 1969.
+ R B. Datar and Rajen Yash Paul, for the Appellant.
+         M. N Shroff, for the Respondent.
+         The Judgment of the Court was delivered by- BHAGWATI, J. The appellant and one Mohd. Yusuf Gulam Mohd. were charged for an offence under s. 379 read with s 34 of the Indian Penal Code for snatching two sarees from one Govind whilst he was carrying them from the show of his master to that of a washer and dyer. The learned Presidency Magistrate, who tried the case, accepted the prosecution evidence and found the appellant and Mohd. Yusuf Gulam Mohd.
+guilty of the offence under s. 379 read with s. 34 andSentenced each of their to suffer rigorous imprisonment for six months. It does not appear from the judgment of the learned Presidency Magistrate that, though the appellant was only seventeen years and three months old at the date of the offence and the offence was not punishable with imprisonment for life, the attention of the learned presidency Magistrate was invited to the provisions of s. 6 of the Probation of offenders Act, 1958. The appellant preferred an appeal against the order of conviction and sentence to the High Court of p Bombay but the appeal was unsuccessful. The High Court took the same view of the evidence as the learned Presidency Magistrate and confirmed the conviction of the appellant under s. 379 read with s. 34. So far as the question of sentence was concerned, a submission was made on behalf of the appellant that since he was a young boy of about seventeen years and three months and this was his first offence, leniency should be shown tow him. But the High Court r observed that age alone was not sufficient to invoke the mercy of the Court and the appellant had not done anything since the date of the offence to deserve the mercy of the Court and it did not, therefore, see any reason to interfere with the sentence of imprisonment passed against the appellant. It appears that once again the provisions of s. 6 of the Probation of offenders Act, 1958 were not specifically brought to the notice of the High Court and the sentence of imprisonment was maintained by the High Court without applying its mind to those provisions. Hence the appellant preferred a petition for special leave to this Court and on that petition, this Court granted special leave limited to the question "whether the provisions of the Probation of offenders Act should have been applied in the case".
+         We are concerned in this appeal with s. 6 of the Probation of offenders Act, 1958, for it is only under that section that the appellant claims the benefit of the provisions contained in the Act. Subsection (1) of s. 6, on a plain grammatical reading of its language, provides that when any person under twenty-one years age is found guilty of having committed an offence punishable with imprisonment, but not with imprisonment for life, the Court, by which the person is found guilty, shall not impose any sentence of imprisonment, unless it is satisfied that, having regard to the circumstances of the case, including the nature of the offence and the character of the offender it would not be desirable to deal with himhim under s. 3 or s. 4. This inhibition on the power of the Court to impose a sentence of imprisonment applies not only at the state of trial court but also at the stage "High court or any other Court when the case comes before it on appeal or in revision.'. Vide s. 11, sub-s. (1) of the Act.
+It is, therefore, obvious that even though the point relating to the applicability of s. 6 was not raised before the learned Presidency Magistrate or the High Court, this Court is bound to take notice of the provisions of that section and give its benefit to the appellant, particularly since it is a section which is intended for the benefit of juvenile delinquents, reflecting the anxiety of the Legislature to protect them from contact or association with hardened criminals in jails and retrieve them from a life of crime and rehabilitate them as responsible and useful members of society.
+ Here, we find that whatever date be taken as the relevant date for determining the applicability of s. 6- whether the date of the offence or the date of the judgment of the learned Presidency Magistrate or the date of the judgment of the High Court-the appellant was below twenty one years age. The offence of which he is found guilty is an offence under s. 379 read with s. 34 and it is clearly an offence punishable with imprisonment but not with imprisonment for life. The conditions requisite for the applicability of s. 6 are, therefore, plainly satisfied and under s. 6, Sub-s. (1) it is not competent to the Court to impose ant sentence of imprisonment on the appellant, unless the Court is satisfied that, having regard to the circumstances of the case, including the nature of the offence and the character of the appellant, it would not be desirable to deal with him under s. 3 or s. 4. It is true that sub-s. (2) of s. 6 requires that for the purpose of satisfying itself whether it would not be desirable to deal with the appellant under s. 3 or s. 4, the Court is required to call for a report from the Probation officer and consider the report, if any, but we do not think it necessary in the present case to call for any report from the Probation officer nor to remand the case to the learned Presidency Magistrate for passing an appropriate order after calling for a report from the Probation officer and considering it.
+We have on record the antecedent history giving the background of the appellant. The appellant was at one time a well known child film actor and he actually won several awards for acting in films. It appears that at some subsequent stage he fell in bad company and took to evil ways The offence which he is convicted is, no doubt, an offence as theft which cannot be lightly ignored, but it is comparatively of a minor characters in that only two sarees were snatched away from the hands of Govind, perhaps under the stress of economic necessity. Moreover, this is a false offence of the appellant. We are, therefore, not at all satisfied 12-L925SupCI/75that it would not be desirable to deal with the appellant under s. 3 or s. 4 and consequently, the sentence of imprisonment passed on the appellant must be set aside.
+ We accordingly set aside the sentence of imprisonment passed on the appellant and direct that he be released on his entering into a bond wit one surety in the sum of Rs.
+500/ to appear in the Court of the Presidency Magistrate to receive sentence, whenever called upon to do so within a period of six months and during that period to keep the peace and be of good behaviour. The learned Presidency Magistrate is directed to take the necessary bond from the appellant and the necessary surety bond from a surety to his satisfaction. The appellant will continue on bail till such time as these directions are carried out, after which the bail bond will stand canceled.
+ P.B.R.                          Appeal allowed.
+ "}, "meta": {"group": "Criminal"}},

@@ -1,0 +1,236 @@
+{"id": 4255, "annotations": [{"result": [{"id": "6312d561b5024ca0821454497c27349e", "value": {"start": 0, "end": 556, "text": "PETITIONER:          1962 SCR Supl. (2) 726
+KANBI KARSAN JADAV
+
+              Vs.
+
+RESPONDENT:
+STATE OF GUJARAT
+
+DATE OF JUDGMENT:
+24/01/1962
+
+BENCH:
+KAPUR, J.L.
+BENCH:
+KAPUR, J.L.
+DAYAL, RAGHUBAR
+
+CITATION:
+ 1966 AIR 821
+
+ACT:
+         Criminal Trial-Evidence of approver-
+
+Corroboration on material particulars-Othere
+circumstances to be considered-Chemical Examiner's
+evidence, if can be taken into Consideration to
+decide identity of hairs-Indian Penal Code, 1860
+(45 of 1860), 302, 201-India Evidence Act, 1872 (1
+of 1872), s. 45.
+
+HEADNOTE:
+         ", "labels": ["PREAMBLE"]}}, {"id": "10c0f5f46a7f47c09718b05feacdfde9", "value": {"start": 556, "end": 659, "text": "The appellant and two others were convicted
+
+for murder under ss. 302 and 201 of the Indian
+Penal Code.", "labels": ["PREAMBLE"]}}, {"id": "585a2aad638042da855e90280c3771e5", "value": {"start": 660, "end": 752, "text": "The High Court accepted the testimony
+of the approver as being a reliable piece of
+evidence.", "labels": ["PREAMBLE"]}}, {"id": "3ec588e210aa4307b0266172ec735194", "value": {"start": 753, "end": 1093, "text": "It relied upon the discovery of the dead
+body of the deceased at the instance of the
+appellant and of blood stained buttons also at his
+instance and attached importance to the scarf
+recovered from the pit where the dead body was
+alleged to have been first buried and which had
+hairs both of the appellant as well as the
+deceased.
+
+         ", "labels": ["PREAMBLE"]}}, {"id": "9384b1332b36413ab1f85d20ebd25cc0", "value": {"start": 1093, "end": 1281, "text": "The appellant contended that the evidence of
+the approver, even though it had been accepted as
+true, was not corroborated in material particulars
+connecting the appellant with the offence.", "labels": ["PREAMBLE"]}}, {"id": "4e81417a6e764995ad3a6aca464cdacd", "value": {"start": 1282, "end": 1493, "text": "None of
+the recoveries are corroborative of the statement
+of the approver to the extent of connecting the
+appellant with the offence committed; on the other
+hand they are somewhat contradictory of the
+statement.", "labels": ["PREAMBLE"]}}, {"id": "17d2e1222f8342a7ace1124541ad2853", "value": {"start": 1494, "end": 1861, "text": "The evidence of the Chemical Examiner
+was not sufficient to prove that hairs on the
+scraf were of the appellant or of the deceased
+because the Chemical Examiner was no expert on
+this matter and his evidence was not admissible
+under s. 45 of the Evidence Act and, at the most,
+according to the Chemical Examiner the hairs
+resembled those of the appellant.
+^
+
+         ", "labels": ["PREAMBLE"]}}, {"id": "6f48bde4442342febbaaf7930784620b", "value": {"start": 1861, "end": 2035, "text": "Held, that where the evidence of the approver
+is held not to be very helpful to the prosecution
+other circumstances
+besides the evidence of the approver has to be
+considered.", "labels": ["PREAMBLE"]}}, {"id": "cc0aede8667c4a5a8ed3baa3984d9257", "value": {"start": 2036, "end": 2229, "text": "The mere fact that the dead body was
+pointed out by the appellant or was discovered as
+a result of a statement made by him would not
+necessarily lead to the conclusion of the offence
+of murder.", "labels": ["PREAMBLE"]}}, {"id": "e9614a2fd07740edbfd2b4a9fec4781b", "value": {"start": 2229, "end": 2643, "text": "
+
+         In the present case beside the evidence of
+the approver, the appellant's pointing out of the
+dead body, his pointing out the silver buttons of
+the deceased which were stained with human blood
+and the presence of his hairs on a pania (scraf)
+on which there were the hairs of the deceased
+also, are important facts which are sufficient
+evidence to connect the appellant with the
+commission of the offence.", "labels": ["PREAMBLE"]}}, {"id": "a57325bab929449e91295817012dc6c1", "value": {"start": 2654, "end": 2925, "text": "Held, further, that writers of medical
+jurisprudence have stated that from microscopic
+examination of the hairs it is possible to say
+whether they are of the same or of different
+colours or sizes and from the examination it may
+help in deciding where the hairs come from.", "labels": ["PREAMBLE"]}}, {"id": "08de36c00a0c4568b97b7e7f48d44282", "value": {"start": 2925, "end": 3073, "text": "
+
+         Vemireddy Satyanarayan Reddy v. State of
+Hyderabad, [1956] S.C.R. 247 and Wasim Khan v.
+State of Uttar Pradesh, [1956] S.C.R. 191, relied", "labels": ["PREAMBLE"]}}, {"id": "649de37d926148b194337dc70d1f171d", "value": {"start": 3073, "end": 3088, "text": "
+on.
+
+JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "f84273bdc40e4597803fc75f8107325b", "value": {"start": 3088, "end": 3130, "text": "
+         CRIMINAL APPELLATE JURISDICTION:", "labels": ["NONE"]}}, {"id": "e8e635c7074348d7b42c7484db7375aa", "value": {"start": 3131, "end": 3163, "text": "Criminal Appeal No. 223 of 1959.", "labels": ["NONE"]}}, {"id": "fa7da703a0bd4cc1aad91ed269d76a92", "value": {"start": 3163, "end": 3341, "text": "
+         Appeal by special leave from the judgment and ordered dated April 14, 1959, of the former Bombay High Court (Rajkot Branch) at Rajkot in Criminal Appeal No. 84 of 1958.", "labels": ["NONE"]}}, {"id": "cec61667e82a4475b498edfda9c4c3a5", "value": {"start": 3341, "end": 3390, "text": "
+ Nur-ud-din Ahmed and K. L. Hathi for appellant.", "labels": ["NONE"]}}, {"id": "d1ed81df61ce4253ad9fae4cf2d12874", "value": {"start": 3390, "end": 3438, "text": "
+ H. R. Khanna and R. H. Dhebar, for respondent.", "labels": ["NONE"]}}, {"id": "7221726cc9d44574afa2ae85295b1565", "value": {"start": 3438, "end": 3445, "text": "
+ 1962.", "labels": ["NONE"]}}, {"id": "8e9237e22b4e4b5ba66a501129be1e39", "value": {"start": 3446, "end": 3457, "text": "January 24.", "labels": ["NONE"]}}, {"id": "ba243a5310c540a6b181dbf6a66a4471", "value": {"start": 3458, "end": 3507, "text": "The Judgment of the Court was delivered by KAPUR,", "labels": ["NONE"]}}, {"id": "2587ae385d1242fba78c5f1c38d54bc9", "value": {"start": 3508, "end": 3514, "text": "J.-The", "labels": ["RLC"]}}, {"id": "a77ae199f0b343d7a1c2672a01a6e6a2", "value": {"start": 3515, "end": 3803, "text": "appellant and two others were convicted by the Additional Sessions Judge, Gohilwad, under ss. 302 and 201 of the Indian Penal Code for the murder of Kanji and they were sentenced to imprisonment for life under the former section and to seven years' rigorous imprisonment under the latter.", "labels": ["RLC"]}}, {"id": "c783f0109f3b43c8b8bf685362b9c28d", "value": {"start": 3804, "end": 3833, "text": "The sentence were concurrent.", "labels": ["RLC"]}}, {"id": "d80ff688434045eca6c316ba97911939", "value": {"start": 3834, "end": 3976, "text": "On appeal the High Court set aside the convictionof Nanji Ravji but upheld the convictions and sentences of the appellant and Karamshi Bhawan.", "labels": ["RLC"]}}, {"id": "89330a42cfc342b7958946a3465081d9", "value": {"start": 3976, "end": 4041, "text": "
+The appellant has Come in appeal to this Court by Special leave.", "labels": ["FAC"]}}, {"id": "b4eeca04f7a34db0b3ba12dfb0db8e16", "value": {"start": 4041, "end": 4300, "text": "
+ The deceased Kanji was rather an unsavoury character in village Chiroda and it is alleged that he had a illicit connection with Shrimati Shantu the sister of Karamshi and also used to follow about Smt. Baghu the sister of the appellant for a similar object.", "labels": ["FAC"]}}, {"id": "f9c975ea5c4040479d867f9c1ad161ce", "value": {"start": 4301, "end": 4452, "text": "It is stated that five days before the occurrence the appellant Karsan, Karamshi, Nanji and Gumansinh approver met and decided to murder the appellant.", "labels": ["FAC"]}}, {"id": "9517f135156c4b00939ca21e2ebd8466", "value": {"start": 4453, "end": 4593, "text": "With that object in view Gumansinh approver was to decoy the deceased to the Vadi of the appellant and there the murder was to be committed.", "labels": ["FAC"]}}, {"id": "1becba9eb8274b4e854bbd7a6c6a1b56", "value": {"start": 4594, "end": 4758, "text": "At about sunset on March 19, 1958, the deceased was decoyed to the place as previously arranged and there he was murdered by the appellant who gave him a few blows.", "labels": ["FAC"]}}, {"id": "049b3791e51640beba0e080ee37ec533", "value": {"start": 4759, "end": 4805, "text": "with a sharp cutting instrument called Dharia.", "labels": ["FAC"]}}, {"id": "bf49db24a02c4a459d2106b9fd5e4d9f", "value": {"start": 4806, "end": 5028, "text": "According to the statement of the approver the dead body was wrapped in the scarf of the deceased and was carried by the appellant from the place of the murder to the dry bed of the river and there it was burried in a pit.", "labels": ["FAC"]}}, {"id": "ba9013c87fa84bf79eb4d06c0d6dce2d", "value": {"start": 5029, "end": 5334, "text": "Nothing was heard of the murder or of the deceased till on March 26, 1958, a brother of the deceased made a report to the police about his disappearance and that he suspected the three uncles of the appellant, subsequently the appellant and the other accused persons were taken into custody by the police.", "labels": ["FAC"]}}, {"id": "9aafadbd6d174575b244666bd50c0da8", "value": {"start": 5335, "end": 5465, "text": "One of them while in the custody of the police, was allowed to go to the village and he asked the help of Shamji and Manilal P.Ws.", "labels": ["FAC"]}}, {"id": "33a458018b4e4c51891c10f0f49639a2", "value": {"start": 5466, "end": 5543, "text": "He also made a confession to them and they reported the matter to the police.", "labels": ["FAC"]}}, {"id": "a364a5b947344ddc8ed8697bfecb76b5", "value": {"start": 5544, "end": 5638, "text": "On March 31, 1958, Gumansinh and Karamshi made confessionswhich were recorded by a Magistrate.", "labels": ["FAC"]}}, {"id": "16c59b9d9dc84833816e35fd26242dcf", "value": {"start": 5639, "end": 5711, "text": "Between March 26 and March 31, recoveries of various articles were made.", "labels": ["FAC"]}}, {"id": "71489a21e01f4c5f8de63a27841c9029", "value": {"start": 5712, "end": 5842, "text": "At the instance of the appellant, it is stated, the dead body and then the head of the deceased was recovered from a distant well.", "labels": ["FAC"]}}, {"id": "f6bc13a6ed124a959730eb42a937ef8c", "value": {"start": 5843, "end": 5982, "text": "At the instance of Nanji on March 28, 1958 a scarf was, discovered in the pit in which the dead body was according to the approver, buried.", "labels": ["FAC"]}}, {"id": "76f12117a09a4f62be17496a0c8d948c", "value": {"start": 5983, "end": 6137, "text": "On the scarf, there were some hairs which on analysis by the Chemical Examiner were found to be similar to the hairs of the appellant and of the deceased.", "labels": ["FAC"]}}, {"id": "59e434027e0e44e3a5e61629c518b979", "value": {"start": 6138, "end": 6394, "text": "A day previous, i. e. March 27, 1958, at the instance of the appellant silver buttons which were stained with human blood were discovered from the field of the appellant at small stick like a button belonging to the deceased was also found at his instance.", "labels": ["FAC"]}}, {"id": "dd0dbabd18f24c71a07668940137b88e", "value": {"start": 6394, "end": 6487, "text": "
+ The High Court rejected the confession of Karamshi on the ground that it was not voluntary.", "labels": ["FAC"]}}, {"id": "b7e4ab61c22843bfb58474f721f62806", "value": {"start": 6487, "end": 6891, "text": "
+It acquitted Nanji on the ground that there were no corroboration in regard to him of the approver's statement, the place where the dead body was buried was not discovered at his instance, his production of stick and shirt and trousers from his house was of no consequence, and the oral evidence was contrary to the medical evidence and Karamshi's confessional statement could not be used against Nanji.", "labels": ["RLC"]}}, {"id": "78a72b08aa1c4b349b041b907c13ab3e", "value": {"start": 6891, "end": 7012, "text": "
+ In regard to the appellant the High Court accepted the testimony of the approver as being a reliable piece of evidence.", "labels": ["FAC"]}}, {"id": "c3b86ee10dea47d78f68ae61d7f14c96", "value": {"start": 7013, "end": 7148, "text": "It attached no importance to the recovery of the cutting instrument, Dharia, nor to the discovery of the stick (Dhoka) at his instance.", "labels": ["FAC"]}}, {"id": "f24894242ba8433aa0d448e500bbaa3a", "value": {"start": 7149, "end": 7529, "text": "But the High Court did rely upon the discovery of the dead body of the deceased, i.e. the trunk and the head, at the instance of the appellant and of the blood-stained buttons also at his instance and attached importance to scarf recovered from the pit where the dead body was alleged to have been first buried and which had hairs both of the appellant as well as of the deceased.", "labels": ["FAC"]}}, {"id": "b140135c85154780b5bf2b51db97e92a", "value": {"start": 7529, "end": 7735, "text": "
+         It was argued for the appellant that the evidence of the approver, even though it had been accepted as true, was not corroborated in material particulars connecting the appellant with the offence.", "labels": ["FAC"]}}, {"id": "63f95d1750bc40bca3ad5fa491483a66", "value": {"start": 7736, "end": 7774, "text": "On the other hand it was contradicted.", "labels": ["FAC"]}}, {"id": "e55899bb91424ed790983165e713ea3f", "value": {"start": 7774, "end": 8109, "text": "
+The approver had stated that the dead body was buried in a pit in the dry bed of the river but when that pit was dug up the dead body was not found there and only a piece of ulna bone and a heel of a human foot were found and all there recoveries had been made earlier and so could not be called corroborative in material particulars.", "labels": ["FAC"]}}, {"id": "3c63fabaea0049939ea96c0f6ef51154", "value": {"start": 8109, "end": 8277, "text": "
+It was further submitted that there was no evidence to show as to when and how the body of the deceased was removed from the pit, dismembered and thrown into the well.", "labels": ["FAC"]}}, {"id": "31fee15d85c444db9a17a6cad9ba4bab", "value": {"start": 8278, "end": 8837, "text": "The recovery of the scarf, it was pointed out, was an innocuous circumstance because on the evidence produced it had not been shown to belong to the appellant but to his father and the evidence of the Chemical Examiner was not sufficient to prove that the hairs on the scarf were of the appellant or of the deceased because the Chemical Examiner was certainly no expert on this matter and his evidence was, not admissible under s. 45 of the Evidence Act, and at the most, according to the Chemical Examiner's report the hairs resembled those of the appellant.", "labels": ["FAC"]}}, {"id": "545a417485244fcdbc2fe38489ab7bdb", "value": {"start": 8838, "end": 8944, "text": "And secondly according to the approver the dead body of the deceased was wrapped in his own pania (scarf).", "labels": ["FAC"]}}, {"id": "7f14daf0c4bf4f27b9d5e17e8c71911e", "value": {"start": 8945, "end": 9200, "text": "It was further submitted that the statement in regard to the recovery of the trunk and the head will only show that the appellant knew where the trunk and the head were, which at the most would lead to an inference of an offence under 8. 201 and not of 8.", "labels": ["FAC"]}}, {"id": "8ddc3fa3ef0d4971b8f6d8e1620dd0cc", "value": {"start": 9207, "end": 9473, "text": "What the law requires in the case of an accomplice's evidence is that there should be such corroboration of the material Parts of the story connecting the accused with the crime as will satisfy reasonable minds that the approver can be regardedas a truthful witness.", "labels": ["ANALYSIS"]}}, {"id": "d1546dddf35947f3a009db732ae3dbc2", "value": {"start": 9474, "end": 9568, "text": "The corroboration need not be direct evidence of the commission of the offence by the accused.", "labels": ["ANALYSIS"]}}, {"id": "bd9b16be85614659ad69d175d654572e", "value": {"start": 9569, "end": 9760, "text": "If it is merely circumstantial evidence of his connection with the crime it will be sufficient and the nature of the corroboration will depend on and vary with the circumstances of each case.", "labels": ["ANALYSIS"]}}, {"id": "3198f9e97a534c25ae5848e9393f5a6e", "value": {"start": 9761, "end": 9816, "text": "Vemireddy Satyanarayan Reddy v. The State of Hyderabad.", "labels": ["PRE_RELIED"]}}, {"id": "a98682f3058c4ce8a641f50d5948d64f", "value": {"start": 9816, "end": 9950, "text": "
+ The confessional statement made by the approver on March 31, 1958 gave the following facts connecting the appellant with the murder.", "labels": ["ANALYSIS"]}}, {"id": "a40b0cde26b24c61860218ed250555eb", "value": {"start": 9950, "end": 10002, "text": "
+(1) The appellant gave dharia blow to the deceased.", "labels": ["ANALYSIS"]}}, {"id": "90855b0ff9a7455eb82fe33fbc41e9c4", "value": {"start": 10003, "end": 10132, "text": "The dharia had already been discovered and it has been disregarded from the evidence by the High Court as being of no importance.", "labels": ["ANALYSIS"]}}, {"id": "db36d677c13a47249a953411794d97a4", "value": {"start": 10133, "end": 10228, "text": "The next thing stated by the approver was that the deceased's body was tied in a pania (scarf).", "labels": ["ANALYSIS"]}}, {"id": "ca243244551a4bb5b36f7d376b0d3576", "value": {"start": 10229, "end": 10309, "text": "He did not state that the scarf in which it was bound belonged to the appellant.", "labels": ["ANALYSIS"]}}, {"id": "2ff42f5d4cfe423ebfc6c213b6a2aadb", "value": {"start": 10310, "end": 10537, "text": "The next fact stated by him was that the appellant carried the body of the deceased and then it was buried in a pit and lastly he stated that the appellant had told him that the head of the deceased had been thrown into a well.", "labels": ["ANALYSIS"]}}, {"id": "8490a94cc9e6435a94f6263f07f8b407", "value": {"start": 10538, "end": 10717, "text": "None of these recoveries in the circumstances of this case are corroborative of the statement of the approver to the extent of connecting the appellant with the offence committed.", "labels": ["ANALYSIS"]}}, {"id": "579a5807f7f246ce8977e860ba2f6189", "value": {"start": 10718, "end": 10886, "text": "On the other hand, they are somewhat contradictory of the statement because the pania (scarf) which was found in the pit has now been stated to belong to the appellant.", "labels": ["ANALYSIS"]}}, {"id": "f329ff48f82c45d9aa72e64577487a40", "value": {"start": 10887, "end": 11014, "text": "The dead body was not found in the pit, the head had already been discovered and the trunk had also been taken out of the well.", "labels": ["ANALYSIS"]}}, {"id": "ade4c89feb06435db455bfc9475755d5", "value": {"start": 11015, "end": 11150, "text": "In these circumstances it was submitted that the approver's statement cannot be said to have been corroborated in material particulars.", "labels": ["ANALYSIS"]}}, {"id": "4001ee41ecc5463984916985e0ed64e6", "value": {"start": 11150, "end": 11301, "text": "
+ But there are other circumstances which have to be considered even if the evidence of the approver is held not to be very helpful to the prosecution.", "labels": ["ANALYSIS"]}}, {"id": "484db73f63c94bfa8f134c9df3760146", "value": {"start": 11302, "end": 11727, "text": "Firstly, there is the pointing out ofthe dead body by the appellant from the well; secondly, the discovery of the blood-stained (stained with human blood) buttons at the instance of the appellant i thirdly the scarf which has been held to belong to the appellant and which was found from the pit pointed out by the co-accused Nanji and fourthly by the presence of the hairs of the appellant and of the deceased on that scarf.", "labels": ["ANALYSIS"]}}, {"id": "a05bf382e5754a9794a02b2c2ad05963", "value": {"start": 11727, "end": 11922, "text": "
+ The mere fact that the dead body was pointed out by the appellant or was discovered as a result of a statement made by him would not necessarily lead to the conclusion of the offence of murder.", "labels": ["ANALYSIS"]}}, {"id": "16ff4fb1c32340cca640f8f65138be59", "value": {"start": 11922, "end": 11985, "text": "
+But there are other circumstances which have to be considered.", "labels": ["ANALYSIS"]}}, {"id": "e4e903057e644e7db72896fd83adb923", "value": {"start": 11986, "end": 12393, "text": "The discovery of the buttons with bloodstains at the instance of the appellant is a circumstance which may raise the presumption of the participation of the appellant in the murder, In Wasin Khan v. The State of Uttar Pradesh (1), it was held that the recent and unexplained possession of stolen property would be presumptive evidence against a prisoner on a charge of robbery as also of a charge of murder.", "labels": ["PRE_RELIED"]}}, {"id": "6b7ad0ff333f48a488f05bf5addc8a9f", "value": {"start": 12394, "end": 12448, "text": "But it must depend upon the circumstance of each case.", "labels": ["ANALYSIS"]}}, {"id": "a9287a49cbd141389291373b8aff52f8", "value": {"start": 12449, "end": 12534, "text": "The third piece of evidence to be considered is the recovery of the pania i.e. scarf.", "labels": ["ANALYSIS"]}}, {"id": "86511d0990d1456a8504ce334e9d4f16", "value": {"start": 12535, "end": 12656, "text": "No doubt there is no statement by the approver that the scarf in which the dead body was taken was that of the appellant.", "labels": ["ANALYSIS"]}}, {"id": "ff39780ef65c4d19a28939560ef99155", "value": {"start": 12656, "end": 12779, "text": "
+But a scarf has been found which the High Court has held as belonging to the appellant and hairs were found on that scarf.", "labels": ["ANALYSIS"]}}, {"id": "e1a32e7d13bc40b4a6b246750ed74999", "value": {"start": 12780, "end": 12971, "text": "It was argued that the finding of the hairs was of no consequence and at least the Chemical Examiner was not he proper expert who could depose as to the similarity or other wise of the hairs.", "labels": ["ANALYSIS"]}}, {"id": "93fa8ffad2734a33acf47eafec8a6e33", "value": {"start": 12972, "end": 13241, "text": "The writers on medical jurisprudence, however, have stated that from the microscopic examination of the hairs it is possible to say whether they are of the same or of different colours or sizes and from the examination it may help in deciding where the hairs come from.", "labels": ["ANALYSIS"]}}, {"id": "d927f7f070d04ea7b95a69a3124bfb34", "value": {"start": 13242, "end": 13399, "text": "InTaylor's Medical Jurisprudence (1956 Edn.) Vol. 1, at page 122, sine cases are given showing that hairs were identified as belonging to particular persons.", "labels": ["ANALYSIS"]}}, {"id": "899585a0655f4d538609a6f516c653fc", "value": {"start": 13399, "end": 13537, "text": "
+ Thus, we have besides the evidence of the approver three important facts which connect the appellant with the commission of the offence.", "labels": ["ANALYSIS"]}}, {"id": "0d08bf211b1e4783bbb5f37273ab96b8", "value": {"start": 13538, "end": 13758, "text": "His pointing out the dead body, his pointing out the silver buttons of the deceased which were stained with human blood and the presence of his hairs on a pania (scarf) on which there were the hairs of the deceases also.", "labels": ["ANALYSIS"]}}, {"id": "c492b24f68e64e44966697ad1a1576b3", "value": {"start": 13759, "end": 13909, "text": "In our opinion this would be sufficient evidence in the circumstances of the present case to connect the appellant with the commission of the offence.", "labels": ["RATIO"]}}, {"id": "e01e2033b54f4f6080fad3678e33597f", "value": {"start": 13909, "end": 13945, "text": "
+ We, therefore, dismiss the appeal.", "labels": ["RPC"]}}, {"id": "ff118539cfd74f5583c84971ca75ddd4", "value": {"start": 13945, "end": 13981, "text": "
+                  Appeal dismissed.", "labels": ["RPC"]}}]}], "data": {"text": "PETITIONER:          1962 SCR Supl. (2) 726
+KANBI KARSAN JADAV
+
+              Vs.
+
+RESPONDENT:
+STATE OF GUJARAT
+
+DATE OF JUDGMENT:
+24/01/1962
+
+BENCH:
+KAPUR, J.L.
+BENCH:
+KAPUR, J.L.
+DAYAL, RAGHUBAR
+
+CITATION:
+ 1966 AIR 821
+
+ACT:
+         Criminal Trial-Evidence of approver-
+
+Corroboration on material particulars-Othere
+circumstances to be considered-Chemical Examiner's
+evidence, if can be taken into Consideration to
+decide identity of hairs-Indian Penal Code, 1860
+(45 of 1860), 302, 201-India Evidence Act, 1872 (1
+of 1872), s. 45.
+
+HEADNOTE:
+         The appellant and two others were convicted
+
+for murder under ss. 302 and 201 of the Indian
+Penal Code. The High Court accepted the testimony
+of the approver as being a reliable piece of
+evidence. It relied upon the discovery of the dead
+body of the deceased at the instance of the
+appellant and of blood stained buttons also at his
+instance and attached importance to the scarf
+recovered from the pit where the dead body was
+alleged to have been first buried and which had
+hairs both of the appellant as well as the
+deceased.
+
+         The appellant contended that the evidence of
+the approver, even though it had been accepted as
+true, was not corroborated in material particulars
+connecting the appellant with the offence. None of
+the recoveries are corroborative of the statement
+of the approver to the extent of connecting the
+appellant with the offence committed; on the other
+hand they are somewhat contradictory of the
+statement. The evidence of the Chemical Examiner
+was not sufficient to prove that hairs on the
+scraf were of the appellant or of the deceased
+because the Chemical Examiner was no expert on
+this matter and his evidence was not admissible
+under s. 45 of the Evidence Act and, at the most,
+according to the Chemical Examiner the hairs
+resembled those of the appellant.
+^
+
+         Held, that where the evidence of the approver
+is held not to be very helpful to the prosecution
+other circumstances
+besides the evidence of the approver has to be
+considered. The mere fact that the dead body was
+pointed out by the appellant or was discovered as
+a result of a statement made by him would not
+necessarily lead to the conclusion of the offence
+of murder.
+
+         In the present case beside the evidence of
+the approver, the appellant's pointing out of the
+dead body, his pointing out the silver buttons of
+the deceased which were stained with human blood
+and the presence of his hairs on a pania (scraf)
+on which there were the hairs of the deceased
+also, are important facts which are sufficient
+evidence to connect the appellant with the
+commission of the offence.
+
+         Held, further, that writers of medical
+jurisprudence have stated that from microscopic
+examination of the hairs it is possible to say
+whether they are of the same or of different
+colours or sizes and from the examination it may
+help in deciding where the hairs come from.
+
+         Vemireddy Satyanarayan Reddy v. State of
+Hyderabad, [1956] S.C.R. 247 and Wasim Khan v.
+State of Uttar Pradesh, [1956] S.C.R. 191, relied
+on.
+
+JUDGMENT:
+         CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 223 of 1959.
+         Appeal by special leave from the judgment and ordered dated April 14, 1959, of the former Bombay High Court (Rajkot Branch) at Rajkot in Criminal Appeal No. 84 of 1958.
+ Nur-ud-din Ahmed and K. L. Hathi for appellant.
+ H. R. Khanna and R. H. Dhebar, for respondent.
+ 1962. January 24. The Judgment of the Court was delivered by KAPUR, J.-The appellant and two others were convicted by the Additional Sessions Judge, Gohilwad, under ss. 302 and 201 of the Indian Penal Code for the murder of Kanji and they were sentenced to imprisonment for life under the former section and to seven years' rigorous imprisonment under the latter. The sentence were concurrent. On appeal the High Court set aside the convictionof Nanji Ravji but upheld the convictions and sentences of the appellant and Karamshi Bhawan.
+The appellant has Come in appeal to this Court by Special leave.
+ The deceased Kanji was rather an unsavoury character in village Chiroda and it is alleged that he had a illicit connection with Shrimati Shantu the sister of Karamshi and also used to follow about Smt. Baghu the sister of the appellant for a similar object. It is stated that five days before the occurrence the appellant Karsan, Karamshi, Nanji and Gumansinh approver met and decided to murder the appellant. With that object in view Gumansinh approver was to decoy the deceased to the Vadi of the appellant and there the murder was to be committed. At about sunset on March 19, 1958, the deceased was decoyed to the place as previously arranged and there he was murdered by the appellant who gave him a few blows. with a sharp cutting instrument called Dharia. According to the statement of the approver the dead body was wrapped in the scarf of the deceased and was carried by the appellant from the place of the murder to the dry bed of the river and there it was burried in a pit. Nothing was heard of the murder or of the deceased till on March 26, 1958, a brother of the deceased made a report to the police about his disappearance and that he suspected the three uncles of the appellant, subsequently the appellant and the other accused persons were taken into custody by the police. One of them while in the custody of the police, was allowed to go to the village and he asked the help of Shamji and Manilal P.Ws. He also made a confession to them and they reported the matter to the police. On March 31, 1958, Gumansinh and Karamshi made confessionswhich were recorded by a Magistrate. Between March 26 and March 31, recoveries of various articles were made. At the instance of the appellant, it is stated, the dead body and then the head of the deceased was recovered from a distant well. At the instance of Nanji on March 28, 1958 a scarf was, discovered in the pit in which the dead body was according to the approver, buried. On the scarf, there were some hairs which on analysis by the Chemical Examiner were found to be similar to the hairs of the appellant and of the deceased. A day previous, i. e. March 27, 1958, at the instance of the appellant silver buttons which were stained with human blood were discovered from the field of the appellant at small stick like a button belonging to the deceased was also found at his instance.
+ The High Court rejected the confession of Karamshi on the ground that it was not voluntary.
+It acquitted Nanji on the ground that there were no corroboration in regard to him of the approver's statement, the place where the dead body was buried was not discovered at his instance, his production of stick and shirt and trousers from his house was of no consequence, and the oral evidence was contrary to the medical evidence and Karamshi's confessional statement could not be used against Nanji.
+ In regard to the appellant the High Court accepted the testimony of the approver as being a reliable piece of evidence. It attached no importance to the recovery of the cutting instrument, Dharia, nor to the discovery of the stick (Dhoka) at his instance. But the High Court did rely upon the discovery of the dead body of the deceased, i.e. the trunk and the head, at the instance of the appellant and of the blood-stained buttons also at his instance and attached importance to scarf recovered from the pit where the dead body was alleged to have been first buried and which had hairs both of the appellant as well as of the deceased.
+         It was argued for the appellant that the evidence of the approver, even though it had been accepted as true, was not corroborated in material particulars connecting the appellant with the offence. On the other hand it was contradicted.
+The approver had stated that the dead body was buried in a pit in the dry bed of the river but when that pit was dug up the dead body was not found there and only a piece of ulna bone and a heel of a human foot were found and all there recoveries had been made earlier and so could not be called corroborative in material particulars.
+It was further submitted that there was no evidence to show as to when and how the body of the deceased was removed from the pit, dismembered and thrown into the well. The recovery of the scarf, it was pointed out, was an innocuous circumstance because on the evidence produced it had not been shown to belong to the appellant but to his father and the evidence of the Chemical Examiner was not sufficient to prove that the hairs on the scarf were of the appellant or of the deceased because the Chemical Examiner was certainly no expert on this matter and his evidence was, not admissible under s. 45 of the Evidence Act, and at the most, according to the Chemical Examiner's report the hairs resembled those of the appellant. And secondly according to the approver the dead body of the deceased was wrapped in his own pania (scarf). It was further submitted that the statement in regard to the recovery of the trunk and the head will only show that the appellant knew where the trunk and the head were, which at the most would lead to an inference of an offence under 8. 201 and not of 8.
+302.
+ What the law requires in the case of an accomplice's evidence is that there should be such corroboration of the material Parts of the story connecting the accused with the crime as will satisfy reasonable minds that the approver can be regardedas a truthful witness. The corroboration need not be direct evidence of the commission of the offence by the accused. If it is merely circumstantial evidence of his connection with the crime it will be sufficient and the nature of the corroboration will depend on and vary with the circumstances of each case. Vemireddy Satyanarayan Reddy v. The State of Hyderabad.
+ The confessional statement made by the approver on March 31, 1958 gave the following facts connecting the appellant with the murder.
+(1) The appellant gave dharia blow to the deceased. The dharia had already been discovered and it has been disregarded from the evidence by the High Court as being of no importance. The next thing stated by the approver was that the deceased's body was tied in a pania (scarf). He did not state that the scarf in which it was bound belonged to the appellant. The next fact stated by him was that the appellant carried the body of the deceased and then it was buried in a pit and lastly he stated that the appellant had told him that the head of the deceased had been thrown into a well. None of these recoveries in the circumstances of this case are corroborative of the statement of the approver to the extent of connecting the appellant with the offence committed. On the other hand, they are somewhat contradictory of the statement because the pania (scarf) which was found in the pit has now been stated to belong to the appellant. The dead body was not found in the pit, the head had already been discovered and the trunk had also been taken out of the well. In these circumstances it was submitted that the approver's statement cannot be said to have been corroborated in material particulars.
+ But there are other circumstances which have to be considered even if the evidence of the approver is held not to be very helpful to the prosecution. Firstly, there is the pointing out ofthe dead body by the appellant from the well; secondly, the discovery of the blood-stained (stained with human blood) buttons at the instance of the appellant i thirdly the scarf which has been held to belong to the appellant and which was found from the pit pointed out by the co-accused Nanji and fourthly by the presence of the hairs of the appellant and of the deceased on that scarf.
+ The mere fact that the dead body was pointed out by the appellant or was discovered as a result of a statement made by him would not necessarily lead to the conclusion of the offence of murder.
+But there are other circumstances which have to be considered. The discovery of the buttons with bloodstains at the instance of the appellant is a circumstance which may raise the presumption of the participation of the appellant in the murder, In Wasin Khan v. The State of Uttar Pradesh (1), it was held that the recent and unexplained possession of stolen property would be presumptive evidence against a prisoner on a charge of robbery as also of a charge of murder. But it must depend upon the circumstance of each case. The third piece of evidence to be considered is the recovery of the pania i.e. scarf. No doubt there is no statement by the approver that the scarf in which the dead body was taken was that of the appellant.
+But a scarf has been found which the High Court has held as belonging to the appellant and hairs were found on that scarf. It was argued that the finding of the hairs was of no consequence and at least the Chemical Examiner was not he proper expert who could depose as to the similarity or other wise of the hairs. The writers on medical jurisprudence, however, have stated that from the microscopic examination of the hairs it is possible to say whether they are of the same or of different colours or sizes and from the examination it may help in deciding where the hairs come from. InTaylor's Medical Jurisprudence (1956 Edn.) Vol. 1, at page 122, sine cases are given showing that hairs were identified as belonging to particular persons.
+ Thus, we have besides the evidence of the approver three important facts which connect the appellant with the commission of the offence. His pointing out the dead body, his pointing out the silver buttons of the deceased which were stained with human blood and the presence of his hairs on a pania (scarf) on which there were the hairs of the deceases also. In our opinion this would be sufficient evidence in the circumstances of the present case to connect the appellant with the commission of the offence.
+ We, therefore, dismiss the appeal.
+                  Appeal dismissed.
+"}, "meta": {"group": "Criminal"}},

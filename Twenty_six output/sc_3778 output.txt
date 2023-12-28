@@ -1,0 +1,52 @@
+Precedent Referred :    vs.
+
+Precedent Referred : decision in chandi prasad chokani v. state of
+
+Precedent Referred :          baldev singh v. commissioner of income-tax
+
+Precedent Referred :          chandi prasad chokhani v. state of bihar
+
+Precedent Referred :          ramanarain sons (p.) ltd. v. commissioner of
+
+Precedent Referred : investment co. ltd. v. commissioner of income-tax,", "labels": ["preamble"]}}, {"id": "e9de5d03efa04f529c0768de134998a6", "value": {"start": 4164, "end": 4190, "text": "
+
+Precedent Referred :          salomon v. salomon & co. ltd. (1897) a.c. 22,
+
+Precedent Relied :  before we examine the merits of the case, we shall deal with a preliminary objection raised on behalf of the respondent that the appeal is incomepetent, in view of the decision of this court in chandi prasad chokhani v. state of bihar (1) where it was held that this court would not entertain an appeal directly from an order of the tribunal by passing the decision of the high court, except in very exceptional circumstances.
+
+Precedent Relied : the appellant relies upon the decision of this court in baldev singh v. commissioner of income tax (2), and contendsthat the exceptional circumstances existing in the latter case and adverted to in the former, govern the present case.", "labels": ["arg_respondent"]}}, {"id": "e129911632624ad58f029570bd48ecc3", "value": {"start": 6566, "end": 6786, "text": "the facts relating to the filing of the application for reference together with the relevant dates are these: the tribunal's order was passed by two learned members, who signed their respective orders on different dates.", "labels": ["fac"]}}, {"id": "2fbb36b213f246afa0e6c95ba65c2df6", "value": {"start": 6787, "end": 6883, "text": "the accountant member signed his order on may 1, 1957, and the judicial member, on may 14, 1957.", "labels": ["fac"]}}, {"id": "f1ef8672c1b142418c7c5dc751897e72", "value": {"start": 6884, "end": 7022, "text": "the notice of the order was sent to the commissioner of income-tax, new delhi, and reached his office by registered post on july 15, 1957.", "labels": ["fac"]}}, {"id": "9b4dfd7733494ce9a523e9c53e316c65", "value": {"start": 7023, "end": 7104, "text": "it was received by one motilal pathak, a clerk in the office of the commissioner.", "labels": ["fac"]}}, {"id": "253d9af01b9645a9bec19aad8d4e35bf", "value": {"start": 7105, "end": 7200, "text": "motilal's affidavit shows that, he suddenly fell ill, and had to take casual leave for the day.", "labels": ["fac"]}}, {"id": "1e00181d8bfa4757bd0744c36e0751e0", "value": {"start": 7201, "end": 7294, "text": "he returned to the office the next day, and dealt with the notice received from the tribunal.", "labels": ["fac"]}}, {"id": "d8ae8bd6eb354dc082babcd5833badfb", "value": {"start": 7295, "end": 7517, "text": "by a mischance, which is easy to appreciate, the date stamp of the receipt of the papers was affixed on the 16th, and bore that date instead of the real date, viz., the 15th, on which the papers had actually been received.", "labels": ["fac"]}}, {"id": "1c87c97367f641a89524d2852d398b44", "value": {"start": 7518, "end": 7656, "text": "relying upon the date stamp, everybody took it for granted that limitation would expire on the 60th day, counting time from july 16, 1957.", "labels": ["fac"]}}, {"id": "da836c24be5a41f6a832c244c62b5f13", "value": {"start": 7656, "end": 7733, "text": "
+
+Precedent Referred : commissioner of income-tax (2) and kanhaiyalal lohia v. the commissioner of income-tax (3).", "labels": ["pre_relied"]}}, {"id": "f7689c189059469599fceb87e635ccf9", "value": {"start": 9024, "end": 9244, "text": "in all the three cases, reliance was placed by the appellants therein upon the decisions of this court in dhakeswari cotton mills, ltd. v.
+
+Precedent Relied : the above two decisions are merely the application of a principle of long standing, which has been stated over and over again in the past.", "labels": ["analysis"]}}, {"id": "02eab0ace20344d099c6a6b5e9b4444b", "value": {"start": 25622, "end": 25970, "text": "in oriental investment co. ltd. v. commissioner of income-tax (1), that principle was reiterated, and it was that the object for which a company was formed did not invest the deal with the characteristics of a trade in shares, but that other circumstances along with that fact must be considered to find out the real object of a particular venture.", "labels": ["analysis"]}}, {"id": "e87b8298d8324d4ea248454fcb2214d6", "value": {"start": 25970, "end": 26062, "text": "
+
+Precedent Relied :          before we deal with the present case, one other case of this court may be noticed.", "labels": ["analysis"]}}, {"id": "47043430739f498d91495bd01795ee60", "value": {"start": 26063, "end": 26156, "text": "in rajputana textiles v. commissioner of income-tax (2), the converse conclusion was reached.", "labels": ["pre_relied"]}}, {"id": "a560794e13ce424fab589ba455b2df27", "value": {"start": 26157, "end": 26344, "text": "there, on the facts and circumstances of the case, it was held that a particular deal in shares was a commercial venture and had all the attributes of an adventure in the nature of trade.", "labels": ["pre_relied"]}}, {"id": "571b1d4b555b4add875d931565563ba9", "value": {"start": 26345, "end": 26554, "text": "in that case, the transaction was not a single or an undivided one with a slump payment, because for the managing agency, rs. 12,50,000 were paid separately and for the shares, a sum of rs. 83,98,000 was paid.", "labels": ["analysis"]}}, {"id": "9a8a1e3875d141ae9f3904a97eab3e4c", "value": {"start": 26555, "end": 26686, "text": "the two acquisitions being different, the profit on the sale of some of the shares was considered to be a gain on the revenue side.", "labels": ["analysis"]}}, {"id": "9b810f45ef8845179f0f7b822c3570ba", "value": {"start": 26686, "end": 26829, "text": "
+
+Precedent Relied : 400 per share was so out of proportion to the market price that it indicated, by itself, the acquisition of something more than the mere shares.", "labels": ["analysis"]}}, {"id": "59b4e06cac10421084dd2d2f440df8af", "value": {"start": 29945, "end": 30182, "text": "according to the income-tax officer, the real intention was to acquire lucrative agencies of the mills, and this intention, whether it was held by jaswant sugar mills ltd. or the assessed company or both, was of the same body of persons.", "labels": ["analysis"]}}, {"id": "d272521837904574b66f9df89e91ddc0", "value": {"start": 30183, "end": 30404, "text": "the appellate assistant commissioner endorsed the view of the income-tax officer; but the tribunal made a distinction between one company and another, and that distinction has been pressed upon us by the assessee company.", "labels": ["analysis"]}}, {"id": "59415df95cdd4dd69201689eec74a7d2", "value": {"start": 30405, "end": 30698, "text": "relying upon the well-known case of salomon v. salomon & co.
+
+Precedent Referred :    vs.
+
+Precedent Referred : decision in chandi prasad chokani v. state of
+
+Precedent Referred :          baldev singh v. commissioner of income-tax
+
+Precedent Referred :          chandi prasad chokhani v. state of bihar
+
+Precedent Referred :          ramanarain sons (p.) ltd. v. commissioner of
+
+Precedent Referred : investment co. ltd. v. commissioner of income-tax,
+
+Precedent Referred :          salomon v. salomon & co. ltd. (1897) a.c. 22,
+
+Precedent Relied :  before we examine the merits of the case, we shall deal with a preliminary objection raised on behalf of the respondent that the appeal is incomepetent, in view of the decision of this court in chandi prasad chokhani v. state of bihar (1) where it was held that this court would not entertain an appeal directly from an order of the tribunal by passing the decision of the high court, except in very exceptional circumstances.
+
+Precedent Referred : the appellant relies upon the decision of this court in baldev singh v. commissioner of income tax (2), and contendsthat the exceptional circumstances existing in the latter case and adverted to in the former, govern the present case.
+
+Precedent Referred : commissioner of income-tax (2) and kanhaiyalal lohia v. the commissioner of income-tax (3). in all the three cases, reliance was placed by the appellants therein upon the decisions of this court in dhakeswari cotton mills, ltd. v.
+
+Precedent Relied : the above two decisions are merely the application of a principle of long standing, which has been stated over and over again in the past. in oriental investment co. ltd. v. commissioner of income-tax (1), that principle was reiterated, and it was that the object for which a company was formed did not invest the deal with the characteristics of a trade in shares, but that other circumstances along with that fact must be considered to find out the real object of a particular venture.
+
+Precedent Relied :          before we deal with the present case, one other case of this court may be noticed. in rajputana textiles v. commissioner of income-tax (2), the converse conclusion was reached. there, on the facts and circumstances of the case, it was held that a particular deal in shares was a commercial venture and had all the attributes of an adventure in the nature of trade. in that case, the transaction was not a single or an undivided one with a slump payment, because for the managing agency, rs. 12,50,000 were paid separately and for the shares, a sum of rs. 83,98,000 was paid. the two acquisitions being different, the profit on the sale of some of the shares was considered to be a gain on the revenue side.
+
+Precedent Relied : the appellate assistant commissioner endorsed the view of the income-tax officer; but the tribunal made a distinction between one company and another, and that distinction has been pressed upon us by the assessee company. relying upon the well-known case of salomon v. salomon & co.
+

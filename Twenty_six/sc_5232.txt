@@ -1,0 +1,164 @@
+{"id": 4222, "annotations": [{"result": [{"id": "cb48e88496694fc0bc2d356d64296436", "value": {"start": 0, "end": 853, "text": "PETITIONER:
+SARVESHWAR PRASAD SHARMA
+
+    Vs.
+
+RESPONDENT:
+STATE OF MADHYA PRADESH
+
+DATE OF JUDGMENT26/09/1977
+
+BENCH:
+GOSWAMI, P.K.
+BENCH:
+GOSWAMI, P.K.
+SINGH, JASWANT
+
+CITATION:
+
+1977 AIR 2423              1978 SCR  (1) 560
+                          (193)
+1977 SCC (4) 596
+
+CITATOR INFO :
+
+RF         1979 SC 916
+
+ACT:
+Sentence--Sentence of death, special reasons as required
+under s. 354(3) of the Criminal Procedure Code (Act If of
+1974), 1973 recorded by the Sessions and the High Court-
+Interference by the Supreme Court under Art. 136 only in
+special cases.
+
+HEADNOTE:
+The appellant, a qualified medical practitioner, was
+convicted for nine gruesome, murders of his friend, the
+latter's wife, aged parents, two sons and three daughters of
+the age of 16, 13, 8, 5 and 3 respectively, entirely on
+circumstantial evidence and was sentenced to death.", "labels": ["PREAMBLE"]}}, {"id": "232c331902fb490ab1e0162ad1dcff30", "value": {"start": 854, "end": 942, "text": "The
+entire family was exterminated due to greed for cash,
+ornaments and other valuables.", "labels": ["PREAMBLE"]}}, {"id": "fdf04fa99c0e4b8bb9eeba5bc4c80468", "value": {"start": 943, "end": 1042, "text": "The Sessions and the High
+Court gave convincing and special reasons for passing the
+death sentence.", "labels": ["PREAMBLE"]}}, {"id": "fc7290da4e294b398b9f3ded665955ba", "value": {"start": 1042, "end": 1172, "text": "
+Dismissing the special leave which is limited to the
+question of sentence, the Court,
+HELD : Law directs the course of the court.", "labels": ["PREAMBLE"]}}, {"id": "c7a2d37d1366423ea284e247166eda5c", "value": {"start": 1173, "end": 1431, "text": "After enactment
+of the Criminal Procedure Code in 1973 (Act 2 of 1974), the
+judgment in a murder case "shall state the special reasons"
+for a sentence of death, only in special cases with
+recording of reasons so that these may be examined by
+superior courts.", "labels": ["PREAMBLE"]}}, {"id": "915ec2de35a64d69b21100ba086e5073", "value": {"start": 1432, "end": 1608, "text": "None of the guidelines indicated by this
+court in several decisions in this is problem area of life
+and death as a result of judicial verdict can be cut and dry
+nor exhaustive.", "labels": ["PREAMBLE"]}}, {"id": "1dcab4be3af1431aa8a79c7fc6dae831", "value": {"start": 1609, "end": 1707, "text": "Each case will depend upon the totality of
+the facts and circumstances and other matters revealed.", "labels": ["PREAMBLE"]}}, {"id": "74b3fce746764dd59d358417063391f4", "value": {"start": 1708, "end": 1865, "text": "In
+the instant case the horrid enormity of the crime with a
+deliberate motive of wrongful gain cannot be minimised when
+considering the appropriate sentence.", "labels": ["PREAMBLE"]}}, {"id": "bc1274a9db5142038d2d2c01370dd8a6", "value": {"start": 1866, "end": 2091, "text": "The special reasons
+mandated under the law are duly recorded by both the High
+Court and the Trial Court and those are adequate to justify
+the sentence of death in these cruet and diabolical murders
+[561 E-F, 562 F]
+
+JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "6db56dcf7eda47109a22224bc8a89299", "value": {"start": 2091, "end": 2317, "text": "
+ CRIMINAL APPELLATE JURISDICTION : Criminal Appeal No. 342 of 1971, Appeal by Special Leave from the Judgment and Order dated 13-4-77 of the Madhya Pradesh High Court in Criminal Appeal No. 37/77 and Death Reference No. 1/77.", "labels": ["NONE"]}}, {"id": "52e884438cc34b06833a4176a7454f56", "value": {"start": 2317, "end": 2369, "text": "
+Mohan Behari Lal (amicus curiae) for the Appellant.", "labels": ["NONE"]}}, {"id": "fd37c7569e43474b9ad126d4855d7c55", "value": {"start": 2369, "end": 2402, "text": "
+I. N. Shroff for the Respondent.", "labels": ["NONE"]}}, {"id": "402bd48dff534d1a9e7d9e3498355e98", "value": {"start": 2402, "end": 2457, "text": "
+The Judgment of the Court was delivered by GOSWAMI, J.", "labels": ["NONE"]}}, {"id": "36f38098996a4fe1afd9e46166fc6b32", "value": {"start": 2458, "end": 2618, "text": "We have granted special leave in this case limited to the question of sentence and heard the learned counsel, appearing as amicus curiae and also for the State.", "labels": ["NONE"]}}, {"id": "c4acd7351d114ae182fd58cf3e6fada3", "value": {"start": 2618, "end": 2713, "text": "
+These are gruesome murders wiping out all entire family of nine persons including two infants.", "labels": ["FAC"]}}, {"id": "c9b7549ef31c4f90b643c42ca94c02c7", "value": {"start": 2715, "end": 2970, "text": "The accused (31), Bachelor of Ayurvedic Medicine and Surgery (B.A.M.S.), a qualified medical practitioner, was a close friend of one of the deceased, Ram Swaroop (40), who was an Upper Division Clerk in the Madhya Pradesh Girls N.
+C. Battalion at Gwalior.", "labels": ["FAC"]}}, {"id": "fc1a1c9ddf8f49b78ff270c423e67f00", "value": {"start": 2971, "end": 3032, "text": "Theaccused lived only about a furlong away from the deceased.", "labels": ["FAC"]}}, {"id": "5a5d62cf622448a694a1a4fba19c7246", "value": {"start": 3032, "end": 3095, "text": "
+Deceased Ram Swaroop used to practice Homeopathy as his hobby.", "labels": ["FAC"]}}, {"id": "3fef6f8474f049eca4a0aca905b8c901", "value": {"start": 3096, "end": 3192, "text": "There was thus a certain degree of common interest between the accused and deceased Ram Swaroop.", "labels": ["FAC"]}}, {"id": "ae01ab8ca3e2477481d1aee49839f476", "value": {"start": 3192, "end": 3333, "text": "
+Ram Swaroop had his parents, aged 60 years, his wife (35), their two sons and three daughters of the age of 16, 13, 8, 5 and 3 respectively.", "labels": ["FAC"]}}, {"id": "cf699496c9c541f6b041f7a0092e7400", "value": {"start": 3334, "end": 3388, "text": "As stated earlier, the entire family was exterminated.", "labels": ["FAC"]}}, {"id": "d648f63ec5d84076b448993407552f55", "value": {"start": 3389, "end": 3460, "text": "Cash, ornaments and other valuables were also removed at the same time.", "labels": ["FAC"]}}, {"id": "60ed0a3922e94ca88303a60fce602f4d", "value": {"start": 3461, "end": 3602, "text": "Murder was committed on the night of 4th July, 1976 and the dead bodies were locked up inside the room and the house was locked from outside.", "labels": ["FAC"]}}, {"id": "3413f83726334224a093b8ce933a8745", "value": {"start": 3603, "end": 3689, "text": "On 6th July foul. smell was emitted from the closed house and the police was informed.", "labels": ["FAC"]}}, {"id": "1f05678cb8b4485a962abb02f4564860", "value": {"start": 3690, "end": 3770, "text": "The house was broken open by the police and the nine dead bodies were recovered.", "labels": ["FAC"]}}, {"id": "2b2c24dbbdd549a8ad4cdd336a715ac3", "value": {"start": 3770, "end": 3922, "text": "
+There is no direct evidence as to who actually committed the crimp, or even whether there was more than one person taking part in this dastardly crime.", "labels": ["FAC"]}}, {"id": "f7f9862b646f4ac68eba8658a8df821f", "value": {"start": 3923, "end": 4030, "text": "The accused stood convicted entirely on circumstantial evidence and his conviction is, now beyond question.", "labels": ["FAC"]}}, {"id": "c1f6390c136a4daebcb4a6da2b978160", "value": {"start": 4030, "end": 4103, "text": "
+We have heard learned counsel of both sides on the question of sentence.", "labels": ["NONE"]}}, {"id": "96b0a05d1064451384d68cbdd2d93bbf", "value": {"start": 4104, "end": 4270, "text": "The recent benign direction of the penal law is towards life sentence, as a rule, and death as an exception awarding of which must be accompanied by recorded reasons.", "labels": ["ANALYSIS"]}}, {"id": "a6b59ffdc0774e72bfc5524646e0da39", "value": {"start": 4270, "end": 4462, "text": "
+This Court has in several decisions indicated guidelines in this problem area of life and death as a result of judicial verdict but none of these guidelines can be cut and dry nor exhaustive.", "labels": ["ANALYSIS"]}}, {"id": "51e6eeaf41484eef9b066600b78038e0", "value": {"start": 4463, "end": 4558, "text": "Each case will depend upon the totality of the facts, circumstances and other matters revealed.", "labels": ["ANALYSIS"]}}, {"id": "f34eb6bc443b41b58bad2693e9e1ece2", "value": {"start": 4559, "end": 4595, "text": "Law directs the course of the court.", "labels": ["ANALYSIS"]}}, {"id": "795deb7e0c364660a9a149dd6a9ed1bb", "value": {"start": 4596, "end": 4757, "text": "After, enactment of the Criminal Procedure Code in 1973 (Act 2 of 1974), the judgment in a murder case "shall state the special reasons"
+for a sentence of death.", "labels": ["ANALYSIS"]}}, {"id": "acd73ff703574920a75943f67c991761", "value": {"start": 4758, "end": 4903, "text": "That is to say, there will be sentence of death only in special cases with recording of reasons so that these may be examined by superior courts.", "labels": ["ANALYSIS"]}}, {"id": "dbaa1ec7bcc74d4194a4945c71f75708", "value": {"start": 4903, "end": 5087, "text": "
+The trial court dealing with the question of sentence observed as follows : - "Even beasts do not show unfaithfulness but this case is a shining example of the heinous unfaithfulness.", "labels": ["ANALYSIS"]}}, {"id": "32e47934c06340df8c0e6aea166b3ea6", "value": {"start": 5088, "end": 5445, "text": "Firstly to commit nine murders and that to(, of small children committed by inflicting more than one injury which is sufficient in the ordinary course of nature and therefore gravity of the offence has surpassed its last limit due to which it would be proper to say that the acts of accused are not only beastly but ghastly injoined with extreme greediness.", "labels": ["ANALYSIS"]}}, {"id": "565629c35cd641beb37ab9b7b4e35023", "value": {"start": 5446, "end": 5638, "text": "There being 12-930SCI/77                         total lack of extenuating circumstances the accused deserves to be punished with extreme penalty without hesitation".
+                         ", "labels": ["ANALYSIS"]}}, {"id": "500f313779cd407dbe1edbbfcef6b491", "value": {"start": 5638, "end": 5781, "text": "The High Court dealing with the same question made the following observation :- "The accused was a trusted friend of the deceased Rain Swaroop.", "labels": ["ANALYSIS"]}}, {"id": "12462d0946c047e3b0518b4da466345c", "value": {"start": 5782, "end": 6060, "text": "But, for achievement of Ms vicious object to relieve him of his cash and valuables he not only killed Ram Swaroop but also exterminated his whole family including his aged parents, his wife and five children two of whom were infants aged five years and three years respectively.", "labels": ["ANALYSIS"]}}, {"id": "4ced479a99eb45e4ad556cc8b10aa2c6", "value": {"start": 6061, "end": 6211, "text": "He com- mitted these blood-chilling murders of the nine innocent persons for monetary gain and to destroy. the evidence of the crime he had committed.", "labels": ["ANALYSIS"]}}, {"id": "dbeb31309f7b40499a8d63e689369695", "value": {"start": 6212, "end": 6304, "text": "It is difficult to find words strong enough to condemn these gruesome and dastardly murders.", "labels": ["ANALYSIS"]}}, {"id": "f50bed7d2ada4335908cc5a3de2c1f65", "value": {"start": 6305, "end": 6510, "text": "Ironically the accused chose not to spare even the two infant daughters of Ram Swaroop who dearly used to address him as `Dr. Chacha' and were incapable of giving evidence even if they had been left alive.", "labels": ["ANALYSIS"]}}, {"id": "7b8615db71b849e1b85c1f6a2af9367d", "value": {"start": 6511, "end": 6540, "text": "The tragedy has few parallels", "labels": ["ANALYSIS"]}}, {"id": "6e761d5660214922808ffb3188ba3271", "value": {"start": 6541, "end": 6592, "text": "The accused was neither demented nor mentally sick.", "labels": ["ANALYSIS"]}}, {"id": "bef1f7e70969450b90ac626897b7a57f", "value": {"start": 6593, "end": 6673, "text": "There are absolutely no extenuating circumstances for passing a lesser sentence.", "labels": ["ANALYSIS"]}}, {"id": "c9eb7268f45f4d5ba7bda689a83f639f", "value": {"start": 6674, "end": 6777, "text": "On the other hand, the case, in our opinion, is eminently fit for imposing the extreme penalty of law".", "labels": ["ANALYSIS"]}}, {"id": "eb5683df462a4e85871951fd034be05f", "value": {"start": 6777, "end": 6957, "text": "
+It is submitted that the accused was financially in straits with wife and two small children and this should be taken into consideration to merit clemency for the lesser sentence.", "labels": ["RATIO"]}}, {"id": "18b0bce2a0a1454aa55a966de67211d3", "value": {"start": 6958, "end": 7165, "text": "These grounds had also been urged earlier before the trial court, but the horrid enormity of the crime with a deliberate motive of wrongful gain cannot be minimised when considering the appropriate sentence.", "labels": ["RATIO"]}}, {"id": "dfb67433c0fd44f1bb8317b794e30a69", "value": {"start": 7166, "end": 7271, "text": "We agree with the courts below that there are no extenuating circumstances to justify the lesser penalty.", "labels": ["RATIO"]}}, {"id": "d9643ab9534f45a8a036fb0953516fd5", "value": {"start": 7272, "end": 7509, "text": "The special reasons mandated under the law are duly recorded by both the High Court and the trial court and we are not in a position to say that those are inadequate to justify the sentence of death in these cruel and diabolical murders.", "labels": ["RATIO"]}}, {"id": "8d9220d93132465d8f6084ca32b1fca2", "value": {"start": 7510, "end": 7546, "text": "The appeal is accordingly dismissed.", "labels": ["RPC"]}}, {"id": "cd0677e406344d2ca122b17a255bde93", "value": {"start": 7546, "end": 7569, "text": "
+S.R.
+Appeal dismissed.", "labels": ["NONE"]}}]}], "data": {"text": "PETITIONER:
+SARVESHWAR PRASAD SHARMA
+
+    Vs.
+
+RESPONDENT:
+STATE OF MADHYA PRADESH
+
+DATE OF JUDGMENT26/09/1977
+
+BENCH:
+GOSWAMI, P.K.
+BENCH:
+GOSWAMI, P.K.
+SINGH, JASWANT
+
+CITATION:
+
+1977 AIR 2423              1978 SCR  (1) 560
+                          (193)
+1977 SCC (4) 596
+
+CITATOR INFO :
+
+RF         1979 SC 916
+
+ACT:
+Sentence--Sentence of death, special reasons as required
+under s. 354(3) of the Criminal Procedure Code (Act If of
+1974), 1973 recorded by the Sessions and the High Court-
+Interference by the Supreme Court under Art. 136 only in
+special cases.
+
+HEADNOTE:
+The appellant, a qualified medical practitioner, was
+convicted for nine gruesome, murders of his friend, the
+latter's wife, aged parents, two sons and three daughters of
+the age of 16, 13, 8, 5 and 3 respectively, entirely on
+circumstantial evidence and was sentenced to death. The
+entire family was exterminated due to greed for cash,
+ornaments and other valuables. The Sessions and the High
+Court gave convincing and special reasons for passing the
+death sentence.
+Dismissing the special leave which is limited to the
+question of sentence, the Court,
+HELD : Law directs the course of the court. After enactment
+of the Criminal Procedure Code in 1973 (Act 2 of 1974), the
+judgment in a murder case "shall state the special reasons"
+for a sentence of death, only in special cases with
+recording of reasons so that these may be examined by
+superior courts. None of the guidelines indicated by this
+court in several decisions in this is problem area of life
+and death as a result of judicial verdict can be cut and dry
+nor exhaustive. Each case will depend upon the totality of
+the facts and circumstances and other matters revealed. In
+the instant case the horrid enormity of the crime with a
+deliberate motive of wrongful gain cannot be minimised when
+considering the appropriate sentence. The special reasons
+mandated under the law are duly recorded by both the High
+Court and the Trial Court and those are adequate to justify
+the sentence of death in these cruet and diabolical murders
+[561 E-F, 562 F]
+
+JUDGMENT:
+ CRIMINAL APPELLATE JURISDICTION : Criminal Appeal No. 342 of 1971, Appeal by Special Leave from the Judgment and Order dated 13-4-77 of the Madhya Pradesh High Court in Criminal Appeal No. 37/77 and Death Reference No. 1/77.
+Mohan Behari Lal (amicus curiae) for the Appellant.
+I. N. Shroff for the Respondent.
+The Judgment of the Court was delivered by GOSWAMI, J. We have granted special leave in this case limited to the question of sentence and heard the learned counsel, appearing as amicus curiae and also for the State.
+These are gruesome murders wiping out all entire family of nine persons including two infants.
+ The accused (31), Bachelor of Ayurvedic Medicine and Surgery (B.A.M.S.), a qualified medical practitioner, was a close friend of one of the deceased, Ram Swaroop (40), who was an Upper Division Clerk in the Madhya Pradesh Girls N.
+C. Battalion at Gwalior. Theaccused lived only about a furlong away from the deceased.
+Deceased Ram Swaroop used to practice Homeopathy as his hobby. There was thus a certain degree of common interest between the accused and deceased Ram Swaroop.
+Ram Swaroop had his parents, aged 60 years, his wife (35), their two sons and three daughters of the age of 16, 13, 8, 5 and 3 respectively. As stated earlier, the entire family was exterminated. Cash, ornaments and other valuables were also removed at the same time.
+Murder was committed on the night of 4th July, 1976 and the dead bodies were locked up inside the room and the house was locked from outside. On 6th July foul. smell was emitted from the closed house and the police was informed. The house was broken open by the police and the nine dead bodies were recovered.
+There is no direct evidence as to who actually committed the crimp, or even whether there was more than one person taking part in this dastardly crime. The accused stood convicted entirely on circumstantial evidence and his conviction is, now beyond question.
+We have heard learned counsel of both sides on the question of sentence. The recent benign direction of the penal law is towards life sentence, as a rule, and death as an exception awarding of which must be accompanied by recorded reasons.
+This Court has in several decisions indicated guidelines in this problem area of life and death as a result of judicial verdict but none of these guidelines can be cut and dry nor exhaustive. Each case will depend upon the totality of the facts, circumstances and other matters revealed.
+Law directs the course of the court. After, enactment of the Criminal Procedure Code in 1973 (Act 2 of 1974), the judgment in a murder case "shall state the special reasons"
+for a sentence of death. That is to say, there will be sentence of death only in special cases with recording of reasons so that these may be examined by superior courts.
+The trial court dealing with the question of sentence observed as follows : - "Even beasts do not show unfaithfulness but this case is a shining example of the heinous unfaithfulness. Firstly to commit nine murders and that to(, of small children committed by inflicting more than one injury which is sufficient in the ordinary course of nature and therefore gravity of the offence has surpassed its last limit due to which it would be proper to say that the acts of accused are not only beastly but ghastly injoined with extreme greediness. There being 12-930SCI/77                         total lack of extenuating circumstances the accused deserves to be punished with extreme penalty without hesitation".
+                         The High Court dealing with the same question made the following observation :- "The accused was a trusted friend of the deceased Rain Swaroop. But, for achievement of Ms vicious object to relieve him of his cash and valuables he not only killed Ram Swaroop but also exterminated his whole family including his aged parents, his wife and five children two of whom were infants aged five years and three years respectively. He com- mitted these blood-chilling murders of the nine innocent persons for monetary gain and to destroy. the evidence of the crime he had committed. It is difficult to find words strong enough to condemn these gruesome and dastardly murders. Ironically the accused chose not to spare even the two infant daughters of Ram Swaroop who dearly used to address him as `Dr. Chacha' and were incapable of giving evidence even if they had been left alive. The tragedy has few parallels The accused was neither demented nor mentally sick. There are absolutely no extenuating circumstances for passing a lesser sentence. On the other hand, the case, in our opinion, is eminently fit for imposing the extreme penalty of law".
+It is submitted that the accused was financially in straits with wife and two small children and this should be taken into consideration to merit clemency for the lesser sentence. These grounds had also been urged earlier before the trial court, but the horrid enormity of the crime with a deliberate motive of wrongful gain cannot be minimised when considering the appropriate sentence. We agree with the courts below that there are no extenuating circumstances to justify the lesser penalty. The special reasons mandated under the law are duly recorded by both the High Court and the trial court and we are not in a position to say that those are inadequate to justify the sentence of death in these cruel and diabolical murders. The appeal is accordingly dismissed.
+S.R.
+Appeal dismissed."}, "meta": {"group": "Criminal"}},

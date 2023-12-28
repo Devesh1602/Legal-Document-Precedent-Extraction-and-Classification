@@ -1,0 +1,326 @@
+{"id": 1720, "annotations": [{"result": [{"id": "95c7de1ad7d34736add939d27ed86bc3", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 0, "end": 563, "text": "PETITIONER:
+BAKULBHAI AND ANR.
+
+Vs.
+
+RESPONDENT:
+GANGARAM & ANR.
+
+DATE OF JUDGMENT27/01/1988
+
+BENCH:
+SHARMA, L.M. (J)
+BENCH:
+SHARMA, L.M. (J)
+MISRA RANGNATH
+
+CITATION:            1988 SCC (1) 537
+ 1988 SCR (2) 787    1988 SCALE (1)188
+ JT 1988 (1) 197
+
+ACT:
+         Code of Criminal Procedure, 1973: Sections 125 &
+
+397(3)-Maintenance for wife and child-Entitlement-
+Maintainability of Revision application-Enhancement of
+maintenance to allowance to child-Due to inflation and
+growing age-Permissibility of.
+
+         Hindu Marriage Act, 1955: Sections 11 and 16", "labels": ["PREAMBLE"]}}, {"id": "d928e857ea4d45c3bb5338b712c38c5f", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 564, "end": 760, "text": "Hindu
+woman marrying a Hindu male already married and his wife
+living-Validity of-Legitimacy of the child born out of such
+wedlock-Entitlement of maintenance for such woman and child.
+
+HEADNOTE:
+%", "labels": ["PREAMBLE"]}}, {"id": "069a9a8eda434d1b9e4a41cd4989c0f9", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 761, "end": 991, "text": "The appellant filed an application under Section 125
+Cr.P.C. before the Judicial Magistrate, claiming maintenance
+for herself and her son, alleging lawful marriage with the
+respondent, and that the son was born out of the wedlock.", "labels": ["PREAMBLE"]}}, {"id": "ccf7dec48d274370b0eec6dc0cdb5b96", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 991, "end": 1058, "text": "
+Respondent, however, denied the marriage and paternity of
+her son.", "labels": ["PREAMBLE"]}}, {"id": "a40f0ab880c940bba4fb7878f2d1bbea", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1059, "end": 1145, "text": "He claimed that he was already married twice and
+both his wives were alive.
+
+         ", "labels": ["PREAMBLE"]}}, {"id": "24afc30242db4c6b8cb958d70f2a9342", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1145, "end": 1304, "text": "The Judicial Magistrate accepted the appellant's case
+and granted maintenance at the rate of 100 per month in her
+favour and Rs.50 per month for her minor son.", "labels": ["PREAMBLE"]}}, {"id": "d5ae5800b6254cdab7ab9dc639da2b8e", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1305, "end": 1318, "text": "The Judicial
+", "labels": ["PREAMBLE"]}}, {"id": "b43350556e0245ff9b2f2329da3e9630", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1318, "end": 1497, "text": "Magistrate held that appellant No. t and respondent lived
+together in the same house as husband and wife for a
+considerable period, and appellant No. 2 was born out of
+this union.", "labels": ["PREAMBLE"]}}, {"id": "625b624372154be988cf8d45536840e0", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1498, "end": 1680, "text": "He did not record a categorical finding as to
+whether the respondent was already married and his wife or
+wives were alive on the date of his marriage with appellant
+No. t.
+
+         ", "labels": ["PREAMBLE"]}}, {"id": "190f1edc85bb419cbbab1a1278539aa7", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1680, "end": 1773, "text": "A revision application was filed by the appellant for
+enhancement of the rate of maintenance.", "labels": ["PREAMBLE"]}}, {"id": "43cd8d4d51474b2096197fa9ae8a5afb", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1774, "end": 1831, "text": "The respondent also
+moved the Sessions Judge in revision.", "labels": ["PREAMBLE"]}}, {"id": "445522580c8542b38a017975b65b7f3c", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1832, "end": 1900, "text": "The Sessions Judge
+reversed the findings of the judicial Magistrate.", "labels": ["PREAMBLE"]}}, {"id": "1ace27032ad7433e9820747a8608820a", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 1901, "end": 2158, "text": "The
+appellant challenged the order by way of a revision
+application before the Bombay High Court which rejected the
+same holding that since it was the second revision
+application, it was not maintainable, being barred by the
+provisions of S. 397(3) Cr. P.C.", "labels": ["PREAMBLE"]}}, {"id": "14477925426d495eb9878570bfdc38f0", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2159, "end": 2261, "text": "The High Court also
+examined the merits of the case and concurred with the view
+of the Sessions Judge.", "labels": ["PREAMBLE"]}}, {"id": "28049b1717244393952cd5e8c7fd9d0e", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2262, "end": 2294, "text": "This appeal is by Special Leave.", "labels": ["PREAMBLE"]}}, {"id": "42f0dad37fe141afb2204796122a4226", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2294, "end": 2363, "text": "
+788
+
+         Allowing the appeal, this Court,
+
+
+^
+         HELD: t.", "labels": ["PREAMBLE"]}}, {"id": "e094be46e8394a53946816c8a31fc1b7", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2364, "end": 2653, "text": "The plea that respondent could not have
+
+lawfully married a third time in view of the provisions of
+the Hindu Marriage Act, 1955 was rejected by the Judicial
+Magistrate by saying that even according to the respondent,
+his second marriage was null and void as his first wife was
+then alive.", "labels": ["PREAMBLE"]}}, {"id": "705c0fbf1b0c43409daba1ee5998b68b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2654, "end": 2725, "text": "As regards the first marriage he held that it
+was not as a fact proved.", "labels": ["PREAMBLE"]}}, {"id": "fe242eea08354cf3856161dfa382218f", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2726, "end": 2799, "text": "He got rid of the effect of both
+the marriages by adopting a queer logic.", "labels": ["PREAMBLE"]}}, {"id": "2c646462791646b0809c83a1d5b44ef7", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2800, "end": 2834, "text": "If the story of the
+first marriage", "labels": ["PREAMBLE"]}}, {"id": "198113e2e3f547d6bbd89a3b6accff9c", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2835, "end": 2926, "text": "was to be rejected, the second marriage could
+not have been held to be void on that ground.", "labels": ["PREAMBLE"]}}, {"id": "3fefbe4aff9f47c89af7b9a98259ddbe", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 2927, "end": 3052, "text": "It appears
+that the respondent has satisfactorily provide his case
+about his earlier marriage by production of good evidence.", "labels": ["PREAMBLE"]}}, {"id": "3919739c3ec34f6fae1ebe152b60b1ea", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 3053, "end": 3440, "text": "Either the respondent's first marriage was subsisting so as
+to nullify his second marriage, in which case the
+appellant's marriage also was rendered null and void on that
+ground; or if the respondent's case of his first marriage is
+disbelieved the second marriage will have to be held to be
+legal and effective so as to lead to the same conclusion of
+the appellant's marriage being void.", "labels": ["PREAMBLE"]}}, {"id": "fae2e7339b284d92aab6fb3a50163f7e", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 3441, "end": 3604, "text": "On either hypothesis
+the appellant's claim is not covered by Section 125 Cr.P.C.
+The appellant cannot, therefore, be granted any relief in
+the present proceedings.", "labels": ["PREAMBLE"]}}, {"id": "d8501ef172c84508ba6c34b21ddb970b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 3605, "end": 3728, "text": "[791D-H; 792A-B]
+
+         Smt. Yamunabhai v Anantrao Shivram Adhav and another,
+[1988] 2 S.C.R. 809 followed.
+
+         2.", "labels": ["PREAMBLE"]}}, {"id": "1119515323c8422fb654528a483e911a", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 3729, "end": 3962, "text": "Besides holding that the respondent had married the
+appellant, the Magistrate categorically said that the
+appellant and the respondent lived together as husband and
+wife for a number of years and that appellant No. 2 was
+their child.", "labels": ["PREAMBLE"]}}, {"id": "3793a8b90903435eb24e5eb396d7ec3a", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 3963, "end": 4219, "text": "If, as a matter of fact, a marriage, although
+ineffective in the eye of law, took place between the
+appellant and the respondent, the status of the boy must be
+held to be that of a legitimate son on account of Section
+16(1) of the Hindu Marriage Act, 1955.", "labels": ["PREAMBLE"]}}, {"id": "cd577bce050b40fe83fe6fbed515ab30", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 4220, "end": 4529, "text": "Even if the factum of
+marriage of his mother is ignored, he must be treated as an
+illegitimate child of the respondent on the basis of the
+findings of the Judicial Magistrate and is entitled to
+relief by reason of clauses (b) and (c) of Section 125(t)
+Cr. P.C. specifically referring to an illegitimate child.", "labels": ["PREAMBLE"]}}, {"id": "783d9b875f8442e9b78d6ffe08cc5ed3", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 4529, "end": 4632, "text": "
+The order of the Judicial Magistrate allowing the
+maintenance to appellant No. 2 was correctly passed.", "labels": ["PREAMBLE"]}}, {"id": "fd7cf44ab1bc4248be70a6af25056d25", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 4633, "end": 4727, "text": "But the
+amount of Rs.50 per month was allowed as the maintenance of
+the child four years back.", "labels": ["PREAMBLE"]}}, {"id": "a6b64d67c2ce42a5a38eab514b2377ab", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 4728, "end": 4902, "text": "In view of the fact that money
+value has gone down due to inflation and the child has grown
+in age, the rate of maintenance is increased to
+Rs.150.[791B-C: 793B]
+
+         3.", "labels": ["PREAMBLE"]}}, {"id": "72cf8e8ad9e843ab9d105cafd712dd01", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 4903, "end": 5057, "text": "Since the claim for maintenance was granted in
+favour of the
+789
+appellant, by the Judicial Magistrate, there was no question
+of her challenging the same.", "labels": ["PREAMBLE"]}}, {"id": "a4ed51e5c932452fa450a37533f6f8df", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 5058, "end": 5173, "text": "Her challenge before the
+Sessions Judge was confined to that part of the order
+assessing the amount of maintenance.", "labels": ["PREAMBLE"]}}, {"id": "9d907799dc304fe7b375cdc4a8050b8b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 5174, "end": 5229, "text": "and this issue could
+not have been raised again by her.", "labels": ["PREAMBLE"]}}, {"id": "2cd4cbcfe75d4e2e973030c2060e0271", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 5230, "end": 5341, "text": "Subject to this
+limitation, she was certainly entitled to invoke the
+revisional jurisdiction of the High Court.", "labels": ["PREAMBLE"]}}, {"id": "102d4fe05ccd496db27c92bd77a1ddec", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 5342, "end": 5515, "text": "The decision on
+the merits of her claim went against her for the first time
+before the Sessions Judge, and this was the subject matter
+of her revision before the High Court.", "labels": ["PREAMBLE"]}}, {"id": "176bc53d1fc1495bb28e592fc18c399b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 5516, "end": 5632, "text": "She could not,
+therefore, be said to be making a second attempt when she
+challenged the order before the High Court.", "labels": ["PREAMBLE"]}}, {"id": "42c201feb3fa4bbfa7234527d4a2f1cc", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 5633, "end": 5816, "text": "The fact that
+she had moved the Sessions Court against the quantum of
+maintenance could not be used against her in respect of her
+right of revision against the Sessions Judge's order.", "labels": ["PREAMBLE"]}}, {"id": "395de8fea9834740b791755700568f57", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 5817, "end": 5844, "text": "[790F-
+H;791A]
+
+         4.", "labels": ["PREAMBLE"]}}, {"id": "4e15b42acfc94efe8da5275fb4e5a84b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 5845, "end": 6075, "text": "No error of law appears to have been discovered in
+the judgment of the Magistrate and so the revisional courts
+were not justified in making a reassessment of the evidence
+and substitute their own views for those of the Magistrate.", "labels": ["PREAMBLE"]}}, {"id": "3091218b4054499390c7c5926c77be68", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 6075, "end": 6142, "text": "
+[792C]
+
+         Pathumma v. Mohammad, [1986] 2 SCC 585, followed.", "labels": ["PREAMBLE"]}}, {"id": "9e810f5288d14afcb15e3d7d7e60e91e", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 6144, "end": 6228, "text": "JUDGMENT:         CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No .
+ 579 of 1986", "labels": ["NONE"]}}, {"id": "180b4e702a204c46a8f9b55c1da18ab8", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 6229, "end": 6332, "text": "From the Judgment and order dated 15.4.1986 of the Bombay High Court in Crl. R. Appln. No. 160 of 1985.", "labels": ["NONE"]}}, {"id": "e57532e34292403c9681683ce73bf16f", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 6332, "end": 6494, "text": "
+         Rakesh Upadhyay, M.M. Kashyap and N.A. Siddiqui for the Appellants.
+         V.N. Ganpule, S.K. Agnihotri and A.S. Bhasme for the Respondents.
+         ", "labels": ["NONE"]}}, {"id": "802fa26e91874320b555dee30992efc5", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 6494, "end": 6547, "text": "The Judgment of the Court was delivered by SHARMA, J.", "labels": ["NONE"]}}, {"id": "5f5a2f318bd44fadb616c84ef594d51a", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 6548, "end": 6869, "text": "The appellant No. 1 Bakulabai filed an application under s. 125 of the Code of Criminal Procedure, 1973 (hereinafter referred to as the Code) before the Judicial Magistrate, Degloor, alleging that she was lawfully married to the respondent No. 1 Ganga Ram and that the appellant No. 2 Maroti was born out of this wedlock.", "labels": ["FAC"]}}, {"id": "29bfdd4ea01346af9a6228e114a0ad93", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 6870, "end": 6927, "text": "She claimed maintenance both for herself and for her son.", "labels": ["FAC"]}}, {"id": "8243a543423642d384d501af3b233459", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 6928, "end": 7006, "text": "Ganga Ram denied the marriage as well as the paternity of the appellant No. 2.", "labels": ["FAC"]}}, {"id": "e00cb2d7deee4cf9b0cc29d2b8733723", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7007, "end": 7137, "text": "He also averred that he was already married twice before the wedding 790 pleaded by Bakulabai and that both his wives were living.", "labels": ["FAC"]}}, {"id": "82b892b5bab64c68b79f44b9639cb825", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7139, "end": 7316, "text": "2. The Judicial Magistrate accepted Bakulabai's case and granted maintenance at the rate of Rs. 100 per month in her favour and additional Rs.50 per month for the minor boy.
+ 3.", "labels": ["RLC"]}}, {"id": "a9954f40f73a41819bb2d5754ce4fa5e", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7317, "end": 7364, "text": "Ganga Ram moved the Sessions Judge in revision.", "labels": ["FAC"]}}, {"id": "79b94e06f3c548f78158a0bb23cf1976", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7364, "end": 7452, "text": "
+Bakulabai also filed a revision application for enhancement of the rate of maintenance.", "labels": ["FAC"]}}, {"id": "c241ea92a4704e1286b3027361ef32a3", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7453, "end": 7602, "text": "The two applications were registered respectively as Criminal Revision No. 83 of 1984 and Criminal Revision No. 110 of 1984, and were heard together.", "labels": ["FAC"]}}, {"id": "fd4af3df92974d63909e61352386d61b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7603, "end": 7744, "text": "The Sessions Judge accepted the defence case, reversed the findings of the Judicial Magistrate and dismissed the application for maintenance.", "labels": ["RLC"]}}, {"id": "c8d491c57d4f4f2bb47e95e1a95c8e91", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7745, "end": 7832, "text": "Revision case No.
+83 of 1984 was thus allowed and the wife's application was dismissed.", "labels": ["FAC"]}}, {"id": "0a714025ab4942efb3cc142ff1d69e06", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7833, "end": 7919, "text": "Bakulabai challenged the order before the Bombay High Court by a revision application.", "labels": ["FAC"]}}, {"id": "9a4df636d16f4843949a937fd3b302b7", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 7920, "end": 8129, "text": "By the impugned Judgment the High Court rejected the same holding that since it was the second revision application by the wife it was not maintainable, being barred by the provisions of s.
+397(3) of the Code.", "labels": ["RLC"]}}, {"id": "a68b27c47f2a4eeaaad4ccaee6186b7b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 8130, "end": 8242, "text": "The Court further proceeded to examine the merits of the case and concurred with the view of the Sessions Judge.", "labels": ["RLC"]}}, {"id": "3e89295ffa07421d9a854fdb00994ebf", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 8243, "end": 8303, "text": "The appellants have now come to this Court by special leave.", "labels": ["FAC"]}}, {"id": "d40873a08727487e8673deb10dc2f0aa", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 8303, "end": 8408, "text": "
+ 4. On the maintainability of the revision application before it, the High Court took an erroneous view.", "labels": ["ANALYSIS"]}}, {"id": "13f14c86caee4020918564a962bd223d", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 8409, "end": 8700, "text": "The provisions of sub-section (3) of s. 397 relied upon, are in the following terms: "(3) If an application under this section has been made by any person either to the High Court or to the Sessions Judge, no further application by the same person shall be entertained by the other of them."", "labels": ["ANALYSIS"]}}, {"id": "e93e42b6ab2a4ffa81a9a116e3010263", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 8701, "end": 8866, "text": "The main judgment of the Judicial Magistrate upholding the appellants' claim for maintenance was in her favour and there was no question of her challenging the same.", "labels": ["ANALYSIS"]}}, {"id": "f384c2e6d923415db576b78c8c99a825", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 8867, "end": 9037, "text": "Her challenge before the Sessions Judge was confined to the part of the order assessing the amount of maintenance, and this issue could not have been raised again by her.", "labels": ["ANALYSIS"]}}, {"id": "87248c48ad9547db97fcdbcad082e79b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 9038, "end": 9149, "text": "Subject to this limitation she was, certainly entitled to invoke the revisional jurisdiction of the High Court.", "labels": ["ANALYSIS"]}}, {"id": "ba758d4b312b47caa10e4992bedb650f", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 9150, "end": 9323, "text": "The decision on the merits of her claim went against her for the first time before the Sessions Judge, and this was the subject matter of her revision before the High Court.", "labels": ["ANALYSIS"]}}, {"id": "1efa95410f4f42bf8597160a8ebf1f32", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 9324, "end": 9441, "text": "She could not, therefore, be said to be making a second attempt when she challenged this order before the High Court.", "labels": ["ANALYSIS"]}}, {"id": "f4d8504867a5460f94959e2fb438dfe1", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 9442, "end": 9636, "text": "The fact that she had moved before the Sessions Judge against the quantum of maintenance 791 could not be used against her in respect of her right of revision against the Sessions Judge's order.", "labels": ["ANALYSIS"]}}, {"id": "8fa50cf58a824f9990a4f4dac86fc72b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 9637, "end": 9853, "text": "Accordingly, the decision of the High Court on this question is set aside and it is held that the revision petition of the appellant before the High Court, except the prayer for enhancing the amount was maintainable.", "labels": ["ANALYSIS"]}}, {"id": "f83b605e94374cc18489eb8a7ec334aa", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 9853, "end": 10009, "text": "
+ 5. Now, coming to the other aspect, the Judicial Magistrate on a consideration of the evidence led on behalf of the parties accepted the appellants' case.", "labels": ["ANALYSIS"]}}, {"id": "848cc84d85754c0a951ec0a6b526f50e", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 10010, "end": 10173, "text": "He held that Bakulabai and Ganga Ram had lived together in the same house as husband and wife for a considerable period, and the boy Maroti was born of this union.", "labels": ["ANALYSIS"]}}, {"id": "51e24dbfc29e4c5c9244279b0a296b3f", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 10174, "end": 10386, "text": "On the question as to whether Ganga Ram was already married and his wife or wives were living on the date the marriage with the appellant Bakulabai is alleged, the Magistrate did not record a categorical finding.", "labels": ["ANALYSIS"]}}, {"id": "88eb9cf109674193bda02ac716825ae0", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 10387, "end": 10490, "text": "According to the case of Ganga Ram, he was first married with Rajabai, and again with Kusumbai in 1969.", "labels": ["ANALYSIS"]}}, {"id": "06895c3a7adb45f48ec404d54efd57d1", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 10491, "end": 10680, "text": "It was, therefore, argued on his behalf that as he had two living spouses in 1972, he could not have lawfully-married a third time in view of the provisions of the Hindu Marriage Act, 1955.", "labels": ["ANALYSIS"]}}, {"id": "157c003338074d0b99fd9ba80c65c81a", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 10681, "end": 10860, "text": "The Judicial Magistrate rejected the plea by saying that the second marriage of the respondent with Kusumbai was on his own showing null and void as his first wife was then alive.", "labels": ["RLC"]}}, {"id": "a9696f2a88924be988f4cc8c38ef75e2", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 10861, "end": 10946, "text": "Dealing with the effect of the first marriage he held that it was not as fact proved.", "labels": ["ANALYSIS"]}}, {"id": "a1d7c46d43394e7da08bbd518accd9f5", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 10947, "end": 11025, "text": "Thus he got rid of the effect of both the marriages by adopting a queer logic.", "labels": ["ANALYSIS"]}}, {"id": "ee8196401135437aafa6b7d1e494484e", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 11026, "end": 11152, "text": "If the story of the first marriage was to be rejected, the second marriage could not have been held to be void on that ground.", "labels": ["ANALYSIS"]}}, {"id": "b8feed454ddc4296959d6be63984e830", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 11153, "end": 11265, "text": "The finding of the Judicial Magistrate on the validity of the marriage of the appellant was, therefore, illegal.", "labels": ["ANALYSIS"]}}, {"id": "e4a1773615d9415989eee5f5948d82f9", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 11265, "end": 11635, "text": "
+ 6. We have by our judgment in Criminal Appeal No. 475 of 1983 (Smt. Yamunabai v. Anantrao Shivram Adhav and another) delivered today held that the marriage of a Hindu woman with a Hindu male with a living spouse performed after the coming in force of the Hindu Marriage Act, 1955, is null and void and the woman is not entitled to maintenance under s. 125 of the Code.", "labels": ["PRE_RELIED"]}}, {"id": "cf76dff7baab4b04bbc2867dae0cf8fc", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 11636, "end": 11879, "text": "Coming to the facts of the present case, it appears that the respondent has satisfactorily proved his case about his earlier marriage with Kusumbai by production of good evidence including a certificate issued by the Arya Samaj in this regard.", "labels": ["ANALYSIS"]}}, {"id": "638e579f00954e8db48fa578341d8a5a", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 11880, "end": 12011, "text": "It is not suggested that Rajabai was living when Kusumbai was married and was dead by the time the appellant's marriage took place.", "labels": ["ANALYSIS"]}}, {"id": "320e8653f5344e50b79b9eb2b03e7f0a", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 12012, "end": 12596, "text": "The position which emerges, therefore, is that either the respondent's first marriage with Rajabai was subsisting so as to nullify his second marriage with Kusumbai, in which case the appellant's marriage also was rendered null and void on that very ground; or if, on the other 792 hand, the respondent's case of his marriage with Rajabai is disbelieved A the marriage of Kusumbai will have to be held to be legal and effective so as to lead to the same conclusion of the appellant's marriage being void on either hypothesis the appellant's claim is not covered by s. 125 of the Code.", "labels": ["ANALYSIS"]}}, {"id": "e08952a0d93e496fa5503aed5ac1a65e", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 12597, "end": 12669, "text": "She cannot, therefore, be granted any relief in the present preceedings.", "labels": ["ANALYSIS"]}}, {"id": "0a76bc12373c4ead94f43c40fd79b694", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 12670, "end": 12743, "text": "The decision to that effect of the High Court is, R therefore, confirmed.", "labels": ["ANALYSIS"]}}, {"id": "4558803281ac4654946276c44c972712", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 12743, "end": 12924, "text": "
+ 7. The other findings of the Magistrate on the disputed question of fact were recorded after a full consideration of the evidence an should have been left undisturbed in revision.", "labels": ["ANALYSIS"]}}, {"id": "8fa6165eb2ab4e2c95aaa3642708adab", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 12925, "end": 13137, "text": "No error of law appears to have been discovered in his judgment and so the revisional courts were not justified in making a reassessment of the evidence and substitute their own views for those of the Magistrate.", "labels": ["ANALYSIS"]}}, {"id": "9bc7537b485d42cfb6c8a1596ee64ff5", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 13138, "end": 13195, "text": "(See Pathumma and another v. Mahammad, [1986] 2 SCC 585).", "labels": ["ANALYSIS"]}}, {"id": "8a74a9235f7d4d808054583381edba39", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 13196, "end": 13435, "text": "Besides holding that the respondent had married the appellant, the Magistrate categorically said that the appellant and the respondent lived together as husband and wife for a number of years and the appellant No. 2 Maroti was their child.", "labels": ["ANALYSIS"]}}, {"id": "7c9c05cc64434e0d9518ddc99aae91e0", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 13436, "end": 14212, "text": "If, as a matter of fact, a marriage although ineffective in the eye of law, took place between the appellant No. 1 and the respondent No. 1, the status of the boy must be held to be of a legitimate son on account of s. 16(1) of the Hindu Marriage Act, 1955, which reads as follows: "16(1). Notwithstanding that a marriage is null and void under Section 11, any child of such marriage who would have been legitimate if the marriage had been valid, shall be legitimate, whether such child is born before or after the commencement of the Marriage Laws (Amendment) Act, 1976 (68 of 1976), and whether or not a decree of nullity is granted in respect of that marriage under this Act and whether or not the marriage is held to be void otherwise than on a petition under this Act."
+ ", "labels": ["STA"]}}, {"id": "ec4bc9b1d28849d594fc10bdb20734cf", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 14212, "end": 14519, "text": "Even if the factum of marriage of his mother is ignored he must be treated as an illegitimate child of the respondent on the basis of the findings of the Judicial Magistrate and is entitled to relief by reason of Clauses (b) and (c) of s.
+ 125(1) of the Code specifically referring to an illegitimate child.", "labels": ["ANALYSIS"]}}, {"id": "a609bd760ad3475cada57d52a0fbf7d5", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 14520, "end": 14651, "text": "We, therefore, hold that the order of the Judicial Magistrate allowing the maintenance to the appellant No. 2 was correctly passed.", "labels": ["ANALYSIS"]}}, {"id": "d796bcc23d0844dd8127d76ea335d97b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 14653, "end": 14744, "text": "8. The amount of Rs.50 per month was allowed as the mainte- 793 nance of the child in 1984.", "labels": ["ANALYSIS"]}}, {"id": "b4653e8c322546c988ec44fddef783d8", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 14745, "end": 14815, "text": "The revision application filed before the Sessions Judge was rejected.", "labels": ["ANALYSIS"]}}, {"id": "c207258b38fb4989a78b3b64308f7b7b", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 14816, "end": 14892, "text": "A second application before the High Court was, therefore, not maintainable.", "labels": ["ANALYSIS"]}}, {"id": "732f3bdbb18e496ebc69d3db972d7389", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 14893, "end": 15014, "text": "We will, therefore, assume that the decision assessing the amount of maintenance as Rs.50 per month in 1984 became final.", "labels": ["ANALYSIS"]}}, {"id": "752f06e116d444188c865ee0c5fb95be", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 15015, "end": 15111, "text": "However, on account of change of circumstances, this amount can be revised after efflux of time.", "labels": ["RATIO"]}}, {"id": "711ff5e5662b4d598c4335f9293f0003", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 15112, "end": 15189, "text": "During the last four years the value of money has gone down due to inflation.", "labels": ["RATIO"]}}, {"id": "ca338a0f9ffb4af09ed8c994b4d80e22", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 15190, "end": 15222, "text": "The child has also grown in age.", "labels": ["RATIO"]}}, {"id": "15e7133b656e49cb82c11663e33d1f0c", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 15223, "end": 15414, "text": "In the circumstances, we direct the respondent Ganga Ram to pay the appellant No. 1 the maintenance amount for appellant No. 2 at the rate of Rs.150 per month with effect from February, 1988.", "labels": ["RPC"]}}, {"id": "d0b0d27f92584b66b8a2c943473936ea", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 15415, "end": 15490, "text": "The arrears up to January, 1988, if not paid, should also be paid promptly.", "labels": ["RPC"]}}, {"id": "66847093935446bca5137c0b198d6ebe", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 15491, "end": 15542, "text": "The appeal is allowed in the terms mentioned above.", "labels": ["RPC"]}}, {"id": "e202170641cb4ac181efbb68f66fe454", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 15543, "end": 15563, "text": "G.N. Appeal allowed.", "labels": ["NONE"]}}, {"id": "d175d5342faf4ca4a063daf9feafe199", "type": "labels", "to_name": "text", "from_name": "label", "value": {"start": 15563, "end": 15625, "text": "
+ G.N.                                         Appeal allowed.", "labels": ["NONE"]}}]}], "data": {"text": "PETITIONER:
+BAKULBHAI AND ANR.
+
+Vs.
+
+RESPONDENT:
+GANGARAM & ANR.
+
+DATE OF JUDGMENT27/01/1988
+
+BENCH:
+SHARMA, L.M. (J)
+BENCH:
+SHARMA, L.M. (J)
+MISRA RANGNATH
+
+CITATION:            1988 SCC (1) 537
+ 1988 SCR (2) 787    1988 SCALE (1)188
+ JT 1988 (1) 197
+
+ACT:
+         Code of Criminal Procedure, 1973: Sections 125 &
+
+397(3)-Maintenance for wife and child-Entitlement-
+Maintainability of Revision application-Enhancement of
+maintenance to allowance to child-Due to inflation and
+growing age-Permissibility of.
+
+         Hindu Marriage Act, 1955: Sections 11 and 16 Hindu
+woman marrying a Hindu male already married and his wife
+living-Validity of-Legitimacy of the child born out of such
+wedlock-Entitlement of maintenance for such woman and child.
+
+HEADNOTE:
+% The appellant filed an application under Section 125
+Cr.P.C. before the Judicial Magistrate, claiming maintenance
+for herself and her son, alleging lawful marriage with the
+respondent, and that the son was born out of the wedlock.
+Respondent, however, denied the marriage and paternity of
+her son. He claimed that he was already married twice and
+both his wives were alive.
+
+         The Judicial Magistrate accepted the appellant's case
+and granted maintenance at the rate of 100 per month in her
+favour and Rs.50 per month for her minor son. The Judicial
+Magistrate held that appellant No. t and respondent lived
+together in the same house as husband and wife for a
+considerable period, and appellant No. 2 was born out of
+this union. He did not record a categorical finding as to
+whether the respondent was already married and his wife or
+wives were alive on the date of his marriage with appellant
+No. t.
+
+         A revision application was filed by the appellant for
+enhancement of the rate of maintenance. The respondent also
+moved the Sessions Judge in revision. The Sessions Judge
+reversed the findings of the judicial Magistrate. The
+appellant challenged the order by way of a revision
+application before the Bombay High Court which rejected the
+same holding that since it was the second revision
+application, it was not maintainable, being barred by the
+provisions of S. 397(3) Cr. P.C. The High Court also
+examined the merits of the case and concurred with the view
+of the Sessions Judge. This appeal is by Special Leave.
+788
+
+         Allowing the appeal, this Court,
+
+
+^
+         HELD: t. The plea that respondent could not have
+
+lawfully married a third time in view of the provisions of
+the Hindu Marriage Act, 1955 was rejected by the Judicial
+Magistrate by saying that even according to the respondent,
+his second marriage was null and void as his first wife was
+then alive. As regards the first marriage he held that it
+was not as a fact proved. He got rid of the effect of both
+the marriages by adopting a queer logic. If the story of the
+first marriage was to be rejected, the second marriage could
+not have been held to be void on that ground. It appears
+that the respondent has satisfactorily provide his case
+about his earlier marriage by production of good evidence.
+Either the respondent's first marriage was subsisting so as
+to nullify his second marriage, in which case the
+appellant's marriage also was rendered null and void on that
+ground; or if the respondent's case of his first marriage is
+disbelieved the second marriage will have to be held to be
+legal and effective so as to lead to the same conclusion of
+the appellant's marriage being void. On either hypothesis
+the appellant's claim is not covered by Section 125 Cr.P.C.
+The appellant cannot, therefore, be granted any relief in
+the present proceedings. [791D-H; 792A-B]
+
+         Smt. Yamunabhai v Anantrao Shivram Adhav and another,
+[1988] 2 S.C.R. 809 followed.
+
+         2. Besides holding that the respondent had married the
+appellant, the Magistrate categorically said that the
+appellant and the respondent lived together as husband and
+wife for a number of years and that appellant No. 2 was
+their child. If, as a matter of fact, a marriage, although
+ineffective in the eye of law, took place between the
+appellant and the respondent, the status of the boy must be
+held to be that of a legitimate son on account of Section
+16(1) of the Hindu Marriage Act, 1955. Even if the factum of
+marriage of his mother is ignored, he must be treated as an
+illegitimate child of the respondent on the basis of the
+findings of the Judicial Magistrate and is entitled to
+relief by reason of clauses (b) and (c) of Section 125(t)
+Cr. P.C. specifically referring to an illegitimate child.
+The order of the Judicial Magistrate allowing the
+maintenance to appellant No. 2 was correctly passed. But the
+amount of Rs.50 per month was allowed as the maintenance of
+the child four years back. In view of the fact that money
+value has gone down due to inflation and the child has grown
+in age, the rate of maintenance is increased to
+Rs.150.[791B-C: 793B]
+
+         3. Since the claim for maintenance was granted in
+favour of the
+789
+appellant, by the Judicial Magistrate, there was no question
+of her challenging the same. Her challenge before the
+Sessions Judge was confined to that part of the order
+assessing the amount of maintenance. and this issue could
+not have been raised again by her. Subject to this
+limitation, she was certainly entitled to invoke the
+revisional jurisdiction of the High Court. The decision on
+the merits of her claim went against her for the first time
+before the Sessions Judge, and this was the subject matter
+of her revision before the High Court. She could not,
+therefore, be said to be making a second attempt when she
+challenged the order before the High Court. The fact that
+she had moved the Sessions Court against the quantum of
+maintenance could not be used against her in respect of her
+right of revision against the Sessions Judge's order. [790F-
+H;791A]
+
+         4. No error of law appears to have been discovered in
+the judgment of the Magistrate and so the revisional courts
+were not justified in making a reassessment of the evidence
+and substitute their own views for those of the Magistrate.
+[792C]
+
+         Pathumma v. Mohammad, [1986] 2 SCC 585, followed.
+
+JUDGMENT:         CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No .
+ 579 of 1986 From the Judgment and order dated 15.4.1986 of the Bombay High Court in Crl. R. Appln. No. 160 of 1985.
+         Rakesh Upadhyay, M.M. Kashyap and N.A. Siddiqui for the Appellants.
+         V.N. Ganpule, S.K. Agnihotri and A.S. Bhasme for the Respondents.
+         The Judgment of the Court was delivered by SHARMA, J. The appellant No. 1 Bakulabai filed an application under s. 125 of the Code of Criminal Procedure, 1973 (hereinafter referred to as the Code) before the Judicial Magistrate, Degloor, alleging that she was lawfully married to the respondent No. 1 Ganga Ram and that the appellant No. 2 Maroti was born out of this wedlock. She claimed maintenance both for herself and for her son. Ganga Ram denied the marriage as well as the paternity of the appellant No. 2. He also averred that he was already married twice before the wedding 790 pleaded by Bakulabai and that both his wives were living.
+ 2. The Judicial Magistrate accepted Bakulabai's case and granted maintenance at the rate of Rs. 100 per month in her favour and additional Rs.50 per month for the minor boy.
+ 3. Ganga Ram moved the Sessions Judge in revision.
+Bakulabai also filed a revision application for enhancement of the rate of maintenance. The two applications were registered respectively as Criminal Revision No. 83 of 1984 and Criminal Revision No. 110 of 1984, and were heard together. The Sessions Judge accepted the defence case, reversed the findings of the Judicial Magistrate and dismissed the application for maintenance. Revision case No.
+83 of 1984 was thus allowed and the wife's application was dismissed. Bakulabai challenged the order before the Bombay High Court by a revision application. By the impugned Judgment the High Court rejected the same holding that since it was the second revision application by the wife it was not maintainable, being barred by the provisions of s.
+397(3) of the Code. The Court further proceeded to examine the merits of the case and concurred with the view of the Sessions Judge. The appellants have now come to this Court by special leave.
+ 4. On the maintainability of the revision application before it, the High Court took an erroneous view. The provisions of sub-section (3) of s. 397 relied upon, are in the following terms: "(3) If an application under this section has been made by any person either to the High Court or to the Sessions Judge, no further application by the same person shall be entertained by the other of them."
+The main judgment of the Judicial Magistrate upholding the appellants' claim for maintenance was in her favour and there was no question of her challenging the same. Her challenge before the Sessions Judge was confined to the part of the order assessing the amount of maintenance, and this issue could not have been raised again by her. Subject to this limitation she was, certainly entitled to invoke the revisional jurisdiction of the High Court. The decision on the merits of her claim went against her for the first time before the Sessions Judge, and this was the subject matter of her revision before the High Court. She could not, therefore, be said to be making a second attempt when she challenged this order before the High Court. The fact that she had moved before the Sessions Judge against the quantum of maintenance 791 could not be used against her in respect of her right of revision against the Sessions Judge's order. Accordingly, the decision of the High Court on this question is set aside and it is held that the revision petition of the appellant before the High Court, except the prayer for enhancing the amount was maintainable.
+ 5. Now, coming to the other aspect, the Judicial Magistrate on a consideration of the evidence led on behalf of the parties accepted the appellants' case. He held that Bakulabai and Ganga Ram had lived together in the same house as husband and wife for a considerable period, and the boy Maroti was born of this union. On the question as to whether Ganga Ram was already married and his wife or wives were living on the date the marriage with the appellant Bakulabai is alleged, the Magistrate did not record a categorical finding. According to the case of Ganga Ram, he was first married with Rajabai, and again with Kusumbai in 1969. It was, therefore, argued on his behalf that as he had two living spouses in 1972, he could not have lawfully-married a third time in view of the provisions of the Hindu Marriage Act, 1955. The Judicial Magistrate rejected the plea by saying that the second marriage of the respondent with Kusumbai was on his own showing null and void as his first wife was then alive. Dealing with the effect of the first marriage he held that it was not as fact proved. Thus he got rid of the effect of both the marriages by adopting a queer logic. If the story of the first marriage was to be rejected, the second marriage could not have been held to be void on that ground. The finding of the Judicial Magistrate on the validity of the marriage of the appellant was, therefore, illegal.
+ 6. We have by our judgment in Criminal Appeal No. 475 of 1983 (Smt. Yamunabai v. Anantrao Shivram Adhav and another) delivered today held that the marriage of a Hindu woman with a Hindu male with a living spouse performed after the coming in force of the Hindu Marriage Act, 1955, is null and void and the woman is not entitled to maintenance under s. 125 of the Code. Coming to the facts of the present case, it appears that the respondent has satisfactorily proved his case about his earlier marriage with Kusumbai by production of good evidence including a certificate issued by the Arya Samaj in this regard. It is not suggested that Rajabai was living when Kusumbai was married and was dead by the time the appellant's marriage took place. The position which emerges, therefore, is that either the respondent's first marriage with Rajabai was subsisting so as to nullify his second marriage with Kusumbai, in which case the appellant's marriage also was rendered null and void on that very ground; or if, on the other 792 hand, the respondent's case of his marriage with Rajabai is disbelieved A the marriage of Kusumbai will have to be held to be legal and effective so as to lead to the same conclusion of the appellant's marriage being void on either hypothesis the appellant's claim is not covered by s. 125 of the Code. She cannot, therefore, be granted any relief in the present preceedings. The decision to that effect of the High Court is, R therefore, confirmed.
+ 7. The other findings of the Magistrate on the disputed question of fact were recorded after a full consideration of the evidence an should have been left undisturbed in revision. No error of law appears to have been discovered in his judgment and so the revisional courts were not justified in making a reassessment of the evidence and substitute their own views for those of the Magistrate. (See Pathumma and another v. Mahammad, [1986] 2 SCC 585). Besides holding that the respondent had married the appellant, the Magistrate categorically said that the appellant and the respondent lived together as husband and wife for a number of years and the appellant No. 2 Maroti was their child. If, as a matter of fact, a marriage although ineffective in the eye of law, took place between the appellant No. 1 and the respondent No. 1, the status of the boy must be held to be of a legitimate son on account of s. 16(1) of the Hindu Marriage Act, 1955, which reads as follows: "16(1). Notwithstanding that a marriage is null and void under Section 11, any child of such marriage who would have been legitimate if the marriage had been valid, shall be legitimate, whether such child is born before or after the commencement of the Marriage Laws (Amendment) Act, 1976 (68 of 1976), and whether or not a decree of nullity is granted in respect of that marriage under this Act and whether or not the marriage is held to be void otherwise than on a petition under this Act."
+ Even if the factum of marriage of his mother is ignored he must be treated as an illegitimate child of the respondent on the basis of the findings of the Judicial Magistrate and is entitled to relief by reason of Clauses (b) and (c) of s.
+ 125(1) of the Code specifically referring to an illegitimate child. We, therefore, hold that the order of the Judicial Magistrate allowing the maintenance to the appellant No. 2 was correctly passed.
+ 8. The amount of Rs.50 per month was allowed as the mainte- 793 nance of the child in 1984. The revision application filed before the Sessions Judge was rejected. A second application before the High Court was, therefore, not maintainable. We will, therefore, assume that the decision assessing the amount of maintenance as Rs.50 per month in 1984 became final. However, on account of change of circumstances, this amount can be revised after efflux of time. During the last four years the value of money has gone down due to inflation. The child has also grown in age. In the circumstances, we direct the respondent Ganga Ram to pay the appellant No. 1 the maintenance amount for appellant No. 2 at the rate of Rs.150 per month with effect from February, 1988. The arrears up to January, 1988, if not paid, should also be paid promptly. The appeal is allowed in the terms mentioned above. G.N. Appeal allowed.
+ G.N.                                         Appeal allowed.
+ 794 "}, "meta": {"group": "Criminal"}},

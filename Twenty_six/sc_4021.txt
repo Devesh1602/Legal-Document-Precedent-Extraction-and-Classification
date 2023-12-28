@@ -1,0 +1,174 @@
+{"id": 4198, "annotations": [{"result": [{"id": "868f5096f7304861a65d42370fb9eb3a", "value": {"start": 0, "end": 38, "text": "PETITIONER:
+BHIVA DOULU PATIL
+
+    Vs.", "labels": ["PREAMBLE"]}}, {"id": "f63c5058156c44dbadc84f0a1c789d35", "value": {"start": 38, "end": 72, "text": "
+
+RESPONDENT:
+STATE OF MAHARASHTRA", "labels": ["PREAMBLE"]}}, {"id": "5beb6341f1844b5d873f4e1b725dba36", "value": {"start": 72, "end": 110, "text": "
+
+DATE OF JUDGMENT:
+29/08/1962
+
+BENCH:", "labels": ["PREAMBLE"]}}, {"id": "92b68db165264111bac0bb0335f9eb1d", "value": {"start": 110, "end": 122, "text": "
+KAPUR, J.L.", "labels": ["PREAMBLE"]}}, {"id": "af0ea79b5bcc436bb944648ee00ddea0", "value": {"start": 123, "end": 744, "text": "BENCH:
+KAPUR, J.L.
+SARKAR, A.K.
+HIDAYATULLAH, M.
+
+CITATION:
+
+1963 AIR 599          1962 SCR Supl. (3) 59
+
+CITATOR INFO :
+
+R          1970 SC 45 (21)
+
+RF         1988 SC 672 (7)
+
+RF         1991 SC1463 (5)
+
+ACT:
+Criminal Trial-Approver- Corroboration, if necessary qua
+each accused-Indian Evidence Act, 1872(1 of 1872), ss.
+114,133.
+
+HEADNOTE:
+The appellant and R were convicted for murder on the
+testimony of an approver Corroborated by the recovery at the
+instance of R of the knife with which the murder was
+committed and of the evidence that the appellant and R had
+got the knife prepared nine weeks before the murder.", "labels": ["PREAMBLE"]}}, {"id": "285c7f6f2bb244398d0526376d27358e", "value": {"start": 745, "end": 891, "text": "The
+appellant contended that his conviction was illegal as there
+was no corroboration of the testimony of the approver so far
+as he was concerned.", "labels": ["PREAMBLE"]}}, {"id": "1b9bca934657454c9b01e61873e0507d", "value": {"start": 892, "end": 955, "text": "Held, that the conviction of the appellant was not
+sustainable.", "labels": ["PREAMBLE"]}}, {"id": "72d64993152e4e83916b779be4a3fd33", "value": {"start": 956, "end": 1069, "text": "The law required that there should be
+corroboration of the approver in material particulars and
+qua each accused.", "labels": ["PREAMBLE"]}}, {"id": "1f5d5f93dfff4f9a8befba951778ad02", "value": {"start": 1070, "end": 1323, "text": "The combined effect of ss. 133 and 114
+illustration (b) is that though the conviction of an accused
+on the testimony of an accomplice could not be said to be
+illegal, the courts will not accept such evidence without
+corroboration inmaterial particulars.", "labels": ["PREAMBLE"]}}, {"id": "7bdf5295b7ef435ea81a58371f791ac8", "value": {"start": 1324, "end": 1422, "text": "In the present case there was no
+corroboration of the testimony of the approver qua the
+appellant.", "labels": ["PREAMBLE"]}}, {"id": "9b3c6abaee664f038065531a625b4540", "value": {"start": 1423, "end": 1689, "text": "The preparation of the knife nine weeks before
+the occurrence was no corroboration of the approver as
+within that time gap the appellant might have recanted; nor
+was the discovery of the knife at the instance of R
+sufficient to connect the appellant with the murder.", "labels": ["PREAMBLE"]}}, {"id": "7f8ea0777f184d6cbcb2813aa2278947", "value": {"start": 1690, "end": 1951, "text": "The
+fact that the approver had made a confessional statement to
+his brother could not be called corroboration of the
+approver. It was not sufficient for the conviction of the
+appellant that there was evidence to corroborate the
+participation of R in the murder.", "labels": ["PREAMBLE"]}}, {"id": "42ab82707dad453483b071314552618a", "value": {"start": 1951, "end": 2067, "text": "
+Res. v. Boyes,(1861)9 Cox, crim. cas.32, Bhuboni Sahu v. The
+King, (1949) L. R. 76 1. A. 147 and R. v. Baskerville,", "labels": ["PREAMBLE"]}}, {"id": "35ec698155e34aaba44789fb6c67ed90", "value": {"start": 2067, "end": 2100, "text": "
+
+(1916) 2 K. B. 658, referred to", "labels": ["PREAMBLE"]}}, {"id": "7ece0308fc4a4fca96285b1548afcdbb", "value": {"start": 2100, "end": 2112, "text": ".
+
+JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "e8462363e01249acae36210325810748", "value": {"start": 2112, "end": 2178, "text": "
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 174 of 1961.", "labels": ["NONE"]}}, {"id": "751f6f3079c54b8288f0491790ddb8a1", "value": {"start": 2178, "end": 2307, "text": "
+Appeal by special leave from the judgment and order dated April 12113, 1961, of the Bombay High Court in Cr. A. No.
+308 of 1961.", "labels": ["NONE"]}}, {"id": "78084e75e0c3497db31060bb9b32a59d", "value": {"start": 2307, "end": 2340, "text": "
+G. C. Mathur, for the appellant.", "labels": ["NONE"]}}, {"id": "3a8f740ec1ee43f3b353f171a8a15b36", "value": {"start": 2340, "end": 2394, "text": "
+S. B. Jathar and R. N. Sachthey, for the respondents.", "labels": ["NONE"]}}, {"id": "21493a4e3bd443749d5e88972bad4a9b", "value": {"start": 2394, "end": 2400, "text": "
+1962.", "labels": ["NONE"]}}, {"id": "9bfb5995e097490888d416e106c31a81", "value": {"start": 2401, "end": 2411, "text": "August 29.", "labels": ["NONE"]}}, {"id": "a5a2eb8d1b3348a3bad11abbcdb98da2", "value": {"start": 2412, "end": 2464, "text": "The Judgment of the Court was delivered by KAPUP., J", "labels": ["FAC"]}}, {"id": "934e51a849cd4867803a884bf67a7937", "value": {"start": 2464, "end": 2470, "text": ".-This", "labels": ["RLC"]}}, {"id": "7e6965f788974fc9b5f6bd61aa34b8d4", "value": {"start": 2471, "end": 2750, "text": "is an appeal against the judgment and order of the High Court of Bombay confirming the conviction of the appellant for an offence under s. 302, Indian Penal Code, read with s. 34 for the murder of one Lahu Vithu Patil on the night between May 23, and 24, 1960 at village Pasarde.", "labels": ["RLC"]}}, {"id": "6007990679d3474da61e73726f836a03", "value": {"start": 2751, "end": 2974, "text": "Four persons Rama Krishna Patil accused No. 1, Bhiva Doulu Patil accused No. 2 (now appellant before us), Lahu Santu Patil accused No. 3 and Deoba approver P.W.5 are alleged to have taken part in murder of Lahu Vithu Patil.", "labels": ["FAC"]}}, {"id": "90e775e551e44b7f814ddfb399636293", "value": {"start": 2975, "end": 3124, "text": "RamaKrishna Patil accused No.1 was convicted of murder and sentenced to death but on appeal his sentence was reduced to one of imprisonment for life.", "labels": ["FAC"]}}, {"id": "81b8c9b3deff4b1b9e6f4ae76eeb43f7", "value": {"start": 3125, "end": 3208, "text": "The appellant was convicted as above stated and sentenced to imprisonment for life.", "labels": ["FAC"]}}, {"id": "ea59b5184d414411b7e86f7258e2f911", "value": {"start": 3209, "end": 3317, "text": "The third accused Lahu Santu Patil was acquitted and the 4th participant Deoba turned approver and is P.W.5.", "labels": ["FAC"]}}, {"id": "253f1e2a108e42bf9ead439d03ae83b4", "value": {"start": 3317, "end": 3432, "text": "
+The case for the prosecution was that the appellant had a suspicion that the deceased bad a liaison with his wife.", "labels": ["FAC"]}}, {"id": "ff48b9cb05f547cd8386d695d3571cf8", "value": {"start": 3432, "end": 3525, "text": "
+He, the appellant, approached the approver and suggested that the deceased should be killed.", "labels": ["FAC"]}}, {"id": "33d1132e0a914fbab9e940da4b811870", "value": {"start": 3526, "end": 3553, "text": "This was on March 16, 1960.", "labels": ["FAC"]}}, {"id": "ede73fc07e7347bc8e0eded9ec0e95a5", "value": {"start": 3554, "end": 3682, "text": "On March 17, 1960, Rama Krishna Patil accused No. 1 and appellant got a knife prepared by Nanu Santu Sutar P.W.7 from a crowbar.", "labels": ["FAC"]}}, {"id": "ad6229713d8049beada0681ea9c9c847", "value": {"start": 3683, "end": 3852, "text": "The deceased was a wrestler and he and his brother used to sleep in the fields and they also had dogs and for that reason the murder could not be committed for sometime.", "labels": ["FAC"]}}, {"id": "ca079006f5ae41b68822449b65238942", "value": {"start": 3853, "end": 3931, "text": "When rains set in, the deceased started sleeping at Patil's Talim (gymnasium).", "labels": ["FAC"]}}, {"id": "f1b652152a524b079c3e055ec5d8ba9a", "value": {"start": 3932, "end": 4055, "text": "There, on the night of the murder the deceased was killed with the knife which was used by Rama Krishna Patil accused No.1.", "labels": ["FAC"]}}, {"id": "e0e2213ba8bc4f2e9c3ca15d94964f36", "value": {"start": 4056, "end": 4150, "text": "At that time the appellant had a torch and two others Lahu Santu Patil and Deoba were unarmed.", "labels": ["FAC"]}}, {"id": "178cf04aa8944e17b23d934df6f608f2", "value": {"start": 4151, "end": 4255, "text": "Two blows ware given by accused No.1 one on the throat and the second one on the left side of the chest.", "labels": ["FAC"]}}, {"id": "bb7c90488f8a44bfbdf8e99d7e09809e", "value": {"start": 4256, "end": 4335, "text": "At the place of the occurrence the assailants left a towel and a patka(turban).", "labels": ["FAC"]}}, {"id": "8e225b5ba3ee4768a2d94d6efa77101a", "value": {"start": 4336, "end": 4418, "text": "Both these articles have been found to belong to accused No. 1 Rama Krishna Patil.", "labels": ["FAC"]}}, {"id": "aaf9e330170f4b21bfa8d2c87a19ce5c", "value": {"start": 4418, "end": 4689, "text": "
+Hearing the noise and growing of the deceased, Lahu Vithu Patil, other persons who were sleeping were awakened and one of them went and informed the brother of the deceased and then the first information report was made to the police but no names were mentioned therein.", "labels": ["FAC"]}}, {"id": "1f1f6696fc4d4f13952e2ed39fd364b2", "value": {"start": 4690, "end": 4781, "text": "On June 6, 1960, Deoba was arrested on information received by police Sub-Inspector Nandke.", "labels": ["FAC"]}}, {"id": "326e1ab252c74902a1818daacab83ac9", "value": {"start": 4782, "end": 4922, "text": "On June 25, 1960, as a result of a statement made by accused No.1 the knife which is alleged to have been used for the murder was recovered.", "labels": ["FAC"]}}, {"id": "5c9768d73a7a4b3c88fae1f4f90b5a58", "value": {"start": 4923, "end": 5014, "text": "This knife is stated to be stained with blood but it has not been proved to be human blood.", "labels": ["FAC"]}}, {"id": "d7ecc85bb78b4792a1cf58ea3259320e", "value": {"start": 5015, "end": 5087, "text": "It may be stated that the knife was of rather unusually large dimensions", "labels": ["FAC"]}}, {"id": "80cb0435a3844ebe9939b6294fcf46ee", "value": {"start": 5088, "end": 5242, "text": "The two injuries on the deceased were very extensive and according to the medical evidence they could have been caused with the knife which was recovered.", "labels": ["FAC"]}}, {"id": "ce408b0fcba9417786d2ff8222a8ec1d", "value": {"start": 5242, "end": 5398, "text": "
+ The question that arises in the present case is whether the statement of the approver has been corroborated in material particulars and qua the appellant.", "labels": ["ISSUE"]}}, {"id": "43f2403dc9a946229f31a279599e20bc", "value": {"start": 5398, "end": 5780, "text": "The trial court convicted the appellant on the testimony of the approver and found corroboration for the approver's testimony in the statement of Nanu Sintu Sutar, P.W. 7 who had prepared the knife alleged to have be, been used for the offence on March 17, 1960, and hi,; motive to commit the murder because of the suspicion he had about his wife having a liaison with the deceased.", "labels": ["RLC"]}}, {"id": "0e824df9807644deb244d14a9a18c3a7", "value": {"start": 5781, "end": 5866, "text": "These facts according to the learned Judge were sufficient to convict the appellant..", "labels": ["RLC"]}}, {"id": "4c35cb3ac2144c8db96073944feb6f5a", "value": {"start": 5867, "end": 6277, "text": "The High Court on appeal found corroboration in material particulars; from the evidence of Santu 1-.W. 6 brother of Deoba to whom Deoba had made a confession of his participation in the offence the discovery of the 'knife at the instance of accused No. 1 and the knife being found blood-stained and the unusual character of the knife which fitted in with the dimensions of the injurious caused to the deceased.", "labels": ["ANALYSIS"]}}, {"id": "6d54844df337416abd4af7819045d895", "value": {"start": 6278, "end": 6405, "text": "From those facts the learned Judges came to the conclusion that the approver Deoba was giving a true version of the occurrence.", "labels": ["ANALYSIS"]}}, {"id": "64575221a3144be18bb133b6701d3ef0", "value": {"start": 6406, "end": 6673, "text": "With great respect to the High Court we are unable to agree because without corroboration of the approver qua the appellant the conviction is unsustainable, the law being that there should be corroboration of the approver in material particulars and qua each accused.", "labels": ["ANALYSIS"]}}, {"id": "1f517d31f68e4c9cac32a917dc492e48", "value": {"start": 6673, "end": 6757, "text": "The statement of Santu, brother of the approver is no corroboration of the approver.", "labels": ["ANALYSIS"]}}, {"id": "5b9368ebae71408f960d09cd56f99a52", "value": {"start": 6758, "end": 6831, "text": "it only means that approver made a confessional statement to his brother.", "labels": ["ANALYSIS"]}}, {"id": "5e7ebb636437409a9541226ea93843fb", "value": {"start": 6832, "end": 6928, "text": "That cannot be called, in the circumstances of this case, to be a corroboration of the approver.", "labels": ["ANALYSIS"]}}, {"id": "d662b1af4588408cbaa6529ab54cfd83", "value": {"start": 6929, "end": 7263, "text": "The evidence of Nanu Santu Sutar P.W. 7 also cannot operate as a corroboration of the approver's story because the knife was got prepared by accused No. 1 and the appellant nine weeks before the murder and that fact by itself will not corroborate the charge under s. 302 read with s. 34 of the Indian Penal Code against the appellant.", "labels": ["ANALYSIS"]}}, {"id": "30626ebbd97e4607a1f626ed7ca6214d", "value": {"start": 7264, "end": 7467, "text": "The time gap between the preparation of the knife and murder is great and it is possible in such circumstances that the appellant might have cemented and not proceeded with the commission of the offence.", "labels": ["ANALYSIS"]}}, {"id": "7b8eca3da3ff475e87ce02e7e15bc7e8", "value": {"start": 7468, "end": 7684, "text": "The finding of the knife at the instance of the first accused also is no corroboration of the approver's story which would be sufficient to connect the appellant with the murder, under s. 34 of the Indian Penal Code.", "labels": ["ANALYSIS"]}}, {"id": "4550724c91bb411eacac2ac0b46c05cb", "value": {"start": 7685, "end": 8060, "text": "It may be that in this case the approver's evidence was sufficiently corroborated for the conviction of the first accused upon which we express no opinion but so far as the appellant is concerned we find that there is no corroboration of the approver's story and it is not-sufficient that there is evidence to corroborate the participation of the first accused in the murder.", "labels": ["ANALYSIS"]}}, {"id": "4febb74cfdb74723afe36ea0345af4a1", "value": {"start": 8061, "end": 8208, "text": "It is also necessary for there being independent corroboration of the participation of the appellant in the offence with which he has been charged.", "labels": ["ANALYSIS"]}}, {"id": "1744acf81e2a4004b2d4022d4e9b191e", "value": {"start": 8209, "end": 8283, "text": "In these circumstances the conviction of the appellant is not sustainable.", "labels": ["ANALYSIS"]}}, {"id": "ac5ad75f181a4ac4a1edcb2565c01e19", "value": {"start": 8283, "end": 8598, "text": "
+In coming to the above conclusion we have not been unmindful of the provisions of s. 133 of the Evidence Act which reads- :- s. 133 "An accomplice shall be a competent witness against an accused person; and a conviction is not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice".", "labels": ["STA"]}}, {"id": "e76ecd31aa1e40be9ed70613612e4b07", "value": {"start": 8598, "end": 9034, "text": "
+                         It cannot be doubted that under that section a conviction based merely on the uncorroborated testimony of an accomplice may not be illegal, the courts nevertheless cannot lose sight of the rule of prudence and practice which in the words of Martin B in Res. v. Boyes (1) (has become so hallowed as to be deserving of respect" and in the words of Lord Abinger "it deserves to have all the reverence of the law".", "labels": ["PRE_RELIED"]}}, {"id": "61cc3fda0e5a4faaaff7b0abaac6bb1e", "value": {"start": 9035, "end": 9256, "text": "This rule of guidance is to be found in illustration (b) to s. 114 of the Evidence which is as follows :- "The court may presume that an accomplice is unworthy of credit unless he is corroborated in material particulars".", "labels": ["STA"]}}, {"id": "f1a686d1102b4c2483ac9dcb60e868fe", "value": {"start": 9257, "end": 9330, "text": "Both sections are part of one subject and have to be considered together.", "labels": ["ANALYSIS"]}}, {"id": "8b88dffda49b44e5a552facbf335a995", "value": {"start": 9331, "end": 9821, "text": "The Privy Council in Bhuboni Sahu v. The King (2) when its attention was drawn to the judgment of Madras High Court in re Rajagopal(3) where conviction was based upon the evidence of an accomplice supported by the statement of a co-accused, said as follows :- "Their Lordships................... would nevertheless observe that Courts should be slow to depart from the rule of prudence, based on long experience, which requires some independent evidence, implicating the particular accused.", "labels": ["PRE_RELIED"]}}, {"id": "e1a21c0e21844b80a749320307dbcfd1", "value": {"start": 9822, "end": 10408, "text": "The danger of acting upon accomplice evidence is not merely that the accomplice is on his own admission a man of bad character who took part in the offence and afterwards to save himself betrayed his former associates, and who has placed himself in a (1) (1861) 9 Cox, Crim. Cas. 32.
+ (2) (1949) L.R. 76. I.A. 147, (3) I.L.R. 1944. Mad. 308.
+position in which he can hardly fail to have a strong bias in favour of the prosecution ; the real danger is that he is telling a story which in its general outline is true, and it is easy for him to work into the story matter which is untrue".", "labels": ["PRE_RELIED"]}}, {"id": "57b51806336a4c08930165eef59ea91a", "value": {"start": 10409, "end": 10949, "text": "The combined effect of ss. 133 and 114, illustration (b) may be stated as follows : According to the former, which is a rule of law, an accomplice is competent to give evidence and according to the latter which is a rule of practice it is almost always unsafe to convict upon his testimony alone.
+Therefore though the conviction of an accused on the testimony of an accomplice cannot be said to be illegal yet the Courts will, as a matter of practice, not accept the evidence of such a witness without corroboration in material particulars.", "labels": ["ANALYSIS"]}}, {"id": "f3aff8c719d94831852ac5d05fd44e81", "value": {"start": 10950, "end": 11167, "text": "The law may be stated in the words of Lord Reading C. J. in R. v.
+Baskerville (1) as follows "There is Do doubt that the uncorroborated evidence of an accomplice is admissible in law (R. v Attwood, 1787, 1 Leach 464).", "labels": ["PRE_RELIED"]}}, {"id": "5f6d67f792c04a8cac4bc2381a195650", "value": {"start": 11168, "end": 11613, "text": "But it has been Ion(,, a rule of practice at common law for the judge to warn the jury of the danger of convicting a prisoner on the uncorroborated testimony of an accomplice, and in the discre- tion of the Judge, to advise them not to convict upon such evidence, but the judge should point out to the jury that it is within their legal province to convict upon such unconfirmed evidence (R. v Stubbs, Dears 555 In re Heunier, 1894 2 Q.B. 415)".", "labels": ["PRE_RELIED"]}}, {"id": "ef3b6e92c9ca45319f6c4508955428dd", "value": {"start": 11613, "end": 11734, "text": "
+We, therefore, allow this appeal, set aside the order of conviction and direct that the appellant be released forthwith.", "labels": ["RPC"]}}, {"id": "0709747afdd04538a280f2dafb98c091", "value": {"start": 11734, "end": 11772, "text": "
+Appeal allowed (1) [1916] 2. K.B.658.", "labels": ["NONE"]}}]}], "data": {"text": "PETITIONER:
+BHIVA DOULU PATIL
+
+    Vs.
+
+RESPONDENT:
+STATE OF MAHARASHTRA
+
+DATE OF JUDGMENT:
+29/08/1962
+
+BENCH:
+KAPUR, J.L.
+BENCH:
+KAPUR, J.L.
+SARKAR, A.K.
+HIDAYATULLAH, M.
+
+CITATION:
+
+1963 AIR 599          1962 SCR Supl. (3) 59
+
+CITATOR INFO :
+
+R          1970 SC 45 (21)
+
+RF         1988 SC 672 (7)
+
+RF         1991 SC1463 (5)
+
+ACT:
+Criminal Trial-Approver- Corroboration, if necessary qua
+each accused-Indian Evidence Act, 1872(1 of 1872), ss.
+114,133.
+
+HEADNOTE:
+The appellant and R were convicted for murder on the
+testimony of an approver Corroborated by the recovery at the
+instance of R of the knife with which the murder was
+committed and of the evidence that the appellant and R had
+got the knife prepared nine weeks before the murder. The
+appellant contended that his conviction was illegal as there
+was no corroboration of the testimony of the approver so far
+as he was concerned.
+Held, that the conviction of the appellant was not
+sustainable. The law required that there should be
+corroboration of the approver in material particulars and
+qua each accused. The combined effect of ss. 133 and 114
+illustration (b) is that though the conviction of an accused
+on the testimony of an accomplice could not be said to be
+illegal, the courts will not accept such evidence without
+corroboration inmaterial particulars. In the present case there was no
+corroboration of the testimony of the approver qua the
+appellant. The preparation of the knife nine weeks before
+the occurrence was no corroboration of the approver as
+within that time gap the appellant might have recanted; nor
+was the discovery of the knife at the instance of R
+sufficient to connect the appellant with the murder. The
+fact that the approver had made a confessional statement to
+his brother could not be called corroboration of the
+approver. It was not sufficient for the conviction of the
+appellant that there was evidence to corroborate the
+participation of R in the murder.
+Res. v. Boyes,(1861)9 Cox, crim. cas.32, Bhuboni Sahu v. The
+King, (1949) L. R. 76 1. A. 147 and R. v. Baskerville,
+
+(1916) 2 K. B. 658, referred to.
+
+JUDGMENT:
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 174 of 1961.
+Appeal by special leave from the judgment and order dated April 12113, 1961, of the Bombay High Court in Cr. A. No.
+308 of 1961.
+G. C. Mathur, for the appellant.
+S. B. Jathar and R. N. Sachthey, for the respondents.
+1962. August 29. The Judgment of the Court was delivered by KAPUP., J.-This is an appeal against the judgment and order of the High Court of Bombay confirming the conviction of the appellant for an offence under s. 302, Indian Penal Code, read with s. 34 for the murder of one Lahu Vithu Patil on the night between May 23, and 24, 1960 at village Pasarde.
+Four persons Rama Krishna Patil accused No. 1, Bhiva Doulu Patil accused No. 2 (now appellant before us), Lahu Santu Patil accused No. 3 and Deoba approver P.W.5 are alleged to have taken part in murder of Lahu Vithu Patil. RamaKrishna Patil accused No.1 was convicted of murder and sentenced to death but on appeal his sentence was reduced to one of imprisonment for life. The appellant was convicted as above stated and sentenced to imprisonment for life. The third accused Lahu Santu Patil was acquitted and the 4th participant Deoba turned approver and is P.W.5.
+The case for the prosecution was that the appellant had a suspicion that the deceased bad a liaison with his wife.
+He, the appellant, approached the approver and suggested that the deceased should be killed. This was on March 16, 1960. On March 17, 1960, Rama Krishna Patil accused No. 1 and appellant got a knife prepared by Nanu Santu Sutar P.W.7 from a crowbar. The deceased was a wrestler and he and his brother used to sleep in the fields and they also had dogs and for that reason the murder could not be committed for sometime. When rains set in, the deceased started sleeping at Patil's Talim (gymnasium). There, on the night of the murder the deceased was killed with the knife which was used by Rama Krishna Patil accused No.1. At that time the appellant had a torch and two others Lahu Santu Patil and Deoba were unarmed. Two blows ware given by accused No.1 one on the throat and the second one on the left side of the chest. At the place of the occurrence the assailants left a towel and a patka(turban). Both these articles have been found to belong to accused No. 1 Rama Krishna Patil.
+Hearing the noise and growing of the deceased, Lahu Vithu Patil, other persons who were sleeping were awakened and one of them went and informed the brother of the deceased and then the first information report was made to the police but no names were mentioned therein. On June 6, 1960, Deoba was arrested on information received by police Sub-Inspector Nandke. On June 25, 1960, as a result of a statement made by accused No.1 the knife which is alleged to have been used for the murder was recovered. This knife is stated to be stained with blood but it has not been proved to be human blood. It may be stated that the knife was of rather unusually large dimensions The two injuries on the deceased were very extensive and according to the medical evidence they could have been caused with the knife which was recovered.
+ The question that arises in the present case is whether the statement of the approver has been corroborated in material particulars and qua the appellant.The trial court convicted the appellant on the testimony of the approver and found corroboration for the approver's testimony in the statement of Nanu Sintu Sutar, P.W. 7 who had prepared the knife alleged to have be, been used for the offence on March 17, 1960, and hi,; motive to commit the murder because of the suspicion he had about his wife having a liaison with the deceased. These facts according to the learned Judge were sufficient to convict the appellant.. The High Court on appeal found corroboration in material particulars; from the evidence of Santu 1-.W. 6 brother of Deoba to whom Deoba had made a confession of his participation in the offence the discovery of the 'knife at the instance of accused No. 1 and the knife being found blood-stained and the unusual character of the knife which fitted in with the dimensions of the injurious caused to the deceased. From those facts the learned Judges came to the conclusion that the approver Deoba was giving a true version of the occurrence. With great respect to the High Court we are unable to agree because without corroboration of the approver qua the appellant the conviction is unsustainable, the law being that there should be corroboration of the approver in material particulars and qua each accused.The statement of Santu, brother of the approver is no corroboration of the approver. it only means that approver made a confessional statement to his brother. That cannot be called, in the circumstances of this case, to be a corroboration of the approver. The evidence of Nanu Santu Sutar P.W. 7 also cannot operate as a corroboration of the approver's story because the knife was got prepared by accused No. 1 and the appellant nine weeks before the murder and that fact by itself will not corroborate the charge under s. 302 read with s. 34 of the Indian Penal Code against the appellant. The time gap between the preparation of the knife and murder is great and it is possible in such circumstances that the appellant might have cemented and not proceeded with the commission of the offence. The finding of the knife at the instance of the first accused also is no corroboration of the approver's story which would be sufficient to connect the appellant with the murder, under s. 34 of the Indian Penal Code. It may be that in this case the approver's evidence was sufficiently corroborated for the conviction of the first accused upon which we express no opinion but so far as the appellant is concerned we find that there is no corroboration of the approver's story and it is not-sufficient that there is evidence to corroborate the participation of the first accused in the murder. It is also necessary for there being independent corroboration of the participation of the appellant in the offence with which he has been charged. In these circumstances the conviction of the appellant is not sustainable.
+In coming to the above conclusion we have not been unmindful of the provisions of s. 133 of the Evidence Act which reads- :- s. 133 "An accomplice shall be a competent witness against an accused person; and a conviction is not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice".
+                         It cannot be doubted that under that section a conviction based merely on the uncorroborated testimony of an accomplice may not be illegal, the courts nevertheless cannot lose sight of the rule of prudence and practice which in the words of Martin B in Res. v. Boyes (1) (has become so hallowed as to be deserving of respect" and in the words of Lord Abinger "it deserves to have all the reverence of the law". This rule of guidance is to be found in illustration (b) to s. 114 of the Evidence which is as follows :- "The court may presume that an accomplice is unworthy of credit unless he is corroborated in material particulars".
+Both sections are part of one subject and have to be considered together. The Privy Council in Bhuboni Sahu v. The King (2) when its attention was drawn to the judgment of Madras High Court in re Rajagopal(3) where conviction was based upon the evidence of an accomplice supported by the statement of a co-accused, said as follows :- "Their Lordships................... would nevertheless observe that Courts should be slow to depart from the rule of prudence, based on long experience, which requires some independent evidence, implicating the particular accused. The danger of acting upon accomplice evidence is not merely that the accomplice is on his own admission a man of bad character who took part in the offence and afterwards to save himself betrayed his former associates, and who has placed himself in a (1) (1861) 9 Cox, Crim. Cas. 32.
+ (2) (1949) L.R. 76. I.A. 147, (3) I.L.R. 1944. Mad. 308.
+position in which he can hardly fail to have a strong bias in favour of the prosecution ; the real danger is that he is telling a story which in its general outline is true, and it is easy for him to work into the story matter which is untrue".
+The combined effect of ss. 133 and 114, illustration (b) may be stated as follows : According to the former, which is a rule of law, an accomplice is competent to give evidence and according to the latter which is a rule of practice it is almost always unsafe to convict upon his testimony alone.
+Therefore though the conviction of an accused on the testimony of an accomplice cannot be said to be illegal yet the Courts will, as a matter of practice, not accept the evidence of such a witness without corroboration in material particulars. The law may be stated in the words of Lord Reading C. J. in R. v.
+Baskerville (1) as follows "There is Do doubt that the uncorroborated evidence of an accomplice is admissible in law (R. v Attwood, 1787, 1 Leach 464). But it has been Ion(,, a rule of practice at common law for the judge to warn the jury of the danger of convicting a prisoner on the uncorroborated testimony of an accomplice, and in the discre- tion of the Judge, to advise them not to convict upon such evidence, but the judge should point out to the jury that it is within their legal province to convict upon such unconfirmed evidence (R. v Stubbs, Dears 555 In re Heunier, 1894 2 Q.B. 415)".
+We, therefore, allow this appeal, set aside the order of conviction and direct that the appellant be released forthwith.
+Appeal allowed (1) [1916] 2. K.B.658."}, "meta": {"group": "Criminal"}},

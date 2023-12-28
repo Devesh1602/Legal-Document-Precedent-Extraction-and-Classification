@@ -1,0 +1,222 @@
+{"id": 4092, "annotations": [{"result": [{"id": "5ebe77114ea84e90819be1a0fd1a6406", "value": {"start": 0, "end": 413, "text": "PETITIONER:
+THE COMMISSIONER OF INCOME-TAX, BOMBAY
+
+    Vs.
+
+RESPONDENT:
+M/S. DWARKADAS KHETAN & CO.
+
+DATE OF JUDGMENT:
+01/12/1960
+
+BENCH:
+HIDAYATULLAH, M.
+BENCH:
+HIDAYATULLAH, M.
+KAPUR, J.L.
+SHAH, J.C.
+
+CITATION:
+
+1961 AIR 680             1961 SCR  (2) 821
+
+CITATOR INFO :          (8)
+                        (23)
+E          1966 SC 15
+
+MV         1966 SC1490
+
+ACT:
+Income Tax--Partnership firm including minor,", "labels": ["PREAMBLE"]}}, {"id": "47f7678ceedb4686bc5b9d97c833311a", "value": {"start": 414, "end": 724, "text": "if can be
+registered--Indian Income-tax Act, 1922 (11 of 1922), S.
+26A--Indian Partnership Act, 1932 (IX of 1932), s. 30.
+
+HEADNOTE:
+One of the persons who entered into a partnership was a
+minor and in the instrument of partnership he was described
+as a full partner with equal rights and obligations with the
+", "labels": ["PREAMBLE"]}}, {"id": "d6d45cf70c2c4ed5958e8825d18bdc6a", "value": {"start": 724, "end": 744, "text": "other adult partners", "labels": ["PREAMBLE"]}}, {"id": "53347ee632194b0988a9faacfefba5e9", "value": {"start": 744, "end": 993, "text": ". The deed of partnership which was
+signed by the minor was produced before th e Registrar of
+Firms f or registration and he granted a certificate showing
+the minor as a full partner and not as one entitled merely
+to the benefits of the partnership.", "labels": ["PREAMBLE"]}}, {"id": "5e878dca2e744b27bd47e75bebad83a0", "value": {"start": 994, "end": 1194, "text": "The Income-tax Officer,
+however, refused to register the firm under S. 26A of the
+Indian Income-tax Act and his decision was upheld by the
+Income-tax Authorities and the Income-tax Appellate
+Tribunal.", "labels": ["PREAMBLE"]}}, {"id": "9a05a01318fd496cb42711f517774920", "value": {"start": 1195, "end": 1281, "text": "The High Court differed from the Tribunal and
+held that the firm should be registered.", "labels": ["PREAMBLE"]}}, {"id": "1e135e3515a5439c86ca3ba5115b6937", "value": {"start": 1282, "end": 1496, "text": "On appeal by the
+Commissioner of Income-tax,
+Held, that the Rules framed under S. 26A quite clearly show
+that a minor who is admitted to the benefits of partnership
+need not sign- the application for registration..", "labels": ["PREAMBLE"]}}, {"id": "fc295c77673e49498b154deefda08645", "value": {"start": 1497, "end": 1716, "text": "The law
+requires all partners to sign the application, and if the
+definition were to be carried to the extreme, even a minor
+who is admitted to the benefits of partnership would be
+competent to sign such an application.", "labels": ["PREAMBLE"]}}, {"id": "316b564157754c0a876c7c1abf348459", "value": {"start": 1717, "end": 1847, "text": "The definition is
+designed to confer equal benefits upon the minor by treating
+him as a partner; but it does not render a minor a
+", "labels": ["PREAMBLE"]}}, {"id": "f72ef8c83b3b4f13a34e19c2ffd1e15d", "value": {"start": 1847, "end": 1856, "text": "competent", "labels": ["PREAMBLE"]}}, {"id": "5eca1b78505b4cc29791a3f9a0e63ae4", "value": {"start": 1857, "end": 1865, "text": "and full", "labels": ["PREAMBLE"]}}, {"id": "481a36d6b56b4950a0887b0bfb9ea363", "value": {"start": 1866, "end": 1873, "text": "partner", "labels": ["PREAMBLE"]}}, {"id": "cee46adf20ed423c860b36478d2fae8b", "value": {"start": 1873, "end": 1984, "text": ". For that purpose, the law of
+Partnership must be considered, apart from the definition in
+the Income-tax Act.", "labels": ["PREAMBLE"]}}, {"id": "35fbc5f8306e4d86b29b048c9135764c", "value": {"start": 1984, "end": 2185, "text": "
+Section 30 of the Indian Partnershi Act clearly lays down
+that a minor...cannot become a partner, I tough with the
+consent of the adult.....partners, he may be admitted to the
+benefits of partnership.", "labels": ["PREAMBLE"]}}, {"id": "236876ca2ee34904ad94c6e9fcc959bc", "value": {"start": 2186, "end": 2295, "text": ".....Any document which goes beyond
+this section cannot be regarded as valid for the purpose of
+registration.", "labels": ["PREAMBLE"]}}, {"id": "2af8cc16851a4dd2894570c75e93235d", "value": {"start": 2296, "end": 2417, "text": "Registration can only be granted of a
+
+document between persons who are parties to it and on the
+covenants set out in it.", "labels": ["PREAMBLE"]}}, {"id": "9acb60a720394551a309bf5abdb56ad6", "value": {"start": 2418, "end": 2579, "text": "If the Income-tax Authorities
+register the:partnership as between the adults only contrary
+to the terms of the document, in substance a new contract is
+made out.", "labels": ["PREAMBLE"]}}, {"id": "15f84d52f6964c25b8e5d24b0d0f51e8", "value": {"start": 2580, "end": 2627, "text": "It is tot open to the Incometax Authorities to
+", "labels": ["PREAMBLE"]}}, {"id": "8c3237c940184a36b0f5a3280703a1bc", "value": {"start": 2627, "end": 2635, "text": "register", "labels": ["PREAMBLE"]}}, {"id": "074da28af67b4e34bf998321d0cc195c", "value": {"start": 2636, "end": 2678, "text": "a document which is different from the one", "labels": ["PREAMBLE"]}}, {"id": "08b0585585ae4101b5d05c0e2c04d8fc", "value": {"start": 2679, "end": 2723, "text": "actually
+executed and asked to be registered", "labels": ["PREAMBLE"]}}, {"id": "9f399b41db6f44a4b8655a09d28c12b7", "value": {"start": 2723, "end": 2974, "text": ".
+Hoosen Kassam Dada v. Commissioner of Income-tax, Bengal,
+[1937]5 I.T.R. 182, Hardutt Ray Gajadhar Ram v. Commissioner
+of822
+Income-tax, [1950] 18 I.T.R. 106, Banka Mal Lajja Ram and
+Co. v. Commissioner of Income-tax, [1953] 24 I.T.R. 150,
+approved.", "labels": ["PREAMBLE"]}}, {"id": "4a43406db45942daa12d38747631cfa3", "value": {"start": 2974, "end": 3063, "text": "
+Jakka Devayya and Sons v. Commissioner of Income-tax, [1952)
+22 I.T.R. 264, disapproved.", "labels": ["PREAMBLE"]}}, {"id": "e1979237dcb747f3a3f19aadfd05082c", "value": {"start": 3063, "end": 3074, "text": "
+
+JUDGMENT:", "labels": ["PREAMBLE"]}}, {"id": "4e4f10c9f7424737863eefbcaece3f72", "value": {"start": 3074, "end": 3423, "text": "
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 328 of 1959.
+Appeal by special leave from the judgment and order dated 23rd February, 1956, of the Bombay High Court in Income-tax Reference No. 34 of 1955.
+K....N. Rajagopala Ayyangar and D. Gupta, for the appellant.
+Rameshwar Nath, S. N. Andley, J. B. Dadachanji and P. L.
+Vohra, for the respondent.", "labels": ["NONE"]}}, {"id": "b0278091dea94f03b3f7247298bb1752", "value": {"start": 3423, "end": 3429, "text": "
+1960.", "labels": ["NONE"]}}, {"id": "c5eb0b9ecf58456dbeba96692e81d3a0", "value": {"start": 3430, "end": 3441, "text": "December 1.", "labels": ["NONE"]}}, {"id": "a93e726f99cd4653b76c86ec39b2f1b9", "value": {"start": 3442, "end": 3498, "text": "The Judgment of the Court was delivered by HIDAYATULLAH,", "labels": ["NONE"]}}, {"id": "f3affe4a055744b799bb76fc08c494cd", "value": {"start": 3499, "end": 3505, "text": "J.-The", "labels": ["FAC"]}}, {"id": "ed8bab0094254c76b8e225537fd95cff", "value": {"start": 3506, "end": 3766, "text": "Commissioner of Incometax has filed this appeal, with special leave, against the judgment and order of the High Court of Bombay, by which the High Court answered two questions referred to it in favour of the respondents, Messrs. Dwarkadas Khetan & Co., Bombay.", "labels": ["FAC"]}}, {"id": "c51b17be145e43fe9d993ce7294348ea", "value": {"start": 3767, "end": 4224, "text": "These questions were: "(1) Whether the instrument of partnership dated 27-3-1946 created a deed of partnership?
+(2)..If the answer to question No. 1 is in the affirmative, whether the fact that on 1-1-1946 there was no firm in existence would be fatal to the application for registration of the firm under Section 26A of the Indian Income-tax Act or whether the firm could be registered with effect from 26- 3-1946 if it is held that the firm was genuine?"
+", "labels": ["ISSUE"]}}, {"id": "33b3b3eacaa24a31acf59fb3a98cc084", "value": {"start": 4224, "end": 4296, "text": "Prior to January 1, 1945, there was a firm called Dwarkadas Khetan & Co.", "labels": ["FAC"]}}, {"id": "a4a26f9be8234ffc820a00e630734bcc", "value": {"start": 4297, "end": 4457, "text": "On that date, the firm ceased to exist, because the other partners had previously withdrawn, and it came to be the sole proprietary concern of Dwarkadas Khetan.", "labels": ["FAC"]}}, {"id": "a8875cfd751d45449e4f2db6a81f9fee", "value": {"start": 4458, "end": 4555, "text": "On February 12, 1946, Dwarkadas Khetan obtained the selling agency of Seksaria Cotton Mills, Ltd.", "labels": ["FAC"]}}, {"id": "1f653f59ebfb4091aba77432b9fa189b", "value": {"start": 4556, "end": 4673, "text": "On March 27, 1946, he entered into a partnership, with three othersby an instrument of partnership executed that day.", "labels": ["FAC"]}}, {"id": "436b8e6244f14be28b932893f8361a0a", "value": {"start": 4674, "end": 4757, "text": "Those three others were Viswanath Purumul, Govindram Khetan and Kantilal Kasherdeo.", "labels": ["FAC"]}}, {"id": "2c50aea2eeb048c89fb0db0a57310b79", "value": {"start": 4758, "end": 4906, "text": "Dwarkadas Khetan's share in the partnership was 7 annas in the rupee, while the remaining 9 annas' share was divided equally among the three others.", "labels": ["FAC"]}}, {"id": "515300a1eaec4b9cb05575779bf7a204", "value": {"start": 4906, "end": 5084, "text": "
+Though Kantilal Kasherdeo was a minor, he was admitted as a full partner and not merely to the benefits of the partner- ship, as required by s. 30 of the Indian Partnership Act.", "labels": ["FAC"]}}, {"id": "0cbd1329754d42659c123364d102f81c", "value": {"start": 5084, "end": 5282, "text": "
+To the instrument of partnership, Kantilal Kasherdeo was also a signatory, though immediately after his signature there was the signature of one Kasherdeo Rungta, the natural guardian of the minor.", "labels": ["FAC"]}}, {"id": "de1a40f8050a4b40b220884c61dd245d", "value": {"start": 5283, "end": 5462, "text": "In the instrument, Kantilal Kasherdeo was described as a full partner entitled not only to a share in the profits but also liable to bear all the losses including loss of capital.", "labels": ["FAC"]}}, {"id": "a90378efc5aa4be49c675db6ca2a93db", "value": {"start": 5463, "end": 5644, "text": "It was also provided that all the four partners were to attend to the business, and if consent was needed, all the partners including the minor had to give their consent in writing.", "labels": ["FAC"]}}, {"id": "3115fe0cd1c9460ca76626a659146291", "value": {"start": 5645, "end": 5823, "text": "The minor was also entitled to manage the affairs of the firm, including inspection of the account books, and was given the right to vote, if a decision on votes had to be taken.", "labels": ["FAC"]}}, {"id": "6b456665aff4425f870b200b808e90a5", "value": {"start": 5824, "end": 6083, "text": "In short, no distinction was made between the adult partners and the minor, and to all intents and purposes, the minor was a full partner, even though under the partnership law he could only be admitted to the benefits of the partnership and not as a partner.", "labels": ["FAC"]}}, {"id": "4e0de56706524b68aab0fc4f928a36c4", "value": {"start": 6083, "end": 6191, "text": "
+The deed of partnership was produced before the Registrar of Firms showing the names of the four partner,%.", "labels": ["FAC"]}}, {"id": "a969ee7e15324b91829cdbc0350f0008", "value": {"start": 6192, "end": 6390, "text": "The Registrar of Firms granted a registration certificate, and in the certificate, Kantilal Kasherdeo was shown as a full partner and not as one entitled merely to the benefits of the,, partnership.", "labels": ["FAC"]}}, {"id": "81950389e4584bcf851157f43edbb6c2", "value": {"start": 6391, "end": 6445, "text": "Banks were also informed about the four partners, and.", "labels": ["FAC"]}}, {"id": "0f4b0197f4334a728dcd2f9a66a1cc2f", "value": {"start": 6446, "end": 6541, "text": "it does not appear that to them intimation was sent that one of the named partners was a minor.", "labels": ["FAC"]}}, {"id": "c070670bf77f43bda89b5837c4ab6be6", "value": {"start": 6542, "end": 6677, "text": "Though the partnership came into existence on March 27, 1946, the firm was stated to have started retrospectively from January 1, 1946.", "labels": ["FAC"]}}, {"id": "5c50e0a9aed248629efc3e0ffd29c659", "value": {"start": 6678, "end": 6886, "text": "It may be pointed out that the firm has the calendar year as its account year, and the matter before us refers to the account year, 1946 corresponding to the assessment year, 1947-48.For purposes of that year", "labels": ["FAC"]}}, {"id": "2bbed41510134e7a939debfcc60b18ef", "value": {"start": 6886, "end": 6966, "text": ", registration of the firm was sought under s. 26A of the Indian Income-tax Act.", "labels": ["FAC"]}}, {"id": "3c3dfc14c535432cbaedef9d04d7cd1b", "value": {"start": 6967, "end": 7150, "text": "The Income-tax Officer refused to accord registration on the ground that a minor had been admitted as a partner contrary to law, and that the deed could not, therefore, be registered.", "labels": ["FAC"]}}, {"id": "77e4d35b589a4647b26b23f1a3be553f", "value": {"start": 7151, "end": 7348, "text": "The appeal to the Appellate Assistant Commissioner also failed, the Commissioner holding that registration could only be of a legal or valid document and not of a document which was invalid in law.", "labels": ["FAC"]}}, {"id": "0c3b4517b305413f877c5896dde33458", "value": {"start": 7349, "end": 7553, "text": "An appeal was then taken to the Tribunal, and it was contended that the document must be construed as showing only that the minor was admitted not as a full partner but to the benefits of the partnership.", "labels": ["FAC"]}}, {"id": "9739420633b54eea90d61cd9114f5429", "value": {"start": 7554, "end": 7668, "text": "The Accountant Member hold that the order of the Appellate Assistant Commissioner was correct, giving two reasons.", "labels": ["FAC"]}}, {"id": "e19a809fda824dd791e88bc865c39752", "value": {"start": 7669, "end": 7914, "text": "The first was that the construction sought to be placed upon the document was not open, and the second, that since retrospective operation was given to the firm even though no firm existed from January 1, 1946, registration could not be granted.", "labels": ["FAC"]}}, {"id": "c41493ba8c6f4034baa84ac84265867f", "value": {"start": 7915, "end": 8121, "text": "The Judicial Member differed from the Accountant Member, holding, as was contended, that the document must be construed as showing merely that the minor had been admitted to the benefits of the partnership.", "labels": ["FAC"]}}, {"id": "b8801125199b4897830db7f40b52fef7", "value": {"start": 8122, "end": 8325, "text": "The appeal was then placed before the President, who agreed with the conclusion of the Accountant Member, with the result that the refusal to register the firm under s. 26A by the authorities was upheld.", "labels": ["FAC"]}}, {"id": "d648332b3d104d7b9113aa62c0e89c5c", "value": {"start": 8325, "end": 8391, "text": "
+Two questions were then posed for the decision of the High Court.", "labels": ["RLC"]}}, {"id": "f20d9592a7ac4c91ab2ee99d1e584ca8", "value": {"start": 8392, "end": 8493, "text": "The High Court differed from the Tribunal, and answered both the questions in favour of the assessee.", "labels": ["RLC"]}}, {"id": "0fe7e4a20c5940e19395087f95178f91", "value": {"start": 8494, "end": 8654, "text": "In so far as the second question is concerned, the matter is now settled by the decision of this Court in B. C. Mitter & Sons v. Commissioner of Income-tax (1).", "labels": ["PRE_RELIED"]}}, {"id": "b4b48deb86174820b776b4d67dc5e114", "value": {"start": 8655, "end": 8817, "text": "But, in our opinion, the decision of the High Court on the first question was not correct, and the correct answer does not leave the second quest-ion open at all.", "labels": ["ANALYSIS"]}}, {"id": "4fe40ca3cce449ccb7f22e16b99089bb", "value": {"start": 8817, "end": 8894, "text": "
+There is a distinct cleavage of opinion among the High Courts on this point.", "labels": ["ANALYSIS"]}}, {"id": "bbd5bb07f10c496eb2e77d02ad06b86e", "value": {"start": 8895, "end": 9193, "text": "The Bombay, Madras and (1) [1959] 36 I.T. R. 194.
+ Patna High Courts have held that where a minor is admitted as a full partner by adult partners, the document can be registered after interpreting it to mean that the minor has been admitted to the benefits of partnership and not as a full partner.", "labels": ["ANALYSIS"]}}, {"id": "d961ac64f8074b55af5115c67db2f3e9", "value": {"start": 9194, "end": 9268, "text": "The Calcutta, Allahabad and Punjab High Courts have taken a contrary view.", "labels": ["ANALYSIS"]}}, {"id": "e1719ac56f964c75abf00a1090cc562f", "value": {"start": 9269, "end": 9422, "text": "The Bombay case is the one which is under appeal, and the Patna High Court followed that decision and the two earlier decisions of the Madras High Court.", "labels": ["ANALYSIS"]}}, {"id": "db8836e1b3554eb4ac70aa3d04a8fde4", "value": {"start": 9423, "end": 9525, "text": "The Madras High Court decisions are of the same Divisional Bench, and were pronounced on the same day.", "labels": ["ANALYSIS"]}}, {"id": "3b80556667b049758c81dbe77a6ff220", "value": {"start": 9526, "end": 9797, "text": "The leading case in support of the respondents is the Madras decision reported in Jakka Devayya and Sons v. Commissioner of Income-tax (1), and that case alone needs to be considered, because all the reasons on which the cases on this side have proceeded are given there.", "labels": ["PRE_RELIED"]}}, {"id": "dd4aff0eabfe4ac998bead0e763430f7", "value": {"start": 9798, "end": 9863, "text": "In that case, there were three partners, one of whom was a minor.", "labels": ["ANALYSIS"]}}, {"id": "b3e89c9550ad4717a5d1082e97d73013", "value": {"start": 9864, "end": 10000, "text": "They formed a Hindu undivided family; later, a deed of partnership was executed in which the minor was represented by his father-in-law.", "labels": ["ANALYSIS"]}}, {"id": "354601283a2a4b5fa613add148b04493", "value": {"start": 10001, "end": 10249, "text": "It was held that the fact that the minor was included as a partner did not make the partnership as between the two adult partners invalid, and that the minor must be deemed to have been admitted to the benefits of the partnership by the two adults.", "labels": ["ANALYSIS"]}}, {"id": "62c43d861b56422c9e5cd78743c34006", "value": {"start": 10250, "end": 10703, "text": "The learned Judges referred to the provision of s. 2 (6-B) of the Income-tax Act, where it is provided: " "Partner" includes any person who being a minor has been admitted to the benefits of partnership;", and observed that in view of this definition and the fact that a minor could be admitted to the benefits of partnership under s. 30, the document was not invalid, but must be read as giving to the minor the rights laid down by the Partnership Act.", "labels": ["STA"]}}, {"id": "df0a24ed43ba4506b89cf400d63d0abe", "value": {"start": 10704, "end": 10885, "text": "They also observed that too rigid a construction need not be put upon the deed, and referred to Lindley on Partnership, 11th Edn., p. 87 and A. Khorasany v.
+ C. Acha and Others (2).", "labels": ["PRE_RELIED"]}}, {"id": "2da4824981f64ad8ba50179abaedd25f", "value": {"start": 10886, "end": 11089, "text": "The other cases which we need not examine are Vincent and Others v. Commissioner of (1) [1952] 22 I.T.R. 264.
+ (2) (1928) I.L.R. 6 Ran. 198.
+ Income-tax  and Sahai Brothers v. Commissioner of Income- tax", "labels": ["PRE_NOT_RELIED"]}}, {"id": "1d4ea78b8d2f402cabbf9b7bbd3b7e1b", "value": {"start": 11090, "end": 11277, "text": "On the other hand, there is a decision of the Calcutta High Court reported in Hoosen Kassam Dada v. Commissioner of Income-tax, Bengal (3), in which Costello and Panckridge, JJ. have held", "labels": ["PRE_RELIED"]}}, {"id": "e420030648444aa2aba7e0277833dba0", "value": {"start": 11278, "end": 11492, "text": "that under s. 26A of the Income-tax Act and the Rules, the Income-tax Officer is only. empowered to register a partnership which is specified in the instrument of partnership and of which registration is asked for.", "labels": ["PRE_RELIED"]}}, {"id": "6febf6b7aaef442bb576bfc0fb9e8685", "value": {"start": 11493, "end": 11646, "text": "The learned Judges, therefore, hold that it is not open to the Department to 'register partnership different from that which is formed by the instrument.", "labels": ["ANALYSIS"]}}, {"id": "2a33838f0d6a4829a6423e01dba86b01", "value": {"start": 11647, "end": 11855, "text": "In Hardutt Ray Gajadhar Ram v. Commissioner of Income-tax(4) Malik, C. J. and Seth, J. hold that where a minor is admitted as a full partner with equal rights and obligations with adults, the deed is invalid.", "labels": ["PRE_RELIED"]}}, {"id": "6b7af92fd66645cab819132c7780b31a", "value": {"start": 11856, "end": 11923, "text": "It is pointed out that the English law on the subject is different.", "labels": ["ANALYSIS"]}}, {"id": "e8d1a32827c8475cbad309c99a17f8e3", "value": {"start": 11924, "end": 12183, "text": "In that case, however, there was one other ground for invalidating the deed, because the minor had been adopted into another family and his natural father who had signed as his guardian in the deed could not do so, as he had ceased to be the natural guardian.", "labels": ["ANALYSIS"]}}, {"id": "68dc00e30e054f47a4cde67b590b7f0a", "value": {"start": 12184, "end": 12245, "text": "The decision, however, supports the case of the Commissioner.", "labels": ["ANALYSIS"]}}, {"id": "5068d28421de4831bb24bd8623b36016", "value": {"start": 12245, "end": 12439, "text": "
+ In Banka Mal Lajja Ram & Co. v. Commissioner of Income-tax (5), it is held that a minor cannot be a partner, and that the partnership which admits a minor as full partner cannot be registered.", "labels": ["PRE_RELIED"]}}, {"id": "5eec419065454e1c9935e9b6e230d146", "value": {"start": 12440, "end": 12660, "text": "It is true that in that case the High Court did not consider the question whether the partnership should have. been taken to be a valid partnership consisting of the adult partners, because no such question was referred.", "labels": ["ANALYSIS"]}}, {"id": "e6782ac44c6b4f36a02134a7f3bda4d2", "value": {"start": 12661, "end": 12739, "text": "The decision, however, is against a claim for registration of such a document.", "labels": ["ANALYSIS"]}}, {"id": "23e8288c9ef14980bf97d89fe5c57ca0", "value": {"start": 12739, "end": 12831, "text": "
+In our opinion, the Calcutta vie' is preferable to the view taken by the Madras High Court.", "labels": ["ANALYSIS"]}}, {"id": "1aaf5d0624a64146a0b18510e9dbf520", "value": {"start": 12832, "end": 13080, "text": "The error in the Madras view is in using the definition to show that a deed including a minor as a competent partner (1)[1952] 22 I.T.R. 285.
+(3)[1937] 5 I.T.R. 182.
+(2)[1950] 33 I.T.R. 40.
+(4)[1950] 18 I.T.R. 106.
+(5)[1953] 24 I.T.R. 150.is valid.", "labels": ["ANALYSIS"]}}, {"id": "69ed0f9077874bb5abeaf9941ab7ada3", "value": {"start": 13081, "end": 13235, "text": "What the definition does is to apply to a minor admitted to the benefits of partnership all the 2 provisions of the Income-tax Act applicable to partners.", "labels": ["ANALYSIS"]}}, {"id": "d6f32a5c44cd4c799c6f7ba489b9ef0c", "value": {"start": 13236, "end": 13478, "text": "The definition cannot be read to mean that in every case where a minor has, contrary to law, been admitted as a full partner, the deed is to be regarded as valid, because, under the law, a minor can be admitted to the benefits of partnership.", "labels": ["ANALYSIS"]}}, {"id": "789edf65dd38458da2912284375c9abc", "value": {"start": 13479, "end": 13651, "text": "The Rules which have been framed under s. 26A quite clearly show that a minor who is admitted to the benefits of partnership need not sign the application for registration.", "labels": ["ANALYSIS"]}}, {"id": "a4119722fe8b46539bb8c72453659812", "value": {"start": 13652, "end": 13871, "text": "The law requires all partners to sign the application, and if the definition were to be carried to the extreme, even a minor who is admitted to the benefits of partnership would be competent to sign such an application.", "labels": ["ANALYSIS"]}}, {"id": "a3c89b15b2634def816dd528a0bbd77c", "value": {"start": 13872, "end": 14029, "text": "The definition is designed to confer equal benefits upon the minor by treating him as a partner; but it does not render a minor a competent and full partner.", "labels": ["ANALYSIS"]}}, {"id": "9513265857ce40f69510758e47384196", "value": {"start": 14030, "end": 14140, "text": "For that purpose, the law of Partnership must be considered, apart from the definition in the Income- tax Act.", "labels": ["ANALYSIS"]}}, {"id": "0ab3f5369f474d3ba8afdf45eaa5db26", "value": {"start": 14140, "end": 14335, "text": "
+Section 30 of the Indian Partnership Act clearly lays down that a minor cannot become a partner, though with the consent of the adult partners, he may be admitted to the benefits of partnership.", "labels": ["STA"]}}, {"id": "81902659193f454385e8756e0a5e336c", "value": {"start": 14336, "end": 14440, "text": "Any document which goes beyond this section cannot be regarded as valid for the purpose of registration.", "labels": ["ANALYSIS"]}}, {"id": "829dc141abe745bbad2d43987cf44cf9", "value": {"start": 14441, "end": 14561, "text": "Registration can only be granted of a document between persons who are parties to it and on the covenants set out in it.", "labels": ["ANALYSIS"]}}, {"id": "dbd05ab2c71b49d1bcf9d753de71aa49", "value": {"start": 14562, "end": 14723, "text": "If the Income-tax Authorities register the partnership as between the adults only contrary to the terms of the document, in substance a new contract is made out.", "labels": ["ANALYSIS"]}}, {"id": "aaa02dd9bd5c48c9ae92b3a8b4ab8fed", "value": {"start": 14724, "end": 14869, "text": "It is not open to the Income-tax authorities to register a document which is different from the one actually executed and asked to be registered.", "labels": ["ANALYSIS"]}}, {"id": "624dfb5b4fb34e05a5062732c5ed18ff", "value": {"start": 14870, "end": 14921, "text": "In our opinion, the Madras view cannot be accepted.", "labels": ["ANALYSIS"]}}, {"id": "e0997b1c36f84de3aa2ed8f310909725", "value": {"start": 14921, "end": 15078, "text": "
+The judgment under appeal has followed the Madras view, and, in our opinion, it falls into the same error in which the Madras High Court had fallen earlier.", "labels": ["RATIO"]}}, {"id": "9373a87ae6fb426aa11badf669d33c19", "value": {"start": 15079, "end": 15170, "text": "The answer to the first question should, therefore, have been in favour ;of the Department.", "labels": ["RATIO"]}}, {"id": "78d97d00d48f4d09a4354d402759d395", "value": {"start": 15171, "end": 15271, "text": "The answer given by the High Court is vacated, andthe question will now be answered in the negative.", "labels": ["RATIO"]}}, {"id": "b722f93bbc9d42eb99e22bd97b1df513", "value": {"start": 15272, "end": 15360, "text": "As already stated, there is no need to answer the second question, which does not arise.", "labels": ["RATIO"]}}, {"id": "c15906df33fc4f728bee00074fdb51cd", "value": {"start": 15360, "end": 15421, "text": "
+The appeal is allowed with costs here and in the High Court.", "labels": ["RPC"]}}, {"id": "e015b43a97dc46a1ab1cd4710a32917a", "value": {"start": 15421, "end": 15438, "text": "
+ Appeal allowed.", "labels": ["RPC"]}}]}], "data": {"text": "PETITIONER:
+THE COMMISSIONER OF INCOME-TAX, BOMBAY
+
+    Vs.
+
+RESPONDENT:
+M/S. DWARKADAS KHETAN & CO.
+
+DATE OF JUDGMENT:
+01/12/1960
+
+BENCH:
+HIDAYATULLAH, M.
+BENCH:
+HIDAYATULLAH, M.
+KAPUR, J.L.
+SHAH, J.C.
+
+CITATION:
+
+1961 AIR 680             1961 SCR  (2) 821
+
+CITATOR INFO :          (8)
+                        (23)
+E          1966 SC 15
+
+MV         1966 SC1490
+
+ACT:
+Income Tax--Partnership firm including minor, if can be
+registered--Indian Income-tax Act, 1922 (11 of 1922), S.
+26A--Indian Partnership Act, 1932 (IX of 1932), s. 30.
+
+HEADNOTE:
+One of the persons who entered into a partnership was a
+minor and in the instrument of partnership he was described
+as a full partner with equal rights and obligations with the
+other adult partners. The deed of partnership which was
+signed by the minor was produced before th e Registrar of
+Firms f or registration and he granted a certificate showing
+the minor as a full partner and not as one entitled merely
+to the benefits of the partnership. The Income-tax Officer,
+however, refused to register the firm under S. 26A of the
+Indian Income-tax Act and his decision was upheld by the
+Income-tax Authorities and the Income-tax Appellate
+Tribunal. The High Court differed from the Tribunal and
+held that the firm should be registered. On appeal by the
+Commissioner of Income-tax,
+Held, that the Rules framed under S. 26A quite clearly show
+that a minor who is admitted to the benefits of partnership
+need not sign- the application for registration.. The law
+requires all partners to sign the application, and if the
+definition were to be carried to the extreme, even a minor
+who is admitted to the benefits of partnership would be
+competent to sign such an application. The definition is
+designed to confer equal benefits upon the minor by treating
+him as a partner; but it does not render a minor a
+competent and full partner. For that purpose, the law of
+Partnership must be considered, apart from the definition in
+the Income-tax Act.
+Section 30 of the Indian Partnershi Act clearly lays down
+that a minor...cannot become a partner, I tough with the
+consent of the adult.....partners, he may be admitted to the
+benefits of partnership. .....Any document which goes beyond
+this section cannot be regarded as valid for the purpose of
+registration. Registration can only be granted of a
+
+document between persons who are parties to it and on the
+covenants set out in it. If the Income-tax Authorities
+register the:partnership as between the adults only contrary
+to the terms of the document, in substance a new contract is
+made out. It is tot open to the Incometax Authorities to
+register a document which is different from the one actually
+executed and asked to be registered.
+Hoosen Kassam Dada v. Commissioner of Income-tax, Bengal,
+[1937]5 I.T.R. 182, Hardutt Ray Gajadhar Ram v. Commissioner
+of822
+Income-tax, [1950] 18 I.T.R. 106, Banka Mal Lajja Ram and
+Co. v. Commissioner of Income-tax, [1953] 24 I.T.R. 150,
+approved.
+Jakka Devayya and Sons v. Commissioner of Income-tax, [1952)
+22 I.T.R. 264, disapproved.
+
+JUDGMENT:
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 328 of 1959.
+Appeal by special leave from the judgment and order dated 23rd February, 1956, of the Bombay High Court in Income-tax Reference No. 34 of 1955.
+K....N. Rajagopala Ayyangar and D. Gupta, for the appellant.
+Rameshwar Nath, S. N. Andley, J. B. Dadachanji and P. L.
+Vohra, for the respondent.
+1960. December 1. The Judgment of the Court was delivered by HIDAYATULLAH, J.-The Commissioner of Incometax has filed this appeal, with special leave, against the judgment and order of the High Court of Bombay, by which the High Court answered two questions referred to it in favour of the respondents, Messrs. Dwarkadas Khetan & Co., Bombay. These questions were: "(1) Whether the instrument of partnership dated 27-3-1946 created a deed of partnership?
+(2)..If the answer to question No. 1 is in the affirmative, whether the fact that on 1-1-1946 there was no firm in existence would be fatal to the application for registration of the firm under Section 26A of the Indian Income-tax Act or whether the firm could be registered with effect from 26- 3-1946 if it is held that the firm was genuine?"
+Prior to January 1, 1945, there was a firm called Dwarkadas Khetan & Co. On that date, the firm ceased to exist, because the other partners had previously withdrawn, and it came to be the sole proprietary concern of Dwarkadas Khetan. On February 12, 1946, Dwarkadas Khetan obtained the selling agency of Seksaria Cotton Mills, Ltd. On March 27, 1946, he entered into a partnership, with three othersby an instrument of partnership executed that day. Those three others were Viswanath Purumul, Govindram Khetan and Kantilal Kasherdeo. Dwarkadas Khetan's share in the partnership was 7 annas in the rupee, while the remaining 9 annas' share was divided equally among the three others.
+Though Kantilal Kasherdeo was a minor, he was admitted as a full partner and not merely to the benefits of the partner- ship, as required by s. 30 of the Indian Partnership Act.
+To the instrument of partnership, Kantilal Kasherdeo was also a signatory, though immediately after his signature there was the signature of one Kasherdeo Rungta, the natural guardian of the minor. In the instrument, Kantilal Kasherdeo was described as a full partner entitled not only to a share in the profits but also liable to bear all the losses including loss of capital. It was also provided that all the four partners were to attend to the business, and if consent was needed, all the partners including the minor had to give their consent in writing. The minor was also entitled to manage the affairs of the firm, including inspection of the account books, and was given the right to vote, if a decision on votes had to be taken. In short, no distinction was made between the adult partners and the minor, and to all intents and purposes, the minor was a full partner, even though under the partnership law he could only be admitted to the benefits of the partnership and not as a partner.
+The deed of partnership was produced before the Registrar of Firms showing the names of the four partner,%. The Registrar of Firms granted a registration certificate, and in the certificate, Kantilal Kasherdeo was shown as a full partner and not as one entitled merely to the benefits of the,, partnership. Banks were also informed about the four partners, and. it does not appear that to them intimation was sent that one of the named partners was a minor. Though the partnership came into existence on March 27, 1946, the firm was stated to have started retrospectively from January 1, 1946. It may be pointed out that the firm has the calendar year as its account year, and the matter before us refers to the account year, 1946 corresponding to the assessment year, 1947-48.For purposes of that year, registration of the firm was sought under s. 26A of the Indian Income-tax Act. The Income-tax Officer refused to accord registration on the ground that a minor had been admitted as a partner contrary to law, and that the deed could not, therefore, be registered. The appeal to the Appellate Assistant Commissioner also failed, the Commissioner holding that registration could only be of a legal or valid document and not of a document which was invalid in law. An appeal was then taken to the Tribunal, and it was contended that the document must be construed as showing only that the minor was admitted not as a full partner but to the benefits of the partnership. The Accountant Member hold that the order of the Appellate Assistant Commissioner was correct, giving two reasons. The first was that the construction sought to be placed upon the document was not open, and the second, that since retrospective operation was given to the firm even though no firm existed from January 1, 1946, registration could not be granted. The Judicial Member differed from the Accountant Member, holding, as was contended, that the document must be construed as showing merely that the minor had been admitted to the benefits of the partnership. The appeal was then placed before the President, who agreed with the conclusion of the Accountant Member, with the result that the refusal to register the firm under s. 26A by the authorities was upheld.
+Two questions were then posed for the decision of the High Court. The High Court differed from the Tribunal, and answered both the questions in favour of the assessee. In so far as the second question is concerned, the matter is now settled by the decision of this Court in B. C. Mitter & Sons v. Commissioner of Income-tax (1). But, in our opinion, the decision of the High Court on the first question was not correct, and the correct answer does not leave the second quest-ion open at all.
+There is a distinct cleavage of opinion among the High Courts on this point. The Bombay, Madras and (1) [1959] 36 I.T. R. 194.
+ Patna High Courts have held that where a minor is admitted as a full partner by adult partners, the document can be registered after interpreting it to mean that the minor has been admitted to the benefits of partnership and not as a full partner. The Calcutta, Allahabad and Punjab High Courts have taken a contrary view. The Bombay case is the one which is under appeal, and the Patna High Court followed that decision and the two earlier decisions of the Madras High Court. The Madras High Court decisions are of the same Divisional Bench, and were pronounced on the same day. The leading case in support of the respondents is the Madras decision reported in Jakka Devayya and Sons v. Commissioner of Income-tax (1), and that case alone needs to be considered, because all the reasons on which the cases on this side have proceeded are given there. In that case, there were three partners, one of whom was a minor. They formed a Hindu undivided family; later, a deed of partnership was executed in which the minor was represented by his father-in-law. It was held that the fact that the minor was included as a partner did not make the partnership as between the two adult partners invalid, and that the minor must be deemed to have been admitted to the benefits of the partnership by the two adults. The learned Judges referred to the provision of s. 2 (6-B) of the Income-tax Act, where it is provided: " "Partner" includes any person who being a minor has been admitted to the benefits of partnership;", and observed that in view of this definition and the fact that a minor could be admitted to the benefits of partnership under s. 30, the document was not invalid, but must be read as giving to the minor the rights laid down by the Partnership Act. They also observed that too rigid a construction need not be put upon the deed, and referred to Lindley on Partnership, 11th Edn., p. 87 and A. Khorasany v.
+ C. Acha and Others (2). The other cases which we need not examine are Vincent and Others v. Commissioner of (1) [1952] 22 I.T.R. 264.
+ (2) (1928) I.L.R. 6 Ran. 198.
+ Income-tax  and Sahai Brothers v. Commissioner of Income- tax On the other hand, there is a decision of the Calcutta High Court reported in Hoosen Kassam Dada v. Commissioner of Income-tax, Bengal (3), in which Costello and Panckridge, JJ. have held that under s. 26A of the Income-tax Act and the Rules, the Income-tax Officer is only. empowered to register a partnership which is specified in the instrument of partnership and of which registration is asked for. The learned Judges, therefore, hold that it is not open to the Department to 'register partnership different from that which is formed by the instrument. In Hardutt Ray Gajadhar Ram v. Commissioner of Income-tax(4) Malik, C. J. and Seth, J. hold that where a minor is admitted as a full partner with equal rights and obligations with adults, the deed is invalid. It is pointed out that the English law on the subject is different. In that case, however, there was one other ground for invalidating the deed, because the minor had been adopted into another family and his natural father who had signed as his guardian in the deed could not do so, as he had ceased to be the natural guardian. The decision, however, supports the case of the Commissioner.
+ In Banka Mal Lajja Ram & Co. v. Commissioner of Income-tax (5), it is held that a minor cannot be a partner, and that the partnership which admits a minor as full partner cannot be registered. It is true that in that case the High Court did not consider the question whether the partnership should have. been taken to be a valid partnership consisting of the adult partners, because no such question was referred. The decision, however, is against a claim for registration of such a document.
+In our opinion, the Calcutta vie' is preferable to the view taken by the Madras High Court. The error in the Madras view is in using the definition to show that a deed including a minor as a competent partner (1)[1952] 22 I.T.R. 285.
+(3)[1937] 5 I.T.R. 182.
+(2)[1950] 33 I.T.R. 40.
+(4)[1950] 18 I.T.R. 106.
+(5)[1953] 24 I.T.R. 150.is valid. What the definition does is to apply to a minor admitted to the benefits of partnership all the 2 provisions of the Income-tax Act applicable to partners. The definition cannot be read to mean that in every case where a minor has, contrary to law, been admitted as a full partner, the deed is to be regarded as valid, because, under the law, a minor can be admitted to the benefits of partnership. The Rules which have been framed under s. 26A quite clearly show that a minor who is admitted to the benefits of partnership need not sign the application for registration. The law requires all partners to sign the application, and if the definition were to be carried to the extreme, even a minor who is admitted to the benefits of partnership would be competent to sign such an application. The definition is designed to confer equal benefits upon the minor by treating him as a partner; but it does not render a minor a competent and full partner. For that purpose, the law of Partnership must be considered, apart from the definition in the Income- tax Act.
+Section 30 of the Indian Partnership Act clearly lays down that a minor cannot become a partner, though with the consent of the adult partners, he may be admitted to the benefits of partnership. Any document which goes beyond this section cannot be regarded as valid for the purpose of registration. Registration can only be granted of a document between persons who are parties to it and on the covenants set out in it. If the Income-tax Authorities register the partnership as between the adults only contrary to the terms of the document, in substance a new contract is made out. It is not open to the Income-tax authorities to register a document which is different from the one actually executed and asked to be registered. In our opinion, the Madras view cannot be accepted.
+The judgment under appeal has followed the Madras view, and, in our opinion, it falls into the same error in which the Madras High Court had fallen earlier. The answer to the first question should, therefore, have been in favour ;of the Department. The answer given by the High Court is vacated, andthe question will now be answered in the negative. As already stated, there is no need to answer the second question, which does not arise.
+The appeal is allowed with costs here and in the High Court.
+ Appeal allowed.
+ "}, "meta": {"group": "Tax"}}, 
